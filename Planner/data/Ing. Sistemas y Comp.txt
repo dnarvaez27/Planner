@@ -1,0 +1,4780 @@
+10838
+ISIS1001
+1
+3
+INTROD. INGENIERIA DE SISTEMAS
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+HERNANDEZ PENALOZA JOSE TIBERIO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10838, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+16970
+ISIS1001
+3
+3
+INTROD. INGENIERIA DE SISTEMAS
+36
+36
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+HERNANDEZ PENALOZA JOSE TIBERIO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 16970, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22753
+ISIS1001L
+1
+0
+LAB. INTROD. A ING.DE SISTEMAS
+17
+17
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+GOMEZ D`ALLEMAN ALVARO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+22755
+ISIS1001L
+2
+0
+LAB. INTROD. A ING.DE SISTEMAS
+18
+18
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+GOMEZ D`ALLEMAN ALVARO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+22757
+ISIS1001L
+3
+0
+LAB. INTROD. A ING.DE SISTEMAS
+18
+18
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+GOMEZ D`ALLEMAN ALVARO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+22758
+ISIS1001L
+4
+0
+LAB. INTROD. A ING.DE SISTEMAS
+18
+18
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+GOMEZ D`ALLEMAN ALVARO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+11177
+ISIS1104
+1
+3
+MATEMÁTICA ESTRUCTURAL Y LÓGIC
+44
+44
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+DIAZ FRIAS JUAN FRANCISCO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11177, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+11209
+ISIS1104
+3
+3
+MATEMÁTICA ESTRUCTURAL Y LÓGIC
+45
+40
+5
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+CARDOZO ALVAREZ NICOLAS
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11209, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+18783
+ISIS1104
+5
+3
+MATE ESTRUCTU Y LÓGIC (INGLES)
+41
+41
+0
+----------------------
+&nbsp;
+&nbsp;
+L      J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+TAKAHASHI SILVIA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 18783, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22759
+ISIS1104
+7
+3
+MATEMÁTICA ESTRUCTURAL Y LÓGIC
+45
+38
+7
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+CARDOSO RODRIGUEZ RODRIGO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22759, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+15032
+ISIS1104L
+1
+0
+LAB MATEMÁTICA ESTRUCT Y LOGIC
+21
+21
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+DIAZ FRIAS JUAN FRANCISCO
+&nbsp;
+&nbsp;
+----------------------
+15033
+ISIS1104L
+2
+0
+LAB MATEMÁTICA ESTRUCT Y LOGIC
+23
+23
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+DIAZ FRIAS JUAN FRANCISCO
+&nbsp;
+&nbsp;
+----------------------
+15034
+ISIS1104L
+3
+0
+LAB MATEMÁTICA ESTRUCT Y LOGIC
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+CARDOZO ALVAREZ NICOLAS
+&nbsp;
+&nbsp;
+----------------------
+15035
+ISIS1104L
+4
+0
+LAB MATEMÁTICA ESTRUCT Y LOGIC
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+CARDOZO ALVAREZ NICOLAS
+&nbsp;
+&nbsp;
+----------------------
+22761
+ISIS1104L
+5
+0
+LAB MATEMÁTICA ESTRUCT Y LOGIC
+21
+21
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+TAKAHASHI SILVIA
+&nbsp;
+&nbsp;
+----------------------
+16783
+ISIS1104L
+6
+0
+LAB MATEMÁTICA ESTRUCT Y LOGIC
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+TAKAHASHI SILVIA
+&nbsp;
+&nbsp;
+----------------------
+20535
+ISIS1104L
+7
+0
+LAB MATEMÁTICA ESTRUCT Y LOGIC
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+CARDOSO RODRIGUEZ RODRIGO
+&nbsp;
+&nbsp;
+----------------------
+22763
+ISIS1104L
+8
+0
+LAB MATEMÁTICA ESTRUCT Y LOGIC
+20
+18
+2
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+CARDOSO RODRIGUEZ RODRIGO
+&nbsp;
+&nbsp;
+----------------------
+12123
+ISIS1105
+1
+3
+DISEÑO Y ANALISIS DE ALGORI.
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+CARDOSO RODRIGUEZ RODRIGO
+&nbsp;
+&nbsp;
+----------------------
+20537
+ISIS1105
+2
+3
+DISEÑO Y ANALISIS DE ALGORI.
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+CARDOSO RODRIGUEZ RODRIGO
+&nbsp;
+&nbsp;
+----------------------
+11178
+ISIS1106
+1
+3
+LENGUAJES Y MÁQUINAS
+40
+38
+2
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+TAKAHASHI SILVIA
+&nbsp;
+&nbsp;
+----------------------
+18957
+ISIS1106
+2
+3
+LENGUAJES Y MÁQUINAS
+40
+15
+25
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+CARDOZO ALVAREZ NICOLAS
+&nbsp;
+&nbsp;
+----------------------
+10054
+ISIS1204
+1
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+22
+2
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+TRIANA TRUJILLO JHON ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10054, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 1
+----------------------
+11468
+ISIS1204
+2
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L        V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+BAUTISTA MENDEZ LUIS JAVIER
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11468, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 2
+----------------------
+11469
+ISIS1204
+3
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+CARVAJAL TORRES SANTIAGO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11469, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 3
+----------------------
+11470
+ISIS1204
+4
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO RAMIREZ MONICA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11470, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 4
+----------------------
+16811
+ISIS1204
+7
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+DUITAMA CASTELLANOS JORGE ALEXANDER
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 16811, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 7
+----------------------
+11471
+ISIS1204
+8
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L  M
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ DIAZ JOSHSUA JAMES
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11471, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 8
+----------------------
+13195
+ISIS1204
+9
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L      J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+CASAS SALAS LINA GISETH
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 13195, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 9
+----------------------
+10367
+ISIS1204
+10
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L      J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+CASTILLO COY FABIO HERNAN
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10367, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 10
+----------------------
+12144
+ISIS1204
+11
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+GUERRA GOMEZ JOHN ALEXIS
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 12144, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 11
+----------------------
+10368
+ISIS1204
+12
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M  I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ VARGAS ANDRES ROBERTO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10368, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 12
+----------------------
+10369
+ISIS1204
+13
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L        V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ ROJAS OSCAR FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10369, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 13
+----------------------
+10370
+ISIS1204
+14
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+DE LA ROSA ROSERO MARIO FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10370, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 14
+----------------------
+11474
+ISIS1204
+15
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ DIAZ JOSHSUA JAMES
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11474, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 15
+----------------------
+20693
+ISIS1204
+16
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+FORERO GONZALEZ CESAR AUGUSTO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 20693, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 16
+----------------------
+13996
+ISIS1204
+17
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+22
+2
+----------------------
+&nbsp;
+&nbsp;
+I  J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+VELA SALAZAR FLOR MILENA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 13996, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 17
+----------------------
+10371
+ISIS1204
+18
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J  V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+SOTELO AREVALO GERMAN AUGUSTO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10371, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 18
+----------------------
+10372
+ISIS1204
+19
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L      J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+PADILLA AGUDELO JESSE
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10372, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 19
+----------------------
+10373
+ISIS1204
+20
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L        V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+MORENO BARBOSA ANDRES DARIO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10373, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 20
+----------------------
+16816
+ISIS1204
+21
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+SAENZ MORENO JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 16816, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 21
+----------------------
+10374
+ISIS1204
+22
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+HERRERA SUESCUN LIZETH ANDREA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10374, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 22
+----------------------
+10375
+ISIS1204
+23
+3
+ALGORITMICA Y PROGR. OBJ. I
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+M  I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ NIETO GLORIA MILENA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10375, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 23
+----------------------
+12757
+ISIS1204
+24
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+ROMERO GUTIERREZ GERMAN
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 12757, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 24
+----------------------
+11102
+ISIS1204
+25
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+RODRIGUEZ GAITAN DIEGO HERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11102, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 25
+----------------------
+11024
+ISIS1204
+26
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+15
+9
+----------------------
+&nbsp;
+&nbsp;
+M  I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+GARCES APARICIO OSCAR KIYOSHIGE
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11024, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 26
+----------------------
+11025
+ISIS1204
+27
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J  V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+RESTREPO SARMIENTO JORGE ARTURO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11025, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 27
+----------------------
+12150
+ISIS1204
+28
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+12
+12
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+LOZANO GARZON CARLOS ANDRES
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 12150, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 28
+----------------------
+10640
+ISIS1204
+29
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L      J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+CASAS SALAS LINA GISETH
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10640, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 29
+----------------------
+22668
+ISIS1204
+30
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L        V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+ARIZA PORRAS CHRISTIAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22668, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 30
+----------------------
+12148
+ISIS1204
+31
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+SAENZ MORENO JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 12148, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 31
+----------------------
+10412
+ISIS1204
+32
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M  I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+FORERO GONZALEZ CESAR AUGUSTO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10412, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 32
+----------------------
+12979
+ISIS1204
+33
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ ROJAS OSCAR FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 12979, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 33
+----------------------
+13197
+ISIS1204
+34
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L      J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+NAVARRETE PUENTES CARLOS ANTONIO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 13197, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 34
+----------------------
+13600
+ISIS1204
+36
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ D`ALLEMAN ALVARO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 13600, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 36
+----------------------
+14131
+ISIS1204
+37
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+23
+1
+----------------------
+&nbsp;
+&nbsp;
+L      J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+MORENO DIAZ JULIAN DAVID
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 14131, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 37
+----------------------
+20566
+ISIS1204
+38
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+21
+3
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 20566, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 38
+----------------------
+20583
+ISIS1204
+39
+3
+ALGORITMICA Y PROGR. OBJ. I
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+SILVA DELGADO JUAN SEBASTIAN
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 20583, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 39
+----------------------
+20581
+ISIS1204
+40
+3
+ALGORITMICA Y PROGR. OBJ. I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1830 - 1950
+- -
+01-AGO-16
+19-NOV-16
+ROMERO BOHORQUEZ NESTOR ORLANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 20581, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1208 Sección 40
+----------------------
+22669
+ISIS1204L
+1
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+22
+2
+----------------------
+&nbsp;
+&nbsp;
+L
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+TRIANA TRUJILLO JHON ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22669, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22670
+ISIS1204L
+2
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+BAUTISTA MENDEZ LUIS JAVIER
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22670, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22671
+ISIS1204L
+3
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+CARVAJAL TORRES SANTIAGO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22671, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22672
+ISIS1204L
+4
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO RAMIREZ MONICA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22672, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22675
+ISIS1204L
+7
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+DUITAMA CASTELLANOS JORGE ALEXANDER
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22675, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22676
+ISIS1204L
+8
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ DIAZ JOSHSUA JAMES
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22676, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22677
+ISIS1204L
+9
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+CASAS SALAS LINA GISETH
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22677, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22678
+ISIS1204L
+10
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+CASTILLO COY FABIO HERNAN
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22678, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22679
+ISIS1204L
+11
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+GUERRA GOMEZ JOHN ALEXIS
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22679, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22680
+ISIS1204L
+12
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ VARGAS ANDRES ROBERTO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22680, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22681
+ISIS1204L
+13
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ ROJAS OSCAR FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22681, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22682
+ISIS1204L
+14
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+DE LA ROSA ROSERO MARIO FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22682, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22683
+ISIS1204L
+15
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ DIAZ JOSHSUA JAMES
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22683, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22684
+ISIS1204L
+16
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+FORERO GONZALEZ CESAR AUGUSTO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22684, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22685
+ISIS1204L
+17
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+22
+2
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+VELA SALAZAR FLOR MILENA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22685, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22686
+ISIS1204L
+18
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+SOTELO AREVALO GERMAN AUGUSTO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22686, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22687
+ISIS1204L
+19
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+PADILLA AGUDELO JESSE
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22687, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22688
+ISIS1204L
+20
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+MORENO BARBOSA ANDRES DARIO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22688, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22689
+ISIS1204L
+21
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+SAENZ MORENO JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22689, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22690
+ISIS1204L
+22
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+HERRERA SUESCUN LIZETH ANDREA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22690, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22691
+ISIS1204L
+23
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+0
+24
+----------------------
+&nbsp;
+&nbsp;
+V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ NIETO GLORIA MILENA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22691, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22692
+ISIS1204L
+24
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+ROMERO GUTIERREZ GERMAN
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22692, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22693
+ISIS1204L
+25
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+RODRIGUEZ GAITAN DIEGO HERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22693, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22694
+ISIS1204L
+26
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+15
+9
+----------------------
+&nbsp;
+&nbsp;
+V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+GARCES APARICIO OSCAR KIYOSHIGE
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22694, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22695
+ISIS1204L
+27
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+RESTREPO SARMIENTO JORGE ARTURO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22695, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22696
+ISIS1204L
+28
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+12
+12
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+LOZANO GARZON CARLOS ANDRES
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22696, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22697
+ISIS1204L
+29
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+CASAS SALAS LINA GISETH
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22697, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22698
+ISIS1204L
+30
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+ARIZA PORRAS CHRISTIAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22698, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22699
+ISIS1204L
+31
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+SAENZ MORENO JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22699, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22700
+ISIS1204L
+32
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+FORERO GONZALEZ CESAR AUGUSTO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22700, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22701
+ISIS1204L
+33
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ ROJAS OSCAR FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22701, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22702
+ISIS1204L
+34
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+NAVARRETE PUENTES CARLOS ANTONIO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22702, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22704
+ISIS1204L
+36
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ D`ALLEMAN ALVARO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22704, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22705
+ISIS1204L
+37
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+23
+1
+----------------------
+&nbsp;
+&nbsp;
+M
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+MORENO DIAZ JULIAN DAVID
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22705, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22706
+ISIS1204L
+38
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+21
+3
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22706, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22707
+ISIS1204L
+39
+0
+LAB ALGORITMICA Y PROG. OBJ I
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+SILVA DELGADO JUAN SEBASTIAN
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22707, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22708
+ISIS1204L
+40
+0
+LAB ALGORITMICA Y PROG. OBJ I
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1830 - 1950
+- -
+01-AGO-16
+19-NOV-16
+ROMERO BOHORQUEZ NESTOR ORLANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22708, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+16836
+ISIS1205
+1
+3
+ALGORITMICA Y PROGR. OBJ. II
+24
+16
+8
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+CALIZ OSPINO RODOLFO ARTURO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 16836, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1210 Sección 1
+----------------------
+12992
+ISIS1205
+2
+3
+ALGORITMICA Y PROGR. OBJ. II
+24
+17
+7
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+MARTINEZ RIAÑO DARWIN EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 12992, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1210 Sección 2
+----------------------
+12994
+ISIS1205
+3
+3
+ALGORITMICA Y PROGR. OBJ. II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+LOPEZ PARUMA OSCAR ANDRES
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 12994, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1210 Sección 3
+----------------------
+10551
+ISIS1205
+4
+3
+ALGORITMICA Y PROGR. OBJ. II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+IBARRA LOPEZ JUAN CAMILO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10551, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1210 Sección 4
+----------------------
+10504
+ISIS1205
+5
+3
+ALGORITMICA Y PROGR. OBJ. II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L        V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+SAENZ MORENO JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10504, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1210 Sección 5
+----------------------
+20599
+ISIS1205
+6
+3
+ALGORITMICA Y PROGR. OBJ. II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L  M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ARIZA PORRAS CHRISTIAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 20599, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1210 Sección 6
+----------------------
+11241
+ISIS1205
+7
+3
+ALGORITMICA Y PROGR. OBJ. II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L      J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+PEREZ ROMANELLO VANESSA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11241, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1210 Sección 7
+----------------------
+22742
+ISIS1205
+8
+3
+ALGORITMICA Y PROGR. OBJ. II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+RUIZ RODRIGUEZ LUIS RICARDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22742, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1210 Sección 8
+----------------------
+22743
+ISIS1205
+9
+3
+ALGORITMICA Y PROGR. OBJ. II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M  I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+APARICIO BAQUEN CHRISTIAN CAMILO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22743, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1210 Sección 9
+----------------------
+22744
+ISIS1205
+10
+3
+ALGORITMICA Y PROGR. OBJ. II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M  I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+PEREZ ROMANELLO VANESSA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22744, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Debe Registrar con ISIS1210 Sección 10
+----------------------
+22710
+ISIS1205L
+1
+0
+LAB ALGORITMICA Y PROG. OBJ II
+24
+16
+8
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+CALIZ OSPINO RODOLFO ARTURO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22710, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22711
+ISIS1205L
+2
+0
+LAB ALGORITMICA Y PROG. OBJ II
+24
+17
+7
+----------------------
+&nbsp;
+&nbsp;
+I
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+MARTINEZ RIAÑO DARWIN EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22711, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22712
+ISIS1205L
+3
+0
+LAB ALGORITMICA Y PROG. OBJ II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+LOPEZ PARUMA OSCAR ANDRES
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22712, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22713
+ISIS1205L
+4
+0
+LAB ALGORITMICA Y PROG. OBJ II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+IBARRA LOPEZ JUAN CAMILO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22713, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22714
+ISIS1205L
+5
+0
+LAB ALGORITMICA Y PROG. OBJ II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+SAENZ MORENO JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22714, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22715
+ISIS1205L
+6
+0
+LAB ALGORITMICA Y PROG. OBJ II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ARIZA PORRAS CHRISTIAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22715, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22716
+ISIS1205L
+7
+0
+LAB ALGORITMICA Y PROG. OBJ II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+PEREZ ROMANELLO VANESSA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22716, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22739
+ISIS1205L
+8
+0
+LAB ALGORITMICA Y PROG. OBJ II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+RUIZ RODRIGUEZ LUIS RICARDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22739, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22740
+ISIS1205L
+9
+0
+LAB ALGORITMICA Y PROG. OBJ II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+APARICIO BAQUEN CHRISTIAN CAMILO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22740, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22741
+ISIS1205L
+10
+0
+LAB ALGORITMICA Y PROG. OBJ II
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+PEREZ ROMANELLO VANESSA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22741, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+10705
+ISIS1206
+1
+3
+ESTRUCTURAS DE DATOS
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+CORREAL DARIO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10705, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+10288
+ISIS1206
+2
+3
+ESTRUCTURAS DE DATOS
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+L  M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+LINARES VASQUEZ MARIO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10288, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+18797
+ISIS1206
+3
+3
+ESTRUCTURAS DE DATOS
+30
+29
+1
+----------------------
+&nbsp;
+&nbsp;
+M      V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+DE LA ROSA ROSERO MARIO FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 18797, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22717
+ISIS1206L
+1
+0
+LAB. ESTRUCTURAS DATOS
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+CORREAL DARIO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22717, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22718
+ISIS1206L
+2
+0
+LAB. ESTRUCTURAS DATOS
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+LINARES VASQUEZ MARIO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22718, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22719
+ISIS1206L
+3
+0
+LAB. ESTRUCTURAS DATOS
+30
+29
+1
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+DE LA ROSA ROSERO MARIO FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22719, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+14104
+ISIS1207
+1
+3
+ALG. Y PROGR. OBJ. I (HONORES)
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+SANCHEZ PUCCINI MARIO EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 14104, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+14374
+ISIS1207L
+1
+0
+LAB ALG. Y PROGR. OBJ. I (HON)
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+SANCHEZ PUCCINI MARIO EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 14374, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+14772
+ISIS1209
+1
+3
+ALG. Y PROG. OBJ. II (HONORES)
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+SOTELO AREVALO GERMAN AUGUSTO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 14772, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+14773
+ISIS1209L
+1
+0
+LAB ALG.Y PROGR. OBJ. II (HON)
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+SOTELO AREVALO GERMAN AUGUSTO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 14773, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+15711
+ISIS1211
+1
+0
+CUPI TALLER
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+HERNANDEZ HOYOS MARCELA
+GONZALEZ DIAZ JOSHSUA JAMES
+&nbsp;
+&nbsp;
+----------------------
+11211
+ISIS1304
+1
+3
+FUND INFRAESTRUCTURA TECNOLÓGI
+40
+37
+3
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+PADILLA AGUDELO JESSE
+&nbsp;
+&nbsp;
+----------------------
+19067
+ISIS1304
+2
+3
+FUND INFRAESTRUCTURA TECNOLÓGI
+40
+36
+4
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ DIAZ RAFAEL ENRIQUE
+&nbsp;
+&nbsp;
+----------------------
+Curso Tipo E
+12124
+ISIS1404
+1
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+SANCHEZ OSORIO CINTHIA CAROLINA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 12124, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+12125
+ISIS1404
+2
+3
+TI EN LAS ORGANIZACIONES
+24
+22
+2
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+PEREZ JARAMILLO DIEGO HERNAN
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 12125, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Curso Tipo E
+12126
+ISIS1404
+3
+3
+TI EN LAS ORGANIZACIONES
+24
+20
+4
+----------------------
+&nbsp;
+&nbsp;
+I  J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+GIRALDO VELEZ OLGA LUCIA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 12126, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+13202
+ISIS1404
+4
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I  J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+HERRERA SUESCUN LIZETH ANDREA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 13202, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Curso Tipo E
+13595
+ISIS1404
+5
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L      J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+TORO CORDOBA VICTOR MANUEL
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 13595, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+14129
+ISIS1404
+6
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+DIAZ VELASCO JOSE DARIO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 14129, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Curso Tipo E
+15053
+ISIS1404
+7
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L        V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ ROJAS OSCAR FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 15053, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+15256
+ISIS1404
+8
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+MARTINEZ REYES FERNANDA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 15256, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+16846
+ISIS1404
+9
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L        V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+CIFUENTES CASTRO IVAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 16846, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+16847
+ISIS1404
+10
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L        V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ DIAZ RICARDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 16847, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Curso Tipo E
+18825
+ISIS1404
+11
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L      J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+AVILA CIFUENTES OSCAR JAVIER
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 18825, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+17107
+ISIS1404
+12
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+CUEVAS ORLANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 17107, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Curso Tipo E
+15054
+ISIS1404
+13
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L        V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+TORO CORDOBA VICTOR MANUEL
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 15054, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+20689
+ISIS1404
+14
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+RUBIANO A DISNEY
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 20689, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Curso Tipo E
+20690
+ISIS1404
+15
+3
+TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+L        V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+AVILA CIFUENTES OSCAR JAVIER
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 20690, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22720
+ISIS1404
+16
+3
+TI EN LAS ORGANIZACIONES
+24
+23
+1
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+ROMERO DIAZ MAYERLI
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22720, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22721
+ISIS1404L
+1
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+SANCHEZ OSORIO CINTHIA CAROLINA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22721, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22722
+ISIS1404L
+2
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+22
+2
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+PEREZ JARAMILLO DIEGO HERNAN
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22722, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22723
+ISIS1404L
+3
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+20
+4
+----------------------
+&nbsp;
+&nbsp;
+M
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+GIRALDO VELEZ OLGA LUCIA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22723, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22724
+ISIS1404L
+4
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+HERRERA SUESCUN LIZETH ANDREA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22724, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22725
+ISIS1404L
+5
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+TORO CORDOBA VICTOR MANUEL
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22725, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22726
+ISIS1404L
+6
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+DIAZ VELASCO JOSE DARIO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22726, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22727
+ISIS1404L
+7
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ ROJAS OSCAR FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22727, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22728
+ISIS1404L
+8
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+MARTINEZ REYES FERNANDA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22728, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22729
+ISIS1404L
+9
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+CIFUENTES CASTRO IVAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22729, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22730
+ISIS1404L
+10
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ DIAZ RICARDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22730, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22731
+ISIS1404L
+11
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+AVILA CIFUENTES OSCAR JAVIER
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22731, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22732
+ISIS1404L
+12
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+CUEVAS ORLANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22732, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22733
+ISIS1404L
+13
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+TORO CORDOBA VICTOR MANUEL
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22733, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22734
+ISIS1404L
+14
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+RUBIANO A DISNEY
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22734, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22735
+ISIS1404L
+15
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+AVILA CIFUENTES OSCAR JAVIER
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22735, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22736
+ISIS1404L
+16
+0
+LAB TI EN LAS ORGANIZACIONES
+24
+23
+1
+----------------------
+&nbsp;
+&nbsp;
+M
+1830 - 1950
+- -
+01-AGO-16
+19-NOV-16
+ROMERO DIAZ MAYERLI
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22736, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+Curso Tipo E
+11179
+ISIS1603B
+1
+3
+LAS MIL CARAS DE INTERNET
+77
+77
+0
+----------------------
+&nbsp;
+&nbsp;
+L      J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+MARIÑO DREWS OLGA
+&nbsp;
+&nbsp;
+----------------------
+20527
+ISIS1604B
+1
+3
+INFORMAC. ACTIVO DEL SIGLO XXI
+37
+16
+21
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+JIMENEZ GUARIN CLAUDIA LUCIA
+&nbsp;
+&nbsp;
+----------------------
+11180
+ISIS2007
+1
+3
+DISEÑO PROD. E INNOVACIÓN TI
+44
+31
+13
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+HERNANDEZ PENALOZA JOSE TIBERIO
+&nbsp;
+&nbsp;
+----------------------
+11322
+ISIS2008
+1
+0
+VISIÓN ISIS
+50
+31
+19
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+12128
+ISIS2070
+1
+0
+MONITORIA INGENIERIA SISTEMAS1
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ D`ALLEMAN ALVARO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+11323
+ISIS2071
+1
+0
+MONITORIA INGENIERIA SISTEMAS2
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ D`ALLEMAN ALVARO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+11181
+ISIS2203
+1
+3
+INFRAESTRUCTURA COMPUTACIONAL
+30
+24
+6
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ DIAZ RAFAEL ENRIQUE
+RUEDA RODRIGUEZ SANDRA JULIETA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11181, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22745
+ISIS2203
+2
+3
+INFRAESTRUCTURA COMPUTACIONAL
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+RUEDA RODRIGUEZ SANDRA JULIETA
+GOMEZ DIAZ RAFAEL ENRIQUE
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22745, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22746
+ISIS2203L
+1
+0
+LAB INFRAESTRUCTURA COMPUTACIO
+30
+24
+6
+----------------------
+&nbsp;
+&nbsp;
+J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ DIAZ RAFAEL ENRIQUE
+RUEDA RODRIGUEZ SANDRA JULIETA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22746, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22747
+ISIS2203L
+2
+0
+LAB INFRAESTRUCTURA COMPUTACIO
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+RUEDA RODRIGUEZ SANDRA JULIETA
+GOMEZ DIAZ RAFAEL ENRIQUE
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22747, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+11287
+ISIS2304
+1
+3
+SISTEMAS TRANSACCIONALES
+32
+32
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+BRAVO CORDOBA GERMAN ENRIQUE
+&nbsp;
+&nbsp;
+----------------------
+20611
+ISIS2304
+2
+3
+SISTEMAS TRANSACCIONALES
+31
+31
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+BRAVO CORDOBA GERMAN ENRIQUE
+&nbsp;
+&nbsp;
+----------------------
+11182
+ISIS2403
+1
+3
+ARQUITECTURA EMPRESARIAL
+62
+61
+1
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+VILLALOBOS SALCEDO JORGE ALBERTO
+&nbsp;
+&nbsp;
+----------------------
+11535
+ISIS2503
+1
+3
+ARQUITECTURA Y DISEÑO DE SW
+48
+35
+13
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+GARCES PERNETT KELLY JOHANY
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11535, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+15050
+ISIS2503L
+1
+0
+LAB. ARQUITEC. Y DISEÑO DE SW
+12
+12
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+14585
+ISIS2503L
+2
+0
+LAB. ARQUITEC. Y DISEÑO DE SW
+12
+8
+4
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20612
+ISIS2503L
+3
+0
+LAB. ARQUITEC. Y DISEÑO DE SW
+12
+9
+3
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20613
+ISIS2503L
+4
+0
+LAB. ARQUITEC. Y DISEÑO DE SW
+12
+6
+6
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+11183
+ISIS2603
+1
+3
+DESARROLLO DE SW EN EQUIPO
+60
+57
+3
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+CASALLAS GUTIERREZ RUBBY
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11183, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22765
+ISIS2603L
+1
+0
+LAB DLLO DE SW EN EQUIPO
+30
+29
+1
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+CASALLAS GUTIERREZ RUBBY
+&nbsp;
+&nbsp;
+----------------------
+22766
+ISIS2603L
+2
+0
+LAB DLLO DE SW EN EQUIPO
+30
+28
+2
+----------------------
+&nbsp;
+&nbsp;
+V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+CHAVARRIAGA LOZANO JAIME ALBERTO
+&nbsp;
+&nbsp;
+----------------------
+23563
+ISIS2804
+1
+1
+LAB MARATONES PROGRAMACION
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+&nbsp;
+----------------------
+10406
+ISIS3007
+1
+3
+PROYECTO DE GRADO
+30
+24
+6
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+HERNANDEZ PENALOZA JOSE TIBERIO
+&nbsp;
+&nbsp;
+----------------------
+12515
+ISIS3204
+1
+3
+INFRAESTRUCTURA COMUNICACIONES
+50
+37
+13
+----------------------
+&nbsp;
+&nbsp;
+L      J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+CASTRO BARRERA HAROLD ENRIQUE
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 12515, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22771
+ISIS3204L
+1
+0
+LAB INFRAEST DE COMUNICACIONES
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+RUIZ GOMEZ LAURA MARIA
+&nbsp;
+&nbsp;
+----------------------
+22775
+ISIS3204L
+2
+0
+LAB INFRAEST DE COMUNICACIONES
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+RUIZ GOMEZ LAURA MARIA
+&nbsp;
+&nbsp;
+----------------------
+22776
+ISIS3204L
+3
+0
+LAB INFRAEST DE COMUNICACIONES
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+RUIZ GOMEZ LAURA MARIA
+&nbsp;
+&nbsp;
+----------------------
+22777
+ISIS3204L
+4
+0
+LAB INFRAEST DE COMUNICACIONES
+10
+7
+3
+----------------------
+&nbsp;
+&nbsp;
+V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+RUIZ GOMEZ LAURA MARIA
+&nbsp;
+&nbsp;
+----------------------
+23484
+ISIS3204L
+5
+0
+LAB INFRAEST DE COMUNICACIONES
+10
+0
+10
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1530
+- -
+01-AGO-16
+19-NOV-16
+RUIZ GOMEZ LAURA MARIA
+&nbsp;
+&nbsp;
+----------------------
+11073
+ISIS3301
+1
+3
+INTELIGENCIA DE NEGOCIOS
+50
+36
+14
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+VILLAMIL GIRALDO MARIA DEL PILAR
+&nbsp;
+&nbsp;
+----------------------
+15047
+ISIS3302
+1
+3
+MODELADO, SIMULACION Y OPTIMIZ
+50
+34
+16
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+DONOSO YESID
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 15047, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+21977
+ISIS3302L
+1
+0
+LAB MODELA, SIMULACION Y OPT
+25
+13
+12
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+MONTOYA OROZCO GERMAN ADOLFO
+&nbsp;
+&nbsp;
+----------------------
+22772
+ISIS3302L
+2
+0
+LAB MODELA, SIMULACION Y OPT
+25
+21
+4
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+MONTOYA OROZCO GERMAN ADOLFO
+&nbsp;
+&nbsp;
+----------------------
+16808
+ISIS3510
+1
+3
+CONSTR. APLICACIONES MÓVILES
+48
+48
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+JIMENEZ GUARIN CLAUDIA LUCIA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 16808, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22767
+ISIS3510L
+1
+0
+LAB. CONSTR. APLICAC. MOVILES
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22768
+ISIS3510L
+2
+0
+LAB. CONSTR. APLICAC. MOVILES
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22769
+ISIS3510L
+3
+0
+LAB. CONSTR. APLICAC. MOVILES
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+21978
+ISIS3710
+1
+3
+PROGR CON TECNOLOGIAS WEB
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+LINARES VASQUEZ MARIO
+&nbsp;
+&nbsp;
+----------------------
+15712
+ISIS3990
+1
+0
+INSCRIPCION A GRADO
+23
+24
+-1
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+13971
+ISIS3991
+1
+6
+PRACTICA PROFESIONAL
+20
+13
+7
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+11515
+ISIS4000
+1
+4
+TESIS I
+3
+5
+-2
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+10036
+ISIS4001
+1
+8
+TESIS II
+6
+7
+-1
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+10037
+ISIS4002
+1
+4
+TUTORIAL
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+10446
+ISIS4004
+1
+1
+TUTORIAL ESPECIAL
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+11126
+ISIS4005
+1
+0
+INTERCAMBIO INTERNACIONAL
+2
+2
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+13973
+ISIS4009
+1
+8
+TESIS DOBLE DIPLOMA
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+21980
+ISIS4422
+1
+4
+SERV MOVILES Y DE PROXIMA GENE
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+M  I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+DONOSO YESID
+&nbsp;
+&nbsp;
+----------------------
+17887
+ISIS4426
+1
+4
+DESARROLLO DE SOLUCIONES CLOUD
+30
+20
+10
+----------------------
+&nbsp;
+&nbsp;
+L
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+CASTRO BARRERA HAROLD ENRIQUE
+VILLAMIZAR CANO MARIO JOSE
+&nbsp;
+&nbsp;
+----------------------
+21981
+ISIS4822
+1
+4
+VISUAL ANALYTICS
+30
+20
+10
+----------------------
+&nbsp;
+&nbsp;
+M
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+HERNANDEZ PENALOZA JOSE TIBERIO
+&nbsp;
+&nbsp;
+----------------------
+21982
+ISIS4826
+1
+4
+ROBÓTICA MÓVIL Y SIST. AUTONMS
+30
+17
+13
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+DE LA ROSA ROSERO MARIO FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+20758
+ISIS4920
+1
+0
+SEMINARIO IMAGINE
+30
+2
+28
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+HERNANDEZ PENALOZA JOSE TIBERIO
+&nbsp;
+&nbsp;
+----------------------
+13974
+ISIS6402
+1
+0
+PASANTÍA SEMESTRAL
+20
+6
+14
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+13975
+ISIS6970
+1
+0
+EXAMEN DE PROPUESTA DOCTORAL
+20
+2
+18
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+13976
+ISIS6980
+1
+4
+TESIS 4CR
+20
+1
+19
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+13977
+ISIS6981
+1
+8
+TESIS 8CR
+20
+0
+20
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+13978
+ISIS6982
+1
+12
+TESIS 12CR
+20
+10
+10
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+13979
+ISIS6990
+1
+0
+SUSTENTACION DE TESIS
+20
+6
+14
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+13980
+ISIS6997
+1
+0
+PASANTIA ESTUDIANTES EXTERNOS
+20
+1
+19
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
