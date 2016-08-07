@@ -1,3 +1,5 @@
 # Planner
 
-Schedule planner tool for University of the Andes.
+Unoficial schedule planner tool for University of the Andes.
+
+
