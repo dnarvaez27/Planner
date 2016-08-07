@@ -1,0 +1,6328 @@
+23475
+ICYA1101
+1
+3
+INTROD. PROBLEMATIC. AMBIENTAL
+82
+47
+35
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+PEYRE GWENDOLYN
+&nbsp;
+&nbsp;
+----------------------
+14306
+ICYA1110
+1
+3
+QUIMICA AMBIENTAL
+70
+69
+1
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+HUSSERL JOHANA
+&nbsp;
+&nbsp;
+----------------------
+22748
+ICYA1110
+2
+3
+QUIMICA AMBIENTAL
+50
+37
+13
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+SANTOS MALDONADO LAURA
+&nbsp;
+&nbsp;
+----------------------
+12754
+ICYA1110L
+1
+0
+LAB QUIMICA AMBIENTAL
+24
+19
+5
+----------------------
+&nbsp;
+&nbsp;
+M
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ GUAÑARITA ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+12756
+ICYA1110L
+2
+0
+LAB QUIMICA AMBIENTAL
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ GUAÑARITA ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+13094
+ICYA1110L
+3
+0
+LAB QUIMICA AMBIENTAL
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ GUAÑARITA ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+13095
+ICYA1110L
+4
+0
+LAB QUIMICA AMBIENTAL
+24
+24
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ GUAÑARITA ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+22750
+ICYA1110L
+5
+0
+LAB QUIMICA AMBIENTAL
+24
+15
+9
+----------------------
+&nbsp;
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ GUAÑARITA ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+21813
+ICYA1111B
+1
+3
+AGUA Y AMBIENTE
+77
+43
+34
+----------------------
+&nbsp;
+&nbsp;
+J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+DIAZGRANADOS MARIO
+CAMACHO LUIS ALEJANDRO
+RODRIGUEZ SANCHEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+10977
+ICYA1113
+1
+3
+INTRODUCCION A ING AMBIENTAL
+80
+40
+40
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+SANTOS MALDONADO LAURA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10977, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+13529
+ICYA1113C
+1
+0
+COMPL INTRO A ING AMBIENTAL
+27
+17
+10
+----------------------
+&nbsp;
+&nbsp;
+L
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12760
+ICYA1113C
+2
+0
+COMPL INTRO A ING AMBIENTAL
+27
+10
+17
+----------------------
+&nbsp;
+&nbsp;
+L
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12291
+ICYA1113C
+3
+0
+COMPL INTRO A ING AMBIENTAL
+27
+13
+14
+----------------------
+&nbsp;
+&nbsp;
+L
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+14307
+ICYA1114
+1
+3
+INTRODUCCION A ING CIVIL
+50
+50
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+BOCAREJO JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 14307, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+16962
+ICYA1114
+2
+3
+INTRODUCCION A ING CIVIL
+50
+35
+15
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+VARGAS CAICEDO HERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 16962, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+12770
+ICYA1114C
+1
+0
+COMPL INTRO A ING CIVIL
+17
+17
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12771
+ICYA1114C
+2
+0
+COMPL INTRO A ING CIVIL
+17
+16
+1
+----------------------
+&nbsp;
+&nbsp;
+M
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12774
+ICYA1114C
+3
+0
+COMPL INTRO A ING CIVIL
+17
+17
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+16963
+ICYA1114C
+4
+0
+COMPL INTRO A ING CIVIL
+17
+12
+5
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+16964
+ICYA1114C
+5
+0
+COMPL INTRO A ING CIVIL
+17
+6
+11
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+16965
+ICYA1114C
+6
+0
+COMPL INTRO A ING CIVIL
+17
+17
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10973
+ICYA1116
+1
+3
+ESTATICA
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+GALVIS LOPEZ FRANCISCO ALFONSO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10973, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22784
+ICYA1116
+2
+3
+ESTATICA
+60
+58
+2
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+ESTRADA MEJIA NICOLAS
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22784, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22785
+ICYA1116
+3
+3
+ESTATICA
+65
+65
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ARANGO GOMEZ CESAR
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22785, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+12797
+ICYA1116C
+1
+0
+COMPL ESTATICA
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+16981
+ICYA1116C
+2
+0
+COMPL ESTATICA
+60
+58
+2
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20387
+ICYA1116C
+3
+0
+COMPL ESTATICA
+65
+65
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+14308
+ICYA1117
+1
+3
+MECANICA DE MATERIALES
+82
+82
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+CORREAL DAZA JUAN FRANCISCO
+&nbsp;
+&nbsp;
+----------------------
+15245
+ICYA1117
+2
+3
+MECANICA DE MATERIALES
+40
+28
+12
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+15144
+ICYA1117C
+1
+0
+COMPL. MECANICA DE MATERIALES
+26
+26
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO LOPEZ ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+15145
+ICYA1117C
+2
+0
+COMPL. MECANICA DE MATERIALES
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO LOPEZ ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+15146
+ICYA1117C
+3
+0
+COMPL. MECANICA DE MATERIALES
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO LOPEZ ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+15246
+ICYA1117C
+4
+0
+COMPL. MECANICA DE MATERIALES
+20
+19
+1
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO LOPEZ ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+22788
+ICYA1117C
+5
+0
+COMPL. MECANICA DE MATERIALES
+20
+17
+3
+----------------------
+&nbsp;
+&nbsp;
+V
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO LOPEZ ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+22789
+ICYA1117C
+6
+0
+COMPL. MECANICA DE MATERIALES
+20
+8
+12
+----------------------
+&nbsp;
+&nbsp;
+V
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO LOPEZ ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+12818
+ICYA1117L
+3
+0
+LAB MECANICA DE MATERIALES
+21
+21
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1150
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO LOPEZ ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+12820
+ICYA1117L
+4
+0
+LAB MECANICA DE MATERIALES
+20
+14
+6
+----------------------
+&nbsp;
+&nbsp;
+L
+1200 - 1250
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO LOPEZ ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+12826
+ICYA1117L
+5
+0
+LAB MECANICA DE MATERIALES
+22
+22
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1300 - 1350
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO LOPEZ ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+15265
+ICYA1117L
+6
+0
+LAB MECANICA DE MATERIALES
+20
+19
+1
+----------------------
+&nbsp;
+&nbsp;
+M
+0800 - 0850
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO LOPEZ ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+22791
+ICYA1117L
+7
+0
+LAB MECANICA DE MATERIALES
+20
+14
+6
+----------------------
+&nbsp;
+&nbsp;
+M
+0900 - 0950
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO LOPEZ ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+16540
+ICYA1117L
+8
+0
+LAB MECANICA DE MATERIALES
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1000 - 1050
+- -
+01-AGO-16
+19-NOV-16
+TRUJILLO LOPEZ ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+18822
+ICYA1122
+1
+3
+MATERIALES EN INGENIERIA CIVIL
+32
+32
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+WILLS SANIN JAIME
+MATALLANA RODRIGUEZ RICARDO
+&nbsp;
+&nbsp;
+----------------------
+22797
+ICYA1122
+2
+3
+MATERIALES EN INGENIERIA CIVIL
+80
+80
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+CABRERA CABRERA MIGUEL ANGEL
+&nbsp;
+&nbsp;
+----------------------
+12904
+ICYA1122L
+1
+0
+LAB MATERIALES ING CIVIL
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22798
+ICYA1122L
+3
+0
+LAB MATERIALES ING CIVIL
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22799
+ICYA1122L
+4
+0
+LAB MATERIALES ING CIVIL
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22800
+ICYA1122L
+5
+0
+LAB MATERIALES ING CIVIL
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+16553
+ICYA1122L
+6
+0
+LAB MATERIALES ING CIVIL
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22801
+ICYA1122L
+7
+0
+LAB MATERIALES ING CIVIL
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+15042
+ICYA1122L
+8
+0
+LAB MATERIALES ING CIVIL
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13070
+ICYA1125
+1
+3
+GEOMATICA (INGLES)
+80
+44
+36
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+PAEZ BARAJAS DANIEL EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+22803
+ICYA1125
+2
+3
+GEOMÁTICA
+69
+69
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+ARANGO GOMEZ CESAR
+&nbsp;
+&nbsp;
+----------------------
+18709
+ICYA1125
+3
+3
+GEOMÁTICA
+76
+76
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1830 - 1950
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1830 - 1950
+- -
+01-AGO-16
+19-NOV-16
+ARANGO GOMEZ CESAR
+&nbsp;
+&nbsp;
+----------------------
+13071
+ICYA1125L
+1
+0
+LABORATORIO DE GEOMÁTICA
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13126
+ICYA1125L
+2
+0
+LABORATORIO DE GEOMÁTICA
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13127
+ICYA1125L
+3
+0
+LABORATORIO DE GEOMÁTICA
+25
+19
+6
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13128
+ICYA1125L
+4
+0
+LABORATORIO DE GEOMÁTICA
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+S
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+S
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13129
+ICYA1125L
+5
+0
+LABORATORIO DE GEOMÁTICA
+25
+24
+1
+----------------------
+&nbsp;
+&nbsp;
+S
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+S
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+16571
+ICYA1125L
+6
+0
+LABORATORIO DE GEOMÁTICA
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+16572
+ICYA1125L
+7
+0
+LABORATORIO DE GEOMÁTICA
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22804
+ICYA1125L
+8
+0
+LABORATORIO DE GEOMÁTICA
+25
+21
+4
+----------------------
+&nbsp;
+&nbsp;
+S
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+S
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+15083
+ICYA1200A
+1
+3
+GRAND. PROY. HIST. HUMA
+57
+35
+22
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+VARGAS CAICEDO HERNANDO
+&nbsp;
+&nbsp;
+----------------------
+Curso Tipo E
+10248
+ICYA1500B
+1
+3
+TRANSPORTE URBANO SOSTENIBLE
+57
+57
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+GUZMAN GARCIA LUIS ANGEL
+PAEZ BARAJAS DANIEL EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+Curso Tipo E
+21815
+ICYA1700B
+1
+3
+MAPAS:ESTRE. DRONES Y FACEBOOK
+57
+57
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+PAEZ BARAJAS DANIEL EDUARDO
+ARANGO GOMEZ CESAR
+&nbsp;
+&nbsp;
+----------------------
+11103
+ICYA2001
+1
+3
+MODELACION Y ANALISIS NUMERICO
+62
+62
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ RODRIGUEZ FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+13100
+ICYA2001
+2
+3
+MODELACION Y ANALISIS NUMERICO
+56
+53
+3
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ RODRIGUEZ FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+18716
+ICYA2001
+3
+3
+MODELACION Y ANALISIS NUMERICO
+62
+62
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ RODRIGUEZ FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+13072
+ICYA2001C
+1
+0
+COMPL MODEL Y ANALISIS NUM
+60
+63
+-3
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13101
+ICYA2001C
+2
+0
+COMPL MODEL Y ANALISIS NUM
+60
+61
+-1
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+18718
+ICYA2001C
+3
+0
+COMPL MODEL Y ANALISIS NUM
+60
+53
+7
+----------------------
+&nbsp;
+&nbsp;
+I
+1830 - 1950
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1830 - 1950
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+11534
+ICYA2070
+1
+0
+MONITORIA ING. CIVIL Y AMB.
+100
+2
+98
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+22871
+ICYA2101
+3
+3
+TERMOQUIMICA AMBIENTAL
+70
+56
+14
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+SALDARRIAGA ELORZA JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+22875
+ICYA2101C
+2
+0
+COMPL TERMOQUIMICA AMBIENTAL
+80
+54
+26
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+Curso Blended
+14310
+ICYA2203
+1
+3
+ANALISIS SIST. ESTRUCTURALES
+70
+59
+11
+----------------------
+&nbsp;
+&nbsp;
+I
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+REYES JUAN CARLOS
+&nbsp;
+&nbsp;
+----------------------
+Curso Blended
+18723
+ICYA2203
+2
+3
+ANALISIS SIST. ESTRUCTURALES
+50
+50
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+GALVIS LOPEZ FRANCISCO ALFONSO
+&nbsp;
+&nbsp;
+----------------------
+13155
+ICYA2203C
+1
+0
+COMPL ANALISIS SIST ESTRUCT.
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13224
+ICYA2203C
+2
+0
+COMPL ANALISIS SIST ESTRUCT.
+40
+36
+4
+----------------------
+&nbsp;
+&nbsp;
+V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+21129
+ICYA2203C
+3
+0
+COMPL ANALISIS SIST ESTRUCT.
+40
+33
+7
+----------------------
+&nbsp;
+&nbsp;
+V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12908
+ICYA2203L
+1
+0
+LAB ANALISIS SIST. ESTRUCTURAL
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1320
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12292
+ICYA2203L
+2
+0
+LAB ANALISIS SIST. ESTRUCTURAL
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1330 - 1420
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12909
+ICYA2203L
+3
+0
+LAB ANALISIS SIST. ESTRUCTURAL
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1430 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12910
+ICYA2203L
+4
+0
+LAB ANALISIS SIST. ESTRUCTURAL
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1620
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12911
+ICYA2203L
+5
+0
+LAB ANALISIS SIST. ESTRUCTURAL
+20
+15
+5
+----------------------
+&nbsp;
+&nbsp;
+J
+1630 - 1720
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+18828
+ICYA2203L
+6
+0
+LAB ANALISIS SIST. ESTRUCTURAL
+20
+14
+6
+----------------------
+&nbsp;
+&nbsp;
+J
+1730 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+14311
+ICYA2304
+1
+3
+FUNDAMENTOS DE GEOTECNIA
+70
+69
+1
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+ESTRADA MEJIA NICOLAS
+&nbsp;
+&nbsp;
+----------------------
+21152
+ICYA2304
+2
+3
+FUNDAMENTOS DE GEOTECNIA
+30
+28
+2
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+WILLS SANIN JAIME
+&nbsp;
+&nbsp;
+----------------------
+13148
+ICYA2304C
+1
+0
+COMPL FUNDAMENTOS GEOTECNIA
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+CALVO MARTINEZ ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+13229
+ICYA2304C
+2
+0
+COMPL FUNDAMENTOS GEOTECNIA
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+CALVO MARTINEZ ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+18733
+ICYA2304C
+3
+0
+COMPL FUNDAMENTOS GEOTECNIA
+25
+22
+3
+----------------------
+&nbsp;
+&nbsp;
+V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+CALVO MARTINEZ ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+22880
+ICYA2304C
+4
+0
+COMPL FUNDAMENTOS GEOTECNIA
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+CALVO MARTINEZ ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+12913
+ICYA2304L
+2
+0
+LAB FUNDAMENTOS DE GEOTECNIA
+17
+17
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1500 - 1650
+- -
+01-AGO-16
+19-NOV-16
+CALVO MARTINEZ ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+12914
+ICYA2304L
+3
+0
+LAB FUNDAMENTOS DE GEOTECNIA
+17
+15
+2
+----------------------
+&nbsp;
+&nbsp;
+I
+1300 - 1450
+- -
+01-AGO-16
+19-NOV-16
+CALVO MARTINEZ ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+12915
+ICYA2304L
+4
+0
+LAB FUNDAMENTOS DE GEOTECNIA
+17
+17
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1500 - 1650
+- -
+01-AGO-16
+19-NOV-16
+CALVO MARTINEZ ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+16608
+ICYA2304L
+6
+0
+LAB FUNDAMENTOS DE GEOTECNIA
+17
+16
+1
+----------------------
+&nbsp;
+&nbsp;
+J
+1500 - 1650
+- -
+01-AGO-16
+19-NOV-16
+CALVO MARTINEZ ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+22881
+ICYA2304L
+7
+0
+LAB FUNDAMENTOS DE GEOTECNIA
+17
+17
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1300 - 1450
+- -
+01-AGO-16
+19-NOV-16
+CALVO MARTINEZ ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+23282
+ICYA2304L
+8
+0
+LAB FUNDAMENTOS DE GEOTECNIA
+17
+15
+2
+----------------------
+&nbsp;
+&nbsp;
+V
+1500 - 1650
+- -
+01-AGO-16
+19-NOV-16
+CALVO MARTINEZ ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+11400
+ICYA2401
+1
+3
+MECANICA DE FLUIDOS
+80
+74
+6
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+SALDARRIAGA VALDERRA JUAN GUILLERMO
+VALENZUELA VIEDA MANUELA MARIA
+&nbsp;
+&nbsp;
+----------------------
+18754
+ICYA2401
+2
+3
+MECANICA DE FLUIDOS
+50
+50
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+BOHORQUEZ AREVALO JESSICA MARIA
+&nbsp;
+&nbsp;
+----------------------
+12916
+ICYA2401C
+1
+0
+COMPL MECANICA DE FLUIDOS
+33
+33
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12917
+ICYA2401C
+2
+0
+COMPL MECANICA DE FLUIDOS
+33
+32
+1
+----------------------
+&nbsp;
+&nbsp;
+M
+1830 - 1920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+18829
+ICYA2401C
+3
+0
+COMPL MECANICA DE FLUIDOS
+33
+27
+6
+----------------------
+&nbsp;
+&nbsp;
+J
+1830 - 1920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+18830
+ICYA2401C
+4
+0
+COMPL MECANICA DE FLUIDOS
+33
+32
+1
+----------------------
+&nbsp;
+&nbsp;
+V
+0630 - 0720
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13464
+ICYA2401L
+1
+0
+LAB MECANICA DE FLUIDOS
+9
+9
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+0800 - 0950
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13502
+ICYA2401L
+2
+0
+LAB MECANICA DE FLUIDOS
+9
+9
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1420
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13503
+ICYA2401L
+3
+0
+LAB MECANICA DE FLUIDOS
+9
+9
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1430 - 1620
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13506
+ICYA2401L
+4
+0
+LAB MECANICA DE FLUIDOS
+9
+9
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0630 - 0820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13507
+ICYA2401L
+5
+0
+LAB MECANICA DE FLUIDOS
+9
+9
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0830 - 1020
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13510
+ICYA2401L
+6
+0
+LAB MECANICA DE FLUIDOS
+9
+9
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1420
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20406
+ICYA2401L
+7
+0
+LAB MECANICA DE FLUIDOS
+9
+9
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1430 - 1620
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13508
+ICYA2401L
+8
+0
+LAB MECANICA DE FLUIDOS
+9
+9
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0950
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13509
+ICYA2401L
+9
+0
+LAB MECANICA DE FLUIDOS
+9
+9
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1420
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13504
+ICYA2401L
+10
+0
+LAB MECANICA DE FLUIDOS
+9
+6
+3
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 0820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13511
+ICYA2401L
+11
+0
+LAB MECANICA DE FLUIDOS
+9
+9
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0830 - 1020
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13512
+ICYA2401L
+12
+0
+LAB MECANICA DE FLUIDOS
+9
+5
+4
+----------------------
+&nbsp;
+&nbsp;
+J
+1430 - 1620
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+18831
+ICYA2401L
+13
+0
+LAB MECANICA DE FLUIDOS
+9
+9
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1030 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20407
+ICYA2401L
+14
+0
+LAB MECANICA DE FLUIDOS
+9
+9
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1230 - 1420
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20408
+ICYA2401L
+15
+0
+LAB MECANICA DE FLUIDOS
+9
+5
+4
+----------------------
+&nbsp;
+&nbsp;
+V
+1430 - 1620
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+11399
+ICYA2402
+1
+3
+HIDRAULICA
+45
+45
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+BOHORQUEZ AREVALO JESSICA MARIA
+&nbsp;
+&nbsp;
+----------------------
+20804
+ICYA2402
+2
+3
+HIDRAULICA
+45
+45
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+BOHORQUEZ AREVALO JESSICA MARIA
+&nbsp;
+&nbsp;
+----------------------
+22882
+ICYA2402
+3
+3
+HIDRAULICA
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+SALDARRIAGA VALDERRA JUAN GUILLERMO
+&nbsp;
+&nbsp;
+----------------------
+12918
+ICYA2402C
+1
+0
+COMPL HIDRAULICA
+32
+32
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12919
+ICYA2402C
+2
+0
+COMPL HIDRAULICA
+32
+32
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1830 - 1920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20409
+ICYA2402C
+3
+0
+COMPL HIDRAULICA
+32
+32
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20410
+ICYA2402C
+4
+0
+COMPL HIDRAULICA
+32
+32
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+23294
+ICYA2402C
+5
+0
+COMPL HIDRAULICA
+32
+32
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1830 - 1920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13465
+ICYA2402L
+1
+0
+LAB HIDRAULICA
+10
+9
+1
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1420
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13513
+ICYA2402L
+2
+0
+LAB HIDRAULICA
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1430 - 1620
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13514
+ICYA2402L
+3
+0
+LAB HIDRAULICA
+10
+7
+3
+----------------------
+&nbsp;
+&nbsp;
+M
+0630 - 0820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13515
+ICYA2402L
+4
+0
+LAB HIDRAULICA
+11
+11
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0830 - 1020
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13516
+ICYA2402L
+5
+0
+LAB HIDRAULICA
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1030 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13517
+ICYA2402L
+6
+0
+LAB HIDRAULICA
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1420
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13520
+ICYA2402L
+7
+0
+LAB HIDRAULICA
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1430 - 1620
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+15057
+ICYA2402L
+8
+0
+LAB HIDRAULICA
+10
+8
+2
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1420
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13518
+ICYA2402L
+9
+0
+LAB HIDRAULICA
+10
+9
+1
+----------------------
+&nbsp;
+&nbsp;
+I
+1430 - 1620
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13519
+ICYA2402L
+10
+0
+LAB HIDRAULICA
+10
+6
+4
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 0820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13521
+ICYA2402L
+11
+0
+LAB HIDRAULICA
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0830 - 1020
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13522
+ICYA2402L
+12
+0
+LAB HIDRAULICA
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1030 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13523
+ICYA2402L
+13
+0
+LAB HIDRAULICA
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1420
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13524
+ICYA2402L
+14
+0
+LAB HIDRAULICA
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1430 - 1620
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20415
+ICYA2402L
+15
+0
+LAB HIDRAULICA
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1030 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20418
+ICYA2402L
+16
+0
+LAB HIDRAULICA
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1230 - 1420
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20420
+ICYA2402L
+17
+0
+LAB HIDRAULICA
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1430 - 1620
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10601
+ICYA2406
+1
+3
+POTABILIZACION
+60
+40
+20
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+RODRIGUEZ SUSA MANUEL
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10601, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+12921
+ICYA2406L
+1
+0
+LAB POTABILIZACION
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1130 - 1320
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13731
+ICYA2406L
+2
+0
+LAB POTABILIZACION
+20
+15
+5
+----------------------
+&nbsp;
+&nbsp;
+V
+1330 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12920
+ICYA2406L
+3
+0
+LAB POTABILIZACION
+20
+5
+15
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1720
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+11105
+ICYA2407
+1
+3
+MICROBIOLOGIA AMBIENTAL
+52
+52
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+REYES VALDERRAMA LILIANA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11105, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+12922
+ICYA2407L
+1
+0
+LAB MICROBIOLOGIA AMBIENTAL
+26
+26
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+REYES VALDERRAMA LILIANA
+&nbsp;
+&nbsp;
+----------------------
+12923
+ICYA2407L
+2
+0
+LAB MICROBIOLOGIA AMBIENTAL
+26
+26
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+REYES VALDERRAMA LILIANA
+&nbsp;
+&nbsp;
+----------------------
+12924
+ICYA2412
+1
+3
+MECÁNICA DE FLUIDOS AMBIENTAL
+70
+46
+24
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+CAMACHO LUIS ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 12924, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+13097
+ICYA2412C
+1
+0
+COMPL MECANICA FLUIDOS AMBIENT
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1320
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13096
+ICYA2412C
+2
+0
+COMPL MECANICA FLUIDOS AMBIENT
+35
+11
+24
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1320
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13466
+ICYA2412L
+1
+0
+LAB MECANICA FLUIDOS AMBIENTAL
+18
+18
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1000 - 1120
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13525
+ICYA2412L
+2
+0
+LAB MECANICA FLUIDOS AMBIENTAL
+18
+8
+10
+----------------------
+&nbsp;
+&nbsp;
+I
+1000 - 1120
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13526
+ICYA2412L
+3
+0
+LAB MECANICA FLUIDOS AMBIENTAL
+18
+12
+6
+----------------------
+&nbsp;
+&nbsp;
+V
+0730 - 0850
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22883
+ICYA2412L
+4
+0
+LAB MECANICA FLUIDOS AMBIENTAL
+18
+8
+10
+----------------------
+&nbsp;
+&nbsp;
+V
+0900 - 1020
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+14312
+ICYA3078
+1
+3
+PROY. FINAL DISEÑO ING.CIVIL
+100
+52
+48
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+PONZ JOSE LUIS
+GUTIERREZ BUCHELI LAURA ANDREA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 14312, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+13149
+ICYA3078C
+1
+0
+COMPL PROY FINL DISEÑO ING CIV
+50
+45
+5
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+GUTIERREZ BUCHELI LAURA ANDREA
+&nbsp;
+&nbsp;
+----------------------
+22885
+ICYA3078C
+2
+0
+COMPL PROY FINL DISEÑO ING CIV
+50
+7
+43
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+GUTIERREZ BUCHELI LAURA ANDREA
+&nbsp;
+&nbsp;
+----------------------
+11218
+ICYA3079
+1
+3
+PROY. FINAL DISEÑO ING. AMB.
+50
+34
+16
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+DUQUE RICO RAQUEL
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11218, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+13151
+ICYA3079C
+1
+0
+COMPL PROY FINL DISEÑO ING AMB
+50
+34
+16
+----------------------
+&nbsp;
+&nbsp;
+J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10195
+ICYA3102
+1
+3
+PROYECTO DE GRADO ING. CIVIL
+120
+87
+33
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+10196
+ICYA3103
+1
+3
+PROYECTO GRADO ING AMBIENTAL
+80
+64
+16
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+10602
+ICYA3104
+1
+3
+PROYECTO ESPECIAL PREGRADO
+10
+1
+9
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+14313
+ICYA3107
+1
+0
+PRERREQUISITO PROYECTO IAMB
+80
+48
+32
+----------------------
+&nbsp;
+&nbsp;
+V
+1230 - 1320
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+14314
+ICYA3108
+1
+0
+PRERREQUISITO PROYECT. ICIV
+110
+99
+11
+----------------------
+&nbsp;
+&nbsp;
+V
+1230 - 1320
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+14315
+ICYA3202
+1
+3
+DISEÑO ESTRUCTURAL
+80
+78
+2
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+YAMIN LUIS
+&nbsp;
+&nbsp;
+----------------------
+22886
+ICYA3202
+2
+3
+DISEÑO ESTRUCTURAL
+50
+50
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+GALVIS LOPEZ FRANCISCO ALFONSO
+&nbsp;
+&nbsp;
+----------------------
+13156
+ICYA3202C
+1
+0
+COMPL DISEÑO ESTRUCTURAL
+27
+25
+2
+----------------------
+&nbsp;
+&nbsp;
+S
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+21254
+ICYA3202C
+2
+0
+COMPL DISEÑO ESTRUCTURAL
+27
+20
+7
+----------------------
+&nbsp;
+&nbsp;
+S
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+21272
+ICYA3202C
+3
+0
+COMPL DISEÑO ESTRUCTURAL
+27
+25
+2
+----------------------
+&nbsp;
+&nbsp;
+S
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+21287
+ICYA3202C
+4
+0
+COMPL DISEÑO ESTRUCTURAL
+27
+17
+10
+----------------------
+&nbsp;
+&nbsp;
+S
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22889
+ICYA3202C
+5
+0
+COMPL DISEÑO ESTRUCTURAL
+27
+25
+2
+----------------------
+&nbsp;
+&nbsp;
+S
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22890
+ICYA3202C
+6
+0
+COMPL DISEÑO ESTRUCTURAL
+27
+16
+11
+----------------------
+&nbsp;
+&nbsp;
+S
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+14316
+ICYA3203
+1
+3
+GERENCIA PROY CONSTRUCCION
+80
+80
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+PONZ JOSE LUIS
+OSPINA GARZON DIEGO JAVIER
+&nbsp;
+&nbsp;
+----------------------
+22891
+ICYA3203
+2
+3
+GERENCIA PROY CONSTRUCCION
+80
+57
+23
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+PONZ JOSE LUIS
+OSPINA GARZON DIEGO JAVIER
+&nbsp;
+&nbsp;
+----------------------
+12925
+ICYA3203C
+1
+0
+COMPL GERENCIA PROY CONSTRUCCI
+40
+39
+1
+----------------------
+&nbsp;
+&nbsp;
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+GUTIERREZ BUCHELI LAURA ANDREA
+&nbsp;
+&nbsp;
+----------------------
+13564
+ICYA3203C
+2
+0
+COMPL GERENCIA PROY CONSTRUCCI
+40
+26
+14
+----------------------
+&nbsp;
+&nbsp;
+L
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+GUTIERREZ BUCHELI LAURA ANDREA
+&nbsp;
+&nbsp;
+----------------------
+22892
+ICYA3203C
+3
+0
+COMPL GERENCIA PROY CONSTRUCCI
+40
+39
+1
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+GUTIERREZ BUCHELI LAURA ANDREA
+&nbsp;
+&nbsp;
+----------------------
+22893
+ICYA3203C
+4
+0
+COMPL GERENCIA PROY CONSTRUCCI
+40
+20
+20
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+GUTIERREZ BUCHELI LAURA ANDREA
+&nbsp;
+&nbsp;
+----------------------
+23426
+ICYA3203C
+5
+0
+COMPL GERENCIA PROY CONSTRUCCI
+36
+13
+23
+----------------------
+&nbsp;
+&nbsp;
+J
+1830 - 1950
+- -
+01-AGO-16
+19-NOV-16
+GUTIERREZ BUCHELI LAURA ANDREA
+&nbsp;
+&nbsp;
+----------------------
+14317
+ICYA3305
+1
+3
+ESTRUCTURAS GEOTECNICAS
+80
+80
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+CAICEDO BERNARDO
+&nbsp;
+&nbsp;
+----------------------
+22894
+ICYA3305
+2
+3
+ESTRUCTURAS GEOTECNICAS
+63
+63
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+WILLS SANIN JAIME
+&nbsp;
+&nbsp;
+----------------------
+22895
+ICYA3305L
+1
+0
+LAB ESTRUCTURAS GEOTECNICAS
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12927
+ICYA3305L
+2
+0
+LAB ESTRUCTURAS GEOTECNICAS
+17
+17
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13140
+ICYA3305L
+3
+0
+LAB ESTRUCTURAS GEOTECNICAS
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+19060
+ICYA3305L
+5
+0
+LAB ESTRUCTURAS GEOTECNICAS
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22896
+ICYA3305L
+6
+0
+LAB ESTRUCTURAS GEOTECNICAS
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20421
+ICYA3305L
+7
+0
+LAB ESTRUCTURAS GEOTECNICAS
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20426
+ICYA3305L
+8
+0
+LAB ESTRUCTURAS GEOTECNICAS
+17
+16
+1
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+23319
+ICYA3305L
+9
+0
+LAB ESTRUCTURAS GEOTECNICAS
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+23569
+ICYA3305L
+10
+0
+LAB ESTRUCTURAS GEOTECNICAS
+17
+17
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10819
+ICYA3306
+1
+3
+SISTEMAS DE TRANSPORTE
+80
+66
+14
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+RODRIGUEZ VALENCIA ALVARO
+&nbsp;
+&nbsp;
+----------------------
+20428
+ICYA3306
+2
+3
+SISTEMAS DE TRANSPORTE
+60
+59
+1
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+GUZMAN GARCIA LUIS ANGEL
+&nbsp;
+&nbsp;
+----------------------
+12928
+ICYA3306L
+1
+0
+LAB SISTEMAS DE TRANSPORTE
+35
+20
+15
+----------------------
+&nbsp;
+&nbsp;
+V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+SANCHEZ PINZON CARLOS FELIPE
+&nbsp;
+&nbsp;
+----------------------
+12929
+ICYA3306L
+2
+0
+LAB SISTEMAS DE TRANSPORTE
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+SANCHEZ PINZON CARLOS FELIPE
+&nbsp;
+&nbsp;
+----------------------
+13142
+ICYA3306L
+3
+0
+LAB SISTEMAS DE TRANSPORTE
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+SANCHEZ PINZON CARLOS FELIPE
+&nbsp;
+&nbsp;
+----------------------
+15058
+ICYA3306L
+4
+0
+LAB SISTEMAS DE TRANSPORTE
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+SANCHEZ PINZON CARLOS FELIPE
+&nbsp;
+&nbsp;
+----------------------
+14318
+ICYA3307
+1
+3
+DISEÑO DE VIAS
+90
+44
+46
+----------------------
+&nbsp;
+&nbsp;
+S
+0800 - 1050
+- -
+01-AGO-16
+19-NOV-16
+TAFUR SANCHEZ FABIAN
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 14318, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+22897
+ICYA3307
+2
+3
+DISEÑO DE VIAS
+90
+81
+9
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+CHARRY PARRA LEONARDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 22897, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+13152
+ICYA3307C
+1
+0
+COMPL DISEÑO DE VIAS
+90
+44
+46
+----------------------
+&nbsp;
+&nbsp;
+L
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+TAFUR SANCHEZ FABIAN
+&nbsp;
+&nbsp;
+----------------------
+22898
+ICYA3307C
+2
+0
+COMPL DISEÑO DE VIAS
+90
+81
+9
+----------------------
+&nbsp;
+&nbsp;
+V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+CHARRY PARRA LEONARDO
+&nbsp;
+&nbsp;
+----------------------
+14319
+ICYA3401
+1
+3
+HIDROLOGIA
+100
+94
+6
+----------------------
+&nbsp;
+&nbsp;
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+DIAZGRANADOS MARIO
+&nbsp;
+&nbsp;
+----------------------
+20806
+ICYA3401
+2
+3
+HIDROLOGIA
+100
+43
+57
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+RODRIGUEZ SANCHEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+12931
+ICYA3401C
+1
+0
+COMPL HIDROLOGIA
+29
+29
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1830 - 1920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12932
+ICYA3401C
+2
+0
+COMPL HIDROLOGIA
+29
+29
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0800 - 0850
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12969
+ICYA3401C
+3
+0
+COMPL HIDROLOGIA
+29
+29
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0800 - 0850
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+16989
+ICYA3401C
+4
+0
+COMPL HIDROLOGIA
+29
+28
+1
+----------------------
+&nbsp;
+&nbsp;
+I
+1830 - 1920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20423
+ICYA3401C
+5
+0
+COMPL HIDROLOGIA
+29
+13
+16
+----------------------
+&nbsp;
+&nbsp;
+V
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22900
+ICYA3401C
+6
+0
+COMPL HIDROLOGIA
+29
+8
+21
+----------------------
+&nbsp;
+&nbsp;
+V
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22901
+ICYA3401C
+7
+0
+COMPL HIDROLOGIA
+29
+1
+28
+----------------------
+&nbsp;
+&nbsp;
+V
+1830 - 1920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+11106
+ICYA3406
+1
+3
+MODELACION AMBIENTAL
+80
+46
+34
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+CAMACHO LUIS ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11106, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+13424
+ICYA3406L
+1
+0
+LAB MODELACION AMBIENTAL
+27
+13
+14
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13527
+ICYA3406L
+2
+0
+LAB MODELACION AMBIENTAL
+27
+22
+5
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+22902
+ICYA3406L
+3
+0
+LAB MODELACION AMBIENTAL
+27
+11
+16
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10820
+ICYA3408
+1
+3
+TRATAMIENTO AGUAS RESIDUALES
+80
+74
+6
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+RODRIGUEZ SANCHEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10820, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+13153
+ICYA3408L
+1
+0
+LAB TRATAMIENTO AGUAS RESIDU
+20
+17
+3
+----------------------
+&nbsp;
+&nbsp;
+V
+0630 - 0820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13073
+ICYA3408L
+2
+0
+LAB TRATAMIENTO AGUAS RESIDU
+20
+17
+3
+----------------------
+&nbsp;
+&nbsp;
+V
+0630 - 0820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+17147
+ICYA3408L
+3
+0
+LAB TRATAMIENTO AGUAS RESIDU
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0830 - 1020
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+17148
+ICYA3408L
+4
+0
+LAB TRATAMIENTO AGUAS RESIDU
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0830 - 1020
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10690
+ICYA3501
+1
+3
+CALIDAD DEL AIRE Y METEOROLOGI
+69
+53
+16
+----------------------
+&nbsp;
+&nbsp;
+J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+MORALES RICARDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10690, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+16548
+ICYA3501L
+1
+0
+LAB CALIDAD DEL AIRE Y METEORO
+18
+15
+3
+----------------------
+&nbsp;
+&nbsp;
+M
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+16549
+ICYA3501L
+2
+0
+LAB CALIDAD DEL AIRE Y METEORO
+18
+16
+2
+----------------------
+&nbsp;
+&nbsp;
+M
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+16550
+ICYA3501L
+3
+0
+LAB CALIDAD DEL AIRE Y METEORO
+18
+12
+6
+----------------------
+&nbsp;
+&nbsp;
+M
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+23322
+ICYA3501L
+4
+0
+LAB CALIDAD DEL AIRE Y METEORO
+18
+10
+8
+----------------------
+&nbsp;
+&nbsp;
+M
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10930
+ICYA3601
+1
+3
+EVALUACION Y AUDITOR.AMBIENTAL
+64
+53
+11
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+RAMOS JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10930, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+13580
+ICYA3601L
+1
+0
+LAB.EVALUAC.Y AUDIT.AMBIENTAL
+16
+15
+1
+----------------------
+&nbsp;
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13581
+ICYA3601L
+2
+0
+LAB.EVALUAC.Y AUDIT.AMBIENTAL
+16
+16
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+16583
+ICYA3601L
+3
+0
+LAB.EVALUAC.Y AUDIT.AMBIENTAL
+16
+8
+8
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+16584
+ICYA3601L
+4
+0
+LAB.EVALUAC.Y AUDIT.AMBIENTAL
+16
+14
+2
+----------------------
+&nbsp;
+&nbsp;
+V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10691
+ICYA3702
+1
+3
+RESIDUOS SOLIDOS
+70
+56
+14
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+SALDARRIAGA ELORZA JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10691, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+16990
+ICYA3702L
+1
+0
+LAB RESIDUOS SOLIDOS
+10
+9
+1
+----------------------
+&nbsp;
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+SALDARRIAGA ELORZA JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+16991
+ICYA3702L
+2
+0
+LAB RESIDUOS SOLIDOS
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+SALDARRIAGA ELORZA JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+16992
+ICYA3702L
+3
+0
+LAB RESIDUOS SOLIDOS
+10
+9
+1
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+SALDARRIAGA ELORZA JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+20434
+ICYA3702L
+4
+0
+LAB RESIDUOS SOLIDOS
+10
+7
+3
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+SALDARRIAGA ELORZA JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+16994
+ICYA3702L
+5
+0
+LAB RESIDUOS SOLIDOS
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+SALDARRIAGA ELORZA JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+16995
+ICYA3702L
+6
+0
+LAB RESIDUOS SOLIDOS
+10
+6
+4
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+SALDARRIAGA ELORZA JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+17125
+ICYA3702L
+7
+0
+LAB RESIDUOS SOLIDOS
+10
+5
+5
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+SALDARRIAGA ELORZA JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+14116
+ICYA3991
+1
+6
+PRACTICA PROFESIONAL
+20
+7
+13
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+10692
+ICYA4070
+1
+0
+ASIST GRAD ING CIVIL Y AMBIENT
+100
+4
+96
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+10647
+ICYA4071
+1
+0
+MONITORIA POST ING CIVIL Y AMB
+50
+0
+50
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+23507
+ICYA4104
+1
+4
+CONSERVACIÓN DE LA BIODIVERSID
+40
+29
+11
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+PEYRE GWENDOLYN
+&nbsp;
+&nbsp;
+----------------------
+21839
+ICYA4131
+1
+4
+REMEDIACIÓN DE SUELOS
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+HUSSERL JOHANA
+&nbsp;
+&nbsp;
+----------------------
+21841
+ICYA4133
+1
+4
+INGENIERIA SANITARIA
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+GIRALDO CARLOS
+&nbsp;
+&nbsp;
+----------------------
+21844
+ICYA4139
+1
+4
+ENERGIAS ALTERNATIVAS
+40
+28
+12
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+RODRIGUEZ SUSA MANUEL
+&nbsp;
+&nbsp;
+----------------------
+21845
+ICYA4140
+1
+4
+VARIABILIDAD YCAMBIO CLIMATICO
+40
+27
+13
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+MORALES RICARDO
+&nbsp;
+&nbsp;
+----------------------
+21847
+ICYA4161
+1
+4
+PROBABIL. ESTAD.ING. AMBIENTAL
+44
+19
+25
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+RAMOS JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+11514
+ICYA4200
+1
+0
+PROPUESTA TESIS
+60
+45
+15
+----------------------
+&nbsp;
+&nbsp;
+V
+1700 - 1950
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+11382
+ICYA4201
+1
+4
+TESIS 1
+60
+34
+26
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+11383
+ICYA4202
+1
+8
+TESIS 2
+60
+41
+19
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+23324
+ICYA4203
+1
+4
+PROYECTO ESPECIAL
+10
+0
+10
+----------------------
+&nbsp;
+&nbsp;
+S
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+23387
+ICYA4206
+1
+4
+PROPUESTA DE TESIS GERENCIA
+44
+1
+43
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+GUTIERREZ BUCHELI LAURA ANDREA
+&nbsp;
+&nbsp;
+----------------------
+11386
+ICYA4209
+1
+0
+REQUISITO NIVEL
+100
+52
+48
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+11387
+ICYA4211
+1
+0
+INTERCAMBIO INTERNACIONAL
+5
+2
+3
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+21850
+ICYA4290
+1
+0
+PROPUESTA PROY. GRADO GERENCIA
+40
+20
+20
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+PONZ JOSE LUIS
+&nbsp;
+&nbsp;
+----------------------
+21851
+ICYA4291
+1
+0
+PROPUESTA PROY. GRADO ESTRUCTU
+30
+11
+19
+----------------------
+&nbsp;
+&nbsp;
+L
+0930 - 1020
+- -
+01-AGO-16
+19-NOV-16
+OSORIO BUSTAMANTE EDISON
+&nbsp;
+&nbsp;
+----------------------
+21852
+ICYA4292
+1
+4
+PROYECTO GRADO GERENCIA
+40
+22
+18
+----------------------
+&nbsp;
+&nbsp;
+&nbsp;
+----------------------
+21853
+ICYA4293
+1
+4
+PROYECTO GRADO ESTRUCTURAS
+50
+1
+49
+----------------------
+&nbsp;
+&nbsp;
+L
+0630 - 0920
+- -
+01-AGO-16
+19-NOV-16
+OSORIO BUSTAMANTE EDISON
+&nbsp;
+&nbsp;
+----------------------
+17808
+ICYA4301
+1
+4
+ADMON PROYECTO CONSTRUC
+50
+27
+23
+----------------------
+&nbsp;
+&nbsp;
+J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+BALEN VALENZUELA CARLOS EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+21855
+ICYA4305
+1
+4
+MODEL. AVANZA. OPTIMIZ. PROYEC
+40
+29
+11
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+PONZ JOSE LUIS
+&nbsp;
+&nbsp;
+----------------------
+21857
+ICYA4309
+1
+4
+ASPECTOS FINANCIEROS CONSTRUC.
+50
+36
+14
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+VILLARREAL NAVARRO JULIO
+&nbsp;
+&nbsp;
+----------------------
+21860
+ICYA4314
+1
+4
+PROY. ASOC. PÚBLICA Y PRIVADA
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+ARBOLEDA ARANGO CARLOS ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+18950
+ICYA4350
+1
+3
+NIV. ING. GERENC. CONSTRUCCION
+30
+16
+14
+----------------------
+&nbsp;
+&nbsp;
+M
+0630 - 0920
+- -
+01-AGO-16
+19-NOV-16
+GUTIERREZ BUCHELI LAURA ANDREA
+&nbsp;
+&nbsp;
+----------------------
+21870
+ICYA4401
+1
+4
+COMPRT DINAMICO DE ESTRUCTURAS
+40
+31
+9
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1020
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0930 - 1220
+- -
+01-AGO-16
+19-NOV-16
+GARCIA REYES LUIS ENRIQUE
+&nbsp;
+&nbsp;
+----------------------
+22903
+ICYA4410
+1
+4
+COMP Y DISEÑ ESTUCT DE ACERO
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+REYES JUAN CARLOS
+&nbsp;
+&nbsp;
+----------------------
+21876
+ICYA4415
+1
+4
+INGENIERIA SISMICA
+40
+28
+12
+----------------------
+&nbsp;
+&nbsp;
+L
+1700 - 1850
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+I
+1700 - 1850
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1700 - 1850
+- -
+01-AGO-16
+19-NOV-16
+YAMIN LUIS
+&nbsp;
+&nbsp;
+----------------------
+21878
+ICYA4423
+1
+4
+MATERIALES COMPUESTOS
+40
+3
+37
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ RODRIGUEZ FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+21883
+ICYA4448
+1
+4
+DISE - MAMPOSTERIA Y CIMENTACI
+40
+5
+35
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+TOBON RESTREPO SERGIO
+&nbsp;
+&nbsp;
+----------------------
+21885
+ICYA4505
+1
+4
+MECÁNICA DE SUELOS AVANZADA
+40
+16
+24
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+CABRERA CABRERA MIGUEL ANGEL
+&nbsp;
+&nbsp;
+----------------------
+21890
+ICYA4527
+1
+4
+TALLER DE DISEÑO EN GEOTECNIA
+40
+15
+25
+----------------------
+&nbsp;
+&nbsp;
+V
+0630 - 0920
+- -
+01-AGO-16
+19-NOV-16
+RODRIGUEZ GILBERTO
+&nbsp;
+&nbsp;
+----------------------
+21891
+ICYA4531
+1
+4
+DISEÑO CONTRATOS INFRAESTRUC.
+40
+31
+9
+----------------------
+&nbsp;
+&nbsp;
+J
+0800 - 1050
+- -
+01-AGO-16
+19-NOV-16
+BENAVIDES ESTÉVEZ-BRETÓN JUAN MAURICIO
+&nbsp;
+&nbsp;
+----------------------
+20538
+ICYA4532
+1
+4
+SEMINARIO GEOSI
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1230 - 1320
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+21893
+ICYA4602
+1
+4
+DISEÑO AVANZADO DE PAV.
+40
+26
+14
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+CAICEDO BERNARDO
+&nbsp;
+&nbsp;
+----------------------
+23079
+ICYA4610
+1
+4
+GEST. CONSERV. INFR. VIAL
+40
+15
+25
+----------------------
+&nbsp;
+&nbsp;
+L
+0630 - 0920
+- -
+01-AGO-16
+19-NOV-16
+ESPEJO JAIRO
+&nbsp;
+&nbsp;
+----------------------
+21897
+ICYA4701
+1
+4
+DISEÑO EN ING HIDRAULICA
+40
+21
+19
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+SALDARRIAGA VALDERRA JUAN GUILLERMO
+&nbsp;
+&nbsp;
+----------------------
+21903
+ICYA4717
+1
+4
+HIDRAULICA DE RIOS
+40
+14
+26
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+DIAZGRANADOS MARIO
+&nbsp;
+&nbsp;
+----------------------
+21904
+ICYA4718
+1
+4
+ECONOMIA, REGULAC.AGUA URBANA
+40
+21
+19
+----------------------
+&nbsp;
+&nbsp;
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+PARDO GIBSON OSCAR
+&nbsp;
+&nbsp;
+----------------------
+23326
+ICYA4801
+1
+4
+ANAL. SISTEMAS DE TRANSPORTE
+40
+20
+20
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+PAEZ BARAJAS DANIEL EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+21910
+ICYA4809
+1
+4
+TRANSPORTE INTERURBANO D CARGA
+40
+11
+29
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+OSPINA GERMAN ALFREDO
+BAQUERO HAEBERLIN MANUEL
+&nbsp;
+&nbsp;
+----------------------
+21911
+ICYA4810
+1
+4
+SEGURIDAD VIAL
+40
+17
+23
+----------------------
+&nbsp;
+&nbsp;
+J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+HIDALGO GUERRERO DARIO
+&nbsp;
+&nbsp;
+----------------------
+23080
+ICYA4815
+1
+4
+METOD. INVESTIGACION TRANSPORT
+40
+15
+25
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+RODRIGUEZ VALENCIA ALVARO
+&nbsp;
+&nbsp;
+----------------------
+13931
+ICYA6002
+1
+4
+TUTORIAL 1
+10
+1
+9
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+20234
+ICYA6007
+1
+1
+TUTORIAL ESPECIAL
+10
+0
+10
+----------------------
+&nbsp;
+&nbsp;
+&nbsp;
+----------------------
+13842
+ICYA6402
+1
+0
+PASANTIA SEMESTRAL
+20
+7
+13
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+13843
+ICYA6961
+1
+4
+PROYECTO DIRIGIDO 1
+20
+0
+20
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+13844
+ICYA6962
+1
+4
+PROYECTO DIRIGIDO 2
+20
+0
+20
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+13845
+ICYA6963
+1
+4
+PROYECTO DIRIGIDO 3
+20
+0
+20
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+13846
+ICYA6970
+1
+0
+EXAMEN DE PROPUESTA DOCTORAL
+20
+4
+16
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+13847
+ICYA6980
+1
+4
+TESIS 4CR
+20
+1
+19
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+13848
+ICYA6981
+1
+8
+TESIS 8CR
+20
+4
+16
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+13849
+ICYA6982
+1
+12
+TESIS 12CR
+20
+8
+12
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+13850
+ICYA6990
+1
+0
+SUSTENTACION TESIS
+20
+3
+17
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+13851
+ICYA6997
+1
+0
+PASANTIA ESTUDIANTES EXTERNOS
+20
+0
+20
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+ARBELAEZ CARDEÑO JULIANA
+&nbsp;
+&nbsp;
+----------------------

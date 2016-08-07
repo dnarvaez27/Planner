@@ -1,0 +1,1818 @@
+CRN
+20371
+BIOL0000
+1
+1
+INDUCCION
+40
+38
+2
+----------------------
+ 
+ 
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+13204
+BIOL1300
+1
+3
+BIOLOGIA DE ORGANISMOS-TEO
+120
+111
+9
+----------------------
+ 
+ 
+I    V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+MOLINA ESCOBAR JORGE ALBERTO
+ 
+ 
+----------------------
+CRN
+19081
+BIOL1300
+2
+3
+BIOLOGIA DE ORGANISMOS-TEO
+80
+43
+37
+----------------------
+ 
+ 
+I    V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+CRAWFORD ANDREW
+ 
+ 
+----------------------
+CRN
+13209
+BIOL1300C
+1
+0
+COMPL. BIOLOGIA DE ORGANISMOS
+67
+66
+1
+----------------------
+ 
+ 
+M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12596
+BIOL1300C
+2
+0
+COMPL. BIOLOGIA DE ORGANISMOS
+67
+53
+14
+----------------------
+ 
+ 
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12597
+BIOL1300C
+3
+0
+COMPL. BIOLOGIA DE ORGANISMOS
+66
+35
+31
+----------------------
+ 
+ 
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+10415
+BIOL1301
+1
+1
+BIOLOGIA DE ORGANISMOS-LAB
+24
+20
+4
+----------------------
+ 
+ 
+M
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+10159
+BIOL1301
+2
+1
+BIOLOGIA DE ORGANISMOS-LAB
+32
+30
+2
+----------------------
+ 
+ 
+J
+0930 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+10516
+BIOL1301
+3
+1
+BIOLOGIA DE ORGANISMOS-LAB
+24
+13
+11
+----------------------
+ 
+ 
+V
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+10732
+BIOL1301
+4
+1
+BIOLOGIA DE ORGANISMOS-LAB
+24
+15
+9
+----------------------
+ 
+ 
+V
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+11060
+BIOL1301
+5
+1
+BIOLOGIA DE ORGANISMOS-LAB
+32
+27
+5
+----------------------
+ 
+ 
+J
+0930 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+11937
+BIOL1301
+6
+1
+BIOLOGIA DE ORGANISMOS-LAB
+24
+24
+0
+----------------------
+ 
+ 
+J
+0930 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+14784
+BIOL1301
+7
+1
+BIOLOGIA DE ORGANISMOS-LAB
+24
+23
+1
+----------------------
+ 
+ 
+M
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+13559
+BIOL1303
+1
+3
+MONOGRAFIA ESTUD. AMBIENTALES
+10
+6
+4
+----------------------
+ 
+ 
+-
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ ARANGO CATALINA
+ 
+ 
+----------------------
+CRN
+10416
+BIOL1312
+1
+3
+BIOLOGIA PARA PSICOLOGIA-TEO
+100
+78
+22
+----------------------
+ 
+ 
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+AMEZQUITA ADOLFO
+ 
+ 
+----------------------
+CRN
+10417
+BIOL1313
+1
+0
+BIOLOGIA PARA PSICOLOGIA-LAB
+24
+24
+0
+----------------------
+ 
+ 
+I
+0800 - 1050
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+11936
+BIOL1313
+2
+0
+BIOLOGIA PARA PSICOLOGIA-LAB
+24
+24
+0
+----------------------
+ 
+ 
+V
+0800 - 1050
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+11283
+BIOL1313
+3
+0
+BIOLOGIA PARA PSICOLOGIA-LAB
+24
+15
+9
+----------------------
+ 
+ 
+J
+0630 - 0920
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+13003
+BIOL1313
+4
+0
+BIOLOGIA PARA PSICOLOGIA-LAB
+24
+15
+9
+----------------------
+ 
+ 
+M
+0630 - 0920
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+13561
+BIOL1324A
+1
+3
+BIODIVERSIDAD CONSERVA DESARR
+95
+82
+13
+----------------------
+ 
+ 
+L      J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+SANCHEZ MUÑOZ JUAN ARMANDO
+ 
+ 
+----------------------
+CRN
+22825
+BIOL1325B
+1
+3
+PLANTAS Y EL HOMBRE
+72
+72
+0
+----------------------
+ 
+ 
+V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ 
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+MADRIÑAN RESTREPO SANTIAGO
+ 
+ 
+----------------------
+CRN
+12241
+BIOL1326A
+1
+3
+EVOLUCION: EL ORIGEN DE LAS E.
+77
+79
+-2
+----------------------
+ 
+ 
+M  I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+LINK OSPINA ANDRES
+CADENA ORDONEZ CARLOS DANIEL
+ 
+ 
+----------------------
+CRN
+13007
+BIOL1327
+1
+3
+ECOLOGIA: PRINCIPIOS Y APLICA.
+80
+37
+43
+----------------------
+ 
+ 
+M      V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+LINK OSPINA ANDRES
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 13007, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+CRN
+11367
+BIOL1327
+2
+3
+ECOLOGIA: PRINCIPIOS Y APLICA.
+80
+80
+0
+----------------------
+ 
+ 
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ 
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ ARANGO CATALINA
+ 
+ 
+----------------------
+CRN
+11368
+BIOL1327
+3
+3
+ECOLOGIA: PRINCIPIOS Y APLICA.
+80
+81
+-1
+----------------------
+ 
+ 
+L      J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+REALPE REBOLLEDO EMILIO
+ 
+ 
+----------------------
+CRN
+11369
+BIOL1327
+5
+3
+ECOLOGIA: PRINCIPIOS Y APLICA.
+80
+80
+0
+----------------------
+ 
+ 
+L        V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+RIET SAPRIZA FEDERICO GERMAN
+ 
+ 
+----------------------
+CRN
+11370
+BIOL1327
+6
+3
+ECOLOGIA: PRINCIPIOS Y APLICA.
+80
+81
+-1
+----------------------
+ 
+ 
+L    I    V
+1400 - 1450
+- -
+01-AGO-16
+19-NOV-16
+RIET SAPRIZA FEDERICO GERMAN
+ 
+ 
+----------------------
+CRN
+11297
+BIOL1327
+7
+3
+ECOLOGIA: PRINCIPIOS Y APLICA.
+80
+71
+9
+----------------------
+ 
+ 
+M      V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+LASSO DE PAULIS ELOISA
+ 
+ 
+----------------------
+CRN
+13694
+BIOL1327
+8
+3
+ECOLOGIA: PRINCIPIOS Y APLICA.
+80
+34
+46
+----------------------
+ 
+ 
+L        V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+GUARNIZO CARLOS
+ 
+ 
+----------------------
+CRN
+13308
+BIOL1327C
+1
+0
+COMPL ECOLOGIA: PRINC Y APLICA
+40
+22
+18
+----------------------
+ 
+ 
+J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12599
+BIOL1327C
+2
+0
+COMPL ECOLOGIA: PRINC Y APLICA
+40
+15
+25
+----------------------
+ 
+ 
+M
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12600
+BIOL1327C
+3
+0
+COMPL ECOLOGIA: PRINC Y APLICA
+55
+56
+-1
+----------------------
+ 
+ 
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12601
+BIOL1327C
+4
+0
+COMPL ECOLOGIA: PRINC Y APLICA
+55
+44
+11
+----------------------
+ 
+ 
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12602
+BIOL1327C
+5
+0
+COMPL ECOLOGIA: PRINC Y APLICA
+50
+50
+0
+----------------------
+ 
+ 
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12603
+BIOL1327C
+6
+0
+COMPL ECOLOGIA: PRINC Y APLICA
+50
+31
+19
+----------------------
+ 
+ 
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12604
+BIOL1327C
+7
+0
+COMPL ECOLOGIA: PRINC Y APLICA
+55
+54
+1
+----------------------
+ 
+ 
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12605
+BIOL1327C
+8
+0
+COMPL ECOLOGIA: PRINC Y APLICA
+55
+55
+0
+----------------------
+ 
+ 
+V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12606
+BIOL1327C
+9
+0
+COMPL ECOLOGIA: PRINC Y APLICA
+55
+55
+0
+----------------------
+ 
+ 
+J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12607
+BIOL1327C
+10
+0
+COMPL ECOLOGIA: PRINC Y APLICA
+55
+51
+4
+----------------------
+ 
+ 
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12457
+BIOL1327C
+11
+0
+COMPL ECOLOGIA: PRINC Y APLICA
+50
+31
+19
+----------------------
+ 
+ 
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12242
+BIOL1328B
+1
+3
+IMP. REGIONAL CAMBIO AMB. GLO
+74
+75
+-1
+----------------------
+ 
+ 
+J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+ 
+M
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ ARANGO CATALINA
+ 
+ 
+----------------------
+CRN
+20436
+BIOL1330B
+1
+3
+INSECTOS Y EL HOMBRE
+57
+56
+1
+----------------------
+ 
+ 
+L    I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+MOLINA ESCOBAR JORGE ALBERTO
+ 
+ 
+----------------------
+CRN
+10398
+BIOL2200
+1
+3
+GENETICA-TEO
+60
+54
+6
+----------------------
+ 
+ 
+M    J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+LATTIG CLAUDIA
+ 
+ 
+----------------------
+CRN
+10162
+BIOL2201
+1
+1
+GENETICA-LAB
+24
+24
+0
+----------------------
+ 
+ 
+I
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12191
+BIOL2201
+2
+1
+GENETICA-LAB
+32
+28
+4
+----------------------
+ 
+ 
+I
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22840
+BIOL2202
+1
+3
+EVOLUCION-TEO
+100
+88
+12
+----------------------
+ 
+ 
+M  I  J
+0930 - 1020
+- -
+01-AGO-16
+19-NOV-16
+CADENA ORDONEZ CARLOS DANIEL
+ 
+ 
+----------------------
+CRN
+22841
+BIOL2203
+1
+1
+EVOLUCION-LAB
+32
+32
+0
+----------------------
+ 
+ 
+M
+1700 - 1850
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22842
+BIOL2203
+2
+1
+EVOLUCION-LAB
+32
+18
+14
+----------------------
+ 
+ 
+V
+1700 - 1850
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22843
+BIOL2203
+3
+1
+EVOLUCION-LAB
+32
+14
+18
+----------------------
+ 
+ 
+V
+1700 - 1850
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22844
+BIOL2203
+4
+1
+EVOLUCION-LAB
+24
+23
+1
+----------------------
+ 
+ 
+J
+1700 - 1850
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12080
+BIOL2302
+1
+3
+INVERTEBRADOS-TEO
+73
+75
+-2
+----------------------
+ 
+ 
+M    J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+REALPE REBOLLEDO EMILIO
+ 
+ 
+----------------------
+CRN
+12081
+BIOL2303
+1
+1
+INVERTEBRADOS-LAB
+24
+21
+3
+----------------------
+ 
+ 
+M
+1700 - 1950
+- -
+01-AGO-16
+19-NOV-16
+GALINDO RUIZ NESTOR FABIAN
+ 
+ 
+----------------------
+CRN
+13334
+BIOL2303
+2
+1
+INVERTEBRADOS-LAB
+32
+32
+0
+----------------------
+ 
+ 
+M
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+CANO COBOS YISELLE PATRICIA
+ 
+ 
+----------------------
+CRN
+23610
+BIOL2303
+3
+1
+INVERTEBRADOS-LAB
+24
+18
+6
+----------------------
+ 
+ 
+M
+1700 - 1950
+- -
+01-AGO-16
+19-NOV-16
+CANO COBOS YISELLE PATRICIA
+ 
+ 
+----------------------
+CRN
+22845
+BIOL2304
+1
+3
+BOTANICA-TEO
+100
+101
+-1
+----------------------
+ 
+ 
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+MADRIÑAN RESTREPO SANTIAGO
+ 
+ 
+----------------------
+CRN
+22846
+BIOL2305
+1
+1
+BOTANICA-LAB
+32
+32
+0
+----------------------
+ 
+ 
+V
+0800 - 1050
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22847
+BIOL2305
+2
+1
+BOTANICA-LAB
+32
+29
+3
+----------------------
+ 
+ 
+J
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+23617
+BIOL2305
+3
+1
+BOTANICA-LAB
+20
+18
+2
+----------------------
+ 
+ 
+J
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+23650
+BIOL2305
+4
+1
+BOTANICA-LAB
+24
+21
+3
+----------------------
+ 
+ 
+J
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+10163
+BIOL2308
+1
+3
+ECOLOGIA-TEO
+50
+30
+20
+----------------------
+ 
+ 
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+STEVENSON PABLO
+ 
+ 
+----------------------
+CRN
+10164
+BIOL2309
+1
+1
+ECOLOGIA-LAB
+25
+21
+4
+----------------------
+ 
+ 
+S
+0800 - 1050
+- -
+01-AGO-16
+05-NOV-16
+ 
+S
+0800 - 1050
+- -
+12-NOV-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+10165
+BIOL2309
+2
+1
+ECOLOGIA-LAB
+25
+9
+16
+----------------------
+ 
+ 
+S
+1100 - 1350
+- -
+01-AGO-16
+05-NOV-16
+ 
+S
+1100 - 1350
+- -
+12-NOV-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22848
+BIOL3300
+1
+3
+FISIOLOGIA ANIMAL-TEO
+60
+39
+21
+----------------------
+ 
+ 
+M    J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+AMEZQUITA ADOLFO
+ 
+ 
+----------------------
+CRN
+22849
+BIOL3301
+1
+1
+FISIOLOGIA ANIMAL-LAB
+32
+15
+17
+----------------------
+ 
+ 
+L
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22850
+BIOL3301
+2
+1
+FISIOLOGIA ANIMAL-LAB
+24
+11
+13
+----------------------
+ 
+ 
+L
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22851
+BIOL3301
+3
+1
+FISIOLOGIA ANIMAL-LAB
+20
+12
+8
+----------------------
+ 
+ 
+L
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22852
+BIOL3304
+1
+3
+BIOLOGIA DEL DESARROLLO-TEO
+60
+58
+2
+----------------------
+ 
+ 
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+ 
+V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+GARAVITO AGUILAR ZAYRA VIVIANA
+ 
+ 
+----------------------
+CRN
+22853
+BIOL3305
+1
+1
+BIOLOGIA DEL DESARROLLO-LAB
+20
+20
+0
+----------------------
+ 
+ 
+M
+0930 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22854
+BIOL3305
+2
+1
+BIOLOGIA DEL DESARROLLO-LAB
+20
+19
+1
+----------------------
+ 
+ 
+I
+1700 - 1950
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22855
+BIOL3305
+3
+1
+BIOLOGIA DEL DESARROLLO-LAB
+20
+19
+1
+----------------------
+ 
+ 
+I
+1700 - 1950
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22833
+BIOL3310
+1
+3
+ECOLOGIA AVANZADA
+30
+7
+23
+----------------------
+ 
+ 
+J  V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+STEVENSON PABLO
+ 
+ 
+----------------------
+CRN
+22834
+BIOL3311
+1
+1
+ECOLOGIA AVANZADA-LAB
+30
+8
+22
+----------------------
+ 
+ 
+L
+0930 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22906
+BIOL3312
+1
+3
+BOTANICA SISTEMATICA-TEO
+20
+28
+-8
+----------------------
+ 
+ 
+J  V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+MADRIÑAN RESTREPO SANTIAGO
+ 
+ 
+----------------------
+CRN
+22907
+BIOL3313
+1
+1
+BOTANICA SISTEMATICA-LAB
+20
+23
+-3
+----------------------
+ 
+ 
+V
+0800 - 1050
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22908
+BIOL3330
+1
+3
+ECOLOGIA SENSORIAL
+20
+18
+2
+----------------------
+ 
+ 
+M      V
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+MOLINA ESCOBAR JORGE ALBERTO
+ 
+ 
+----------------------
+CRN
+22913
+BIOL3339
+1
+1
+ECOLOGIA SENSORIAL-LAB.
+20
+17
+3
+----------------------
+ 
+ 
+I
+1700 - 1950
+- -
+01-AGO-16
+19-NOV-16
+MOLINA ESCOBAR JORGE ALBERTO
+ 
+ 
+----------------------
+CRN
+22914
+BIOL3340
+1
+3
+BUCEO SCUBA Y ECOL. MARINA TEO
+20
+21
+-1
+----------------------
+ 
+ 
+M      V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+SANCHEZ MUÑOZ JUAN ARMANDO
+ 
+ 
+----------------------
+CRN
+22916
+BIOL3341
+1
+1
+BUCEO SCUBA Y ECOL. MARINA LAB
+10
+11
+-1
+----------------------
+ 
+ 
+S
+0800 - 0950
+- -
+01-AGO-16
+19-NOV-16
+SARMIENTO SEGURA ADRIANA
+ 
+ 
+----------------------
+CRN
+23551
+BIOL3341
+2
+1
+BUCEO SCUBA Y ECOL. MARINA LAB
+10
+10
+0
+----------------------
+ 
+ 
+S
+1000 - 1150
+- -
+01-AGO-16
+19-NOV-16
+SARMIENTO SEGURA ADRIANA
+ 
+ 
+----------------------
+CRN
+11190
+BIOL3906
+1
+1
+INSCRIPCION PROYECTO DE GRADO
+20
+17
+3
+----------------------
+ 
+ 
+-
+- -
+01-AGO-16
+19-NOV-16
+REALPE REBOLLEDO EMILIO
+ 
+ 
+----------------------
+CRN
+12244
+BIOL3907
+1
+3
+TRABAJO GRADO, MONOGR, PRAC.GR
+20
+21
+-1
+----------------------
+ 
+ 
+-
+- -
+01-AGO-16
+19-NOV-16
+REALPE REBOLLEDO EMILIO
+ 
+ 
+----------------------
+CRN
+11940
+BIOL3908
+1
+0
+INSCRIPCION PROYECTO GRADO
+20
+3
+17
+----------------------
+ 
+ 
+-
+- -
+01-AGO-16
+19-NOV-16
+REALPE REBOLLEDO EMILIO
+ 
+ 
+----------------------
+CRN
+12082
+BIOL3909
+1
+4
+TRABAJO GRADO, MONOG.PRAT.GRAD
+20
+4
+16
+----------------------
+ 
+ 
+-
+- -
+01-AGO-16
+19-NOV-16
+REALPE REBOLLEDO EMILIO
+ 
+ 
+----------------------
+CRN
+11525
+BIOL3911
+1
+6
+PRACTICA DE GRADO
+20
+3
+17
+----------------------
+ 
+ 
+-
+- -
+01-AGO-16
+19-NOV-16
+REALPE REBOLLEDO EMILIO
+ 
+ 
+----------------------
+CRN
+11526
+BIOL3912
+1
+2
+COLECCIONES BIOLOGICAS
+50
+19
+31
+----------------------
+ 
+ 
+L
+1700 - 1850
+- -
+01-AGO-16
+19-NOV-16
+CUERVO MAYA ANDRES MAURICIO
+ 
+ 
+----------------------
+CRN
+11527
+BIOL3991
+1
+6
+PRACTICA PROFESIONAL
+20
+0
+20
+----------------------
+ 
+ 
+-
+- -
+01-AGO-16
+19-NOV-16
+REALPE REBOLLEDO EMILIO
+ 
+ 
+----------------------
+CRN
+13692
+BIOL3995
+1
+0
+PROFUNDIZACION INVESTIGACION
+20
+0
+20
+----------------------
+ 
+ 
+-
+- -
+01-AGO-16
+19-NOV-16
+REALPE REBOLLEDO EMILIO
+ 
+ 
+----------------------

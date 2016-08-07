@@ -1,0 +1,5374 @@
+10107
+IIND1000
+1
+3
+INTROD. INGEN. INDUSTRIAL
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1730 - 1850
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1750
+- -
+01-AGO-16
+19-NOV-16
+MARTHA ERASO JUAN ESTEBAN
+&nbsp;
+&nbsp;
+----------------------
+16998
+IIND1000
+2
+3
+INTROD. INGEN. INDUSTRIAL
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1730 - 1850
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1750
+- -
+01-AGO-16
+19-NOV-16
+LESMES PALACIOS DIANA ESPERANZA
+&nbsp;
+&nbsp;
+----------------------
+16999
+IIND1000
+3
+3
+INTROD. INGEN. INDUSTRIAL
+38
+38
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1730 - 1850
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1750
+- -
+01-AGO-16
+19-NOV-16
+MELO ZAMBRANO JULIAN DAVID
+&nbsp;
+&nbsp;
+----------------------
+17000
+IIND1000
+4
+3
+INTROD. INGEN. INDUSTRIAL
+39
+39
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1730 - 1850
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1750
+- -
+01-AGO-16
+19-NOV-16
+JIMENEZ NESTOR
+&nbsp;
+&nbsp;
+----------------------
+12415
+IIND1001
+1
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+8
+2
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+VESGA DIAZ MARGARITA
+&nbsp;
+&nbsp;
+----------------------
+12416
+IIND1001
+2
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+4
+6
+----------------------
+&nbsp;
+&nbsp;
+L      J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+VESGA DIAZ MARGARITA
+&nbsp;
+&nbsp;
+----------------------
+12417
+IIND1001
+3
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+4
+6
+----------------------
+&nbsp;
+&nbsp;
+L        V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+NAVARRO FORERO CAMILO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+11362
+IIND1001
+4
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+2
+8
+----------------------
+&nbsp;
+&nbsp;
+M      V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+NAVARRO FORERO CAMILO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+12401
+IIND1001
+5
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+4
+6
+----------------------
+&nbsp;
+&nbsp;
+L      J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+DIAZ GALINDO GABRIELA
+&nbsp;
+&nbsp;
+----------------------
+12403
+IIND1001
+6
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+0
+10
+----------------------
+&nbsp;
+&nbsp;
+L        V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+DIAZ GALINDO GABRIELA
+&nbsp;
+&nbsp;
+----------------------
+12405
+IIND1001
+7
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+2
+8
+----------------------
+&nbsp;
+&nbsp;
+J  V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+SARMIENTO CARDONA CARLOS ALBERTO
+&nbsp;
+&nbsp;
+----------------------
+13719
+IIND1001
+8
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+5
+5
+----------------------
+&nbsp;
+&nbsp;
+L      J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+SARMIENTO CARDONA CARLOS ALBERTO
+&nbsp;
+&nbsp;
+----------------------
+12406
+IIND1001
+9
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+3
+7
+----------------------
+&nbsp;
+&nbsp;
+L      J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+12407
+IIND1001
+10
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+3
+7
+----------------------
+&nbsp;
+&nbsp;
+L      J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+12408
+IIND1001
+11
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+L        V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+12414
+IIND1001
+12
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+3
+7
+----------------------
+&nbsp;
+&nbsp;
+L        V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+12409
+IIND1001
+13
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+2
+8
+----------------------
+&nbsp;
+&nbsp;
+L        V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+12410
+IIND1001
+14
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+1
+9
+----------------------
+&nbsp;
+&nbsp;
+L        V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+12411
+IIND1001
+15
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+4
+6
+----------------------
+&nbsp;
+&nbsp;
+M      V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+12412
+IIND1001
+16
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+5
+5
+----------------------
+&nbsp;
+&nbsp;
+L        V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+12413
+IIND1001
+17
+0
+PROGRAMA DE ACOMPAÑAMIENTO
+10
+1
+9
+----------------------
+&nbsp;
+&nbsp;
+L      J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+22984
+IIND1003
+1
+0
+CLINICA DE PROBLEMAS (IIND)
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+L  M  I  J  V
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+21936
+IIND1301A
+1
+3
+MODELOS PARA PENSAR
+72
+72
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M      V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ZARAMA URDANETA ROBERTO
+&nbsp;
+&nbsp;
+----------------------
+10221
+IIND2070
+1
+0
+MONITORIA INGENIERIA INDUSTRIA
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+10222
+IIND2071
+2
+0
+MONITORIA INGENIERIA INDUSTRIA
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+10725
+IIND2103
+1
+3
+PRINCIPIOS OPTIMIZACION
+65
+65
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ SARMIENTO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+10727
+IIND2103
+5
+3
+PRINCIPIOS OPTIMIZACION
+60
+49
+11
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+FONTECHA GARCIA JOHN EDGAR
+&nbsp;
+&nbsp;
+----------------------
+10728
+IIND2103
+9
+3
+PRINCIPIOS OPTIMIZACION
+61
+61
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+HUERTAS PATIÑO JORGE ALBERTO
+&nbsp;
+&nbsp;
+----------------------
+11096
+IIND2103
+13
+3
+PRINCIPIOS OPTIMIZACION
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+FONTECHA GARCIA JOHN EDGAR
+&nbsp;
+&nbsp;
+----------------------
+12336
+IIND2103C
+2
+0
+REFUERZO PRINCIPIOS OPTIMIZAC.
+31
+31
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12418
+IIND2103C
+3
+0
+REFUERZO PRINCIPIOS OPTIMIZAC.
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12419
+IIND2103C
+6
+0
+REFUERZO PRINCIPIOS OPTIMIZAC.
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12420
+IIND2103C
+7
+0
+REFUERZO PRINCIPIOS OPTIMIZAC.
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12426
+IIND2103C
+10
+0
+REFUERZO PRINCIPIOS OPTIMIZAC.
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12421
+IIND2103C
+12
+0
+REFUERZO PRINCIPIOS OPTIMIZAC.
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12422
+IIND2103C
+14
+0
+REFUERZO PRINCIPIOS OPTIMIZAC.
+10
+10
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12423
+IIND2103C
+16
+0
+REFUERZO PRINCIPIOS OPTIMIZAC.
+30
+24
+6
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10764
+IIND2104
+1
+3
+MODELOS PROBABILISTICOS
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+FONTECHA GARCIA JOHN EDGAR
+&nbsp;
+&nbsp;
+----------------------
+10761
+IIND2104
+6
+3
+MODELOS PROBABILISTICOS
+70
+48
+22
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+ANNEAR CAMERO LUIS MAURICIO
+&nbsp;
+&nbsp;
+----------------------
+11159
+IIND2104
+11
+3
+MODELOS PROBABILISTICOS
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+OTERO LEON DANIEL FELIPE
+&nbsp;
+&nbsp;
+----------------------
+10797
+IIND2104
+16
+3
+MODELOS PROBABILISTICOS (INGL)
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+MURA IVAN
+&nbsp;
+&nbsp;
+----------------------
+12427
+IIND2104C
+2
+0
+REFUERZO MODELOS PROBABILISTIC
+35
+9
+26
+----------------------
+&nbsp;
+&nbsp;
+I
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12428
+IIND2104C
+3
+0
+REFUERZO MODELOS PROBABILISTIC
+35
+2
+33
+----------------------
+&nbsp;
+&nbsp;
+I
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12465
+IIND2104C
+4
+0
+REFUERZO MODELOS PROBABILISTIC
+35
+29
+6
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12429
+IIND2104C
+7
+0
+REFUERZO MODELOS PROBABILISTIC
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+MORALES ZAMORA GILBERTO ANDRES JOSE
+&nbsp;
+&nbsp;
+----------------------
+12430
+IIND2104C
+8
+0
+REFUERZO MODELOS PROBABILISTIC
+35
+31
+4
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+MORALES ZAMORA GILBERTO ANDRES JOSE
+&nbsp;
+&nbsp;
+----------------------
+12466
+IIND2104C
+9
+0
+REFUERZO MODELOS PROBABILISTIC
+35
+15
+20
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+MORALES ZAMORA GILBERTO ANDRES JOSE
+&nbsp;
+&nbsp;
+----------------------
+12431
+IIND2104C
+12
+0
+REFUERZO MODELOS PROBABILISTIC
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+WILCHES MOGOLLON MARIA ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+12432
+IIND2104C
+13
+0
+REFUERZO MODELOS PROBABILISTIC
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+WILCHES MOGOLLON MARIA ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+12467
+IIND2104C
+14
+0
+REFUERZO MODELOS PROBABILISTIC
+10
+7
+3
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12337
+IIND2104C
+17
+0
+REFUERZO MODELOS PROBABILISTIC
+35
+18
+17
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12433
+IIND2104C
+18
+0
+REFUERZO MODELOS PROBABILISTIC
+35
+7
+28
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12469
+IIND2104C
+19
+0
+REFUERZO MODELOS PROBABILISTIC
+35
+5
+30
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10703
+IIND2106
+1
+3
+PROBABILIDAD Y ESTADÍSTICA I
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+GARCIA CARRIZOSA LAURA MARIA
+&nbsp;
+&nbsp;
+----------------------
+10767
+IIND2106
+5
+3
+PROBABILIDAD Y ESTADÍSTICA I
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+LOPEZ GONZALEZ MARIA ALEJANDRA
+&nbsp;
+&nbsp;
+----------------------
+10771
+IIND2106
+9
+3
+PROBABILIDAD Y ESTADÍSTICA I
+70
+58
+12
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+GARCIA CARRIZOSA LAURA MARIA
+&nbsp;
+&nbsp;
+----------------------
+10774
+IIND2106
+13
+3
+PROBABILIDAD Y ESTADÍSTICA I
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+BERNAL RUEDA ASTRID JOHANNA
+&nbsp;
+&nbsp;
+----------------------
+10777
+IIND2106
+17
+3
+PROBABILIDAD Y ESTADÍSTICA I
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+TORRES GONZALO
+&nbsp;
+&nbsp;
+----------------------
+10781
+IIND2106
+21
+3
+PROBABILIDAD Y ESTADÍSTICA I
+70
+58
+12
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+MUTIS GAITAN HERNANDO ENRIQ
+&nbsp;
+&nbsp;
+----------------------
+10783
+IIND2106
+25
+3
+PROBABILIDAD Y ESTADÍSTICA I
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+BERNAL RUEDA ASTRID JOHANNA
+&nbsp;
+&nbsp;
+----------------------
+Curso Blended
+10798
+IIND2106
+29
+3
+PROBABILIDAD Y ESTADÍSTICA I
+41
+41
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1220
+- -
+01-AGO-16
+19-NOV-16
+BERNAL RUEDA ASTRID JOHANNA
+&nbsp;
+&nbsp;
+----------------------
+Curso Blended
+10895
+IIND2106
+34
+3
+PROBABILIDAD Y ESTADÍSTICA I
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1220
+- -
+01-AGO-16
+19-NOV-16
+CASTILLO HERNANDEZ MARIO JOSE
+&nbsp;
+&nbsp;
+----------------------
+20382
+IIND2106
+38
+3
+PROBABILIDAD Y ESTADÍSTICA I
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+GARCIA CARRIZOSA LAURA MARIA
+&nbsp;
+&nbsp;
+----------------------
+12434
+IIND2106C
+2
+0
+REFUERZO PROBA Y ESTAD I
+35
+33
+2
+----------------------
+&nbsp;
+&nbsp;
+L
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12435
+IIND2106C
+3
+0
+REFUERZO PROBA Y ESTAD I
+35
+21
+14
+----------------------
+&nbsp;
+&nbsp;
+L
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12436
+IIND2106C
+4
+0
+REFUERZO PROBA Y ESTAD I
+35
+34
+1
+----------------------
+&nbsp;
+&nbsp;
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12438
+IIND2106C
+6
+0
+REFUERZO PROBA Y ESTAD I
+35
+34
+1
+----------------------
+&nbsp;
+&nbsp;
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12437
+IIND2106C
+7
+0
+REFUERZO PROBA Y ESTAD I
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12441
+IIND2106C
+8
+0
+REFUERZO PROBA Y ESTAD I
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12442
+IIND2106C
+11
+0
+REFUERZO PROBA Y ESTAD I
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12475
+IIND2106C
+14
+0
+REFUERZO PROBA Y ESTAD I
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12474
+IIND2106C
+15
+0
+REFUERZO PROBA Y ESTAD I
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12473
+IIND2106C
+16
+0
+REFUERZO PROBA Y ESTAD I
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12443
+IIND2106C
+18
+0
+REFUERZO PROBA Y ESTAD I
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12440
+IIND2106C
+19
+0
+REFUERZO PROBA Y ESTAD I
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12439
+IIND2106C
+20
+0
+REFUERZO PROBA Y ESTAD I
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12472
+IIND2106C
+22
+0
+REFUERZO PROBA Y ESTAD I
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12471
+IIND2106C
+23
+0
+REFUERZO PROBA Y ESTAD I
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12470
+IIND2106C
+24
+0
+REFUERZO PROBA Y ESTAD I
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12444
+IIND2106C
+39
+0
+REFUERZO PROBA Y ESTAD I
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12338
+IIND2106C
+40
+0
+REFUERZO PROBA Y ESTAD I
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+20384
+IIND2106C
+41
+0
+REFUERZO PROBA Y ESTAD I
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10603
+IIND2107
+1
+3
+PROBABILIDAD Y ESTADISTICA II
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+SANDOVAL VASQUEZ LIDA TOPACIO
+&nbsp;
+&nbsp;
+----------------------
+10874
+IIND2107
+5
+3
+PROBABILIDAD Y ESTADISTICA II
+70
+38
+32
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+VALENCIA CARLOS
+&nbsp;
+&nbsp;
+----------------------
+10875
+IIND2107
+9
+3
+PROBABILIDAD Y ESTADISTICA II
+70
+50
+20
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+CORREAL NUÑEZ MARIA ELSA
+&nbsp;
+&nbsp;
+----------------------
+11023
+IIND2107
+13
+3
+PROBABILIDAD Y ESTADISTICA II
+70
+56
+14
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+SANDOVAL VASQUEZ LIDA TOPACIO
+&nbsp;
+&nbsp;
+----------------------
+12339
+IIND2107C
+2
+0
+REFUERZO PROBA Y ESTD II
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+CALCETERO VANEGAS SEBASTIAN FELIPE
+&nbsp;
+&nbsp;
+----------------------
+12476
+IIND2107C
+3
+0
+REFUERZO PROBA Y ESTD II
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+VILLAR ORTEGA ADER LUIS
+&nbsp;
+&nbsp;
+----------------------
+12481
+IIND2107C
+6
+0
+REFUERZO PROBA Y ESTD II
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+VILLAR ORTEGA ADER LUIS
+&nbsp;
+&nbsp;
+----------------------
+12482
+IIND2107C
+7
+0
+REFUERZO PROBA Y ESTD II
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+QUIROGA GOMEZ EDWIN CAMILO
+&nbsp;
+&nbsp;
+----------------------
+12477
+IIND2107C
+10
+0
+REFUERZO PROBA Y ESTD II
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+QUIROGA GOMEZ EDWIN CAMILO
+&nbsp;
+&nbsp;
+----------------------
+12478
+IIND2107C
+11
+0
+REFUERZO PROBA Y ESTD II
+25
+10
+15
+----------------------
+&nbsp;
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+CALCETERO VANEGAS SEBASTIAN FELIPE
+&nbsp;
+&nbsp;
+----------------------
+12479
+IIND2107C
+14
+0
+REFUERZO PROBA Y ESTD II
+25
+5
+20
+----------------------
+&nbsp;
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+QUIROGA GOMEZ EDWIN CAMILO
+&nbsp;
+&nbsp;
+----------------------
+12480
+IIND2107C
+15
+0
+REFUERZO PROBA Y ESTD II
+35
+24
+11
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+CALCETERO VANEGAS SEBASTIAN FELIPE
+&nbsp;
+&nbsp;
+----------------------
+12256
+IIND2109
+1
+3
+SISTEMAS APOYO A LA DECISION
+60
+60
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+OTERO LEON DANIEL FELIPE
+&nbsp;
+&nbsp;
+----------------------
+12494
+IIND2109
+5
+3
+SISTEMAS APOYO A LA DECISION
+60
+41
+19
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+LOZANO SANCHEZ ALVARO JULIAN
+&nbsp;
+&nbsp;
+----------------------
+14145
+IIND2109
+12
+3
+SISTEMAS APOYO A LA DECISION
+60
+60
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+HUERTAS PATIÑO JORGE ALBERTO
+&nbsp;
+&nbsp;
+----------------------
+17051
+IIND2109
+15
+3
+SISTEMAS APOYO A LA DECISION
+60
+60
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+HUERTAS PATIÑO JORGE ALBERTO
+&nbsp;
+&nbsp;
+----------------------
+20388
+IIND2109
+18
+3
+SISTEMAS APOYO A LA DECISION
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+MORALES MAHECHA RIDLEY SANTIAGO
+&nbsp;
+&nbsp;
+----------------------
+23562
+IIND2109
+22
+3
+SISTEMAS APOYO A LA DECISION
+40
+8
+32
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1730 - 1850
+- -
+01-AGO-16
+19-NOV-16
+MONTERO TENG ALVARO JOSE
+&nbsp;
+&nbsp;
+----------------------
+17053
+IIND2109C
+2
+0
+REFUERZO SIST. APOYO DECISION
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ZAMBRANO TAPIA JONY ALEXANDER
+&nbsp;
+&nbsp;
+----------------------
+15149
+IIND2109C
+3
+0
+REFUERZO SIST. APOYO DECISION
+30
+22
+8
+----------------------
+&nbsp;
+&nbsp;
+J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ZAMBRANO TAPIA JONY ALEXANDER
+&nbsp;
+&nbsp;
+----------------------
+13644
+IIND2109C
+6
+0
+REFUERZO SIST. APOYO DECISION
+30
+15
+15
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+CARRANZA RONCANCIO VIVIAN IBETH
+&nbsp;
+&nbsp;
+----------------------
+15134
+IIND2109C
+7
+0
+REFUERZO SIST. APOYO DECISION
+30
+5
+25
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+ZAMBRANO TAPIA JONY ALEXANDER
+&nbsp;
+&nbsp;
+----------------------
+13745
+IIND2109C
+9
+0
+REFUERZO SIST. APOYO DECISION
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+CARRANZA RONCANCIO VIVIAN IBETH
+&nbsp;
+&nbsp;
+----------------------
+15150
+IIND2109C
+10
+0
+REFUERZO SIST. APOYO DECISION
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ZAMBRANO TAPIA JONY ALEXANDER
+&nbsp;
+&nbsp;
+----------------------
+15135
+IIND2109C
+13
+0
+REFUERZO SIST. APOYO DECISION
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+CARRANZA RONCANCIO VIVIAN IBETH
+&nbsp;
+&nbsp;
+----------------------
+14146
+IIND2109C
+14
+0
+REFUERZO SIST. APOYO DECISION
+30
+11
+19
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ZAMBRANO TAPIA JONY ALEXANDER
+&nbsp;
+&nbsp;
+----------------------
+17052
+IIND2109C
+16
+0
+REFUERZO SIST. APOYO DECISION
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+CARRANZA RONCANCIO VIVIAN IBETH
+&nbsp;
+&nbsp;
+----------------------
+13643
+IIND2109C
+17
+0
+REFUERZO SIST. APOYO DECISION
+30
+24
+6
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+CARRANZA RONCANCIO VIVIAN IBETH
+&nbsp;
+&nbsp;
+----------------------
+20392
+IIND2109C
+19
+0
+REFUERZO SIST. APOYO DECISION
+30
+27
+3
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+CARRANZA RONCANCIO VIVIAN IBETH
+&nbsp;
+&nbsp;
+----------------------
+20393
+IIND2109C
+20
+0
+REFUERZO SIST. APOYO DECISION
+30
+15
+15
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+ZAMBRANO TAPIA JONY ALEXANDER
+&nbsp;
+&nbsp;
+----------------------
+10740
+IIND2201
+1
+3
+CONTROL DE PRODUCCION
+60
+60
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+VELASQUEZ RIOBO JOSE LUIS
+&nbsp;
+&nbsp;
+----------------------
+10742
+IIND2201
+5
+3
+CONTROL DE PRODUCCION (INGLES)
+60
+60
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+ABOLGHASEM GHAZVINI SEPIDEH
+&nbsp;
+&nbsp;
+----------------------
+10876
+IIND2201
+9
+3
+CONTROL DE PRODUCCION
+60
+45
+15
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+MARTIN ALDANA ANA LORENA
+&nbsp;
+&nbsp;
+----------------------
+12489
+IIND2201C
+2
+0
+REFUERZO CONTROL DE PRODUCCION
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+MADRIGAL CASTRILLON ANDRES
+&nbsp;
+&nbsp;
+----------------------
+12490
+IIND2201C
+3
+0
+REFUERZO CONTROL DE PRODUCCION
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+MADRIGAL CASTRILLON ANDRES
+&nbsp;
+&nbsp;
+----------------------
+12491
+IIND2201C
+6
+0
+REFUERZO CONTROL DE PRODUCCION
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+CASTRO MAYORGA ASTRID YAMILE
+&nbsp;
+&nbsp;
+----------------------
+12340
+IIND2201C
+7
+0
+REFUERZO CONTROL DE PRODUCCION
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+CASTRO MAYORGA ASTRID YAMILE
+&nbsp;
+&nbsp;
+----------------------
+12492
+IIND2201C
+10
+0
+REFUERZO CONTROL DE PRODUCCION
+30
+23
+7
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12493
+IIND2201C
+11
+0
+REFUERZO CONTROL DE PRODUCCION
+30
+22
+8
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10499
+IIND2202
+1
+3
+FUNDAMENTOS DE PRODUCCION
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+VELASQUEZ RIOBO JOSE LUIS
+&nbsp;
+&nbsp;
+----------------------
+10500
+IIND2202
+5
+3
+FUNDAMENTOS DE PRODUCCION
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+VELASQUEZ RIOBO JOSE LUIS
+&nbsp;
+&nbsp;
+----------------------
+12495
+IIND2202
+9
+3
+FUNDAMENTOS DE PRODUCCION
+70
+66
+4
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+MONTOYA CASAS CARLOS EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+11051
+IIND2202
+13
+3
+FUNDAMENTOS DE PRODUCCION
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+GUTIERREZ ELIECER
+&nbsp;
+&nbsp;
+----------------------
+12341
+IIND2202C
+2
+0
+COMPL. FUNDAMENTOS PRODUCCIÓN
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+AGUIRRE GARCIA WILLIAM DAVID
+&nbsp;
+&nbsp;
+----------------------
+12626
+IIND2202C
+3
+0
+COMPL. FUNDAMENTOS PRODUCCIÓN
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+AGUIRRE GARCIA WILLIAM DAVID
+&nbsp;
+&nbsp;
+----------------------
+12628
+IIND2202C
+6
+0
+COMPL. FUNDAMENTOS PRODUCCIÓN
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+GARCIA CARDENAS DANIEL FELIPE
+&nbsp;
+&nbsp;
+----------------------
+12630
+IIND2202C
+7
+0
+COMPL. FUNDAMENTOS PRODUCCIÓN
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+GARCIA CARDENAS DANIEL FELIPE
+&nbsp;
+&nbsp;
+----------------------
+12633
+IIND2202C
+10
+0
+COMPL. FUNDAMENTOS PRODUCCIÓN
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+QUIROZ CASTELLANOS CARLOS ANDRES
+&nbsp;
+&nbsp;
+----------------------
+12635
+IIND2202C
+11
+0
+COMPL. FUNDAMENTOS PRODUCCIÓN
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+QUIROZ CASTELLANOS CARLOS ANDRES
+&nbsp;
+&nbsp;
+----------------------
+12636
+IIND2202C
+14
+0
+COMPL. FUNDAMENTOS PRODUCCIÓN
+35
+31
+4
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+GUERRERO SANCHEZ DIEGO FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+12641
+IIND2202C
+15
+0
+COMPL. FUNDAMENTOS PRODUCCIÓN
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+GUERRERO SANCHEZ DIEGO FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+10756
+IIND2301
+1
+3
+DINAMICA DE SISTEMAS
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+OLAYA NIETO CAMILO ENRIQUE
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10756, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+10757
+IIND2301
+5
+3
+DINAMICA DE SISTEMAS
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+GOMEZ QUINTERO JULIANA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10757, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+10799
+IIND2301
+9
+3
+DINAMICA DE SISTEMAS
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+GUZMAN ABELLO LAURA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10799, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+12645
+IIND2301C
+2
+0
+REFUERZO DINÁMICA DE SISTEMAS
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12342
+IIND2301C
+3
+0
+REFUERZO DINÁMICA DE SISTEMAS
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12647
+IIND2301C
+6
+0
+REFUERZO DINÁMICA DE SISTEMAS
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+TABARES HERNANDEZ LAURA JIMENA
+&nbsp;
+&nbsp;
+----------------------
+12648
+IIND2301C
+7
+0
+REFUERZO DINÁMICA DE SISTEMAS
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+TABARES HERNANDEZ LAURA JIMENA
+&nbsp;
+&nbsp;
+----------------------
+12646
+IIND2301C
+10
+0
+REFUERZO DINÁMICA DE SISTEMAS
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+UPEGUI ZAPATA LAURA
+&nbsp;
+&nbsp;
+----------------------
+12649
+IIND2301C
+11
+0
+REFUERZO DINÁMICA DE SISTEMAS
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+UPEGUI ZAPATA LAURA
+&nbsp;
+&nbsp;
+----------------------
+10765
+IIND2302
+1
+3
+PENS SISTEMICO ORGANIZACIONES
+90
+52
+38
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+BARROS CASTRO RICARDO ABAD
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10765, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+11258
+IIND2302
+7
+3
+PENS SISTEMICO ORGANIZACIONES
+90
+90
+0
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+PINZON SALCEDO LUIS
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11258, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+16625
+IIND2302
+13
+3
+PENS SISTEMICO ORGANIZACIONES
+80
+80
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ CAJIAO MARIA CATALINA
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 16625, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+12294
+IIND2302C
+2
+0
+COMPL. PENS SISTE ORGANIZACION
+25
+19
+6
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ TOVAR SILVIA ELENA
+&nbsp;
+&nbsp;
+----------------------
+12501
+IIND2302C
+3
+0
+COMPL. PENS SISTE ORGANIZACION
+25
+20
+5
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ TOVAR SILVIA ELENA
+&nbsp;
+&nbsp;
+----------------------
+12502
+IIND2302C
+4
+0
+COMPL. PENS SISTE ORGANIZACION
+25
+6
+19
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ TOVAR SILVIA ELENA
+&nbsp;
+&nbsp;
+----------------------
+18545
+IIND2302C
+5
+0
+COMPL. PENS SISTE ORGANIZACION
+25
+7
+18
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ TOVAR SILVIA ELENA
+&nbsp;
+&nbsp;
+----------------------
+12504
+IIND2302C
+8
+0
+COMPL. PENS SISTE ORGANIZACION
+26
+26
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ TOVAR SILVIA ELENA
+&nbsp;
+&nbsp;
+----------------------
+12505
+IIND2302C
+9
+0
+COMPL. PENS SISTE ORGANIZACION
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ TOVAR SILVIA ELENA
+&nbsp;
+&nbsp;
+----------------------
+12503
+IIND2302C
+10
+0
+COMPL. PENS SISTE ORGANIZACION
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ GONZALEZ CARLOS FRANCISCO
+&nbsp;
+&nbsp;
+----------------------
+18546
+IIND2302C
+11
+0
+COMPL. PENS SISTE ORGANIZACION
+25
+14
+11
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ GONZALEZ CARLOS FRANCISCO
+&nbsp;
+&nbsp;
+----------------------
+12507
+IIND2302C
+14
+0
+COMPL. PENS SISTE ORGANIZACION
+25
+13
+12
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ GONZALEZ CARLOS FRANCISCO
+&nbsp;
+&nbsp;
+----------------------
+12506
+IIND2302C
+15
+0
+COMPL. PENS SISTE ORGANIZACION
+25
+17
+8
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ GONZALEZ CARLOS FRANCISCO
+&nbsp;
+&nbsp;
+----------------------
+18547
+IIND2302C
+16
+0
+COMPL. PENS SISTE ORGANIZACION
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ GONZALEZ CARLOS FRANCISCO
+&nbsp;
+&nbsp;
+----------------------
+12508
+IIND2302C
+17
+0
+COMPL. PENS SISTE ORGANIZACION
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1750
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ GONZALEZ CARLOS FRANCISCO
+&nbsp;
+&nbsp;
+----------------------
+10116
+IIND2400
+1
+3
+SIST. DE CONTROL GERENCIAL
+50
+50
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+ORTIZ ORTIZ JUAN DIEGO
+&nbsp;
+&nbsp;
+----------------------
+10151
+IIND2400
+2
+3
+SIST. DE CONTROL GERENCIAL
+50
+50
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+JAMOCO ANGEL OSCAR JAVIER
+&nbsp;
+&nbsp;
+----------------------
+10360
+IIND2400
+3
+3
+SIST. DE CONTROL GERENCIAL
+50
+50
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+VARGAS TORRES SERGIO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+10546
+IIND2400
+4
+3
+SIST. DE CONTROL GERENCIAL
+52
+52
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+SANZ PAOLA
+&nbsp;
+&nbsp;
+----------------------
+12752
+IIND2400
+5
+3
+SIST. DE CONTROL GERENCIAL
+50
+46
+4
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+VARGAS TORRES SERGIO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+10152
+IIND2401
+1
+3
+ANALIS.DECISION INVERSION
+65
+58
+7
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+GALINDO ORTIZ ANDRES FELIPE
+&nbsp;
+&nbsp;
+----------------------
+10153
+IIND2401
+4
+3
+ANALIS.DECISION INVERSION
+65
+16
+49
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ PRIETO ELKIN EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+10154
+IIND2401
+7
+3
+ANALIS.DECISION INVERSION
+65
+65
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+PINZON MARIO
+&nbsp;
+&nbsp;
+----------------------
+10155
+IIND2401
+10
+3
+ANALIS.DECISION INVERSION
+65
+65
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+GALINDO ORTIZ ANDRES FELIPE
+&nbsp;
+&nbsp;
+----------------------
+10156
+IIND2401
+13
+3
+ANALIS.DECISION INVERSION
+65
+65
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+ORTIZ ORTIZ JUAN DIEGO
+&nbsp;
+&nbsp;
+----------------------
+10361
+IIND2401
+16
+3
+ANALIS.DECISION INVERSION
+65
+65
+0
+----------------------
+&nbsp;
+&nbsp;
+M      V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ORTIZ ORTIZ JUAN DIEGO
+&nbsp;
+&nbsp;
+----------------------
+10568
+IIND2401
+19
+3
+ANALIS.DECISION INVERSION
+65
+65
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+GALINDO ORTIZ ANDRES FELIPE
+&nbsp;
+&nbsp;
+----------------------
+10670
+IIND2401
+22
+3
+ANALIS.DECISION INVERSION
+65
+62
+3
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+VARGAS TORRES SERGIO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+10758
+IIND2401
+25
+3
+ANALIS.DECISION INVERSION
+65
+38
+27
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+BAQUERO HAEBERLIN MANUEL
+&nbsp;
+&nbsp;
+----------------------
+10759
+IIND2401
+28
+3
+ANALIS.DECISION INVERSION
+65
+20
+45
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1800 - 1920
+- -
+01-AGO-16
+19-NOV-16
+LOZANO JAVIER
+&nbsp;
+&nbsp;
+----------------------
+13289
+IIND2401C
+2
+0
+REFUERZO ANALIS.DECISION INVER
+65
+34
+31
+----------------------
+&nbsp;
+&nbsp;
+L
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+BELTRAN AREVALO ANDRES FELIPE
+CAMARGO CARRILLO DANIELA
+&nbsp;
+&nbsp;
+----------------------
+13291
+IIND2401C
+5
+0
+REFUERZO ANALIS.DECISION INVER
+65
+65
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+BELTRAN AREVALO ANDRES FELIPE
+CAMARGO CARRILLO DANIELA
+&nbsp;
+&nbsp;
+----------------------
+13290
+IIND2401C
+8
+0
+REFUERZO ANALIS.DECISION INVER
+65
+51
+14
+----------------------
+&nbsp;
+&nbsp;
+L
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+SORIANO PULIDO ELIANA MARIA
+VANEGAS RENDON LAURA CRISTINA
+&nbsp;
+&nbsp;
+----------------------
+13292
+IIND2401C
+11
+0
+REFUERZO ANALIS.DECISION INVER
+65
+65
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+SORIANO PULIDO ELIANA MARIA
+VANEGAS RENDON LAURA CRISTINA
+&nbsp;
+&nbsp;
+----------------------
+13293
+IIND2401C
+14
+0
+REFUERZO ANALIS.DECISION INVER
+65
+65
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+STEFANEL VASQUEZ MAURICIO
+AGUDELO MENESES LAURA
+&nbsp;
+&nbsp;
+----------------------
+13294
+IIND2401C
+17
+0
+REFUERZO ANALIS.DECISION INVER
+65
+65
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+STEFANEL VASQUEZ MAURICIO
+AGUDELO MENESES LAURA
+&nbsp;
+&nbsp;
+----------------------
+13295
+IIND2401C
+20
+0
+REFUERZO ANALIS.DECISION INVER
+65
+45
+20
+----------------------
+&nbsp;
+&nbsp;
+L
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ ROMAN MARTHA LILIANA
+&nbsp;
+&nbsp;
+----------------------
+13296
+IIND2401C
+23
+0
+REFUERZO ANALIS.DECISION INVER
+65
+28
+37
+----------------------
+&nbsp;
+&nbsp;
+L
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ ROMAN MARTHA LILIANA
+&nbsp;
+&nbsp;
+----------------------
+13297
+IIND2401C
+26
+0
+REFUERZO ANALIS.DECISION INVER
+65
+43
+22
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13298
+IIND2401C
+29
+0
+REFUERZO ANALIS.DECISION INVER
+65
+58
+7
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10119
+IIND3000
+1
+0
+PROYECTO DE GRADO 1
+192
+117
+75
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+MUÑOZ HERNANDEZ DIANA CATALINA
+SUAREZ SANCHEZ MARIA MERCEDES
+&nbsp;
+&nbsp;
+----------------------
+15056
+IIND3000
+2
+0
+PROYECTO DE GRADO 1
+192
+89
+103
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+MUÑOZ HERNANDEZ DIANA CATALINA
+SUAREZ SANCHEZ MARIA MERCEDES
+&nbsp;
+&nbsp;
+----------------------
+10120
+IIND3001
+1
+3
+PROYECTO DE GRADO 2
+200
+110
+90
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+MEDAGLIA GONZALEZ ANDRES
+&nbsp;
+&nbsp;
+----------------------
+10121
+IIND3001
+2
+3
+PROYECTO DE GRADO 2
+30
+12
+18
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+GALVEZ REY LUIS EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+10455
+IIND3001
+3
+3
+PROYECTO DE GRADO 2
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+HILARION JULIA
+&nbsp;
+&nbsp;
+----------------------
+13047
+IIND3001
+4
+3
+PROYECTO DE GRADO 2
+30
+2
+28
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ PALACIOS MIGUEL ANGEL
+&nbsp;
+&nbsp;
+----------------------
+16620
+IIND3001
+5
+3
+PROYEC GRADO 2 (SIX SIGMA)
+30
+5
+25
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+SAMPAYO OLIVEROS ERNESTO FABIAN
+&nbsp;
+&nbsp;
+----------------------
+16619
+IIND3001
+6
+3
+PROYECTO DE GRADO 2
+30
+11
+19
+----------------------
+&nbsp;
+&nbsp;
+I
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ CAJIAO MARIA CATALINA
+&nbsp;
+&nbsp;
+----------------------
+10586
+IIND3006
+1
+3
+PROYECTO INTERMEDIO
+35
+35
+0
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+MELO ZAMBRANO JULIAN DAVID
+&nbsp;
+&nbsp;
+----------------------
+12075
+IIND3006
+3
+3
+PROY. INT. ING. SIN FRONTERAS
+35
+23
+12
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+RAMIREZ CAJIAO MARIA CATALINA
+&nbsp;
+&nbsp;
+----------------------
+13432
+IIND3107
+1
+3
+ING. DE MERCADEO
+50
+29
+21
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+TORRES GONZALO
+&nbsp;
+&nbsp;
+----------------------
+11174
+IIND3113
+1
+3
+SIMULAC. EVENTOS DISCRETOS
+70
+41
+29
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+CABRALES AREVALO SERGIO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+11224
+IIND3113
+5
+3
+SIMULAC. EVENTOS DISCRETOS
+50
+50
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+CABRALES AREVALO SERGIO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+11225
+IIND3113
+9
+3
+SIMULAC. EVENTOS DISCRETOS
+70
+70
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+OTERO LEON DANIEL FELIPE
+&nbsp;
+&nbsp;
+----------------------
+12675
+IIND3113C
+2
+0
+REFUERZO SIMULA. EVENT.DISCRET
+26
+26
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+HERRERA MOLANO LAURA FERNANDA
+&nbsp;
+&nbsp;
+----------------------
+12672
+IIND3113C
+3
+0
+REFUERZO SIMULA. EVENT.DISCRET
+26
+26
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+HERRERA MOLANO LAURA FERNANDA
+&nbsp;
+&nbsp;
+----------------------
+12676
+IIND3113C
+6
+0
+REFUERZO SIMULA. EVENT.DISCRET
+25
+25
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+URIZA ANTORVEZA PABLO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+12343
+IIND3113C
+7
+0
+REFUERZO SIMULA. EVENT.DISCRET
+28
+28
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+URIZA ANTORVEZA PABLO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+12674
+IIND3113C
+10
+0
+REFUERZO SIMULA. EVENT.DISCRET
+28
+28
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+HERRAN GARCIA JUAN SEBASTIAN
+&nbsp;
+&nbsp;
+----------------------
+13175
+IIND3113C
+11
+0
+REFUERZO SIMULA. EVENT.DISCRET
+28
+28
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+HERRAN GARCIA JUAN SEBASTIAN
+&nbsp;
+&nbsp;
+----------------------
+10459
+IIND3202
+1
+3
+GERENCIA DE PRODUCCION
+30
+18
+12
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+GALVEZ REY LUIS EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+21937
+IIND3209
+1
+3
+INNOVACION TECNOLOGICA
+30
+16
+14
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+SAMPER LUIS FELIPE
+&nbsp;
+&nbsp;
+----------------------
+10877
+IIND3218
+1
+3
+FUNDAMENTOS DE LA CALIDAD
+60
+26
+34
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+AMAYA GUIO CIRO ALBERTO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 10877, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+12295
+IIND3218C
+2
+0
+REFUERZO FUND. CALIDAD
+30
+17
+13
+----------------------
+&nbsp;
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+RUBIANO ROJAS MARIO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+12671
+IIND3218C
+3
+0
+REFUERZO FUND. CALIDAD
+30
+9
+21
+----------------------
+&nbsp;
+&nbsp;
+L
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+RUBIANO ROJAS MARIO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+11175
+IIND3221
+1
+3
+LOGISTICA
+60
+35
+25
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+TORRES DELGADO JOSE FIDEL
+&nbsp;
+&nbsp;
+----------------------
+11227
+IIND3221
+5
+3
+LOGISTICA
+60
+60
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+GUTIERREZ ELIECER
+&nbsp;
+&nbsp;
+----------------------
+11228
+IIND3221
+9
+3
+LOGISTICA
+60
+60
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+SAMPAYO OLIVEROS ERNESTO FABIAN
+&nbsp;
+&nbsp;
+----------------------
+12344
+IIND3221C
+2
+0
+REFUERZO LOGÍSTICA
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+RUIZ MARIN SANDRA MILENA
+&nbsp;
+&nbsp;
+----------------------
+12677
+IIND3221C
+3
+0
+REFUERZO LOGÍSTICA
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+RUIZ MARIN SANDRA MILENA
+&nbsp;
+&nbsp;
+----------------------
+12678
+IIND3221C
+6
+0
+REFUERZO LOGÍSTICA
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+BETANCOURT HERRERA LUISA FERNANDA
+&nbsp;
+&nbsp;
+----------------------
+12679
+IIND3221C
+7
+0
+REFUERZO LOGÍSTICA
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+BETANCOURT HERRERA LUISA FERNANDA
+&nbsp;
+&nbsp;
+----------------------
+12680
+IIND3221C
+10
+0
+REFUERZO LOGÍSTICA
+30
+26
+4
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12681
+IIND3221C
+11
+0
+REFUERZO LOGÍSTICA
+30
+9
+21
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+10168
+IIND3301
+1
+3
+SISTEMAS PUBLICOS
+44
+31
+13
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ACEVEDO BOHORQUEZ JORGE
+&nbsp;
+&nbsp;
+----------------------
+21938
+IIND3304
+1
+3
+NEGOCIACION COLECTIVA
+60
+37
+23
+----------------------
+&nbsp;
+&nbsp;
+I
+1100 - 1350
+- -
+01-AGO-16
+19-NOV-16
+SARKIS BASSAM
+&nbsp;
+&nbsp;
+----------------------
+11176
+IIND3311
+1
+3
+ESTRATEGIA ORGANIZACIONAL
+100
+86
+14
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+GARCIA CESAR
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11176, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+11680
+IIND3311
+5
+3
+ESTRATEGIA ORGANIZACIONAL
+80
+80
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+BOHORQUEZ PINZON JUAN CAMILO
+&nbsp;
+&nbsp;
+----------------------
+La Sección principal (Magistral) con CRN 11680, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+----------------------
+12296
+IIND3311C
+2
+0
+COMPL. ESTRAT. ORGANIZACIONAL
+50
+36
+14
+----------------------
+&nbsp;
+&nbsp;
+V
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12496
+IIND3311C
+3
+0
+COMPL. ESTRAT. ORGANIZACIONAL
+50
+50
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+12497
+IIND3311C
+6
+0
+COMPL. ESTRAT. ORGANIZACIONAL
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+ALFONSO CAMACHO CAMILO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+12498
+IIND3311C
+7
+0
+COMPL. ESTRAT. ORGANIZACIONAL
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+ALFONSO CAMACHO CAMILO ANDRES
+&nbsp;
+&nbsp;
+----------------------
+13478
+IIND3312
+1
+3
+EMPREND.INNOVAC.EN INGE
+51
+51
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0800 - 0920
+- -
+01-AGO-16
+19-NOV-16
+HILARION JULIA
+&nbsp;
+&nbsp;
+----------------------
+10752
+IIND3400
+1
+3
+FINANZAS
+100
+100
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+VILLARREAL NAVARRO JULIO
+&nbsp;
+&nbsp;
+----------------------
+10158
+IIND3400
+2
+3
+FINANZAS
+100
+95
+5
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+VILLARREAL NAVARRO JULIO
+&nbsp;
+&nbsp;
+----------------------
+13075
+IIND3402
+1
+3
+VALORACION DE EMPRESAS
+50
+50
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0750
+- -
+01-AGO-16
+19-NOV-16
+VILLARREAL NAVARRO JULIO
+&nbsp;
+&nbsp;
+----------------------
+13860
+IIND3991
+1
+6
+PRACTICA PROFESIONAL
+200
+82
+118
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+11315
+IIND4002
+1
+4
+TESIS 1
+0
+37
+-37
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+10190
+IIND4005
+1
+0
+SEMINARIO DE INVESTIGACION
+20
+11
+9
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+1230 - 1350
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+GARCIA ARANGO ALBERTO
+&nbsp;
+&nbsp;
+----------------------
+11316
+IIND4006
+1
+8
+TESIS DE GRADO 2
+0
+30
+-30
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+10396
+IIND4007
+1
+3
+NIVELATORIO ESTOCASTICOS
+20
+17
+3
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+10356
+IIND4008
+1
+3
+NIVELATORIO OPTIMIZACION
+20
+9
+11
+----------------------
+&nbsp;
+&nbsp;
+M
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+12050
+IIND4009
+1
+2
+INTERCAMBIO DE MAESTRIA
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+13861
+IIND4010
+1
+0
+INTERCAMBIO INTERNACIONAL
+0
+2
+-2
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+13862
+IIND4011
+1
+8
+TESIS DOBLE DIPLOMA
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+10016
+IIND4100
+1
+4
+MODELOS ESTADIST.LINEALES
+49
+48
+1
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+MUTIS GAITAN HERNANDO ENRIQ
+&nbsp;
+&nbsp;
+----------------------
+10017
+IIND4101
+1
+4
+OPTIMIZACION AVANZADA
+45
+21
+24
+----------------------
+&nbsp;
+&nbsp;
+L    I    V
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+MEDAGLIA GONZALEZ ANDRES
+&nbsp;
+&nbsp;
+----------------------
+21939
+IIND4103
+1
+4
+PRON.Y.SERIES DE TIEMPO
+45
+39
+6
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+CORREAL NUÑEZ MARIA ELSA
+&nbsp;
+&nbsp;
+----------------------
+21940
+IIND4109
+1
+4
+METAHEURISTICAS
+45
+10
+35
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+AMAYA GUIO CIRO ALBERTO
+&nbsp;
+&nbsp;
+----------------------
+11069
+IIND4110
+1
+4
+TUTORIAL INV.OPERACIONES
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+21942
+IIND4115
+1
+4
+FLUJO EN REDES
+45
+29
+16
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+MEDAGLIA GONZALEZ ANDRES
+&nbsp;
+&nbsp;
+----------------------
+21943
+IIND4117
+1
+4
+TECNICAS AVANZADAS SIMULACION
+45
+5
+40
+----------------------
+&nbsp;
+&nbsp;
+L  M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+MURA IVAN
+&nbsp;
+&nbsp;
+----------------------
+21944
+IIND4123
+1
+4
+STATISTIC LEARN DATA ANALYTICS
+50
+50
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+M
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+VALENCIA CARLOS
+&nbsp;
+&nbsp;
+----------------------
+10210
+IIND4200
+1
+4
+MODELOS CONTROL PRODUCC.
+45
+20
+25
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+TORRES DELGADO JOSE FIDEL
+&nbsp;
+&nbsp;
+----------------------
+14365
+IIND4210
+1
+4
+TUTORIAL EN SISTEMAS DE PROD
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+TORRES DELGADO JOSE FIDEL
+&nbsp;
+&nbsp;
+----------------------
+11191
+IIND4213
+1
+4
+DISEÑO DE EXPERIM. INGE. (ASU)
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+J  V
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+22782
+IIND4213
+2
+4
+DISEÑO EXPERIM. INGE. (INGLES)
+45
+14
+31
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+ABOLGHASEM GHAZVINI SEPIDEH
+&nbsp;
+&nbsp;
+----------------------
+21945
+IIND4214
+1
+4
+METODOS SIX SIGMA
+0
+5
+-5
+----------------------
+&nbsp;
+&nbsp;
+J  V
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+21946
+IIND4302
+1
+4
+DIAG. Y DIS. ORGANIZACIONAL
+60
+59
+1
+----------------------
+&nbsp;
+&nbsp;
+J
+1700 - 1950
+- -
+01-AGO-16
+19-NOV-16
+ZARAMA URDANETA ROBERTO
+&nbsp;
+&nbsp;
+----------------------
+21947
+IIND4309
+1
+4
+NEGOCIACION. Y TOMA DE DECIS.
+59
+59
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1400 - 1650
+- -
+01-AGO-16
+19-NOV-16
+PINZON SALCEDO LUIS
+&nbsp;
+&nbsp;
+----------------------
+21948
+IIND4311
+1
+4
+ESTRUCTUR. DE REDES SOCIALES
+40
+27
+13
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1700 - 1820
+- -
+01-AGO-16
+19-NOV-16
+GARCIA CESAR
+&nbsp;
+&nbsp;
+----------------------
+13232
+IIND4317
+1
+4
+TUTORIAL DIREC. Y GESTION
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+GARCIA CESAR
+&nbsp;
+&nbsp;
+----------------------
+21949
+IIND4333
+1
+4
+INGENIERÍA SISTEMAS SOCIALES
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1700 - 1950
+- -
+01-AGO-16
+19-NOV-16
+OLAYA NIETO CAMILO ENRIQUE
+&nbsp;
+&nbsp;
+----------------------
+10211
+IIND4403
+1
+4
+TEORIA DE LA DECISION
+36
+35
+1
+----------------------
+&nbsp;
+&nbsp;
+I
+1600 - 1850
+- -
+01-AGO-16
+19-NOV-16
+CASTILLO HERNANDEZ MARIO JOSE
+&nbsp;
+&nbsp;
+----------------------
+10202
+IIND4406
+1
+4
+GERENCIA FINANCIERA DEL RIESGO
+56
+56
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1900 - 2020
+- -
+01-AGO-16
+19-NOV-16
+VILLARREAL NAVARRO JULIO
+&nbsp;
+&nbsp;
+----------------------
+13932
+IIND6002
+1
+4
+TUTORIAL 1
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+14579
+IIND6003
+1
+4
+TUTORIAL 2
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+13863
+IIND6402
+1
+0
+PASANTIA SEMESTRAL
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+13864
+IIND6970
+1
+0
+EXAMEN DE PROPUESTA DOCTORAL
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+13865
+IIND6980
+1
+4
+TESIS 4CR
+30
+2
+28
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+13866
+IIND6981
+1
+8
+TESIS 8CR
+30
+1
+29
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+13867
+IIND6982
+1
+12
+TESIS 12CR
+30
+6
+24
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+13868
+IIND6990
+1
+0
+SUSTENTACION DE TESIS
+0
+1
+-1
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------
+13869
+IIND6997
+1
+0
+PASANTIA ESTUDIANTES EXTERNOS
+0
+0
+0
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+JARAMILLO ARANGO MARCELA
+&nbsp;
+&nbsp;
+----------------------

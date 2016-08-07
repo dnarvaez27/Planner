@@ -1,14 +1,15 @@
+CRN
 13183
 ARTI4101
 1
 4
 GERENCIA DE PROYECTOS ARQUITEC
 30
-23
-7
+22
+8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1800 - 2050
 - -
@@ -16,115 +17,120 @@ J
 19-NOV-16
 CUETO ALBERTO
 GONGORA MORENO EDUARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13579
 ARTI4102
 1
 4
 COMUNICACION EFECTIVA
 30
-22
-8
+26
+4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1800 - 2050
 - -
 01-AGO-16
 19-NOV-16
-&nbsp;
+ 
 S
 0800 - 1050
 - -
 20-AGO-16
 20-AGO-16
-&nbsp;
+ 
 S
 0800 - 1050
 - -
 10-SEP-16
 17-SEP-16
-&nbsp;
+ 
 S
 0800 - 1050
 - -
 22-OCT-16
 29-OCT-16
-&nbsp;
+ 
 S
 0800 - 1050
 - -
 12-NOV-16
 19-NOV-16
 DUQUE SALAZAR ANA LUCIA
-BARBOZA NAVAS AMPARO
 BOTERO URIBE PATRICIA
-&nbsp;
-&nbsp;
+BARBOZA NAVAS AMPARO
+ 
+ 
 ----------------------
+CRN
 12663
 ARTI4103
 1
 4
 ARQUITECTURA DE NEGOCIO Y TI
 35
-34
-1
+35
+0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1800 - 2050
 - -
 01-AGO-16
 19-NOV-16
 VILLALOBOS SALCEDO JORGE ALBERTO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13982
 ARTI4106
 1
 4
 ARQUITECTURA EMPRESARIAL
-30
-28
-2
+31
+31
+0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1800 - 2050
 - -
 01-AGO-16
 19-NOV-16
 OCAMPO ALEXIS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23552
 ARTI4108
 1
 4
 POWER PEOPLE
 30
-14
 16
+14
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1800 - 2050
 - -
 01-AGO-16
 19-NOV-16
 GONZALEZ ANDRADE SONIA MABEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21392
 ARTI4201
 1
@@ -134,37 +140,39 @@ ARQUITECTURA DE SOLUCION
 30
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1800 - 2050
 - -
 01-AGO-16
 19-NOV-16
 CORREAL DARIO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12667
 ARTI4202
 1
 4
 ARQUITECTURA DE INFORMACIÓN
 40
-41
--1
+40
+0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1800 - 2050
 - -
 01-AGO-16
 19-NOV-16
 SARMENTO GUEVARA JUAN MANUEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12665
 ARTI4203
 1
@@ -174,30 +182,31 @@ ARQUITECTURA DE INFRAESTRUCTUR
 30
 5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1800 - 2050
 - -
 01-AGO-16
 19-NOV-16
 CASTRO BARRERA HAROLD ENRIQUE
-RUEDA FAJARDO FRANCISCO
 GOMEZ DIAZ RAFAEL ENRIQUE
-&nbsp;
-&nbsp;
+RUEDA FAJARDO FRANCISCO
+ 
+ 
 ----------------------
+CRN
 13185
 ARTI4204
 1
 4
 ARQUITECTURA DE SEGURIDAD
-35
-34
-1
+40
+40
+0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1800 - 2050
 - -
@@ -205,29 +214,31 @@ M
 19-NOV-16
 DONOSO YESID
 RUEDA RODRIGUEZ SANDRA JULIETA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13285
 ARTI4205
 1
 4
 ARQUITECTURA PROCESOS NEGOCIO
 35
-22
-13
+25
+10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1800 - 2050
 - -
 01-AGO-16
 19-NOV-16
 SANCHEZ PUCCINI MARIO EDUARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13582
 ARTI4301
 1
@@ -237,14 +248,14 @@ PROYECTO FINAL
 52
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1800 - 2050
 - -
 01-AGO-16
 19-NOV-16
 CORREAL DARIO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------

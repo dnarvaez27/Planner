@@ -1,0 +1,8469 @@
+CRN
+23550
+MATE0002
+1
+1
+PROFUNDIZACION EN CALCULO DIFE
+162
+157
+5
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+BRITO DE QUIROZ MARIA ROSA
+ 
+ 
+----------------------
+CRN
+18389
+MATE1002B
+1
+3
+MATEMATICAS Y CIVILIZACION
+37
+36
+1
+----------------------
+ 
+ 
+L    I
+1100 - 1220
+.AU_205
+01-AGO-16
+19-NOV-16
+ECHEVERRI DAVILA HERNANDO JOSE
+ 
+ 
+----------------------
+CRN
+22057
+MATE1010
+1
+1
+SEMINARIO DE MATEMATICAS
+60
+48
+12
+----------------------
+ 
+ 
+L
+1400 - 1520
+.SD_704
+01-AGO-16
+19-NOV-16
+BOTERO DE MEZA MARIA MARGARITA
+ 
+ 
+----------------------
+CRN
+13082
+MATE1041B
+1
+3
+GEOMETRIA SAGRADA
+57
+56
+1
+----------------------
+ 
+ 
+I    V
+0800 - 0920
+.O_205
+01-AGO-16
+19-NOV-16
+VENEGAS VILLAMIL LEONARDO
+ 
+ 
+----------------------
+CRN
+11075
+MATE1064B
+1
+3
+PENSAM. A TRAVES DE LOS NUME.
+57
+59
+-2
+----------------------
+ 
+ 
+L      J
+1700 - 1820
+.O_202
+01-AGO-16
+19-NOV-16
+RECAMAN SANTOS BERNARDO
+ 
+ 
+----------------------
+CRN
+22995
+MATE1064B
+2
+3
+PENSAM. A TRAVES DE LOS NUME.
+57
+56
+1
+----------------------
+ 
+ 
+M      V
+1700 - 1820
+.CP_405
+01-AGO-16
+19-NOV-16
+RECAMAN SANTOS BERNARDO
+ 
+ 
+----------------------
+CRN
+22060
+MATE1102
+1
+3
+MATEMATICA ESTRUCTURAL
+36
+36
+0
+----------------------
+ 
+ 
+L    I    V
+1100 - 1220
+.Z_203
+01-AGO-16
+19-NOV-16
+OULD AHMED
+ 
+ 
+----------------------
+CRN
+22999
+MATE1102
+2
+3
+MATEMATICA ESTRUCTURAL
+36
+36
+0
+----------------------
+ 
+ 
+L    I    V
+1100 - 1220
+.AU_204
+01-AGO-16
+19-NOV-16
+GOODRICK JOHN
+ 
+ 
+----------------------
+CRN
+22061
+MATE1103
+1
+3
+TEORIA DE NUMEROS
+35
+21
+14
+----------------------
+ 
+ 
+M    J
+0800 - 0920
+.Z_102
+01-AGO-16
+19-NOV-16
+CORTISSOZ IRIARTE JEAN CARLOS
+ 
+ 
+----------------------
+CRN
+22062
+MATE1104
+1
+3
+TEORIA DE GRAFOS.
+35
+13
+22
+----------------------
+ 
+ 
+M    J
+1530 - 1650
+.LL_107
+01-AGO-16
+19-NOV-16
+MARTINEZ BALDARES MARICARMEN
+ 
+ 
+----------------------
+CRN
+10511
+MATE1105
+1
+3
+ALGEBRA LINEAL 1
+96
+61
+35
+----------------------
+ 
+ 
+J
+1700 - 1820
+.O_101
+01-AGO-16
+19-NOV-16
+ 
+M
+1700 - 1820
+.O_101
+01-AGO-16
+19-NOV-16
+MANTILLA SOLER GUILLERMO ARTURO
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10511, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>16401 - MATE-1105C - 2 - ALGEBRA LINEAL 1 COMPL <br> 12308 - MATE-1105C - 3 - ALGEBRA LINEAL 1 COMPL <br> 12744- MATE-1105C- 4-ALGEBRA LINEAL 1 COMPL<br>12758- MATE-1105C- 5-ALGEBRA LINEAL 1 COMPL
+----------------------
+CRN
+10729
+MATE1105
+6
+3
+ALGEBRA LINEAL 1
+78
+4
+74
+----------------------
+ 
+ 
+M    J
+0630 - 0750
+.B_401
+01-AGO-16
+19-NOV-16
+BOTERO DE MEZA MARIA MARGARITA
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10729, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12761 - MATE-1105C - 8 - ALGEBRA LINEAL 1 COMPL <br> 12762 - MATE-1105C - 9 - ALGEBRA LINEAL 1 COMPL
+----------------------
+CRN
+10519
+MATE1105
+10
+3
+ALGEBRA LINEAL 1
+96
+90
+6
+----------------------
+ 
+ 
+I    V
+0800 - 0920
+.O_104
+01-AGO-16
+19-NOV-16
+BOGART TRISTRAM
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10519, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12773 - MATE-1105C - 11 - ALGEBRA LINEAL 1 COMPL <br> 12767 - MATE-1105C - 12 - ALGEBRA LINEAL 1 COMPL <br> 12764- MATE-1105C- 13-ALGEBRA LINEAL 1 COMPL<br>12772- MATE-1105C- 14-ALGEBRA LINEAL 1 COMPL
+----------------------
+CRN
+10867
+MATE1105
+15
+3
+ALGEBRA LINEAL 1
+77
+44
+33
+----------------------
+ 
+ 
+M    J
+1230 - 1350
+.R_113
+01-AGO-16
+19-NOV-16
+CORREDOR LONDOÑO LUIS JAIME
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10867, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12780 - MATE-1105C - 16 - ALGEBRA LINEAL 1 COMPL <br> 12779 - MATE-1105C - 17 - ALGEBRA LINEAL 1 COMPL <br> 12778- MATE-1105C- 18-ALGEBRA LINEAL 1 COMPL
+----------------------
+CRN
+23094
+MATE1105
+20
+3
+ALGEBRA LINEAL 1
+96
+73
+23
+----------------------
+ 
+ 
+M    J
+1400 - 1520
+.O_101
+01-AGO-16
+19-NOV-16
+GALINDO MARTÍNEZ CESAR NEYIT
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 23094, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>23096 - MATE-1105C - 21 - ALGEBRA LINEAL 1 COMPL <br> 23098 - MATE-1105C - 22 - ALGEBRA LINEAL 1 COMPL <br> 23100- MATE-1105C- 23-ALGEBRA LINEAL 1 COMPL<br>23159- MATE-1105C- 24-ALGEBRA LINEAL 1 COMPL
+----------------------
+CRN
+10730
+MATE1105
+25
+3
+ALGEBRA LINEAL 1
+96
+95
+1
+----------------------
+ 
+ 
+V
+1100 - 1220
+.O_102
+01-AGO-16
+19-NOV-16
+ 
+I
+1100 - 1220
+.O_102
+01-AGO-16
+19-NOV-16
+MALAKHALTSEV MIKHAIL
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10730, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12801 - MATE-1105C - 26 - ALGEBRA LINEAL 1 COMPL <br> 12809 - MATE-1105C - 27 - ALGEBRA LINEAL 1 COMPL <br> 12796- MATE-1105C- 28-ALGEBRA LINEAL 1 COMPL<br>12800- MATE-1105C- 29-ALGEBRA LINEAL 1 COMPL
+----------------------
+CRN
+11252
+MATE1105
+30
+3
+ALGEBRA LINEAL 1
+96
+59
+37
+----------------------
+ 
+ 
+V
+1530 - 1650
+.O_101
+01-AGO-16
+19-NOV-16
+ 
+I
+1530 - 1650
+.O_101
+01-AGO-16
+19-NOV-16
+VENEGAS VILLAMIL LEONARDO
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 11252, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12816 - MATE-1105C - 31 - ALGEBRA LINEAL 1 COMPL <br> 13927 - MATE-1105C - 32 - ALGEBRA LINEAL 1 COMPL <br> 12811- MATE-1105C- 33-ALGEBRA LINEAL 1 COMPL<br>12812- MATE-1105C- 34-ALGEBRA LINEAL 1 COMPL
+----------------------
+CRN
+11251
+MATE1105
+35
+3
+ALGEBRA LINEAL 1
+37
+20
+17
+----------------------
+ 
+ 
+J
+1530 - 1620
+.ML_614
+01-AGO-16
+19-NOV-16
+ 
+I    V
+1230 - 1350
+.ML_614
+01-AGO-16
+19-NOV-16
+WINKLMEIER MONIKA
+ 
+ 
+----------------------
+CRN
+10869
+MATE1105
+39
+3
+ALGEBRA LINEAL 1
+78
+43
+35
+----------------------
+ 
+ 
+M
+0930 - 1050
+.ML_604
+01-AGO-16
+19-NOV-16
+ 
+L
+1530 - 1620
+.O_402
+01-AGO-16
+19-NOV-16
+ 
+J
+0930 - 1050
+.ML_604
+01-AGO-16
+19-NOV-16
+LOPEZ GARCIA JOSE DARIO
+ 
+ 
+----------------------
+CRN
+10868
+MATE1105
+43
+3
+ALGEBRA LINEAL 1 (INGLES)
+78
+10
+68
+----------------------
+ 
+ 
+I    V
+1400 - 1520
+.SD_801
+01-AGO-16
+19-NOV-16
+ 
+M
+1400 - 1500
+.W_505
+01-AGO-16
+19-NOV-16
+WILSON MITSURU
+ 
+ 
+----------------------
+CRN
+23165
+MATE1105
+47
+3
+ALGEBRA LINEAL 1
+96
+95
+1
+----------------------
+ 
+ 
+M    J
+0800 - 0920
+.ML_603
+01-AGO-16
+19-NOV-16
+DI PRISCO DE VENANZI CARLOS AUGUSTO
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 23165, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>23166 - MATE-1105C - 48 - ALGEBRA LINEAL 1 COMPL <br> 23170 - MATE-1105C - 49 - ALGEBRA LINEAL 1 COMPL <br> 23171- MATE-1105C- 50-ALGEBRA LINEAL 1 COMPL<br>23173- MATE-1105C- 51-ALGEBRA LINEAL 1 COMPL
+----------------------
+CRN
+21236
+MATE1105
+52
+3
+ALGEBRA LINEAL 1
+43
+43
+0
+----------------------
+ 
+ 
+L      J  V
+0630 - 0750
+.Q_306
+01-AGO-16
+19-NOV-16
+BRITO DE QUIROZ MARIA ROSA
+ 
+ 
+----------------------
+CRN
+21224
+MATE1105
+53
+3
+ALGEBRA LINEAL 1
+42
+15
+27
+----------------------
+ 
+ 
+L  M    J
+1700 - 1820
+.S1_202
+01-AGO-16
+19-NOV-16
+MONTERO ROSERO JULIO ANDRES
+ 
+ 
+----------------------
+CRN
+18390
+MATE1105
+54
+3
+ALGEBRA LINEAL 1
+42
+42
+0
+----------------------
+ 
+ 
+L      J  V
+1100 - 1220
+.LL_303
+01-AGO-16
+19-NOV-16
+ROCUTS SCHWEITZER
+ 
+ 
+----------------------
+CRN
+21225
+MATE1105
+55
+3
+ALGEBRA LINEAL 1
+42
+33
+9
+----------------------
+ 
+ 
+L  M      V
+1530 - 1650
+.R_110
+01-AGO-16
+19-NOV-16
+RIVEROS PACHECO DAVID RICARDO
+ 
+ 
+----------------------
+CRN
+23174
+MATE1105
+56
+3
+ALGEBRA LINEAL 1
+42
+42
+0
+----------------------
+ 
+ 
+M    J
+1230 - 1350
+.ML_508
+01-AGO-16
+19-NOV-16
+ 
+L
+1230 - 1350
+.ML_510
+01-AGO-16
+19-NOV-16
+LOPEZ GARCIA JOSE DARIO
+ 
+ 
+----------------------
+CRN
+23175
+MATE1105
+57
+3
+ALGEBRA LINEAL 1
+42
+42
+0
+----------------------
+ 
+ 
+L  M      V
+0800 - 0920
+.S1_202
+01-AGO-16
+19-NOV-16
+RODRIGUEZ DUQUE CESAR AUGUSTO
+ 
+ 
+----------------------
+CRN
+23176
+MATE1105
+58
+3
+ALGEBRA LINEAL 1
+43
+43
+0
+----------------------
+ 
+ 
+L  M    J
+0930 - 1050
+.Q_306
+01-AGO-16
+19-NOV-16
+ECHEVERRY NAVARRO LUZ MIRIAM
+ 
+ 
+----------------------
+CRN
+23178
+MATE1105
+59
+3
+ALGEBRA LINEAL 1
+44
+44
+0
+----------------------
+ 
+ 
+L  M      V
+0630 - 0750
+.Z_110
+01-AGO-16
+19-NOV-16
+ROCUTS SCHWEITZER
+ 
+ 
+----------------------
+CRN
+18621
+MATE1105
+60
+3
+ALGEBRA LINEAL 1
+43
+43
+0
+----------------------
+ 
+ 
+M    J
+1100 - 1220
+.O_405
+01-AGO-16
+19-NOV-16
+ 
+L
+1100 - 1220
+.SD_703
+01-AGO-16
+19-NOV-16
+MURCIA MAZO ALEXANDER
+ 
+ 
+----------------------
+CRN
+16401
+MATE1105C
+2
+0
+ALGEBRA LINEAL 1 COMPL
+24
+13
+11
+----------------------
+ 
+ 
+L    I
+1530 - 1620
+.W_505
+01-AGO-16
+19-NOV-16
+GONZALEZ CASABIANCA FELIPE
+ 
+ 
+----------------------
+CRN
+12308
+MATE1105C
+3
+0
+ALGEBRA LINEAL 1 COMPL
+24
+17
+7
+----------------------
+ 
+ 
+L    I
+1530 - 1620
+.ML_614
+01-AGO-16
+19-NOV-16
+FONSECA VALERO DIEGO FERNANDO
+ 
+ 
+----------------------
+CRN
+12744
+MATE1105C
+4
+0
+ALGEBRA LINEAL 1 COMPL
+24
+15
+9
+----------------------
+ 
+ 
+L    I
+1700 - 1750
+.Z_202
+01-AGO-16
+19-NOV-16
+GONZALEZ CASABIANCA FELIPE
+ 
+ 
+----------------------
+CRN
+12758
+MATE1105C
+5
+0
+ALGEBRA LINEAL 1 COMPL
+24
+16
+8
+----------------------
+ 
+ 
+L    I
+1700 - 1750
+.AU_404
+01-AGO-16
+19-NOV-16
+FONSECA VALERO DIEGO FERNANDO
+ 
+ 
+----------------------
+CRN
+12761
+MATE1105C
+8
+0
+ALGEBRA LINEAL 1 COMPL
+26
+3
+23
+----------------------
+ 
+ 
+L    I
+1530 - 1620
+.Z_102
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12762
+MATE1105C
+9
+0
+ALGEBRA LINEAL 1 COMPL
+26
+1
+25
+----------------------
+ 
+ 
+L    I
+1700 - 1750
+.LL_201
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12773
+MATE1105C
+11
+0
+ALGEBRA LINEAL 1 COMPL
+24
+20
+4
+----------------------
+ 
+ 
+J
+1230 - 1320
+.Q_308
+01-AGO-16
+19-NOV-16
+ 
+L
+1230 - 1320
+.SD_703
+01-AGO-16
+19-NOV-16
+TALERO MESA JOHANNES ALBERTO
+ 
+ 
+----------------------
+CRN
+12767
+MATE1105C
+12
+0
+ALGEBRA LINEAL 1 COMPL
+24
+24
+0
+----------------------
+ 
+ 
+J
+1230 - 1320
+.Z_106
+01-AGO-16
+19-NOV-16
+ 
+L
+1230 - 1320
+.SD_715
+01-AGO-16
+19-NOV-16
+GALINDO OLARTE ANDRES FELIPE
+ 
+ 
+----------------------
+CRN
+12764
+MATE1105C
+13
+0
+ALGEBRA LINEAL 1 COMPL
+24
+23
+1
+----------------------
+ 
+ 
+J
+0930 - 1020
+.LL_206
+01-AGO-16
+19-NOV-16
+ 
+L
+0930 - 1020
+.W_403
+01-AGO-16
+19-NOV-16
+CRUZ RANGEL JOSE MIGUEL
+ 
+ 
+----------------------
+CRN
+12772
+MATE1105C
+14
+0
+ALGEBRA LINEAL 1 COMPL
+24
+23
+1
+----------------------
+ 
+ 
+J
+0930 - 1020
+.Z_102
+01-AGO-16
+19-NOV-16
+ 
+L
+0930 - 1020
+.S1_001
+01-AGO-16
+19-NOV-16
+GALINDO OLARTE ANDRES FELIPE
+ 
+ 
+----------------------
+CRN
+12780
+MATE1105C
+16
+0
+ALGEBRA LINEAL 1 COMPL
+26
+17
+9
+----------------------
+ 
+ 
+I
+0630 - 0720
+.AU_208
+01-AGO-16
+19-NOV-16
+ 
+L
+0630 - 0720
+.Z_103
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12779
+MATE1105C
+17
+0
+ALGEBRA LINEAL 1 COMPL
+26
+11
+15
+----------------------
+ 
+ 
+I
+0630 - 0720
+.AU_304
+01-AGO-16
+19-NOV-16
+ 
+L
+0630 - 0720
+.AU_404
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12778
+MATE1105C
+18
+0
+ALGEBRA LINEAL 1 COMPL
+25
+16
+9
+----------------------
+ 
+ 
+I
+0800 - 0850
+.SD_716
+01-AGO-16
+19-NOV-16
+ 
+L
+0800 - 0850
+.LL_205
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+23096
+MATE1105C
+21
+0
+ALGEBRA LINEAL 1 COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L    I
+1530 - 1620
+.W_504
+01-AGO-16
+19-NOV-16
+CARDONA SANCHEZ DUVAN
+ 
+ 
+----------------------
+CRN
+23098
+MATE1105C
+22
+0
+ALGEBRA LINEAL 1 COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L    I
+1530 - 1620
+.W_403
+01-AGO-16
+19-NOV-16
+IDARRAGA ALVAREZ LUIS FELIPE
+ 
+ 
+----------------------
+CRN
+23100
+MATE1105C
+23
+0
+ALGEBRA LINEAL 1 COMPL
+24
+19
+5
+----------------------
+ 
+ 
+L    I
+1700 - 1750
+.TM_202
+01-AGO-16
+19-NOV-16
+BRAVO SARMIENTO MARIA ALEJANDRA
+ 
+ 
+----------------------
+CRN
+23159
+MATE1105C
+24
+0
+ALGEBRA LINEAL 1 COMPL
+24
+6
+18
+----------------------
+ 
+ 
+L    I
+1700 - 1750
+.TM_201
+01-AGO-16
+19-NOV-16
+CARDONA SANCHEZ DUVAN
+ 
+ 
+----------------------
+CRN
+12801
+MATE1105C
+26
+0
+ALGEBRA LINEAL 1 COMPL
+24
+24
+0
+----------------------
+ 
+ 
+J
+0930 - 1020
+.LL_205
+01-AGO-16
+19-NOV-16
+ 
+L
+0930 - 1020
+.Z_101
+01-AGO-16
+19-NOV-16
+CIFUENTES PARDO JESUS DAVID
+ 
+ 
+----------------------
+CRN
+12809
+MATE1105C
+27
+0
+ALGEBRA LINEAL 1 COMPL
+24
+24
+0
+----------------------
+ 
+ 
+J
+0930 - 1020
+.AU_308
+01-AGO-16
+19-NOV-16
+ 
+L
+0930 - 1020
+.Z_203
+01-AGO-16
+19-NOV-16
+LOPEZ CUELLAR NICOLAS ORLANDO
+ 
+ 
+----------------------
+CRN
+12796
+MATE1105C
+28
+0
+ALGEBRA LINEAL 1 COMPL
+24
+24
+0
+----------------------
+ 
+ 
+J
+1100 - 1150
+.Z_104
+01-AGO-16
+19-NOV-16
+ 
+L
+1100 - 1150
+.O_304
+01-AGO-16
+19-NOV-16
+PATERNINA AMADOR JOSE CARMELO
+ 
+ 
+----------------------
+CRN
+12800
+MATE1105C
+29
+0
+ALGEBRA LINEAL 1 COMPL
+24
+23
+1
+----------------------
+ 
+ 
+J
+1100 - 1150
+.AU_107
+01-AGO-16
+19-NOV-16
+ 
+L
+1100 - 1150
+.W_205
+01-AGO-16
+19-NOV-16
+ACUÑA GONZALEZ JULIAN EDUARDO
+ 
+ 
+----------------------
+CRN
+12816
+MATE1105C
+31
+0
+ALGEBRA LINEAL 1 COMPL
+24
+24
+0
+----------------------
+ 
+ 
+J
+1530 - 1620
+.AU_203
+01-AGO-16
+19-NOV-16
+ 
+L
+1530 - 1620
+.O_203
+01-AGO-16
+19-NOV-16
+CORTES GOMEZ SANTIAGO ENRIQUE
+ 
+ 
+----------------------
+CRN
+13927
+MATE1105C
+32
+0
+ALGEBRA LINEAL 1 COMPL
+24
+24
+0
+----------------------
+ 
+ 
+J
+1530 - 1620
+.TM_201
+01-AGO-16
+19-NOV-16
+ 
+L
+1530 - 1620
+.O_304
+01-AGO-16
+19-NOV-16
+CARO REYES JERSON LEONARDO
+ 
+ 
+----------------------
+CRN
+12811
+MATE1105C
+33
+0
+ALGEBRA LINEAL 1 COMPL
+24
+11
+13
+----------------------
+ 
+ 
+J
+1700 - 1750
+.W_504
+01-AGO-16
+19-NOV-16
+ 
+L
+1700 - 1750
+.S1_003
+01-AGO-16
+19-NOV-16
+CARO REYES JERSON LEONARDO
+ 
+ 
+----------------------
+CRN
+12812
+MATE1105C
+34
+0
+ALGEBRA LINEAL 1 COMPL
+24
+0
+24
+----------------------
+ 
+ 
+J
+1700 - 1750
+.W_505
+01-AGO-16
+19-NOV-16
+ 
+L
+1700 - 1750
+.W_504
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12825
+MATE1105C
+36
+0
+ALGEBRA LINEAL 1 COMPL
+26
+5
+21
+----------------------
+ 
+ 
+J
+1530 - 1620
+.Z_103
+01-AGO-16
+19-NOV-16
+ 
+L
+1530 - 1620
+.AU_404
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12824
+MATE1105C
+37
+0
+ALGEBRA LINEAL 1 COMPL
+8
+8
+0
+----------------------
+ 
+ 
+J
+1530 - 1620
+.NOREQ
+01-AGO-16
+19-NOV-16
+ 
+L
+1530 - 1620
+.NOREQ
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12819
+MATE1105C
+38
+0
+ALGEBRA LINEAL 1 COMPL
+26
+7
+19
+----------------------
+ 
+ 
+J
+1700 - 1750
+.LL_201
+01-AGO-16
+19-NOV-16
+ 
+L
+1700 - 1750
+.Q_308
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12789
+MATE1105C
+40
+0
+ALGEBRA LINEAL 1 COMPL
+26
+14
+12
+----------------------
+ 
+ 
+I
+1530 - 1620
+.PU_100
+01-AGO-16
+19-NOV-16
+ 
+L
+1530 - 1620
+.O_405
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12791
+MATE1105C
+41
+0
+ALGEBRA LINEAL 1 COMPL
+26
+11
+15
+----------------------
+ 
+ 
+I
+1530 - 1620
+.AU_304
+01-AGO-16
+19-NOV-16
+ 
+L
+1530 - 1620
+.ML_515
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12792
+MATE1105C
+42
+0
+ALGEBRA LINEAL 1 COMPL
+26
+18
+8
+----------------------
+ 
+ 
+I
+1700 - 1750
+.R_109
+01-AGO-16
+19-NOV-16
+ 
+L
+1700 - 1750
+.Z_201
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12784
+MATE1105C
+44
+0
+ALGEBRA LINEAL 1 COMPL
+26
+6
+20
+----------------------
+ 
+ 
+J
+1530 - 1620
+.LL_104
+01-AGO-16
+19-NOV-16
+ 
+L
+1530 - 1620
+.Z_213
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12783
+MATE1105C
+45
+0
+ALGEBRA LINEAL 1 COMPL
+26
+2
+24
+----------------------
+ 
+ 
+J
+1530 - 1620
+.S1_003
+01-AGO-16
+19-NOV-16
+ 
+L
+1530 - 1620
+.O_301
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12782
+MATE1105C
+46
+0
+ALGEBRA LINEAL 1 COMPL
+26
+2
+24
+----------------------
+ 
+ 
+J
+1700 - 1750
+.LL_202
+01-AGO-16
+19-NOV-16
+ 
+L
+1700 - 1750
+.R_109
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+23166
+MATE1105C
+48
+0
+ALGEBRA LINEAL 1 COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L    I
+1530 - 1620
+.W_204
+01-AGO-16
+19-NOV-16
+ARIAS AMAYA FABIAN ANTONIO
+ 
+ 
+----------------------
+CRN
+23170
+MATE1105C
+49
+0
+ALGEBRA LINEAL 1 COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L    I
+1530 - 1620
+.S1_003
+01-AGO-16
+19-NOV-16
+CALDERON WILCHES DANIEL
+ 
+ 
+----------------------
+CRN
+23171
+MATE1105C
+50
+0
+ALGEBRA LINEAL 1 COMPL
+24
+23
+1
+----------------------
+ 
+ 
+L    I
+1700 - 1750
+.PU_200
+01-AGO-16
+19-NOV-16
+ARIAS AMAYA FABIAN ANTONIO
+ 
+ 
+----------------------
+CRN
+23173
+MATE1105C
+51
+0
+ALGEBRA LINEAL 1 COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L    I
+1700 - 1750
+.Z_225
+01-AGO-16
+19-NOV-16
+OSPINA CORTES ALEJANDRO
+ 
+ 
+----------------------
+CRN
+10606
+MATE1106
+1
+3
+ALG. LINEAL 1 (HONORES)
+35
+18
+17
+----------------------
+ 
+ 
+M    J  V
+0930 - 1050
+.PU_300
+01-AGO-16
+19-NOV-16
+ADARVE DELGADO SERGIO
+ 
+ 
+----------------------
+CRN
+10575
+MATE1107
+1
+3
+ALGEBRA LINEAL 2
+37
+37
+0
+----------------------
+ 
+ 
+M    J
+0930 - 1050
+.O_405
+01-AGO-16
+19-NOV-16
+GALINDO MARTÍNEZ CESAR NEYIT
+ 
+ 
+----------------------
+CRN
+23637
+MATE1107
+2
+3
+ALGEBRA LINEAL 2
+25
+20
+5
+----------------------
+ 
+ 
+M    J
+1230 - 1350
+.AU_305
+01-AGO-16
+19-NOV-16
+MANTILLA SOLER GUILLERMO ARTURO
+ 
+ 
+----------------------
+CRN
+10125
+MATE1201
+1
+3
+PRECALCULO
+30
+27
+3
+----------------------
+ 
+ 
+M  I  J  V
+0630 - 0720
+.S_101
+01-AGO-16
+19-NOV-16
+ 
+L
+0630 - 0720
+.B_402
+01-AGO-16
+19-NOV-16
+GOMEZ DE BARBOSA GLADYS LUCIA
+ 
+ 
+----------------------
+CRN
+10049
+MATE1201
+2
+3
+PRECALCULO
+30
+30
+0
+----------------------
+ 
+ 
+M  I  J  V
+0800 - 0850
+.TX_602
+01-AGO-16
+19-NOV-16
+ 
+L
+0800 - 0850
+.W_601
+01-AGO-16
+19-NOV-16
+VANEGAS GORDILLO ORLANDO
+ 
+ 
+----------------------
+CRN
+10157
+MATE1201
+3
+3
+PRECALCULO
+30
+30
+0
+----------------------
+ 
+ 
+M  I  J  V
+0930 - 1020
+.Z_109
+01-AGO-16
+19-NOV-16
+ 
+L
+0930 - 1020
+.B_402
+01-AGO-16
+19-NOV-16
+BERNAL PEDRAZA OSCAR
+ 
+ 
+----------------------
+CRN
+11396
+MATE1201
+4
+3
+PRECALCULO
+30
+30
+0
+----------------------
+ 
+ 
+M  I  J  V
+0930 - 1020
+.TX_602
+01-AGO-16
+19-NOV-16
+ 
+L
+0930 - 1020
+.Z_206
+01-AGO-16
+19-NOV-16
+PEREZ GUTIERREZ ALICIA
+ 
+ 
+----------------------
+CRN
+10124
+MATE1201
+5
+3
+PRECALCULO
+30
+29
+1
+----------------------
+ 
+ 
+M  I  J  V
+1100 - 1150
+.S_102
+01-AGO-16
+19-NOV-16
+ 
+L
+1100 - 1150
+.W_601
+01-AGO-16
+19-NOV-16
+ORTIZ GUZMAN FABIO
+ 
+ 
+----------------------
+CRN
+12162
+MATE1201
+6
+3
+PRECALCULO
+30
+0
+30
+----------------------
+ 
+ 
+M  I  J  V
+1230 - 1320
+.TM_202
+01-AGO-16
+19-NOV-16
+ 
+L
+1230 - 1320
+.W_601
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+16415
+MATE1201
+7
+3
+PRECALCULO
+30
+20
+10
+----------------------
+ 
+ 
+M  I  J  V
+1400 - 1450
+.TX_602
+01-AGO-16
+19-NOV-16
+ 
+L
+1400 - 1450
+.W_601
+01-AGO-16
+19-NOV-16
+BARRIGA TURRIAGO ELIANA LUCERO
+ 
+ 
+----------------------
+CRN
+12163
+MATE1201
+8
+3
+PRECALCULO (SIGMA)
+30
+12
+18
+----------------------
+ 
+ 
+L
+1530 - 1650
+.Z_206
+01-AGO-16
+19-NOV-16
+ 
+V
+1530 - 1650
+.LL_204
+01-AGO-16
+19-NOV-16
+ 
+M    J
+1530 - 1650
+.Z_212
+01-AGO-16
+19-NOV-16
+HERRERA QUEVEDO DIANA MARCELA
+ 
+ 
+----------------------
+CRN
+23198
+MATE1201
+9
+3
+PRECALCULO
+30
+30
+0
+----------------------
+ 
+ 
+M  I  J  V
+0800 - 0850
+.S_102
+01-AGO-16
+19-NOV-16
+ 
+L
+0800 - 0850
+.W_601
+01-AGO-16
+19-NOV-16
+GOMEZ DE BARBOSA GLADYS LUCIA
+ 
+ 
+----------------------
+CRN
+16417
+MATE1201
+10
+3
+PRECALCULO
+30
+0
+30
+----------------------
+ 
+ 
+L
+0930 - 1020
+.B_402
+01-AGO-16
+19-NOV-16
+ 
+I
+0930 - 1020
+.NOREQ
+01-AGO-16
+19-NOV-16
+ 
+M    J  V
+0930 - 1020
+.AU_302
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+16418
+MATE1201
+11
+3
+PRECALCULO
+30
+30
+0
+----------------------
+ 
+ 
+M  I  J  V
+0930 - 1020
+.AU_303
+01-AGO-16
+19-NOV-16
+ 
+L
+0930 - 1020
+.B_402
+01-AGO-16
+19-NOV-16
+LJUJIC ZELJKA
+ 
+ 
+----------------------
+CRN
+11290
+MATE1201
+12
+3
+PRECALCULO
+30
+30
+0
+----------------------
+ 
+ 
+L
+1230 - 1320
+.W_601
+01-AGO-16
+19-NOV-16
+ 
+J  V
+1230 - 1320
+.PU_200
+01-AGO-16
+19-NOV-16
+ 
+M  I
+1230 - 1320
+.S_102
+01-AGO-16
+19-NOV-16
+LJUJIC ZELJKA
+ 
+ 
+----------------------
+CRN
+11509
+MATE1201
+13
+3
+PRECALCULO
+33
+33
+0
+----------------------
+ 
+ 
+L
+1700 - 1750
+.W_601
+01-AGO-16
+19-NOV-16
+ 
+I    V
+1700 - 1750
+.AU_203
+01-AGO-16
+19-NOV-16
+ 
+M    J
+1700 - 1750
+.AU_102
+01-AGO-16
+19-NOV-16
+PARAMO FONSECA AQUILES ESTEBAN
+ 
+ 
+----------------------
+CRN
+11954
+MATE1201
+14
+3
+PRECALCULO
+30
+0
+30
+----------------------
+ 
+ 
+M  I  J  V
+1400 - 1450
+.TX_603
+01-AGO-16
+19-NOV-16
+ 
+L
+1400 - 1450
+.W_601
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+16419
+MATE1201
+15
+3
+PRECALCULO
+30
+0
+30
+----------------------
+ 
+ 
+M  I  J  V
+1530 - 1620
+.S_102
+01-AGO-16
+19-NOV-16
+ 
+L
+1530 - 1620
+.W_601
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+20605
+MATE1201
+16
+3
+PRECALCULO
+30
+0
+30
+----------------------
+ 
+ 
+M  I  J  V
+0630 - 0720
+.S_102
+01-AGO-16
+19-NOV-16
+ 
+L
+0630 - 0720
+.B_402
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+20604
+MATE1201
+17
+3
+PRECALCULO
+30
+0
+30
+----------------------
+ 
+ 
+M  I  J  V
+1700 - 1750
+.AU_308
+01-AGO-16
+19-NOV-16
+ 
+L
+1700 - 1750
+.W_601
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12166
+MATE1201
+18
+3
+PRECALCULO
+30
+30
+0
+----------------------
+ 
+ 
+M  I  J  V
+1230 - 1320
+.AU_307
+01-AGO-16
+19-NOV-16
+ 
+L
+1230 - 1320
+.W_601
+01-AGO-16
+19-NOV-16
+SUESCUN GOMEZ NICOLAS
+ 
+ 
+----------------------
+CRN
+23201
+MATE1201
+19
+3
+PRECALCULO
+30
+0
+30
+----------------------
+ 
+ 
+M  I  J  V
+0630 - 0720
+.TX_602
+01-AGO-16
+19-NOV-16
+ 
+L
+0630 - 0720
+.B_402
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12167
+MATE1201
+20
+3
+PRECALCULO
+30
+23
+7
+----------------------
+ 
+ 
+M  I  J  V
+1230 - 1320
+.TX_603
+01-AGO-16
+19-NOV-16
+ 
+L
+1230 - 1320
+.W_601
+01-AGO-16
+19-NOV-16
+BERNAL PEDRAZA OSCAR
+ 
+ 
+----------------------
+CRN
+12204
+MATE1201
+21
+3
+PRECALCULO
+30
+30
+0
+----------------------
+ 
+ 
+M  I  J  V
+1100 - 1150
+.S_101
+01-AGO-16
+19-NOV-16
+ 
+L
+1100 - 1150
+.W_601
+01-AGO-16
+19-NOV-16
+BENITEZ CASTRO FERNEY
+ 
+ 
+----------------------
+CRN
+20585
+MATE1201
+22
+3
+PRECALCULO
+30
+22
+8
+----------------------
+ 
+ 
+M  I  J  V
+1400 - 1450
+.S_102
+01-AGO-16
+19-NOV-16
+ 
+L
+1400 - 1450
+.W_601
+01-AGO-16
+19-NOV-16
+PEREZ GUTIERREZ ALICIA
+ 
+ 
+----------------------
+CRN
+11098
+MATE1203
+1
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+L  M    J
+0800 - 0920
+.AU_104
+01-AGO-16
+19-NOV-16
+CAPASSO CASTRO ITALO
+ 
+ 
+----------------------
+CRN
+11099
+MATE1203
+2
+3
+CALCULO DIFERENCIAL
+44
+44
+0
+----------------------
+ 
+ 
+M    J
+1100 - 1220
+.ML_516
+01-AGO-16
+19-NOV-16
+ 
+L
+1100 - 1220
+.SD_716
+01-AGO-16
+19-NOV-16
+DEL CORRAL MARTINEZ CESAR AUGUSTO
+ 
+ 
+----------------------
+CRN
+10507
+MATE1203
+3
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+L      J  V
+1100 - 1220
+.Z_213
+01-AGO-16
+19-NOV-16
+RODRIGUEZ GRANOBLES FREDY
+ 
+ 
+----------------------
+CRN
+10123
+MATE1203
+4
+3
+CALCULO DIFERENCIAL
+45
+0
+45
+----------------------
+ 
+ 
+L  M    J
+1700 - 1820
+.R_110
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+11157
+MATE1203
+5
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+J  V
+1230 - 1350
+.O_301
+01-AGO-16
+19-NOV-16
+ 
+L
+1230 - 1350
+.O_204
+01-AGO-16
+19-NOV-16
+PEREZ GUTIERREZ ALICIA
+ 
+ 
+----------------------
+CRN
+10550
+MATE1203
+6
+3
+CALCULO DIFERENCIAL
+44
+44
+0
+----------------------
+ 
+ 
+L
+1100 - 1220
+.Q_405
+01-AGO-16
+19-NOV-16
+ 
+J
+1100 - 1220
+.ML_614
+01-AGO-16
+19-NOV-16
+ 
+I
+1100 - 1220
+.R_110
+01-AGO-16
+19-NOV-16
+MORALES PINTO YIBY KAROLINA
+ 
+ 
+----------------------
+CRN
+10414
+MATE1203
+7
+3
+CALC. DIFERENCIAL
+45
+44
+1
+----------------------
+ 
+ 
+L  M      V
+1100 - 1220
+.Z_110
+01-AGO-16
+19-NOV-16
+DONADO RINCON DANIEL ALBERTO
+ 
+ 
+----------------------
+CRN
+10549
+MATE1203
+8
+3
+CALCULO DIFERENCIAL
+45
+0
+45
+----------------------
+ 
+ 
+L
+1530 - 1650
+.LL_302
+01-AGO-16
+19-NOV-16
+ 
+V
+1530 - 1650
+.LL_304
+01-AGO-16
+19-NOV-16
+ 
+M
+1530 - 1650
+.S1_202
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+10198
+MATE1203
+9
+3
+CALCULO DIFERENCIAL
+45
+33
+12
+----------------------
+ 
+ 
+L  M      V
+1230 - 1350
+.O_401
+01-AGO-16
+19-NOV-16
+RIVEROS PACHECO DAVID RICARDO
+ 
+ 
+----------------------
+CRN
+10381
+MATE1203
+10
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+L  M      V
+1400 - 1520
+.S1_202
+01-AGO-16
+19-NOV-16
+FERRO LUIS JORGE
+ 
+ 
+----------------------
+CRN
+11160
+MATE1203
+11
+3
+CALCULO DIFERENCIAL
+46
+46
+0
+----------------------
+ 
+ 
+L    I    V
+1530 - 1650
+.O_401
+01-AGO-16
+19-NOV-16
+PARAMO FONSECA AQUILES ESTEBAN
+ 
+ 
+----------------------
+CRN
+11508
+MATE1203
+12
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+M    J  V
+0630 - 0750
+.B_201
+01-AGO-16
+19-NOV-16
+HERRERA QUEVEDO DIANA MARCELA
+ 
+ 
+----------------------
+CRN
+12195
+MATE1203
+13
+3
+CALCULO DIFERENCIAL
+45
+38
+7
+----------------------
+ 
+ 
+L  M      V
+1530 - 1650
+.AU_203
+01-AGO-16
+19-NOV-16
+DUARTE VOGEL DIEGO DANIEL
+ 
+ 
+----------------------
+CRN
+12843
+MATE1203
+14
+3
+CALCULO DIFERENCIAL
+45
+34
+11
+----------------------
+ 
+ 
+L  M      V
+1700 - 1820
+.Z_110
+01-AGO-16
+19-NOV-16
+PUIG PORTAL JACINTO ELOY
+ 
+ 
+----------------------
+CRN
+10506
+MATE1203
+15
+3
+CALCULO DIFERENCIAL
+45
+2
+43
+----------------------
+ 
+ 
+L
+0630 - 0750
+.LL_301
+01-AGO-16
+19-NOV-16
+ 
+J
+0630 - 0750
+.R_110
+01-AGO-16
+19-NOV-16
+ 
+M
+0630 - 0750
+.AU_103
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+10382
+MATE1203
+16
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+L  M    J
+1230 - 1350
+.LL_302
+01-AGO-16
+19-NOV-16
+DONADO RINCON DANIEL ALBERTO
+ 
+ 
+----------------------
+CRN
+10160
+MATE1203
+17
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+J
+1400 - 1520
+.LL_302
+01-AGO-16
+19-NOV-16
+ 
+L  M
+1400 - 1520
+.O_401
+01-AGO-16
+19-NOV-16
+CAPASSO CASTRO ITALO
+ 
+ 
+----------------------
+CRN
+19078
+MATE1203
+18
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+M
+0800 - 0920
+.LL_102
+01-AGO-16
+19-NOV-16
+ 
+V
+0800 - 0920
+.B_203
+01-AGO-16
+19-NOV-16
+ 
+J
+0800 - 0920
+.S1_202
+01-AGO-16
+19-NOV-16
+PEREZ GUTIERREZ ALICIA
+ 
+ 
+----------------------
+CRN
+10118
+MATE1203
+19
+3
+CALCULO DIFERENCIAL
+72
+72
+0
+----------------------
+ 
+ 
+M    J
+0930 - 1050
+.R_210
+01-AGO-16
+19-NOV-16
+BRITO DE QUIROZ MARIA ROSA
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10118, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>16422 - MATE-1203C - 20 - CALCULO DIFERENCIAL COMPL. <br> 16948 - MATE-1203C - 21 - CALCULO DIFERENCIAL COMPL. <br> 13239- MATE-1203C- 22-CALCULO DIFERENCIAL COMPL.
+----------------------
+CRN
+16946
+MATE1203
+23
+3
+CALCULO DIFERENCIAL
+96
+95
+1
+----------------------
+ 
+ 
+M    J
+0930 - 1050
+.R_210
+01-AGO-16
+19-NOV-16
+BRITO DE QUIROZ MARIA ROSA
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 16946, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>16425 - MATE-1203C - 24 - CALCULO DIFERENCIAL COMPL. <br> 16951 - MATE-1203C - 25 - CALCULO DIFERENCIAL COMPL. <br> 12743- MATE-1203C- 26-CALCULO DIFERENCIAL COMPL.<br>16949- MATE-1203C- 27-CALCULO DIFERENCIAL COMPL.
+----------------------
+CRN
+18792
+MATE1203
+28
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+L  M      V
+1230 - 1350
+.Z_110
+01-AGO-16
+19-NOV-16
+RODRIGUEZ DUQUE CESAR AUGUSTO
+ 
+ 
+----------------------
+CRN
+20634
+MATE1203
+29
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+I  J
+1100 - 1220
+.Z_110
+01-AGO-16
+19-NOV-16
+ 
+L
+1100 - 1220
+.R_111
+01-AGO-16
+19-NOV-16
+MARTINEZ MARMOL OTAIVIN
+ 
+ 
+----------------------
+CRN
+20639
+MATE1203
+30
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+M
+1400 - 1520
+.LL_302
+01-AGO-16
+19-NOV-16
+ 
+V
+1400 - 1520
+.AU_203
+01-AGO-16
+19-NOV-16
+ 
+J
+1400 - 1520
+.LL_301
+01-AGO-16
+19-NOV-16
+MONTERO ROSERO JULIO ANDRES
+ 
+ 
+----------------------
+CRN
+20640
+MATE1203
+31
+3
+CALCULO DIFERENCIAL
+45
+41
+4
+----------------------
+ 
+ 
+M    J  V
+0630 - 0750
+.O_404
+01-AGO-16
+19-NOV-16
+GALLEGO JOYA CLAUDIA MILENA
+ 
+ 
+----------------------
+CRN
+17063
+MATE1203
+32
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+L  M      V
+0800 - 0920
+.R_110
+01-AGO-16
+19-NOV-16
+ARIAS URIBE JUAN CAMILO
+ 
+ 
+----------------------
+CRN
+20643
+MATE1203
+33
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+L
+1100 - 1220
+.O_402
+01-AGO-16
+19-NOV-16
+ 
+J
+1100 - 1220
+.S1_202
+01-AGO-16
+19-NOV-16
+ 
+M
+1100 - 1220
+.LL_101
+01-AGO-16
+19-NOV-16
+PUIG PORTAL JACINTO ELOY
+ 
+ 
+----------------------
+CRN
+20644
+MATE1203
+34
+3
+CALCULO DIFERENCIAL
+46
+46
+0
+----------------------
+ 
+ 
+L
+1700 - 1820
+.AU_102
+01-AGO-16
+19-NOV-16
+ 
+J
+1700 - 1820
+.LL_102
+01-AGO-16
+19-NOV-16
+ 
+M
+1700 - 1820
+.LL_101
+01-AGO-16
+19-NOV-16
+MARTINEZ ESCOBAR JUAN CARLOS
+ 
+ 
+----------------------
+CRN
+21234
+MATE1203
+36
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+L
+0930 - 1050
+.AU_102
+01-AGO-16
+19-NOV-16
+ 
+V
+0930 - 1050
+.LL_101
+01-AGO-16
+19-NOV-16
+ 
+M
+0930 - 1050
+.LL_102
+01-AGO-16
+19-NOV-16
+ORTIZ SANCHEZ ROBERTO
+ 
+ 
+----------------------
+CRN
+21235
+MATE1203
+37
+3
+CALCULO DIFERENCIAL
+45
+31
+14
+----------------------
+ 
+ 
+L
+1400 - 1520
+.Z_213
+01-AGO-16
+19-NOV-16
+ 
+V
+1400 - 1520
+.Z_110
+01-AGO-16
+19-NOV-16
+ 
+M
+1400 - 1520
+.AU_104
+01-AGO-16
+19-NOV-16
+PEÑA HIDALGO JAIRO IVAN
+ 
+ 
+----------------------
+CRN
+21245
+MATE1203
+38
+3
+CALCULO DIFERENCIAL
+45
+40
+5
+----------------------
+ 
+ 
+M
+0630 - 0750
+.LL_301
+01-AGO-16
+19-NOV-16
+ 
+V
+0630 - 0750
+.SD_704
+01-AGO-16
+19-NOV-16
+ 
+J
+0630 - 0750
+.LL_301
+01-AGO-16
+19-NOV-16
+LATORRE GOMEZ FABIAN RICARDO
+ 
+ 
+----------------------
+CRN
+21237
+MATE1203
+40
+3
+CALCULO DIFERENCIAL
+45
+44
+1
+----------------------
+ 
+ 
+L
+1230 - 1350
+.O_203
+01-AGO-16
+19-NOV-16
+ 
+V
+1230 - 1350
+.O_303
+01-AGO-16
+19-NOV-16
+ 
+J
+1230 - 1350
+.Z_110
+01-AGO-16
+19-NOV-16
+ARIAS MARQUEZ JORGE ALBERTO
+ 
+ 
+----------------------
+CRN
+21263
+MATE1203
+41
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+M    J  V
+0800 - 0920
+.Z_110
+01-AGO-16
+19-NOV-16
+GALLEGO JOYA CLAUDIA MILENA
+ 
+ 
+----------------------
+CRN
+23249
+MATE1203
+42
+3
+CALCULO DIFERENCIAL
+45
+45
+0
+----------------------
+ 
+ 
+L  M    J
+1230 - 1350
+.O_404
+01-AGO-16
+19-NOV-16
+MEDINA LUNA MANUEL JAIR
+ 
+ 
+----------------------
+CRN
+16422
+MATE1203C
+20
+0
+CALCULO DIFERENCIAL COMPL.
+24
+24
+0
+----------------------
+ 
+ 
+L    I    V
+0630 - 0750
+.Z_105
+01-AGO-16
+19-NOV-16
+BARRERAS CORTES JORGE FRANCISCO JOSE
+ 
+ 
+----------------------
+CRN
+16948
+MATE1203C
+21
+0
+CALCULO DIFERENCIAL COMPL.
+24
+24
+0
+----------------------
+ 
+ 
+L    I    V
+0800 - 0920
+.S1_002
+01-AGO-16
+19-NOV-16
+FORERO BELTRAN JULIAN
+ 
+ 
+----------------------
+CRN
+13239
+MATE1203C
+22
+0
+CALCULO DIFERENCIAL COMPL.
+24
+24
+0
+----------------------
+ 
+ 
+L    I    V
+1700 - 1820
+.O_100
+01-AGO-16
+19-NOV-16
+ACUÑA GONZALEZ JULIAN EDUARDO
+ 
+ 
+----------------------
+CRN
+16425
+MATE1203C
+24
+0
+CALCULO DIFERENCIAL COMPL.
+24
+24
+0
+----------------------
+ 
+ 
+L    I    V
+1100 - 1220
+.O_100
+01-AGO-16
+19-NOV-16
+SUESCUN GOMEZ NICOLAS
+ 
+ 
+----------------------
+CRN
+16951
+MATE1203C
+25
+0
+CALCULO DIFERENCIAL COMPL.
+24
+24
+0
+----------------------
+ 
+ 
+L    I    V
+1400 - 1520
+.S1_001
+01-AGO-16
+19-NOV-16
+BOLAÑOS CHAVEZ WILMAR REINERIO
+ 
+ 
+----------------------
+CRN
+12743
+MATE1203C
+26
+0
+CALCULO DIFERENCIAL COMPL.
+24
+23
+1
+----------------------
+ 
+ 
+L    I    V
+1530 - 1650
+.S1_002
+01-AGO-16
+19-NOV-16
+LOPEZ DIAZ EDISON
+ 
+ 
+----------------------
+CRN
+16949
+MATE1203C
+27
+0
+CALCULO DIFERENCIAL COMPL.
+24
+24
+0
+----------------------
+ 
+ 
+L    I    V
+1230 - 1350
+.S1_002
+01-AGO-16
+19-NOV-16
+GARCIA SANCHEZ JAVIER HERNAN
+ 
+ 
+----------------------
+CRN
+10186
+MATE1204
+1
+3
+CALCULO DIFEREN (HON)
+35
+19
+16
+----------------------
+ 
+ 
+M    J  V
+0930 - 1050
+.Z_103
+01-AGO-16
+19-NOV-16
+DE LA VEGA RAMIRO
+ 
+ 
+----------------------
+CRN
+10656
+MATE1207
+1
+3
+CALCULO VECTORIAL
+78
+77
+1
+----------------------
+ 
+ 
+M    J
+0800 - 0920
+.SD_801
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10656, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12748 - MATE-1207C - 2 - CALCULO VECTORIAL COMPL <br> 12749 - MATE-1207C - 3 - CALCULO VECTORIAL COMPL <br> 12309- MATE-1207C- 4-CALCULO VECTORIAL COMPL
+----------------------
+CRN
+10733
+MATE1207
+5
+3
+CALCULO VECTORIAL
+78
+75
+3
+----------------------
+ 
+ 
+I    V
+1530 - 1650
+.B_401
+01-AGO-16
+19-NOV-16
+ARTEAGA BEJARANO JOSE RICARDO
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10733, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12753 - MATE-1207C - 6 - CALCULO VECTORIAL COMPL <br> 13001 - MATE-1207C - 7 - CALCULO VECTORIAL COMPL <br> 12750- MATE-1207C- 8-CALCULO VECTORIAL COMPL
+----------------------
+CRN
+10734
+MATE1207
+9
+3
+CALCULO VECTORIAL (INGLES)
+44
+26
+18
+----------------------
+ 
+ 
+M
+1400 - 1520
+.ML_516
+01-AGO-16
+19-NOV-16
+ 
+V
+1400 - 1520
+.O_304
+01-AGO-16
+19-NOV-16
+ 
+I
+1400 - 1450
+.W_505
+01-AGO-16
+19-NOV-16
+BRESSLER PAUL
+ 
+ 
+----------------------
+CRN
+10735
+MATE1207
+13
+3
+CALCULO VECTORIAL
+78
+76
+2
+----------------------
+ 
+ 
+I    V
+1700 - 1820
+.B_401
+01-AGO-16
+19-NOV-16
+ANGEL CARDENAS JAIRO ANDRES
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10735, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12860 - MATE-1207C - 14 - CALCULO VECTORIAL COMPL <br> 18810 - MATE-1207C - 15 - CAL. VECTORIAL COMPL <br> 12859- MATE-1207C- 16-CALCULO VECTORIAL COMPL
+----------------------
+CRN
+12168
+MATE1207
+17
+3
+CALCULO VECTORIAL
+96
+96
+0
+----------------------
+ 
+ 
+M    J
+1530 - 1650
+.B_402
+01-AGO-16
+19-NOV-16
+ADARVE DELGADO SERGIO
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 12168, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12861 - MATE-1207C - 18 - CALCULO VECTORIAL COMPL <br> 12866 - MATE-1207C - 19 - CALCULO VECTORIAL COMPL <br> 12867- MATE-1207C- 20-CALCULO VECTORIAL COMPL<br>20665- MATE-1207C- 21-CAL. VECTORIAL COMPL
+----------------------
+CRN
+11253
+MATE1207
+22
+3
+CALCULO VECTORIAL
+96
+96
+0
+----------------------
+ 
+ 
+I    V
+0930 - 1050
+.ML_603
+01-AGO-16
+19-NOV-16
+BERENSTEIN OPSCHOLTENS ALEXANDER JONATHAN
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 11253, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12862 - MATE-1207C - 23 - CALCULO VECTORIAL COMPL <br> 12863 - MATE-1207C - 24 - CALCULO VECTORIAL COMPL <br> 12864- MATE-1207C- 25-CALCULO VECTORIAL COMPL<br>13943- MATE-1207C- 26-CAL. VECTORIAL COMPL
+----------------------
+CRN
+20662
+MATE1207
+27
+3
+CALCULO VECTORIAL
+96
+94
+2
+----------------------
+ 
+ 
+I    V
+1230 - 1350
+.O_101
+01-AGO-16
+19-NOV-16
+SANABRIA CAMILO
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 20662, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>20671 - MATE-1207C - 28 - CAL. VECTORIAL COMPL <br> 20672 - MATE-1207C - 29 - CAL. VECTORIAL COMPL <br> 20677- MATE-1207C- 30-CAL. VECTORIAL COMPL<br>23389- MATE-1207C- 31-CAL. VECTORIAL COMPL
+----------------------
+CRN
+23286
+MATE1207
+32
+3
+CALCULO VECTORIAL
+42
+42
+0
+----------------------
+ 
+ 
+L      J  V
+0630 - 0750
+.AU_203
+01-AGO-16
+19-NOV-16
+MURCIA MAZO ALEXANDER
+ 
+ 
+----------------------
+CRN
+23287
+MATE1207
+33
+3
+CALCULO VECTORIAL
+42
+42
+0
+----------------------
+ 
+ 
+M    J  V
+1530 - 1650
+.LL_103
+01-AGO-16
+19-NOV-16
+MARTINEZ ESCOBAR JUAN CARLOS
+ 
+ 
+----------------------
+CRN
+23289
+MATE1207
+34
+3
+CALCULO VECTORIAL
+42
+42
+0
+----------------------
+ 
+ 
+L      J  V
+0930 - 1050
+.LL_301
+01-AGO-16
+19-NOV-16
+CASAS SANCHEZ OSCAR FRANCISCO
+ 
+ 
+----------------------
+CRN
+23642
+MATE1207
+35
+3
+CALCULO VECTORIAL
+40
+40
+0
+----------------------
+ 
+ 
+V
+1230 - 1350
+.K2_101
+01-AGO-16
+19-NOV-16
+ 
+M    J
+1230 - 1350
+.W_506
+01-AGO-16
+19-NOV-16
+ONSHUUS NIÑO ALF
+ 
+ 
+----------------------
+CRN
+23648
+MATE1207
+36
+3
+CALCULO VECTORIAL
+45
+43
+2
+----------------------
+ 
+ 
+J
+1700 - 1820
+.O_104
+01-AGO-16
+19-NOV-16
+ 
+M      V
+1700 - 1820
+.O_205
+01-AGO-16
+19-NOV-16
+CASAS MONSEGNY MARTA CECILIA
+ 
+ 
+----------------------
+CRN
+12748
+MATE1207C
+2
+0
+CALCULO VECTORIAL COMPL
+26
+25
+1
+----------------------
+ 
+ 
+L    I
+0930 - 1020
+.PU_200
+01-AGO-16
+19-NOV-16
+GOMEZ ARDILA LUIS ANTONIO
+ 
+ 
+----------------------
+CRN
+12749
+MATE1207C
+3
+0
+CALCULO VECTORIAL COMPL
+26
+26
+0
+----------------------
+ 
+ 
+L    I
+1100 - 1150
+.PU_300
+01-AGO-16
+19-NOV-16
+JARAMILLO DUQUE DAVID
+ 
+ 
+----------------------
+CRN
+12309
+MATE1207C
+4
+0
+CALCULO VECTORIAL COMPL
+26
+26
+0
+----------------------
+ 
+ 
+L    I
+1100 - 1150
+.TM_201
+01-AGO-16
+19-NOV-16
+GOMEZ ARDILA LUIS ANTONIO
+ 
+ 
+----------------------
+CRN
+12753
+MATE1207C
+6
+0
+CALCULO VECTORIAL COMPL
+26
+25
+1
+----------------------
+ 
+ 
+L      J
+0630 - 0720
+.Z_106
+01-AGO-16
+19-NOV-16
+HERNANDEZ GOMEZ CARLOS ANDRES
+ 
+ 
+----------------------
+CRN
+13001
+MATE1207C
+7
+0
+CALCULO VECTORIAL COMPL
+26
+25
+1
+----------------------
+ 
+ 
+L      J
+0630 - 0720
+.AU_208
+01-AGO-16
+19-NOV-16
+MARTINEZ MARMOL OTAIVIN
+ 
+ 
+----------------------
+CRN
+12750
+MATE1207C
+8
+0
+CALCULO VECTORIAL COMPL
+26
+25
+1
+----------------------
+ 
+ 
+L      J
+1700 - 1750
+.AU_304
+01-AGO-16
+19-NOV-16
+HERNANDEZ GOMEZ CARLOS ANDRES
+ 
+ 
+----------------------
+CRN
+12857
+MATE1207C
+10
+0
+CALCULO VECTORIAL COMPL
+26
+0
+26
+----------------------
+ 
+ 
+L      J
+1530 - 1620
+.S_101
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12855
+MATE1207C
+11
+0
+CALCULO VECTORIAL COMPL
+26
+0
+26
+----------------------
+ 
+ 
+J
+1530 - 1620
+.Z_202
+01-AGO-16
+19-NOV-16
+ 
+L
+1530 - 1620
+.Q_308
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12854
+MATE1207C
+12
+0
+CALCULO VECTORIAL COMPL
+26
+1
+25
+----------------------
+ 
+ 
+L      J
+1700 - 1750
+.Z_106
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12860
+MATE1207C
+14
+0
+CALCULO VECTORIAL COMPL
+26
+26
+0
+----------------------
+ 
+ 
+L      J
+1530 - 1620
+.AU_305
+01-AGO-16
+19-NOV-16
+POST SACHA
+ 
+ 
+----------------------
+CRN
+18810
+MATE1207C
+15
+0
+CAL. VECTORIAL COMPL
+26
+24
+2
+----------------------
+ 
+ 
+L      J
+1530 - 1620
+.PU_100
+01-AGO-16
+19-NOV-16
+MONTOYA ROBLEDO RAFAEL
+ 
+ 
+----------------------
+CRN
+12859
+MATE1207C
+16
+0
+CALCULO VECTORIAL COMPL
+26
+26
+0
+----------------------
+ 
+ 
+L      J
+1700 - 1750
+.AU_310
+01-AGO-16
+19-NOV-16
+MONTOYA ROBLEDO RAFAEL
+ 
+ 
+----------------------
+CRN
+12861
+MATE1207C
+18
+0
+CALCULO VECTORIAL COMPL
+24
+24
+0
+----------------------
+ 
+ 
+I
+1400 - 1450
+.LL_106
+01-AGO-16
+19-NOV-16
+ 
+L
+1400 - 1450
+.AU_205
+01-AGO-16
+19-NOV-16
+OSORIO SALCEDO JUAN SEBASTIAN
+ 
+ 
+----------------------
+CRN
+12866
+MATE1207C
+19
+0
+CALCULO VECTORIAL COMPL
+24
+24
+0
+----------------------
+ 
+ 
+I
+1400 - 1450
+.Z_202
+01-AGO-16
+19-NOV-16
+ 
+L
+1400 - 1450
+.AU_404
+01-AGO-16
+19-NOV-16
+SOTO OCHOA SIMON ANDRES
+ 
+ 
+----------------------
+CRN
+12867
+MATE1207C
+20
+0
+CALCULO VECTORIAL COMPL
+24
+24
+0
+----------------------
+ 
+ 
+I
+1700 - 1750
+.W_504
+01-AGO-16
+19-NOV-16
+ 
+L
+1700 - 1750
+.Z_102
+01-AGO-16
+19-NOV-16
+OSORIO SALCEDO JUAN SEBASTIAN
+ 
+ 
+----------------------
+CRN
+20665
+MATE1207C
+21
+0
+CAL. VECTORIAL COMPL
+24
+24
+0
+----------------------
+ 
+ 
+I
+1700 - 1750
+.W_505
+01-AGO-16
+19-NOV-16
+ 
+L
+1700 - 1750
+.W_403
+01-AGO-16
+19-NOV-16
+SOTO OCHOA SIMON ANDRES
+ 
+ 
+----------------------
+CRN
+12862
+MATE1207C
+23
+0
+CALCULO VECTORIAL COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L      J
+1400 - 1450
+.AU_301
+01-AGO-16
+19-NOV-16
+ESCOBAR VELASQUEZ NICOLAS
+ 
+ 
+----------------------
+CRN
+12863
+MATE1207C
+24
+0
+CALCULO VECTORIAL COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L      J
+1400 - 1450
+.PU_100
+01-AGO-16
+19-NOV-16
+PACHECO TOBO WILLIAM LEONARDO
+ 
+ 
+----------------------
+CRN
+12864
+MATE1207C
+25
+0
+CALCULO VECTORIAL COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L      J
+1700 - 1750
+.PU_100
+01-AGO-16
+19-NOV-16
+AVILA GIRARDOT DANIEL FELIPE
+ 
+ 
+----------------------
+CRN
+13943
+MATE1207C
+26
+0
+CAL. VECTORIAL COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L      J
+1700 - 1750
+.Y_111B
+01-AGO-16
+19-NOV-16
+PACHECO TOBO WILLIAM LEONARDO
+ 
+ 
+----------------------
+CRN
+20671
+MATE1207C
+28
+0
+CAL. VECTORIAL COMPL
+25
+25
+0
+----------------------
+ 
+ 
+L      J
+0630 - 0720
+.AU_307
+01-AGO-16
+19-NOV-16
+VARGAS BERNAL ESTEBAN
+ 
+ 
+----------------------
+CRN
+20672
+MATE1207C
+29
+0
+CAL. VECTORIAL COMPL
+25
+21
+4
+----------------------
+ 
+ 
+L      J
+0630 - 0720
+.AU_303
+01-AGO-16
+19-NOV-16
+WALTEROS VERGARA NICOLÁS JAVIER
+ 
+ 
+----------------------
+CRN
+20677
+MATE1207C
+30
+0
+CAL. VECTORIAL COMPL
+25
+25
+0
+----------------------
+ 
+ 
+L      J
+1400 - 1450
+.AU_304
+01-AGO-16
+19-NOV-16
+VARGAS BERNAL ESTEBAN
+ 
+ 
+----------------------
+CRN
+23389
+MATE1207C
+31
+0
+CAL. VECTORIAL COMPL
+24
+23
+1
+----------------------
+ 
+ 
+L      J
+1400 - 1450
+.W_504
+01-AGO-16
+19-NOV-16
+WALTEROS VERGARA NICOLÁS JAVIER
+ 
+ 
+----------------------
+CRN
+10556
+MATE1208
+1
+3
+CALCULO VECTORIAL (HONORES)
+35
+11
+24
+----------------------
+ 
+ 
+L    I    V
+0800 - 0920
+.Z_201
+01-AGO-16
+19-NOV-16
+ECHEVERRI DAVILA HERNANDO JOSE
+ 
+ 
+----------------------
+CRN
+10736
+MATE1209
+1
+3
+CALCULO 3 (ECONOMIA,ADMON)
+78
+56
+22
+----------------------
+ 
+ 
+M    J
+1100 - 1220
+.ML_604
+01-AGO-16
+19-NOV-16
+QUIROZ SALAZAR ADOLFO JOSE
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10736, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>13567 - MATE-1209C - 2 - CALCULO 3 (ECON.ADMN) - COMPL. <br> 13571 - MATE-1209C - 3 - CALCULO 3 (ECON.ADMN) - COMPL. <br> 13572- MATE-1209C- 4-CALCULO 3 (ECON.ADMN) - COMPL.
+----------------------
+CRN
+12169
+MATE1209
+5
+3
+CALCULO 3 (ECONOMIA,ADMON)
+45
+30
+15
+----------------------
+ 
+ 
+L  M    J  V
+1230 - 1320
+.AU_203
+01-AGO-16
+19-NOV-16
+BENITEZ CASTRO FERNEY
+ 
+ 
+----------------------
+CRN
+21222
+MATE1209
+6
+3
+CALCULO 3 (ECONOMIA,ADMON)
+45
+44
+1
+----------------------
+ 
+ 
+M    J
+1230 - 1320
+.B_203
+01-AGO-16
+19-NOV-16
+ 
+L        V
+1230 - 1320
+.AU_102
+01-AGO-16
+19-NOV-16
+CAPASSO CASTRO ITALO
+ 
+ 
+----------------------
+CRN
+13567
+MATE1209C
+2
+0
+CALCULO 3 (ECON.ADMN) - COMPL.
+26
+10
+16
+----------------------
+ 
+ 
+I    V
+1230 - 1320
+.ML_515
+01-AGO-16
+19-NOV-16
+FERRO VENEGAS JORGE
+ 
+ 
+----------------------
+CRN
+13571
+MATE1209C
+3
+0
+CALCULO 3 (ECON.ADMN) - COMPL.
+26
+21
+5
+----------------------
+ 
+ 
+I    V
+1230 - 1320
+.AU_206
+01-AGO-16
+19-NOV-16
+LATORRE GOMEZ FABIAN RICARDO
+ 
+ 
+----------------------
+CRN
+13572
+MATE1209C
+4
+0
+CALCULO 3 (ECON.ADMN) - COMPL.
+26
+23
+3
+----------------------
+ 
+ 
+I    V
+1230 - 1320
+.S1_003
+01-AGO-16
+19-NOV-16
+DONADO RINCON DANIEL ALBERTO
+ 
+ 
+----------------------
+CRN
+10184
+MATE1212
+1
+3
+MATEMATICAS 1 (BIO-MED)
+45
+45
+0
+----------------------
+ 
+ 
+L        V
+0630 - 0720
+.O_302
+01-AGO-16
+19-NOV-16
+ 
+I
+0630 - 0720
+.Z_110
+01-AGO-16
+19-NOV-16
+ 
+M    J
+0630 - 0720
+.O_304
+01-AGO-16
+19-NOV-16
+VANEGAS GORDILLO ORLANDO
+ 
+ 
+----------------------
+CRN
+10545
+MATE1212
+2
+3
+MATEMATICAS 1 (BIO-MED)
+45
+45
+0
+----------------------
+ 
+ 
+M    J
+0800 - 0850
+.LL_101
+01-AGO-16
+19-NOV-16
+ 
+L    I    V
+0800 - 0850
+.O_402
+01-AGO-16
+19-NOV-16
+ARIAS MARQUEZ JORGE ALBERTO
+ 
+ 
+----------------------
+CRN
+23335
+MATE1212
+3
+3
+MATEMATICAS 1 (BIO-MED)
+45
+23
+22
+----------------------
+ 
+ 
+L  M  I  J  V
+0630 - 0720
+.S1_202
+01-AGO-16
+19-NOV-16
+CASTRO OVALLE DANIEL FELIPE
+ 
+ 
+----------------------
+CRN
+12198
+MATE1212
+4
+3
+MATEMATICAS 1 (BIO-MED)
+45
+34
+11
+----------------------
+ 
+ 
+L      J
+0630 - 0720
+.B_203
+01-AGO-16
+19-NOV-16
+ 
+V
+0630 - 0720
+.B_402
+01-AGO-16
+19-NOV-16
+ 
+M  I
+0630 - 0720
+.AU_203
+01-AGO-16
+19-NOV-16
+DEL CORRAL MARTINEZ CESAR AUGUSTO
+ 
+ 
+----------------------
+CRN
+10657
+MATE1213
+1
+3
+MATEMATICAS 3 (BIO-MED)
+45
+36
+9
+----------------------
+ 
+ 
+M    J  V
+1230 - 1350
+.LL_301
+01-AGO-16
+19-NOV-16
+BUENO ALEX ROLANDO
+ 
+ 
+----------------------
+CRN
+10182
+MATE1214
+1
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+96
+96
+0
+----------------------
+ 
+ 
+I    V
+1400 - 1520
+.B_402
+01-AGO-16
+19-NOV-16
+GOODRICK JOHN
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10182, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12869 - MATE-1214C - 2 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12310 - MATE-1214C - 3 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12871- MATE-1214C- 4-CALC.INTEG-ECUAC.DIFEREN COMPL<br>12868- MATE-1214C- 5-CALC.INTEG-ECUAC.DIFEREN COMPL
+----------------------
+CRN
+10658
+MATE1214
+6
+3
+CALCULO INTEGR -ECUAC.DIFEREN.
+96
+71
+25
+----------------------
+ 
+ 
+M    J
+1230 - 1350
+.O_103
+01-AGO-16
+19-NOV-16
+DE LA VEGA RAMIRO
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10658, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12874 - MATE-1214C - 7 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12875 - MATE-1214C - 8 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12872- MATE-1214C- 9-CALC.INTEG-ECUAC.DIFEREN COMPL<br>12873- MATE-1214C- 10-CALC.INTEG-ECUAC.DIFEREN COMPL
+----------------------
+CRN
+10737
+MATE1214
+11
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+78
+76
+2
+----------------------
+ 
+ 
+M    J
+1700 - 1820
+.ML_604
+01-AGO-16
+19-NOV-16
+MARTINEZ BALDARES MARICARMEN
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10737, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12876 - MATE-1214C - 12 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12877 - MATE-1214C - 13 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12878- MATE-1214C- 14-CALC.INTEG-ECUAC.DIFEREN COMPL
+----------------------
+CRN
+10738
+MATE1214
+15
+3
+CALC INT-ECUAC.DIFER.
+96
+96
+0
+----------------------
+ 
+ 
+M    J
+1100 - 1220
+.O_102
+01-AGO-16
+19-NOV-16
+BACKELIN ERIK
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10738, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>13584 - MATE-1214C - 16 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12870 - MATE-1214C - 17 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 18820- MATE-1214C- 18-CALC.INTEG-ECUAC.DIFEREN COMPL<br>12880- MATE-1214C- 19-CALC.INTEG-ECUAC.DIFEREN COMPL
+----------------------
+CRN
+10782
+MATE1214
+20
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+45
+41
+4
+----------------------
+ 
+ 
+M    J
+1400 - 1520
+.B_203
+01-AGO-16
+19-NOV-16
+ 
+V
+1400 - 1450
+.O_303
+01-AGO-16
+19-NOV-16
+ 
+I
+1400 - 1450
+.O_403
+01-AGO-16
+19-NOV-16
+HÖGELE MICHAEL ANTON
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10782, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12883 - MATE-1214C - 21 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12882 - MATE-1214C - 23 - CALC.INTEG-ECUAC.DIFEREN COMPL
+----------------------
+CRN
+10784
+MATE1214
+25
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+78
+76
+2
+----------------------
+ 
+ 
+I    V
+0930 - 1050
+.SD_801
+01-AGO-16
+19-NOV-16
+OULD AHMED
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10784, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12887 - MATE-1214C - 26 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12885 - MATE-1214C - 27 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12886- MATE-1214C- 28-CALC.INTEG-ECUAC.DIFEREN COMPL
+----------------------
+CRN
+10790
+MATE1214
+29
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+40
+36
+4
+----------------------
+ 
+ 
+M    J
+0800 - 0850
+.AU_401
+01-AGO-16
+19-NOV-16
+ 
+V
+0800 - 0920
+.AU_402
+01-AGO-16
+19-NOV-16
+ 
+I
+0800 - 0920
+.ML_606
+01-AGO-16
+19-NOV-16
+LEON GUERRERO EMERSON JULIAN
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10790, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12889 - MATE-1214C - 30 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12890 - MATE-1214C - 31 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12888- MATE-1214C- 32-CALC.INTEG-ECUAC.DIFEREN COMPL
+----------------------
+CRN
+10871
+MATE1214
+33
+3
+CAL. INTEG.ECUA.DIFER.
+40
+37
+3
+----------------------
+ 
+ 
+L
+0930 - 1020
+.Y_101
+01-AGO-16
+19-NOV-16
+ 
+J
+1230 - 1350
+.W_504
+01-AGO-16
+19-NOV-16
+ 
+M
+1230 - 1350
+.O_301
+01-AGO-16
+19-NOV-16
+ 
+I
+0930 - 1020
+.Z_101
+01-AGO-16
+19-NOV-16
+MONTENEGRO GUZMAN SAMARIA
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 10871, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12892 - MATE-1214C - 34 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12893 - MATE-1214C - 35 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12894- MATE-1214C- 36-CALC.INTEG-ECUAC.DIFEREN COMPL
+----------------------
+CRN
+11254
+MATE1214
+37
+3
+CALCULO INTEGR -ECUAC.DIF.
+78
+77
+1
+----------------------
+ 
+ 
+J
+1400 - 1520
+.SD_807
+01-AGO-16
+19-NOV-16
+ 
+M
+1400 - 1520
+.ML_617
+01-AGO-16
+19-NOV-16
+MEDINA LUNA MANUEL JAIR
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 11254, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12896 - MATE-1214C - 38 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12897 - MATE-1214C - 39 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 12898- MATE-1214C- 40-CALC.INTEG-ECUAC.DIFEREN COMPL
+----------------------
+CRN
+21155
+MATE1214
+42
+3
+CALC.NTEGR -ECUAC.DIF.(INGLES)
+15
+6
+9
+----------------------
+ 
+ 
+M  I    V
+1700 - 1820
+.AU_210
+01-AGO-16
+19-NOV-16
+GETMANENKO ALEXANDER
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 21155, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>21156 - MATE-1214C - 43 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 21157 - MATE-1214C - 44 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 21158- MATE-1214C- 45-CALC.INTEG-ECUAC.DIFEREN COMPL<br>21159- MATE-1214C- 46-CALC.INTEG-ECUAC.DIFEREN COMPL
+----------------------
+CRN
+23341
+MATE1214
+47
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+32
+21
+11
+----------------------
+ 
+ 
+M    J
+1530 - 1650
+.LL_101
+01-AGO-16
+19-NOV-16
+ 
+L    I
+1530 - 1620
+.LL_202
+01-AGO-16
+19-NOV-16
+FERRI STEFANO
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 23341, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>23342 - MATE-1214C - 48 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 23343 - MATE-1214C - 49 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 23344- MATE-1214C- 50-CALC.INTEG-ECUAC.DIFEREN COMPL
+----------------------
+CRN
+23345
+MATE1214
+51
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+78
+75
+3
+----------------------
+ 
+ 
+I    V
+1100 - 1220
+.ML_604
+01-AGO-16
+19-NOV-16
+LJUJIC ZELJKA
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 23345, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>23346 - MATE-1214C - 52 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 23347 - MATE-1214C - 53 - CALC.INTEG-ECUAC.DIFEREN COMPL <br> 23348- MATE-1214C- 54-CALC.INTEG-ECUAC.DIFEREN COMPL
+----------------------
+CRN
+21288
+MATE1214
+55
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+42
+41
+1
+----------------------
+ 
+ 
+L  M    J
+0800 - 0920
+.AU_102
+01-AGO-16
+19-NOV-16
+RIVEROS PACHECO DAVID RICARDO
+ 
+ 
+----------------------
+CRN
+21160
+MATE1214
+56
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+42
+42
+0
+----------------------
+ 
+ 
+L  M      V
+0930 - 1050
+.S1_202
+01-AGO-16
+19-NOV-16
+MURCIA MAZO ALEXANDER
+ 
+ 
+----------------------
+CRN
+20687
+MATE1214
+57
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+42
+42
+0
+----------------------
+ 
+ 
+L      J  V
+1230 - 1350
+.O_403
+01-AGO-16
+19-NOV-16
+RODRIGUEZ GRANOBLES FREDY
+ 
+ 
+----------------------
+CRN
+23349
+MATE1214
+58
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+42
+42
+0
+----------------------
+ 
+ 
+L  M    J
+1400 - 1520
+.Z_110
+01-AGO-16
+19-NOV-16
+RODRIGUEZ GUZMAN RAQUEL
+ 
+ 
+----------------------
+CRN
+23350
+MATE1214
+59
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+42
+41
+1
+----------------------
+ 
+ 
+L  M      V
+0630 - 0750
+.R_110
+01-AGO-16
+19-NOV-16
+RODRIGUEZ DUQUE CESAR AUGUSTO
+ 
+ 
+----------------------
+CRN
+23390
+MATE1214
+60
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+42
+42
+0
+----------------------
+ 
+ 
+L      J  V
+0800 - 0920
+.Q_306
+01-AGO-16
+19-NOV-16
+SOSA GOMEZ JUAN CARLOS
+ 
+ 
+----------------------
+CRN
+23351
+MATE1214
+61
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+42
+41
+1
+----------------------
+ 
+ 
+L
+0930 - 1050
+.ML_514
+01-AGO-16
+19-NOV-16
+ 
+J
+0930 - 1050
+.ML_510
+01-AGO-16
+19-NOV-16
+ 
+M
+0930 - 1050
+.LL_303
+01-AGO-16
+19-NOV-16
+RIVEROS PACHECO DAVID RICARDO
+ 
+ 
+----------------------
+CRN
+23353
+MATE1214
+62
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+42
+41
+1
+----------------------
+ 
+ 
+L  M      V
+1100 - 1220
+.S1_202
+01-AGO-16
+19-NOV-16
+ZAPATA RESTREPO OSCAR OSWALDO
+ 
+ 
+----------------------
+CRN
+23354
+MATE1214
+63
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+42
+41
+1
+----------------------
+ 
+ 
+L      J  V
+0630 - 0750
+.AU_104
+01-AGO-16
+19-NOV-16
+ECHEVERRY NAVARRO LUZ MIRIAM
+ 
+ 
+----------------------
+CRN
+20686
+MATE1214
+64
+3
+CALCULO INTEGRAL-ECUAC.DIFEREN
+42
+42
+0
+----------------------
+ 
+ 
+L
+1400 - 1520
+.Y_101
+01-AGO-16
+19-NOV-16
+ 
+J
+1400 - 1520
+.S1_202
+01-AGO-16
+19-NOV-16
+ 
+M
+1400 - 1520
+.LL_301
+01-AGO-16
+19-NOV-16
+PARAMO FONSECA AQUILES ESTEBAN
+ 
+ 
+----------------------
+CRN
+12869
+MATE1214C
+2
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L      J
+0800 - 0850
+.AU_404
+01-AGO-16
+19-NOV-16
+ROBAYO BARGANS DIEGO ANTONIO
+ 
+ 
+----------------------
+CRN
+12310
+MATE1214C
+3
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+24
+0
+----------------------
+ 
+ 
+J
+0800 - 0850
+.W_205
+01-AGO-16
+19-NOV-16
+ 
+L
+0800 - 0850
+.W_502
+01-AGO-16
+19-NOV-16
+OROZCO LOPEZ RONALD JULIO
+ 
+ 
+----------------------
+CRN
+12871
+MATE1214C
+4
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L      J
+0930 - 1020
+.Z_106
+01-AGO-16
+19-NOV-16
+CHAPARRO SUMALAVE GUSTAVO
+ 
+ 
+----------------------
+CRN
+12868
+MATE1214C
+5
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L      J
+0930 - 1020
+.Y_111B
+01-AGO-16
+19-NOV-16
+CHITIVA BOCANEGRA JULIAN ENRIQUE
+ 
+ 
+----------------------
+CRN
+12874
+MATE1214C
+7
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+19
+5
+----------------------
+ 
+ 
+I
+0930 - 1020
+.S_102
+01-AGO-16
+19-NOV-16
+ 
+L
+0930 - 1020
+.Z_103
+01-AGO-16
+19-NOV-16
+TOBAR BRAVO GERMAN AUGUSTO
+ 
+ 
+----------------------
+CRN
+12875
+MATE1214C
+8
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+31
+31
+0
+----------------------
+ 
+ 
+L    I
+0630 - 0720
+.AU_306
+01-AGO-16
+19-NOV-16
+TOBAR BRAVO GERMAN AUGUSTO
+ 
+ 
+----------------------
+CRN
+12872
+MATE1214C
+9
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+21
+3
+----------------------
+ 
+ 
+L    I
+0930 - 1020
+.Z_102
+01-AGO-16
+19-NOV-16
+AMAYA GOMEZ RAFAEL
+ 
+ 
+----------------------
+CRN
+12873
+MATE1214C
+10
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+0
+24
+----------------------
+ 
+ 
+L    I
+0630 - 0720
+.TM_202
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12876
+MATE1214C
+12
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+25
+1
+----------------------
+ 
+ 
+I
+1100 - 1150
+.AU_208
+01-AGO-16
+19-NOV-16
+ 
+L
+1100 - 1150
+.O_301
+01-AGO-16
+19-NOV-16
+NIÑO CORTES JONATHAN ANDRES
+ 
+ 
+----------------------
+CRN
+12877
+MATE1214C
+13
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+25
+1
+----------------------
+ 
+ 
+L    I
+1700 - 1750
+.AU_307
+01-AGO-16
+19-NOV-16
+AZUERO MUTIS JUAN CAMILO
+ 
+ 
+----------------------
+CRN
+12878
+MATE1214C
+14
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+26
+0
+----------------------
+ 
+ 
+L    I
+1700 - 1750
+.AU_303
+01-AGO-16
+19-NOV-16
+MORENO PARIS JAVIER DAVID
+ 
+ 
+----------------------
+CRN
+13584
+MATE1214C
+16
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L    I
+0930 - 1020
+.TM_201
+01-AGO-16
+19-NOV-16
+VELEZ GUTIERREZ LORENZA
+ 
+ 
+----------------------
+CRN
+12870
+MATE1214C
+17
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+24
+0
+----------------------
+ 
+ 
+I
+0930 - 1020
+.Z_212
+01-AGO-16
+19-NOV-16
+ 
+L
+0930 - 1020
+.W_504
+01-AGO-16
+19-NOV-16
+RUIZ VESGA MATIAS
+ 
+ 
+----------------------
+CRN
+18820
+MATE1214C
+18
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L    I
+1700 - 1750
+.Z_104
+01-AGO-16
+19-NOV-16
+MUÑOZ CARVAJAL JORGE DANIEL
+ 
+ 
+----------------------
+CRN
+12880
+MATE1214C
+19
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+24
+0
+----------------------
+ 
+ 
+L    I
+1700 - 1750
+.Z_103
+01-AGO-16
+19-NOV-16
+SANCHEZ MENDOZA DANIEL
+ 
+ 
+----------------------
+CRN
+12883
+MATE1214C
+21
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+17
+9
+----------------------
+ 
+ 
+L    I
+1700 - 1750
+.AU_305
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12882
+MATE1214C
+23
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+24
+2
+----------------------
+ 
+ 
+L    I
+1100 - 1150
+.LL_205
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12887
+MATE1214C
+26
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+26
+0
+----------------------
+ 
+ 
+J
+1530 - 1620
+.Z_104
+01-AGO-16
+19-NOV-16
+ 
+L
+1530 - 1620
+.AU_310
+01-AGO-16
+19-NOV-16
+RAMIREZ DIAZ NICOLAS
+ 
+ 
+----------------------
+CRN
+12885
+MATE1214C
+27
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+25
+1
+----------------------
+ 
+ 
+L      J
+1530 - 1620
+.AU_301
+01-AGO-16
+19-NOV-16
+PEÑA HIDALGO JAIRO IVAN
+ 
+ 
+----------------------
+CRN
+12886
+MATE1214C
+28
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+25
+1
+----------------------
+ 
+ 
+L      J
+1700 - 1750
+.AU_209
+01-AGO-16
+19-NOV-16
+RAMIREZ DIAZ NICOLAS
+ 
+ 
+----------------------
+CRN
+12889
+MATE1214C
+30
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+20
+6
+----------------------
+ 
+ 
+L      J
+1100 - 1150
+.AU_208
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12890
+MATE1214C
+31
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+5
+21
+----------------------
+ 
+ 
+L      J
+1230 - 1320
+.AU_209
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12888
+MATE1214C
+32
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+11
+15
+----------------------
+ 
+ 
+L      J
+1230 - 1320
+.Z_109
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12892
+MATE1214C
+34
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+4
+22
+----------------------
+ 
+ 
+L    I
+0800 - 0850
+.Z_104
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12893
+MATE1214C
+35
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+7
+19
+----------------------
+ 
+ 
+L    I
+0800 - 0850
+.AU_208
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12894
+MATE1214C
+36
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+26
+0
+----------------------
+ 
+ 
+L    I
+0930 - 1020
+.Q_308
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12896
+MATE1214C
+38
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+26
+0
+----------------------
+ 
+ 
+L    I
+1400 - 1450
+.O_304
+01-AGO-16
+19-NOV-16
+JARAMILLO TORRES NICOLAS
+ 
+ 
+----------------------
+CRN
+12897
+MATE1214C
+39
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+26
+0
+----------------------
+ 
+ 
+L    I
+1400 - 1450
+.O_303
+01-AGO-16
+19-NOV-16
+GUTIERREZ BAUTISTA SANTIAGO
+ 
+ 
+----------------------
+CRN
+12898
+MATE1214C
+40
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+25
+1
+----------------------
+ 
+ 
+L    I
+1530 - 1620
+.AU_206
+01-AGO-16
+19-NOV-16
+JARAMILLO TORRES NICOLAS
+ 
+ 
+----------------------
+CRN
+21156
+MATE1214C
+43
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+2
+22
+----------------------
+ 
+ 
+L      J
+0630 - 0720
+.AU_302
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+21157
+MATE1214C
+44
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+2
+22
+----------------------
+ 
+ 
+L      J
+0630 - 0720
+.AU_308
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+21158
+MATE1214C
+45
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+1
+23
+----------------------
+ 
+ 
+L      J
+1530 - 1620
+.SD_307
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+21159
+MATE1214C
+46
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+24
+1
+23
+----------------------
+ 
+ 
+L      J
+1530 - 1620
+.LL_203
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+23342
+MATE1214C
+48
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+10
+16
+----------------------
+ 
+ 
+L    I
+1400 - 1450
+.B_201
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+23343
+MATE1214C
+49
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+4
+22
+----------------------
+ 
+ 
+L    I
+1400 - 1450
+.O_404
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+23344
+MATE1214C
+50
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+7
+19
+----------------------
+ 
+ 
+L    I
+1530 - 1620
+.Z_104
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+23346
+MATE1214C
+52
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+24
+2
+----------------------
+ 
+ 
+L      J
+1400 - 1450
+.Z_106
+01-AGO-16
+19-NOV-16
+VENEGAS RAMIREZ CESAR FERNANDO
+ 
+ 
+----------------------
+CRN
+23347
+MATE1214C
+53
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+26
+0
+----------------------
+ 
+ 
+L      J
+1400 - 1450
+.AU_310
+01-AGO-16
+19-NOV-16
+MURILLO TABORDA DIEGO ALEJANDRO
+ 
+ 
+----------------------
+CRN
+23348
+MATE1214C
+54
+0
+CALC.INTEG-ECUAC.DIFEREN COMPL
+26
+25
+1
+----------------------
+ 
+ 
+L      J
+1530 - 1620
+.AU_304
+01-AGO-16
+19-NOV-16
+VENEGAS RAMIREZ CESAR FERNANDO
+ 
+ 
+----------------------
+CRN
+10436
+MATE1215
+1
+3
+CALCULO INT-ECUAC.DIFER(HON)
+35
+9
+26
+----------------------
+ 
+ 
+L    I    V
+0800 - 0920
+.R_109
+01-AGO-16
+19-NOV-16
+ROCUTS SCHWEITZER
+ 
+ 
+----------------------
+CRN
+17310
+MATE1251
+1
+3
+MÉTODOS CUANTITATIVOS
+30
+13
+17
+----------------------
+ 
+ 
+M
+0800 - 0920
+.Z_212
+01-AGO-16
+19-NOV-16
+ 
+L      J
+0800 - 0920
+.AU_303
+01-AGO-16
+19-NOV-16
+GARRIDO LOPERA LILIANA
+ 
+ 
+----------------------
+CRN
+20449
+MATE1252
+1
+3
+CALCULO INTEGRAL-PROBABILIDAD
+100
+69
+31
+----------------------
+ 
+ 
+M    J
+1400 - 1520
+.O_104
+01-AGO-16
+19-NOV-16
+JUNCA PELAEZ MAURICIO JOSE
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 20449, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>20450 - MATE-1252C - 2 - CALCULO INTEGRAL-PROBAB COMPL <br> 20698 - MATE-1252C - 3 - CALCULO INTEGRAL-PROBAB COMPL <br> 20699- MATE-1252C- 4-CALCULO INTEGRAL-PROBAB COMPL<br>20703- MATE-1252C- 5-CALCULO INTEGRAL-PROBAB COMPL
+----------------------
+CRN
+20695
+MATE1252
+6
+3
+CALCULO INTEGRAL-PROBABILIDAD
+45
+45
+0
+----------------------
+ 
+ 
+L  M    J
+1400 - 1520
+.AU_102
+01-AGO-16
+19-NOV-16
+BUENO ALEX ROLANDO
+ 
+ 
+----------------------
+CRN
+23355
+MATE1252
+7
+3
+CALCULO INTEGRAL-PROBABILIDAD
+45
+44
+1
+----------------------
+ 
+ 
+L  M    J
+1400 - 1520
+.R_110
+01-AGO-16
+19-NOV-16
+MEZIAT VELEZ RENE
+ 
+ 
+----------------------
+CRN
+20450
+MATE1252C
+2
+0
+CALCULO INTEGRAL-PROBAB COMPL
+25
+19
+6
+----------------------
+ 
+ 
+L    I
+1400 - 1450
+.O_302
+01-AGO-16
+19-NOV-16
+RAMIREZ ACEVEDO YACIR ANDRES
+ 
+ 
+----------------------
+CRN
+20698
+MATE1252C
+3
+0
+CALCULO INTEGRAL-PROBAB COMPL
+25
+20
+5
+----------------------
+ 
+ 
+L    I
+1400 - 1450
+.O_301
+01-AGO-16
+19-NOV-16
+QUINTERO OSPINA RODOLFO ALEXANDER
+ 
+ 
+----------------------
+CRN
+20699
+MATE1252C
+4
+0
+CALCULO INTEGRAL-PROBAB COMPL
+25
+20
+5
+----------------------
+ 
+ 
+L    I
+1230 - 1320
+.AU_306
+01-AGO-16
+19-NOV-16
+RAMIREZ ACEVEDO YACIR ANDRES
+ 
+ 
+----------------------
+CRN
+20703
+MATE1252C
+5
+0
+CALCULO INTEGRAL-PROBAB COMPL
+25
+10
+15
+----------------------
+ 
+ 
+L    I
+1230 - 1320
+.AU_303
+01-AGO-16
+19-NOV-16
+QUINTERO OSPINA RODOLFO ALEXANDER
+ 
+ 
+----------------------
+CRN
+20451
+MATE1253
+1
+3
+CALCULO 3 Y ALGEBRA LINEAL 1
+45
+36
+9
+----------------------
+ 
+ 
+L  M      V
+1530 - 1650
+.Z_110
+01-AGO-16
+19-NOV-16
+ORTIZ SANCHEZ ROBERTO
+ 
+ 
+----------------------
+CRN
+20705
+MATE1253
+2
+3
+CALCULO 3 Y ALGEBRA LINEAL 1
+45
+45
+0
+----------------------
+ 
+ 
+L  M    J
+1530 - 1650
+.AU_102
+01-AGO-16
+19-NOV-16
+MEZIAT VELEZ RENE
+ 
+ 
+----------------------
+CRN
+20707
+MATE1253
+3
+3
+CALCULO 3 Y ALGEBRA LINEAL 1
+45
+45
+0
+----------------------
+ 
+ 
+L      J  V
+1530 - 1650
+.S1_202
+01-AGO-16
+19-NOV-16
+BUENO ALEX ROLANDO
+ 
+ 
+----------------------
+CRN
+11193
+MATE1442B
+1
+3
+IDEAS EN ESPACIO Y TIEMPO
+54
+60
+-6
+----------------------
+ 
+ 
+M    J
+1530 - 1650
+.O_305
+01-AGO-16
+19-NOV-16
+CAPASSO CASTRO ITALO
+ 
+ 
+----------------------
+CRN
+10003
+MATE1501
+1
+3
+ESTADISTICA 1 (C.SOCIALES)
+45
+38
+7
+----------------------
+ 
+ 
+M    J
+0630 - 0720
+.ML_512
+01-AGO-16
+19-NOV-16
+ 
+L        V
+0630 - 0720
+.O_303
+01-AGO-16
+19-NOV-16
+ARIAS MARQUEZ JORGE ALBERTO
+ 
+ 
+----------------------
+CRN
+12998
+MATE1501
+2
+3
+ESTADISTICA 1 (C.SOCIALES)
+45
+45
+0
+----------------------
+ 
+ 
+L  M    J  V
+1230 - 1320
+.AU_104
+01-AGO-16
+19-NOV-16
+ORTIZ GUZMAN FABIO
+ 
+ 
+----------------------
+CRN
+10172
+MATE1501
+3
+3
+ESTADISTICA 1 (C.SOCIALES)
+45
+43
+2
+----------------------
+ 
+ 
+M    J
+1230 - 1320
+.O_302
+01-AGO-16
+19-NOV-16
+ 
+L        V
+1230 - 1320
+.B_203
+01-AGO-16
+19-NOV-16
+PEÑA HIDALGO JAIRO IVAN
+ 
+ 
+----------------------
+CRN
+10173
+MATE1501
+4
+3
+ESTADISTICA 1 (C.SOCIALES)
+45
+12
+33
+----------------------
+ 
+ 
+L
+1230 - 1320
+.ML_607
+01-AGO-16
+19-NOV-16
+ 
+J
+1230 - 1320
+.ML_510
+01-AGO-16
+19-NOV-16
+ 
+M      V
+1230 - 1320
+.ML_511
+01-AGO-16
+19-NOV-16
+MONTERO ROSERO JULIO ANDRES
+ 
+ 
+----------------------
+CRN
+11158
+MATE1501
+5
+3
+ESTADISTICA 1 (C.SOCIALES)
+45
+45
+0
+----------------------
+ 
+ 
+L  M    J  V
+1230 - 1320
+.LL_304
+01-AGO-16
+19-NOV-16
+RODRIGUEZ GUZMAN RAQUEL
+ 
+ 
+----------------------
+CRN
+11941
+MATE1501
+6
+3
+ESTADISTICA 1 (C.SOCIALES)
+45
+45
+0
+----------------------
+ 
+ 
+L  M    J  V
+1230 - 1320
+.Q_306
+01-AGO-16
+19-NOV-16
+ROCUTS SCHWEITZER
+ 
+ 
+----------------------
+CRN
+16472
+MATE1501
+7
+3
+ESTADISTICA 1 (C.SOCIALES)
+45
+22
+23
+----------------------
+ 
+ 
+L  M    J  V
+1100 - 1220
+.R_110
+01-AGO-16
+19-NOV-16
+CASAS SANCHEZ OSCAR FRANCISCO
+ 
+ 
+----------------------
+CRN
+19076
+MATE1501
+8
+3
+ESTADISTICA 1 (C.SOCIALES)
+45
+13
+32
+----------------------
+ 
+ 
+M    J
+0630 - 0720
+.O_302
+01-AGO-16
+19-NOV-16
+ 
+L        V
+0630 - 0720
+.O_301
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+10512
+MATE1502
+1
+3
+ESTADISTICA 2 (C. SOCIALES)
+35
+11
+24
+----------------------
+ 
+ 
+L  M    J  V
+1230 - 1320
+.PU_300
+01-AGO-16
+19-NOV-16
+CASAS MONSEGNY MARTA CECILIA
+ 
+ 
+----------------------
+CRN
+10872
+MATE1505
+2
+3
+PROB. Y ESTADISTICA 1
+35
+16
+19
+----------------------
+ 
+ 
+V
+1400 - 1520
+.AU_402
+01-AGO-16
+19-NOV-16
+ 
+L  M
+1400 - 1520
+.S1_003
+01-AGO-16
+19-NOV-16
+BENITEZ CASTRO FERNEY
+ 
+ 
+----------------------
+CRN
+10873
+MATE1505
+3
+3
+PROB. Y ESTADISTICA 1
+35
+12
+23
+----------------------
+ 
+ 
+J
+0800 - 0920
+.PU_300
+01-AGO-16
+19-NOV-16
+ 
+L  M
+0800 - 0920
+.O_303
+01-AGO-16
+19-NOV-16
+ORTIZ SANCHEZ ROBERTO
+ 
+ 
+----------------------
+CRN
+14919
+MATE1505
+4
+3
+PROB. Y ESTADISTICA 1
+35
+34
+1
+----------------------
+ 
+ 
+M    J  V
+0800 - 0920
+.TM_201
+01-AGO-16
+19-NOV-16
+BENITEZ CASTRO FERNEY
+ 
+ 
+----------------------
+CRN
+10557
+MATE1506
+1
+3
+PROB.Y ESTADISTICA 2
+35
+35
+0
+----------------------
+ 
+ 
+J
+1400 - 1550
+.Y_101
+01-AGO-16
+19-NOV-16
+ 
+M
+1400 - 1550
+.ML_614
+01-AGO-16
+19-NOV-16
+RODRIGUEZ GRANOBLES FREDY
+ 
+ 
+----------------------
+CRN
+11061
+MATE1506
+2
+3
+PROB.Y ESTADISTICA 2
+40
+40
+0
+----------------------
+ 
+ 
+V
+1400 - 1550
+.O_301
+01-AGO-16
+19-NOV-16
+ 
+I
+1400 - 1550
+.Z_110
+01-AGO-16
+19-NOV-16
+ZAPATA RESTREPO OSCAR OSWALDO
+ 
+ 
+----------------------
+CRN
+14920
+MATE1506
+3
+3
+PROB.Y ESTADISTICA 2
+40
+40
+0
+----------------------
+ 
+ 
+J
+1400 - 1550
+.M_100
+01-AGO-16
+19-NOV-16
+ 
+M
+1400 - 1550
+.W_403
+01-AGO-16
+19-NOV-16
+ZAPATA RESTREPO OSCAR OSWALDO
+ 
+ 
+----------------------
+CRN
+23573
+MATE1506
+4
+3
+PROB.Y ESTADISTICA 2
+45
+24
+21
+----------------------
+ 
+ 
+I    V
+1400 - 1550
+.AU_102
+01-AGO-16
+19-NOV-16
+ORTIZ GUZMAN FABIO
+ 
+ 
+----------------------
+CRN
+13436
+MATE1507
+1
+3
+MATEMATICAS 2 (BIO-MED)
+38
+28
+10
+----------------------
+ 
+ 
+L
+0630 - 0750
+.W_403
+01-AGO-16
+19-NOV-16
+ 
+J
+0630 - 0750
+.LL_302
+01-AGO-16
+19-NOV-16
+ 
+M
+0630 - 0750
+.LL_105
+01-AGO-16
+19-NOV-16
+CASAS SANCHEZ OSCAR FRANCISCO
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 13436, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12899 - MATE-1507C - 2 - MATEMATICAS 2 (BIO-MED) COMPL <br> 12900 - MATE-1507C - 3 - MATEMATICAS 2 (BIO-MED) COMPL <br> 23362- MATE-1507C- 4-MATEMATICAS 2 (BIO-MED) COMPL.<br>16480- MATE-1507C- 5-MATEMATICAS 2 (BIO-MED) COMPL.
+----------------------
+CRN
+23459
+MATE1507
+6
+3
+MATEMATICAS 2 (BIO-MED)
+44
+43
+1
+----------------------
+ 
+ 
+L
+1230 - 1350
+.R_112
+01-AGO-16
+19-NOV-16
+ 
+J
+1230 - 1350
+.ML_614
+01-AGO-16
+19-NOV-16
+ 
+I
+1230 - 1350
+.R_110
+01-AGO-16
+19-NOV-16
+ZAPATA RESTREPO OSCAR OSWALDO
+ 
+ 
+----------------------
+CRN
+12899
+MATE1507C
+2
+0
+MATEMATICAS 2 (BIO-MED) COMPL
+25
+16
+9
+----------------------
+ 
+ 
+V
+0630 - 0720
+.Z_102
+01-AGO-16
+19-NOV-16
+ 
+M
+0630 - 0720
+.Z_106
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+12900
+MATE1507C
+3
+0
+MATEMATICAS 2 (BIO-MED) COMPL
+25
+7
+18
+----------------------
+ 
+ 
+M      V
+1230 - 1320
+.O_304
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+23362
+MATE1507C
+4
+0
+MATEMATICAS 2 (BIO-MED) COMPL.
+25
+3
+22
+----------------------
+ 
+ 
+M      V
+0630 - 0720
+.AU_208
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+16480
+MATE1507C
+5
+0
+MATEMATICAS 2 (BIO-MED) COMPL.
+24
+2
+22
+----------------------
+ 
+ 
+M      V
+1230 - 1320
+.W_205
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+22064
+MATE1508
+1
+3
+ESTADISTICA (CONTADURIA)
+35
+10
+25
+----------------------
+ 
+ 
+M    J  V
+1100 - 1220
+.PU_300
+01-AGO-16
+19-NOV-16
+CASAS MONSEGNY MARTA CECILIA
+ 
+ 
+----------------------
+CRN
+10191
+MATE2101
+1
+3
+ALGEBRA ABSTRACTA 1
+35
+23
+12
+----------------------
+ 
+ 
+M    J
+1400 - 1550
+.AU_403
+01-AGO-16
+19-NOV-16
+MANTILLA SOLER GUILLERMO ARTURO
+ 
+ 
+----------------------
+CRN
+22066
+MATE2113
+1
+3
+COMBINATORIA ENUMERATIVA
+35
+17
+18
+----------------------
+ 
+ 
+I    V
+1230 - 1350
+.TM_201
+01-AGO-16
+19-NOV-16
+BOGART TRISTRAM
+ 
+ 
+----------------------
+CRN
+10004
+MATE2201
+1
+3
+ANALISIS 1
+30
+30
+0
+----------------------
+ 
+ 
+I    V
+1400 - 1550
+.AU_404
+01-AGO-16
+19-NOV-16
+BERENSTEIN OPSCHOLTENS ALEXANDER JONATHAN
+ 
+ 
+----------------------
+CRN
+13577
+MATE2210
+1
+2
+CALC VARIABLE COMPL (INGENIER)
+60
+60
+0
+----------------------
+ 
+ 
+I    V
+0930 - 1020
+.O_205
+01-AGO-16
+19-NOV-16
+ECHEVERRY NAVARRO LUZ MIRIAM
+ 
+ 
+----------------------
+CRN
+12053
+MATE2211
+1
+3
+CALC.VARIABLE COMPLEJA
+35
+35
+0
+----------------------
+ 
+ 
+M    J
+1100 - 1220
+.AU_402
+01-AGO-16
+19-NOV-16
+RECHT LÁZARO
+ 
+ 
+----------------------
+CRN
+11044
+MATE2301
+1
+3
+ECUACIONES DIFERENCIALES
+96
+96
+0
+----------------------
+ 
+ 
+J
+0930 - 1050
+.O_101
+01-AGO-16
+19-NOV-16
+ 
+M
+0930 - 1050
+.O_101
+01-AGO-16
+19-NOV-16
+GINIATOULLINE ANDREI
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 11044, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>12902 - MATE-2301C - 2 - ECUACIONES DIFERENCIALES COMPL <br> 12903 - MATE-2301C - 3 - ECUACIONES DIFERENCIALES COMPL <br> 12312- MATE-2301C- 4-ECUACIONES DIFERENCIALES COMPL<br>12901- MATE-2301C- 5-ECUACIONES DIFERENCIALES COMPL
+----------------------
+CRN
+16492
+MATE2301
+6
+3
+ECUACIONES DIFERENCIALES
+96
+95
+1
+----------------------
+ 
+ 
+M    J
+1700 - 1820
+.R_209
+01-AGO-16
+19-NOV-16
+CORTISSOZ IRIARTE JEAN CARLOS
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 16492, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>16495 - MATE-2301C - 7 - ECUACIONES DIFERENCIALES COMPL <br> 16496 - MATE-2301C - 8 - ECUACIONES DIFERENCIALES COMPL <br> 16518- MATE-2301C- 9-ECUACIONES DIFERENCIALES COMPL<br>16497- MATE-2301C- 10-ECUACIONES DIFERENCIALES COMPL
+----------------------
+CRN
+23616
+MATE2301
+11
+3
+ECUACIONES DIFERENCIALES
+45
+17
+28
+----------------------
+ 
+ 
+M    J  V
+1700 - 1820
+.Q_306
+01-AGO-16
+19-NOV-16
+BUENO ALEX ROLANDO
+ 
+ 
+----------------------
+CRN
+23626
+MATE2301
+12
+3
+ECUACIONES DIFERENCIALES
+45
+27
+18
+----------------------
+ 
+ 
+V
+1230 - 1350
+.SD_801
+01-AGO-16
+19-NOV-16
+ 
+M    J
+1230 - 1350
+.Y_101
+01-AGO-16
+19-NOV-16
+ECHEVERRI DAVILA HERNANDO JOSE
+ 
+ 
+----------------------
+CRN
+12902
+MATE2301C
+2
+0
+ECUACIONES DIFERENCIALES COMPL
+24
+24
+0
+----------------------
+ 
+ 
+I    V
+0930 - 1020
+.O_303
+01-AGO-16
+19-NOV-16
+PINZON PALACIOS SANTIAGO IVAN
+ 
+ 
+----------------------
+CRN
+12903
+MATE2301C
+3
+0
+ECUACIONES DIFERENCIALES COMPL
+25
+25
+0
+----------------------
+ 
+ 
+I    V
+1700 - 1750
+.PU_100
+01-AGO-16
+19-NOV-16
+PINZON PALACIOS SANTIAGO IVAN
+ 
+ 
+----------------------
+CRN
+12312
+MATE2301C
+4
+0
+ECUACIONES DIFERENCIALES COMPL
+23
+23
+0
+----------------------
+ 
+ 
+I    V
+0930 - 1020
+.O_304
+01-AGO-16
+19-NOV-16
+REYES CASTELLANOS CESAR AUGUSTO
+ 
+ 
+----------------------
+CRN
+12901
+MATE2301C
+5
+0
+ECUACIONES DIFERENCIALES COMPL
+24
+24
+0
+----------------------
+ 
+ 
+I    V
+1700 - 1750
+.Z_201
+01-AGO-16
+19-NOV-16
+REYES CASTELLANOS CESAR AUGUSTO
+ 
+ 
+----------------------
+CRN
+16495
+MATE2301C
+7
+0
+ECUACIONES DIFERENCIALES COMPL
+24
+23
+1
+----------------------
+ 
+ 
+I    V
+0930 - 1020
+.O_302
+01-AGO-16
+19-NOV-16
+RODRIGUEZ TORIJANO CARLOS ANDRES
+ 
+ 
+----------------------
+CRN
+16496
+MATE2301C
+8
+0
+ECUACIONES DIFERENCIALES COMPL
+24
+24
+0
+----------------------
+ 
+ 
+I    V
+1700 - 1750
+.AU_304
+01-AGO-16
+19-NOV-16
+RODRIGUEZ TORIJANO CARLOS ANDRES
+ 
+ 
+----------------------
+CRN
+16518
+MATE2301C
+9
+0
+ECUACIONES DIFERENCIALES COMPL
+24
+24
+0
+----------------------
+ 
+ 
+I    V
+0930 - 1020
+.AU_309
+01-AGO-16
+19-NOV-16
+GARCIA VARGAS JOHAN FELIPE
+ 
+ 
+----------------------
+CRN
+16497
+MATE2301C
+10
+0
+ECUACIONES DIFERENCIALES COMPL
+24
+24
+0
+----------------------
+ 
+ 
+I    V
+1700 - 1750
+.Z_106
+01-AGO-16
+19-NOV-16
+GARCIA VARGAS JOHAN FELIPE
+ 
+ 
+----------------------
+CRN
+11267
+MATE2506
+1
+4
+PROBABILIDAD Y ESTADIST.(ECON)
+45
+45
+0
+----------------------
+ 
+ 
+V
+1530 - 1650
+.LL_101
+01-AGO-16
+19-NOV-16
+ 
+M    J
+1530 - 1650
+.LL_102
+01-AGO-16
+19-NOV-16
+CASAS MONSEGNY MARTA CECILIA
+ 
+ 
+----------------------
+CRN
+11268
+MATE2506
+2
+4
+PROBABILIDAD Y ESTADIST.(ECON)
+45
+40
+5
+----------------------
+ 
+ 
+M    J  V
+0630 - 0750
+.Z_213
+01-AGO-16
+19-NOV-16
+SOSA GOMEZ JUAN CARLOS
+ 
+ 
+----------------------
+CRN
+11269
+MATE2506
+3
+4
+PROBABILIDAD Y ESTADIST.(ECON)
+39
+32
+7
+----------------------
+ 
+ 
+L
+0930 - 1050
+.Z_213
+01-AGO-16
+19-NOV-16
+ 
+J
+0930 - 1050
+.W_504
+01-AGO-16
+19-NOV-16
+ 
+M
+0930 - 1050
+.S1_003
+01-AGO-16
+19-NOV-16
+RODRIGUEZ GRANOBLES FREDY
+ 
+ 
+----------------------
+CRN
+22067
+MATE2507
+1
+4
+PROB. Y ESTAD ASUNTOS PUBLICOS
+45
+9
+36
+----------------------
+ 
+ 
+M    J  V
+1530 - 1650
+.Q_306
+01-AGO-16
+19-NOV-16
+GARRIDO LOPERA LILIANA
+ 
+ 
+----------------------
+CRN
+10437
+MATE2711
+1
+3
+METODOS MATEM. PARA ECONO.
+34
+33
+1
+----------------------
+ 
+ 
+L      J
+0930 - 1020
+.R_110
+01-AGO-16
+19-NOV-16
+ 
+I
+0930 - 1020
+.Z_103
+01-AGO-16
+19-NOV-16
+ 
+M
+0930 - 1020
+.Z_202
+01-AGO-16
+19-NOV-16
+GARRIDO LOPERA LILIANA
+ 
+ 
+----------------------
+CRN
+20761
+MATE2711
+2
+3
+METODOS MATEM. PARA ECONO.
+45
+45
+0
+----------------------
+ 
+ 
+L  M    J  V
+1230 - 1320
+.R_110
+01-AGO-16
+19-NOV-16
+GARRIDO LOPERA LILIANA
+ 
+ 
+----------------------
+CRN
+21248
+MATE2711
+3
+3
+METODOS MATEM. PARA ECONO.
+45
+38
+7
+----------------------
+ 
+ 
+L  M    J  V
+1230 - 1320
+.S1_202
+01-AGO-16
+19-NOV-16
+ORTIZ SANCHEZ ROBERTO
+ 
+ 
+----------------------
+CRN
+23583
+MATE2711
+4
+3
+METODOS MATEM. PARA ECONO.
+45
+37
+8
+----------------------
+ 
+ 
+L  M    J  V
+1230 - 1320
+.O_402
+01-AGO-16
+19-NOV-16
+CASAS SANCHEZ OSCAR FRANCISCO
+ 
+ 
+----------------------
+CRN
+22069
+MATE2722
+1
+3
+MOD. POBLACION Y EPIDEMIOLOGIA
+30
+10
+20
+----------------------
+ 
+ 
+I    V
+0800 - 0950
+.TX_603
+01-AGO-16
+19-NOV-16
+ARTEAGA BEJARANO JOSE RICARDO
+ 
+ 
+----------------------
+CRN
+13578
+MATE3101
+1
+3
+ALGEBRA ABSTRACTA 2
+20
+12
+8
+----------------------
+ 
+ 
+J
+1400 - 1550
+.W_203
+01-AGO-16
+19-NOV-16
+ 
+M
+1400 - 1550
+.LL_201
+01-AGO-16
+19-NOV-16
+BACKELIN ERIK
+ 
+ 
+----------------------
+CRN
+22070
+MATE3120
+1
+3
+LOGICA 1
+35
+29
+6
+----------------------
+ 
+ 
+M    J
+1400 - 1550
+.PU_300
+01-AGO-16
+19-NOV-16
+CORREDOR LONDOÑO LUIS JAIME
+ 
+ 
+----------------------
+CRN
+23402
+MATE3132
+1
+3
+TEORIA DE CONJUNTOS 2
+20
+1
+19
+----------------------
+ 
+ 
+M    J
+1100 - 1250
+.AU_403
+01-AGO-16
+19-NOV-16
+DI PRISCO DE VENANZI CARLOS AUGUSTO
+ 
+ 
+----------------------
+CRN
+23403
+MATE3147
+1
+3
+CUERPOS PSEUDO FINITOS
+20
+1
+19
+----------------------
+ 
+ 
+M    J
+0800 - 0950
+.R_109
+01-AGO-16
+19-NOV-16
+MONTENEGRO GUZMAN SAMARIA
+ 
+ 
+----------------------
+CRN
+22071
+MATE3302
+1
+3
+ECUAC.DE LA FISICA MATEMATICA
+35
+5
+30
+----------------------
+ 
+ 
+M    J
+1230 - 1350
+.TM_201
+01-AGO-16
+19-NOV-16
+GINIATOULLINE ANDREI
+ 
+ 
+----------------------
+CRN
+22072
+MATE3401
+1
+3
+GEOMETRIA RIEMANNIANA (INGLES)
+20
+6
+14
+----------------------
+ 
+ 
+M      V
+1600 - 1750
+.TM_201
+01-AGO-16
+19-NOV-16
+BRESSLER PAUL
+ 
+ 
+----------------------
+CRN
+22073
+MATE3410
+1
+3
+GEOMETRIA DIFERENCIAL 2
+35
+28
+7
+----------------------
+ 
+ 
+I    V
+1400 - 1550
+.PU_300
+01-AGO-16
+19-NOV-16
+MALAKHALTSEV MIKHAIL
+ 
+ 
+----------------------
+CRN
+13083
+MATE3420
+1
+3
+TOPOLOGIA 1
+35
+20
+15
+----------------------
+ 
+ 
+I    V
+1400 - 1550
+.TM_201
+01-AGO-16
+19-NOV-16
+ONSHUUS NIÑO ALF
+ 
+ 
+----------------------
+CRN
+23410
+MATE3422
+1
+3
+TOPOLOGIA ALGEBRAICA
+20
+2
+18
+----------------------
+ 
+ 
+M    J
+1400 - 1550
+.Z_201
+01-AGO-16
+19-NOV-16
+RECHT LÁZARO
+ 
+ 
+----------------------
+CRN
+23405
+MATE3441
+1
+3
+HACES FIBRADOS
+20
+1
+19
+----------------------
+ 
+ 
+I    V
+1100 - 1250
+.AU_403
+01-AGO-16
+19-NOV-16
+ANGEL CARDENAS JAIRO ANDRES
+ 
+ 
+----------------------
+CRN
+22074
+MATE3510
+1
+3
+PROCESOS ESTOCASTICOS (INGLES)
+35
+10
+25
+----------------------
+ 
+ 
+I    V
+1100 - 1250
+.Z_103
+01-AGO-16
+19-NOV-16
+GETMANENKO ALEXANDER
+ 
+ 
+----------------------
+CRN
+22075
+MATE3520
+1
+3
+ESTADISTICA MATEMATICA 1
+35
+32
+3
+----------------------
+ 
+ 
+I    V
+0800 - 0950
+.AU_404
+01-AGO-16
+19-NOV-16
+SANABRIA CAMILO
+ 
+ 
+----------------------
+CRN
+23406
+MATE3533
+1
+3
+PROCESOS DE LEVY (INGLES)
+20
+2
+18
+----------------------
+ 
+ 
+M    J
+1100 - 1250
+.AU_310
+01-AGO-16
+19-NOV-16
+HÖGELE MICHAEL ANTON
+ 
+ 
+----------------------
+CRN
+22076
+MATE3707
+1
+3
+INTROD. OPTIMIZACION CONVEXA
+20
+4
+16
+----------------------
+ 
+ 
+J
+0800 - 0950
+.Z_201
+01-AGO-16
+19-NOV-16
+ 
+M
+0800 - 0950
+.W_503
+01-AGO-16
+19-NOV-16
+JUNCA PELAEZ MAURICIO JOSE
+ 
+ 
+----------------------
+CRN
+13084
+MATE3712
+1
+3
+TEORIA DE JUEGOS
+35
+35
+0
+----------------------
+ 
+ 
+M      V
+0930 - 1050
+.TM_201
+01-AGO-16
+19-NOV-16
+FERRO LUIS JORGE
+ 
+ 
+----------------------
+CRN
+23565
+MATE3712
+2
+3
+TEORIA DE JUEGOS
+35
+34
+1
+----------------------
+ 
+ 
+I  J
+0930 - 1050
+.O_402
+01-AGO-16
+19-NOV-16
+FERRO LUIS JORGE
+ 
+ 
+----------------------
+CRN
+10937
+MATE3801
+1
+3
+PRACTICA ENSENANZA 1
+25
+4
+21
+----------------------
+ 
+ 
+L
+1230 - 1320
+.SD_716
+01-AGO-16
+19-NOV-16
+PARAMO FONSECA AQUILES ESTEBAN
+ 
+ 
+----------------------
+CRN
+10938
+MATE3802
+1
+3
+PRACTICA ENSENANZA 2
+25
+10
+15
+----------------------
+ 
+ 
+M
+1230 - 1320
+.Z_106
+01-AGO-16
+19-NOV-16
+BOTERO DE MEZA MARIA MARGARITA
+ 
+ 
+----------------------
+CRN
+10242
+MATE3902
+1
+3
+PROYECTO DE GRADO
+20
+16
+4
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+WINKLMEIER MONIKA
+ 
+ 
+----------------------
+CRN
+10828
+MATE3904
+1
+1
+SEMINARIO PROYECTO DE GRADO 1
+35
+5
+30
+----------------------
+ 
+ 
+J
+1700 - 1750
+.TM_201
+01-AGO-16
+19-NOV-16
+WINKLMEIER MONIKA
+ 
+ 
+----------------------
+CRN
+10939
+MATE3905
+1
+1
+SEMINARIO PROYECTO DE GRADO 2
+16
+12
+4
+----------------------
+ 
+ 
+J
+1600 - 1750
+.ML_606
+01-AGO-16
+19-NOV-16
+WINKLMEIER MONIKA
+ 
+ 
+----------------------
+CRN
+10208
+MATE3990
+1
+0
+INSCRIPCION A GRADO
+999
+0
+999
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+14912
+MATE4001
+1
+4
+CURSO TUTORIAL DE POSGRADO
+20
+9
+11
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+15775
+MATE4002
+1
+4
+CURSO TUTORIAL POSTGRADO 2
+20
+0
+20
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+22637
+MATE4101
+1
+4
+ALGEBRA CONMUTATIVA
+35
+11
+24
+----------------------
+ 
+ 
+M      V
+1600 - 1750
+.PU_300
+01-AGO-16
+19-NOV-16
+CAICEDO FERRER XAVIER
+ 
+ 
+----------------------
+CRN
+22077
+MATE4130
+1
+4
+TEORIA DE CONJUNTOS 2
+15
+2
+13
+----------------------
+ 
+ 
+M    J
+1100 - 1250
+.AU_403
+01-AGO-16
+19-NOV-16
+DI PRISCO DE VENANZI CARLOS AUGUSTO
+ 
+ 
+----------------------
+CRN
+23404
+MATE4147
+1
+4
+CUERPOS PSEUDO FINITOS
+15
+4
+11
+----------------------
+ 
+ 
+M    J
+0800 - 0950
+.R_109
+01-AGO-16
+19-NOV-16
+MONTENEGRO GUZMAN SAMARIA
+ 
+ 
+----------------------
+CRN
+15778
+MATE4173
+1
+4
+ALGEBRA ABSTRACTA 2
+15
+3
+12
+----------------------
+ 
+ 
+J
+1400 - 1550
+.W_203
+01-AGO-16
+19-NOV-16
+ 
+M
+1400 - 1550
+.LL_201
+01-AGO-16
+19-NOV-16
+BACKELIN ERIK
+ 
+ 
+----------------------
+CRN
+17963
+MATE4220
+1
+3
+MEDIDA E INTEGRACION
+32
+19
+13
+----------------------
+ 
+ 
+J
+1100 - 1250
+.LL_104
+01-AGO-16
+19-NOV-16
+ 
+M
+1100 - 1250
+.LL_201
+01-AGO-16
+19-NOV-16
+FERRI STEFANO
+ 
+ 
+----------------------
+CRN
+23407
+MATE4401
+1
+4
+GEOMETRIA RIEMANNIANA (INGLES)
+15
+6
+9
+----------------------
+ 
+ 
+M      V
+1600 - 1750
+.TM_201
+01-AGO-16
+19-NOV-16
+BRESSLER PAUL
+ 
+ 
+----------------------
+CRN
+22078
+MATE4421
+1
+4
+TOPOLOGIA ALGEBRAICA
+15
+9
+6
+----------------------
+ 
+ 
+M    J
+1400 - 1550
+.Z_201
+01-AGO-16
+19-NOV-16
+RECHT LÁZARO
+ 
+ 
+----------------------
+CRN
+23408
+MATE4441
+1
+4
+HACES FIBRADOS
+15
+4
+11
+----------------------
+ 
+ 
+I    V
+1100 - 1250
+.AU_403
+01-AGO-16
+19-NOV-16
+ANGEL CARDENAS JAIRO ANDRES
+ 
+ 
+----------------------
+CRN
+23409
+MATE4533
+1
+4
+PROCESOS DE LEVY  (INGLES)
+7
+5
+2
+----------------------
+ 
+ 
+M    J
+1100 - 1250
+.AU_310
+01-AGO-16
+19-NOV-16
+HÖGELE MICHAEL ANTON
+ 
+ 
+----------------------
+CRN
+22079
+MATE4707
+1
+4
+INTROD. OPTIMIZACIÓN CONVEXA
+15
+7
+8
+----------------------
+ 
+ 
+J
+0800 - 0950
+.Z_201
+01-AGO-16
+19-NOV-16
+ 
+M
+0800 - 0950
+.W_503
+01-AGO-16
+19-NOV-16
+JUNCA PELAEZ MAURICIO JOSE
+ 
+ 
+----------------------
+CRN
+10005
+MATE4901
+1
+2
+SEMINARIO DE POSTGRADO 1
+16
+5
+11
+----------------------
+ 
+ 
+J
+1600 - 1750
+.ML_606
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+10006
+MATE4902
+1
+2
+SEMINARIO DE POSTGRADO 2
+16
+7
+9
+----------------------
+ 
+ 
+J
+1600 - 1750
+.ML_606
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+10822
+MATE4903
+1
+3
+SEMINARIO DE TRABAJO DE GRADO
+20
+5
+15
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+10823
+MATE4904
+1
+12
+TRABAJO DE GRADO
+10
+6
+4
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+10824
+MATE4990
+1
+0
+INSCRIPCION A GRADO
+35
+0
+35
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
+11076
+MATE6901
+1
+2
+SEMINARIO DE POSTGRADO 1
+16
+1
+15
+----------------------
+ 
+ 
+J
+1600 - 1750
+.ML_606
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+15782
+MATE6902
+1
+2
+SEMINARIO DE POSTGRADO 2
+16
+1
+15
+----------------------
+ 
+ 
+J
+1600 - 1750
+.ML_606
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+12981
+MATE6903
+1
+6
+PROYECTO DE TESIS 1
+10
+1
+9
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+12982
+MATE6904
+1
+6
+PROYECTO DE TESIS 2
+10
+3
+7
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+13703
+MATE6970
+1
+0
+EXAMEN DE CONOCIMIENTO 1
+10
+3
+7
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+13704
+MATE6971
+1
+0
+EXAMEN DE CONOCIMIENTO 2
+10
+4
+6
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+14415
+MATE6975
+1
+0
+SUSTENTACIÓN DE PROYECTO
+10
+3
+7
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+21169
+MATE6976
+1
+0
+PASANTIA 2
+5
+0
+5
+----------------------
+ 
+ 
+-
+.
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+12258
+MATE6979
+1
+0
+PASANTIA
+10
+3
+7
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+15783
+MATE6980
+1
+10
+PRETESIS 1
+5
+2
+3
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+13438
+MATE6981
+1
+10
+PRETESIS 2
+10
+2
+8
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+14914
+MATE6982
+1
+10
+PRETESIS 3
+10
+2
+8
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+13439
+MATE6984
+1
+10
+PRETESIS 4
+10
+0
+10
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+15126
+MATE6985
+1
+10
+PRETESIS 5
+1
+0
+1
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+16195
+MATE6986
+1
+10
+PRETESIS 6
+5
+0
+5
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+12259
+MATE6989
+1
+10
+TESIS
+10
+4
+6
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+13705
+MATE6990
+1
+0
+DEFENSA DE TESIS
+10
+4
+6
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------
+CRN
+15784
+MATE6998
+1
+0
+INTERCAMBIO INTERNACIONAL
+5
+0
+5
+----------------------
+ 
+ 
+-
+.NOREQ
+01-AGO-16
+19-NOV-16
+CARDONA GUIO ALEXANDER
+ 
+ 
+----------------------

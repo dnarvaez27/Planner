@@ -1,0 +1,2508 @@
+21366
+ARTE1000
+1
+0
+INDUCCION TALLERES Y LAB.
+60
+1
+59
+----------------------
+&nbsp;
+&nbsp;
+S
+0800 - 1150
+- -
+01/08/16
+19/11/16
+&nbsp;
+&nbsp;
+----------------------
+21367
+ARTE1001
+1
+0
+INDUCCION EQUIPOS AUDIOVISUAL
+60
+4
+56
+----------------------
+&nbsp;
+&nbsp;
+S
+0800 - 1150
+- -
+01/08/16
+19/11/16
+&nbsp;
+&nbsp;
+----------------------
+21368
+ARTE1002
+1
+0
+INDUCCIÓN AUDIOVISUALES AVANZA
+60
+32
+28
+----------------------
+&nbsp;
+&nbsp;
+S
+0800 - 1150
+- -
+01/08/16
+19/11/16
+&nbsp;
+&nbsp;
+----------------------
+13371
+ARTE1103
+1
+3
+CERAMICA TORNO
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0800 - 1050
+- -
+01/08/16
+19/11/16
+GARCIA OLGA LUCIA
+&nbsp;
+&nbsp;
+----------------------
+13372
+ARTE1104
+1
+3
+CERAMICA 1
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0800 - 1050
+- -
+01/08/16
+19/11/16
+ACOSTA PAULA
+&nbsp;
+&nbsp;
+----------------------
+13532
+ARTE1104
+2
+3
+CERAMICA 1
+15
+14
+1
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1100 - 1350
+- -
+01/08/16
+19/11/16
+GARCIA OLGA LUCIA
+&nbsp;
+&nbsp;
+----------------------
+13533
+ARTE1104
+3
+3
+CERAMICA 1
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1650
+- -
+01/08/16
+19/11/16
+RONCANCIO OLMOS NUBIA
+&nbsp;
+&nbsp;
+----------------------
+13373
+ARTE1105
+1
+3
+FOTO BASICA 1
+17
+3
+14
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0920
+- -
+01/08/16
+19/11/16
+POVEDA MOTA CLEMENCIA
+&nbsp;
+&nbsp;
+----------------------
+18455
+ARTE1105
+2
+3
+FOTO BASICA 1
+17
+14
+3
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1220
+- -
+01/08/16
+19/11/16
+ALONSO RICO JUAN CARLOS
+&nbsp;
+&nbsp;
+----------------------
+18459
+ARTE1105
+3
+3
+FOTO BASICA 1
+17
+13
+4
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1650
+- -
+01/08/16
+19/11/16
+VILLALBA STEWART MARIA VICTORIA
+&nbsp;
+&nbsp;
+----------------------
+18565
+ARTE1105
+4
+3
+FOTO BASICA 1
+17
+8
+9
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1230 - 1520
+- -
+01/08/16
+19/11/16
+GRAU ROMERA BEATRIZ
+&nbsp;
+&nbsp;
+----------------------
+20379
+ARTE1105
+5
+3
+FOTO BASICA 1
+17
+17
+0
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0630 - 0920
+- -
+01/08/16
+19/11/16
+SANTOS GUILLERMO
+&nbsp;
+&nbsp;
+----------------------
+15078
+ARTE1105
+6
+3
+FOTO BASICA 1
+17
+11
+6
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1700 - 1950
+- -
+01/08/16
+19/11/16
+VILLALBA STEWART MARIA VICTORIA
+&nbsp;
+&nbsp;
+----------------------
+13538
+ARTE1105
+7
+3
+FOTO BASICA 1
+17
+2
+15
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1530 - 1820
+- -
+01/08/16
+19/11/16
+VANEGAS TORRES JAVIER MAURICIO
+&nbsp;
+&nbsp;
+----------------------
+22981
+ARTE1105
+8
+3
+FOTO BASICA 1
+17
+9
+8
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+GRAU ROMERA BEATRIZ
+&nbsp;
+&nbsp;
+----------------------
+22982
+ARTE1105
+9
+3
+FOTO BASICA 1
+17
+5
+12
+----------------------
+&nbsp;
+&nbsp;
+L        V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+GEORGE JIMENO CAMILO
+&nbsp;
+&nbsp;
+----------------------
+13374
+ARTE1115
+1
+3
+TALLER DE ILUMINACION
+14
+14
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1220
+- -
+01/08/16
+19/11/16
+&nbsp;
+L
+0930 - 1220
+- -
+01/08/16
+19/11/16
+SANTOS GUILLERMO
+&nbsp;
+&nbsp;
+----------------------
+13375
+ARTE1116
+1
+3
+TALLER BASICO 1
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0630 - 0920
+- -
+01/08/16
+19/11/16
+FRANCO GARCIA CAROLINA
+&nbsp;
+&nbsp;
+----------------------
+13540
+ARTE1116
+2
+3
+TALLER BASICO 1
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0930 - 1220
+- -
+01/08/16
+19/11/16
+MEJIA PEREZ CATALINA
+&nbsp;
+&nbsp;
+----------------------
+13541
+ARTE1116
+3
+3
+TALLER BASICO 1
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0920
+- -
+01/08/16
+19/11/16
+GOMEZ SOTO CONSUELO
+&nbsp;
+&nbsp;
+----------------------
+13542
+ARTE1116
+4
+3
+TALLER BASICO 1
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1220
+- -
+01/08/16
+19/11/16
+GOMEZ SOTO CONSUELO
+&nbsp;
+&nbsp;
+----------------------
+23588
+ARTE1116
+6
+3
+TALLER BASICO 1
+18
+13
+5
+----------------------
+&nbsp;
+&nbsp;
+L        V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+CABALLERO BUENO LUZ HELENA
+&nbsp;
+&nbsp;
+----------------------
+13543
+ARTE1117
+1
+3
+TALLER BASICO 2
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0630 - 0920
+- -
+01/08/16
+19/11/16
+&nbsp;
+I
+0630 - 0920
+- -
+01/08/16
+19/11/16
+ESPINOSA SALAZAR LINA MARIA
+HERRAN CARREÑO JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+13544
+ARTE1117
+2
+3
+TALLER BASICO 2
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+&nbsp;
+I
+0930 - 1220
+- -
+01/08/16
+19/11/16
+ESPINOSA SALAZAR LINA MARIA
+HERRAN CARREÑO JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+14826
+ARTE1118
+1
+3
+FOTO BÁSICA 2 :DIGITAL
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0630 - 0920
+- -
+01/08/16
+19/11/16
+&nbsp;
+L
+0630 - 0920
+- -
+01/08/16
+19/11/16
+GEORGE JIMENO CAMILO
+&nbsp;
+&nbsp;
+----------------------
+13377
+ARTE1119
+1
+3
+DIBUJO CIENTIFICO BASICO
+15
+11
+4
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1650
+- -
+01/08/16
+19/11/16
+FRANCO GARCIA CAROLINA
+&nbsp;
+&nbsp;
+----------------------
+17190
+ARTE1120B
+1
+3
+PINTURA DESDE 1950
+53
+32
+21
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1400 - 1520
+- -
+01/08/16
+19/11/16
+UHIA FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+19159
+ARTE1123
+1
+3
+HISTORIA DE LA ANIMACIÓN
+25
+6
+19
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1650
+- -
+01/08/16
+19/11/16
+KRAUS ELSIN LORENA
+&nbsp;
+&nbsp;
+----------------------
+21369
+ARTE1124B
+1
+3
+FOTOGRAFÍA UNA IMAGEN PENSANTE
+39
+31
+8
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1700 - 1820
+- -
+01/08/16
+19/11/16
+PETIT JULIEN FRANCOIS VINCENT
+&nbsp;
+&nbsp;
+----------------------
+21370
+ARTE1126
+1
+3
+ACABADOS CERÁMICOS
+15
+12
+3
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1100 - 1350
+- -
+01/08/16
+19/11/16
+RONCANCIO OLMOS NUBIA
+&nbsp;
+&nbsp;
+----------------------
+18548
+ARTE1127
+1
+3
+TALLER DE MATERIALES Y PROCEDI
+15
+4
+11
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1650
+- -
+01/08/16
+19/11/16
+GARCIA CERON MARIA CONSUELO
+&nbsp;
+&nbsp;
+----------------------
+10122
+ARTE1209B
+1
+3
+NUEVOS MEDIOS
+84
+84
+0
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0800 - 0920
+- -
+01/08/16
+19/11/16
+GIL VROLIJK CARMEN
+&nbsp;
+&nbsp;
+----------------------
+13378
+ARTE1213
+1
+3
+TALLER DEL TIEMPO
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1650
+- -
+01/08/16
+19/11/16
+&nbsp;
+M
+1400 - 1650
+- -
+01/08/16
+19/11/16
+ARIAS VEGA LUIS RICARDO
+PRADILLA HERNANDEZ EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+13546
+ARTE1213
+2
+3
+TALLER DEL TIEMPO
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1650
+- -
+01/08/16
+19/11/16
+&nbsp;
+I
+1400 - 1650
+- -
+01/08/16
+19/11/16
+ARIAS VEGA LUIS RICARDO
+PRADILLA HERNANDEZ EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+13547
+ARTE1213
+3
+3
+TALLER DEL TIEMPO
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0630 - 0920
+- -
+01/08/16
+19/11/16
+&nbsp;
+L
+0630 - 0920
+- -
+01/08/16
+19/11/16
+JAIMES NIÑO SYLVIA BEATRIZ
+VASQUEZ ZARATE LEONEL RAMIRO
+&nbsp;
+&nbsp;
+----------------------
+13379
+ARTE1215
+1
+3
+TALLER EXPRESION EXPERIMENTAL
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0630 - 0920
+- -
+01/08/16
+19/11/16
+CALDERON GUEVARA ELKIN ALEXANDER
+&nbsp;
+&nbsp;
+----------------------
+13620
+ARTE1215
+2
+3
+TALLER EXPRESION EXPERIMENTAL
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1220
+- -
+01/08/16
+19/11/16
+DIAZ MOYANO MYRIAM LUISA
+&nbsp;
+&nbsp;
+----------------------
+13960
+ARTE1215
+3
+3
+TALLER EXPRESION EXPERIMENTAL
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1650
+- -
+01/08/16
+19/11/16
+DIAZ MOYANO MYRIAM LUISA
+&nbsp;
+&nbsp;
+----------------------
+17459
+ARTE1218B
+1
+3
+MIRADA AL CINE COLOMBIANO
+45
+46
+-1
+----------------------
+&nbsp;
+&nbsp;
+I
+1700 - 1950
+- -
+01/08/16
+19/11/16
+ZULUAGA DUQUE PEDRO ADRIAN
+&nbsp;
+&nbsp;
+----------------------
+21371
+ARTE1221
+1
+3
+NARRATIVA AUDIOVISUAL
+15
+10
+5
+----------------------
+&nbsp;
+&nbsp;
+L
+0800 - 1150
+- -
+01/08/16
+19/11/16
+BERNAL MARTINEZ ADRIANA
+&nbsp;
+&nbsp;
+----------------------
+15369
+ARTE1222
+1
+3
+ARTE DIGITAL
+15
+11
+4
+----------------------
+&nbsp;
+&nbsp;
+V
+0800 - 1150
+- -
+01/08/16
+19/11/16
+CALDERON GUEVARA ELKIN ALEXANDER
+&nbsp;
+&nbsp;
+----------------------
+21372
+ARTE1228
+1
+3
+PROD.SONIDO PARA AUDIOVISUALES
+15
+11
+4
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1750
+- -
+01/08/16
+19/11/16
+ROMAN ECHEVERRI CARLOS GUSTAVO
+&nbsp;
+&nbsp;
+----------------------
+22524
+ARTE1229B
+1
+3
+ARTE,SONIDO Y MUSICA S.XX -XXI
+39
+12
+27
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0800 - 0920
+- -
+01/08/16
+19/11/16
+ARIAS VEGA LUIS RICARDO
+&nbsp;
+&nbsp;
+----------------------
+23280
+ARTE1405B
+1
+3
+EL ARTISTA Y LA CIUDAD
+59
+59
+0
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1230 - 1350
+- -
+01/08/16
+19/11/16
+IREGUI JAIME
+&nbsp;
+&nbsp;
+----------------------
+Curso Tipo E
+22526
+ARTE1406A
+1
+3
+ARTE Y EXPOSICIONES
+59
+59
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1230 - 1350
+- -
+01/08/16
+19/11/16
+CERON CASTILLA CAROLINA
+&nbsp;
+&nbsp;
+----------------------
+15107
+ARTE1407
+1
+3
+ARTISTA OBRA ESPACIO
+55
+55
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1050
+- -
+01/08/16
+19/11/16
+OSPINA LUCAS
+IREGUI JAIME
+JIMENEZ VILLALTA MARIA MARGARITA
+&nbsp;
+&nbsp;
+----------------------
+Curso Tipo E
+12324
+ARTE1408A
+1
+3
+ARTE Y CINE
+185
+185
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1650
+- -
+01/08/16
+19/11/16
+OSPINA LUCAS
+&nbsp;
+&nbsp;
+----------------------
+21373
+ARTE1410A
+1
+3
+PATRIMONIO CULTURAL
+59
+30
+29
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1400 - 1520
+- -
+01/08/16
+19/11/16
+FERNANDEZ REGUERA MARIO OMAR
+&nbsp;
+&nbsp;
+----------------------
+23558
+ARTE1500
+1
+2
+TALLER DE  ARTES ESCENICAS
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1000 - 1350
+- -
+01/08/16
+19/11/16
+SALAZAR APARICIO PEDRO ALEJANDRO
+&nbsp;
+&nbsp;
+----------------------
+13380
+ARTE2100
+1
+3
+DIBUJO DEL CUERPO
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1650
+- -
+01/08/16
+19/11/16
+MEJIA DIAZ JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+13551
+ARTE2101
+1
+3
+FUNDAMENTOS DE PINTURA
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 1350
+- -
+01/08/16
+19/11/16
+UHIA FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+13381
+ARTE2106
+1
+3
+DIBUJO DEL CUERPO-ARQUITECTURA
+15
+13
+2
+----------------------
+&nbsp;
+&nbsp;
+L
+0930 - 1250
+- -
+01/08/16
+19/11/16
+CARDENAS NICOLAS
+&nbsp;
+&nbsp;
+----------------------
+14192
+ARTE2107
+1
+3
+DIBUJO CONSTRUC. ESPACIAL-ARQU
+15
+9
+6
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1220
+- -
+01/08/16
+19/11/16
+CARDENAS MEIRA MIGUEL
+&nbsp;
+&nbsp;
+----------------------
+13382
+ARTE2108
+1
+3
+FUNDAMENTOS DE DIBUJO
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1400 - 1650
+- -
+01/08/16
+19/11/16
+RICKENMANN IVAN
+&nbsp;
+&nbsp;
+----------------------
+13919
+ARTE2108
+2
+3
+FUNDAMENTOS DE DIBUJO
+15
+11
+4
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1220
+- -
+01/08/16
+19/11/16
+VARGAS GIOVANNI
+&nbsp;
+&nbsp;
+----------------------
+13383
+ARTE2109
+1
+3
+FUNDAMENTOS DE ESCULTURA
+15
+11
+4
+----------------------
+&nbsp;
+&nbsp;
+M
+0800 - 1350
+- -
+01/08/16
+19/11/16
+CUELLAR MAYORAL ADRIANA
+&nbsp;
+&nbsp;
+----------------------
+13384
+ARTE2110
+1
+3
+DIBUJO Y OBJETO
+15
+12
+3
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1400 - 1650
+- -
+01/08/16
+19/11/16
+COMBARIZA OSORIO MARTHA
+&nbsp;
+&nbsp;
+----------------------
+13385
+ARTE2111
+1
+3
+PINTURA Y CUERPO
+15
+14
+1
+----------------------
+&nbsp;
+&nbsp;
+M
+0800 - 1350
+- -
+01/08/16
+19/11/16
+ESPINOSA SALAZAR LINA MARIA
+&nbsp;
+&nbsp;
+----------------------
+13386
+ARTE2112
+1
+3
+PINTURA Y OBJETO
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0800 - 1350
+- -
+01/08/16
+19/11/16
+PEÑA PARGA ESTEBAN
+&nbsp;
+&nbsp;
+----------------------
+13387
+ARTE2113
+1
+3
+PINTURA Y ESPACIO
+15
+12
+3
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 1350
+- -
+01/08/16
+19/11/16
+RICKENMANN IVAN
+&nbsp;
+&nbsp;
+----------------------
+21374
+ARTE2115
+1
+3
+ESCULTURA Y ESPACIO PUBLICO
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0800 - 1350
+- -
+01/08/16
+19/11/16
+LEHNER SANCLEMENTE VERONICA
+&nbsp;
+&nbsp;
+----------------------
+13389
+ARTE2116
+1
+3
+GRABADO EN METAL
+15
+12
+3
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1400 - 1650
+- -
+01/08/16
+19/11/16
+RODA MARCOS
+&nbsp;
+&nbsp;
+----------------------
+21376
+ARTE2118
+1
+3
+TALLER DE SERIGRAFÍA
+15
+9
+6
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0800 - 1050
+- -
+01/08/16
+19/11/16
+HERNANDEZ ENRIQUE
+&nbsp;
+&nbsp;
+----------------------
+13392
+ARTE2119
+1
+3
+DIBUJO Y ESPACIO
+15
+12
+3
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1400 - 1650
+- -
+01/08/16
+19/11/16
+CARDENAS NICOLAS
+&nbsp;
+&nbsp;
+----------------------
+21377
+ARTE2123
+1
+3
+FOTO EXPERIMENTAL
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+S
+0800 - 1350
+- -
+01/08/16
+19/11/16
+VANEGAS TORRES JAVIER MAURICIO
+&nbsp;
+&nbsp;
+----------------------
+21378
+ARTE2124
+1
+3
+RETRATO FOTOGRAFIA
+15
+17
+-2
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1230 - 1520
+- -
+01/08/16
+19/11/16
+ALONSO RICO JUAN CARLOS
+&nbsp;
+&nbsp;
+----------------------
+21379
+ARTE2126
+1
+3
+INTROD. PROCESOS IMPRESIÓN
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1650
+- -
+01/08/16
+19/11/16
+RODRIGUEZ ROJAS CARMEN CECILIA
+&nbsp;
+&nbsp;
+----------------------
+19967
+ARTE2129
+1
+3
+GRABADO EN RELIEVE
+15
+10
+5
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1220
+- -
+01/08/16
+19/11/16
+RODRIGUEZ ROJAS CARMEN CECILIA
+&nbsp;
+&nbsp;
+----------------------
+13785
+ARTE2203
+1
+3
+VIDEO EXPERIMENTAL
+15
+7
+8
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+JIMENEZ VILLALTA MARIA MARGARITA
+&nbsp;
+&nbsp;
+----------------------
+13393
+ARTE2205
+1
+3
+COMPOSICION EN MOVIMIENTO
+15
+8
+7
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0800 - 1050
+- -
+01/08/16
+19/11/16
+GARCIA GALAN ADRIANA DEL PILAR
+&nbsp;
+&nbsp;
+----------------------
+13394
+ARTE2206
+1
+3
+ARTE SCRIPTUM
+15
+13
+2
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1750
+- -
+01/08/16
+19/11/16
+DIAZ MOYANO MYRIAM LUISA
+&nbsp;
+&nbsp;
+----------------------
+19162
+ARTE2207
+1
+3
+ARTE SONORO
+15
+12
+3
+----------------------
+&nbsp;
+&nbsp;
+I    V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+ARIAS VEGA LUIS RICARDO
+&nbsp;
+&nbsp;
+----------------------
+19163
+ARTE2210
+1
+3
+INSTALACION AUDIOVISUAL
+15
+11
+4
+----------------------
+&nbsp;
+&nbsp;
+J
+0930 - 1220
+- -
+01/08/16
+19/11/16
+&nbsp;
+M
+0930 - 1220
+- -
+01/08/16
+19/11/16
+&nbsp;
+&nbsp;
+----------------------
+21380
+ARTE2417
+1
+3
+MERCADOS DE ARTE
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1100 - 1220
+- -
+01/08/16
+19/11/16
+PIERI CHARLOTTE
+&nbsp;
+&nbsp;
+----------------------
+21381
+ARTE2423
+1
+3
+EL ARTE Y EL VESTIDO
+18
+15
+3
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1650
+- -
+01/08/16
+19/11/16
+PELAEZ GONZALEZ ANA MARIA
+&nbsp;
+&nbsp;
+----------------------
+21382
+ARTE2439
+1
+3
+GESTIÓN CULTURAL
+30
+22
+8
+----------------------
+&nbsp;
+&nbsp;
+J
+0930 - 1220
+- -
+01/08/16
+19/11/16
+CERON CASTILLA CAROLINA
+&nbsp;
+&nbsp;
+----------------------
+23156
+ARTE2446
+1
+3
+ACUARELA
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+RODA MARCOS
+&nbsp;
+&nbsp;
+----------------------
+23157
+ARTE2446
+2
+3
+ACUARELA
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+&nbsp;
+&nbsp;
+----------------------
+21384
+ARTE2454
+1
+3
+CONSERVACIÓN PREVENTIVA DE ART
+30
+17
+13
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1530 - 1650
+- -
+01/08/16
+19/11/16
+FERNANDEZ REGUERA MARIO OMAR
+&nbsp;
+&nbsp;
+----------------------
+23416
+ARTE2455
+1
+3
+ARTE Y DOCUMENTAL DE ENSAYO
+30
+13
+17
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1230 - 1350
+- -
+01/08/16
+19/11/16
+&nbsp;
+&nbsp;
+----------------------
+23397
+ARTE2463
+1
+3
+INTRODUCCIÓN AL PATRIMONIO
+30
+14
+16
+----------------------
+&nbsp;
+&nbsp;
+I    V
+1230 - 1350
+- -
+01/08/16
+19/11/16
+COHEN DAZA DAVID
+&nbsp;
+&nbsp;
+----------------------
+13397
+ARTE3100
+1
+3
+DIBUJO EXPERIMENTAL
+15
+8
+7
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1220
+- -
+01/08/16
+19/11/16
+MEJIA DIAZ JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+19164
+ARTE3108
+1
+3
+INSTALACION
+15
+7
+8
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 1350
+- -
+01/08/16
+19/11/16
+HERRAN CARREÑO JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+21385
+ARTE3113
+1
+3
+LIBRO ARTE
+18
+14
+4
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1650
+- -
+01/08/16
+19/11/16
+FRANCO GARCIA CAROLINA
+&nbsp;
+&nbsp;
+----------------------
+13399
+ARTE3114
+1
+3
+PINTURA EXPERIMENTAL
+15
+11
+4
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1400 - 1650
+- -
+01/08/16
+19/11/16
+MEJIA PEREZ CATALINA
+&nbsp;
+&nbsp;
+----------------------
+13400
+ARTE3115
+1
+3
+TALLER AVANZADO ARTES PLASTIC
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+0800 - 1350
+- -
+01/08/16
+19/11/16
+OBREGON MARTINEZ DE IRUJO BELTRAN PEDRO
+MARTINEZ RODRIGUEZ LESTER FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+21386
+ARTE3203
+18
+3
+NARRATIVA NO LINEAL
+15
+13
+2
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1750
+- -
+01/08/16
+19/11/16
+GIL VROLIJK CARMEN
+&nbsp;
+&nbsp;
+----------------------
+13401
+ARTE3205
+1
+3
+ANIMACION
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+1400 - 1750
+- -
+01/08/16
+19/11/16
+CAICEDO DEROUX SANTIAGO
+&nbsp;
+&nbsp;
+----------------------
+21387
+ARTE3213
+1
+3
+SONIDO Y ACCIONES
+15
+9
+6
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1100 - 1350
+- -
+01/08/16
+19/11/16
+GARCIA GALAN ADRIANA DEL PILAR
+&nbsp;
+&nbsp;
+----------------------
+23352
+ARTE3216
+1
+3
+REDES Y CONTEXTOS
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+L    I
+0930 - 1220
+- -
+01/08/16
+19/11/16
+KRAUS ELSIN LORENA
+&nbsp;
+&nbsp;
+----------------------
+21388
+ARTE3218
+1
+3
+INTERACTIVIDAD Y OBJ. AUTONOMO
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+J
+1400 - 1750
+- -
+01/08/16
+19/11/16
+&nbsp;
+&nbsp;
+----------------------
+21389
+ARTE3220
+1
+3
+OBRA EN PROCESO
+15
+15
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1750
+- -
+01/08/16
+19/11/16
+PRADILLA HERNANDEZ EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+23277
+ARTE3403
+1
+3
+TALLER DE PROYECTOS
+15
+12
+3
+----------------------
+&nbsp;
+&nbsp;
+I
+1230 - 1620
+- -
+01/08/16
+19/11/16
+JIMENEZ VILLALTA MARIA MARGARITA
+&nbsp;
+&nbsp;
+----------------------
+21390
+ARTE3420
+1
+3
+BIENALES Y SALONES
+30
+5
+25
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1700 - 1820
+- -
+01/08/16
+19/11/16
+IREGUI JAIME
+&nbsp;
+&nbsp;
+----------------------
+23425
+ARTE3426
+1
+3
+ARTE Y CARCELES 3
+20
+17
+3
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+OSPINA LUCAS
+&nbsp;
+&nbsp;
+----------------------
+16653
+ARTE3602
+1
+3
+ANTEPROYECTO NUEVO
+0
+2
+-2
+----------------------
+&nbsp;
+&nbsp;
+L
+0630 - 0920
+- -
+01/08/16
+19/11/16
+GOMEZ SOTO CONSUELO
+UHIA FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+16646
+ARTE3602
+2
+3
+ANTEPROYECTO NUEVO
+0
+3
+-3
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1220
+- -
+01/08/16
+19/11/16
+OSPINA LUCAS
+DIAZ BEJARANO BEATRIZ EUGENIA
+&nbsp;
+&nbsp;
+----------------------
+16647
+ARTE3602
+3
+3
+ANTEPROYECTO NUEVO
+2
+2
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+1400 - 1650
+- -
+01/08/16
+19/11/16
+ESPINOSA SALAZAR LINA MARIA
+&nbsp;
+&nbsp;
+----------------------
+16648
+ARTE3602
+4
+3
+ANTEPROYECTO NUEVO
+1
+2
+-1
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1650
+- -
+01/08/16
+19/11/16
+ARIAS VEGA LUIS RICARDO
+&nbsp;
+&nbsp;
+----------------------
+16649
+ARTE3602
+5
+3
+ANTEPROYECTO NUEVO
+4
+4
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+DIAZ MOYANO MYRIAM LUISA
+VARGAS GIOVANNI
+&nbsp;
+&nbsp;
+----------------------
+16650
+ARTE3602
+6
+3
+ANTEPROYECTO NUEVO
+2
+2
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+PRADILLA HERNANDEZ EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+16655
+ARTE3602
+7
+3
+ANTEPROYECTO NUEVO
+1
+1
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1650
+- -
+01/08/16
+19/11/16
+MEJIA DIAZ JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+16656
+ARTE3602
+8
+3
+ANTEPROYECTO NUEVO
+1
+3
+-2
+----------------------
+&nbsp;
+&nbsp;
+L
+0800 - 0950
+- -
+01/08/16
+19/11/16
+JIMENEZ VILLALTA MARIA MARGARITA
+&nbsp;
+&nbsp;
+----------------------
+16658
+ARTE3602
+9
+3
+ANTEPROYECTO NUEVO
+0
+1
+-1
+----------------------
+&nbsp;
+&nbsp;
+M
+1400 - 1650
+- -
+01/08/16
+19/11/16
+GIL VROLIJK CARMEN
+FACUNDO RINCON RODRIGO
+&nbsp;
+&nbsp;
+----------------------
+16660
+ARTE3602
+10
+3
+ANTEPROYECTO NUEVO
+2
+1
+1
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1220
+- -
+01/08/16
+19/11/16
+FRANCO GARCIA CAROLINA
+&nbsp;
+&nbsp;
+----------------------
+16661
+ARTE3602
+11
+3
+ANTEPROYECTO NUEVO
+0
+2
+-2
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1650
+- -
+01/08/16
+19/11/16
+HERRAN CARREÑO JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+13928
+ARTE3603
+1
+6
+PROYECTO NUEVO PENSUM
+4
+6
+-2
+----------------------
+&nbsp;
+&nbsp;
+L
+0630 - 0920
+- -
+01/08/16
+19/11/16
+GOMEZ SOTO CONSUELO
+UHIA FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+12845
+ARTE3603
+2
+6
+PROYECTO NUEVO PENSUM
+4
+4
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+0930 - 1220
+- -
+01/08/16
+19/11/16
+OSPINA LUCAS
+DIAZ BEJARANO BEATRIZ EUGENIA
+&nbsp;
+&nbsp;
+----------------------
+12846
+ARTE3603
+3
+6
+PROYECTO NUEVO PENSUM
+2
+1
+1
+----------------------
+&nbsp;
+&nbsp;
+M
+1400 - 1650
+- -
+01/08/16
+19/11/16
+ESPINOSA SALAZAR LINA MARIA
+&nbsp;
+&nbsp;
+----------------------
+12847
+ARTE3603
+4
+6
+PROYECTO NUEVO PENSUM
+3
+4
+-1
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1650
+- -
+01/08/16
+19/11/16
+ARIAS VEGA LUIS RICARDO
+&nbsp;
+&nbsp;
+----------------------
+12848
+ARTE3603
+5
+6
+PROYECTO NUEVO PENSUM
+2
+4
+-2
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+DIAZ MOYANO MYRIAM LUISA
+VARGAS GIOVANNI
+&nbsp;
+&nbsp;
+----------------------
+12849
+ARTE3603
+6
+6
+PROYECTO NUEVO PENSUM
+2
+2
+0
+----------------------
+&nbsp;
+&nbsp;
+V
+0930 - 1220
+- -
+01/08/16
+19/11/16
+PRADILLA HERNANDEZ EDUARDO
+&nbsp;
+&nbsp;
+----------------------
+12850
+ARTE3603
+7
+6
+PROYECTO NUEVO PENSUM
+3
+3
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1400 - 1650
+- -
+01/08/16
+19/11/16
+MEJIA DIAZ JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+12851
+ARTE3603
+8
+6
+PROYECTO NUEVO PENSUM
+5
+2
+3
+----------------------
+&nbsp;
+&nbsp;
+L
+0800 - 0950
+- -
+01/08/16
+19/11/16
+JIMENEZ VILLALTA MARIA MARGARITA
+&nbsp;
+&nbsp;
+----------------------
+12852
+ARTE3603
+9
+6
+PROYECTO NUEVO PENSUM
+1
+0
+1
+----------------------
+&nbsp;
+&nbsp;
+M
+1400 - 1650
+- -
+01/08/16
+19/11/16
+GIL VROLIJK CARMEN
+FACUNDO RINCON RODRIGO
+&nbsp;
+&nbsp;
+----------------------
+12853
+ARTE3603
+10
+6
+PROYECTO NUEVO PENSUM
+1
+1
+0
+----------------------
+&nbsp;
+&nbsp;
+M
+0930 - 1220
+- -
+01/08/16
+19/11/16
+FRANCO GARCIA CAROLINA
+&nbsp;
+&nbsp;
+----------------------
+13019
+ARTE3603
+11
+6
+PROYECTO NUEVO PENSUM
+1
+1
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1400 - 1650
+- -
+01/08/16
+19/11/16
+HERRAN CARREÑO JUAN FERNANDO
+&nbsp;
+&nbsp;
+----------------------
+23601
+ARTE3603
+12
+6
+PROYECTO NUEVO PENSUM
+2
+1
+1
+----------------------
+&nbsp;
+&nbsp;
+I
+0800 - 1050
+- -
+01/08/16
+19/11/16
+FERNANDEZ REGUERA MARIO OMAR
+&nbsp;
+&nbsp;
+----------------------
+12001
+ARTE3990
+1
+0
+INSCRIPCION A GRADO
+999
+2
+997
+----------------------
+&nbsp;
+&nbsp;
+&nbsp;
+----------------------
+12858
+ARTE3992
+1
+3
+PRACTICA PROFESIONAL - 3
+0
+4
+-4
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01/08/16
+19/11/16
+OSPINA LUCAS
+&nbsp;
+&nbsp;
+----------------------
+13402
+ARTE3994
+1
+3
+PRACTICA ACADEMICA OBLIGATORIA
+999
+3
+996
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01/08/16
+19/11/16
+OSPINA LUCAS
+&nbsp;
+&nbsp;
+----------------------
+12002
+ARTE3995
+1
+6
+PRACTICA DE GRADO PROYECTOS
+4
+1
+3
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01/08/16
+19/11/16
+OSPINA LUCAS
+&nbsp;
+&nbsp;
+----------------------
+13448
+ARTE3996
+1
+3
+PRÁCTICA EN PROYECTOS
+999
+4
+995
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01/08/16
+19/11/16
+OSPINA LUCAS
+&nbsp;
+&nbsp;
+----------------------

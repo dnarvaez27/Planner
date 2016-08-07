@@ -1,69 +1,73 @@
+CRN
 13282
 CIDE3140A
 1
 3
 GENERO, IDENTIDAD Y DESARROLLO
 95
-56
-39
+60
+35
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 L
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 PINEDA JAVIER
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22514
 CIDE3141B
 1
 3
 COMERCIO Y DESARROLLO
 47
-33
-14
+36
+11
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ANDIA REY TATIANA SAMAY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 20291
 CIDE3150B
 1
 3
 CONSUMO, BIENESTAR Y POBREZAS
 47
-25
-22
+28
+19
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 GONZALEZ JUAN MANUEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22633
 CIDE3151B
 1
@@ -73,17 +77,18 @@ CIUDAD, PODER Y DESARROLLO
 16
 31
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MONTERO SERGIO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22634
 CIDE3152B
 1
@@ -93,37 +98,39 @@ BRUJAS, NEOLIB.Y CAMBIO AMBIEN
 18
 29
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 IDROBO MEDICINA CALOS JULIAN
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22635
 CIDE3153B
 1
 3
 CUERPOS, VIOLENC(S).Y GLOBALIZ
 47
-9
-38
+10
+37
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 BOUTRON CAMILE CHARLOTTE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22636
 CIDE3154A
 1
@@ -133,17 +140,18 @@ COLOMBIA, PAIS DE REGIONES
 54
 41
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 GONZALEZ JUAN MANUEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12348
 CIDE3992
 1
@@ -153,16 +161,17 @@ PRACTICAS EN DESARROLLO
 0
 10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SALAMANCA GUZMAN MILLY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12346
 CIDE4107
 1
@@ -172,73 +181,77 @@ SEMINARIO DE INVESTIGACIÓN
 0
 10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MORAN MATIZ ANA YUDY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12350
 CIDE4110
 1
 1
 SUSTENTACIÓN
 30
-3
-27
+5
+25
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SALAMANCA GUZMAN MILLY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12347
 CIDE4114
 1
 1
 SEMINARIO TUTORIAL
 20
-2
-18
+4
+16
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 PINIERO MARICEL CASTILLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16341
 CIDE4119
 1
 0
 TALLER ESCRITURA DE DOCUMENTOS
 10
-0
-10
+1
+9
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SALAMANCA GUZMAN MILLY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 14211
 CIDE4132
 1
@@ -248,34 +261,36 @@ ESTUDIOS DIRIGIDOS 1
 0
 25
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MORAN MATIZ ANA YUDY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13827
 CIDE4133
 1
 0
 AVANCE TRABAJO DE GRADO
 30
-7
-23
+13
+17
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+ 
+ 
 ----------------------
+CRN
 13828
 CIDE4134
 1
@@ -285,36 +300,38 @@ ESTUDIOS DIRIGIDOS 2
 0
 25
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MORAN MATIZ ANA YUDY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13829
 CIDE4135
 1
 4
 TUTORIAL DE INVESTIGACIÓN
-30
-21
+40
+31
 9
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1800 - 2050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ZORRO CARLOS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22441
 CIDE4137
 1
@@ -324,209 +341,216 @@ DLLO ECONOMICO LOCAL Y REGIONA
 17
 23
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0630 - 1120
 - -
-05-AGO-16
-05-AGO-16
-&nbsp;
+05/08/16
+05/08/16
+ 
 V
 0630 - 1120
 - -
-02-SEP-16
-02-SEP-16
-&nbsp;
+02/09/16
+02/09/16
+ 
 V
 0630 - 1120
 - -
-07-OCT-16
-07-OCT-16
-&nbsp;
+07/10/16
+07/10/16
+ 
 V
 0630 - 1120
 - -
-04-NOV-16
-04-NOV-16
-&nbsp;
+04/11/16
+04/11/16
+ 
 V
 0630 - 1120
 - -
-02-DIC-16
-02-DIC-16
+02/12/16
+02/12/16
 GARCIA ESTEVEZ JAVIER HERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22442
 CIDE4139
 1
 4
 ECON POLI CONFLICTOS ARMADOS
 40
-23
-17
+25
+15
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0630 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 VARGAS GONZALO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13830
 CIDE4140
 1
 4
 TEORÍAS DEL DESARROLLO
-40
-42
--2
+35
+45
+-10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 S
 0900 - 1150
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ZORRO CARLOS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22439
 CIDE4146
 1
 4
 EMPRENDIMIENTO SOCIAL Y DLLO
 30
-20
-10
+19
+11
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1800 - 2050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 PINILLA URZOLA LUZ ANGELA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22440
 CIDE4147
 1
 4
 TEO FEMIN. INTERS Y CAMBIO SOC
 40
-7
-33
+10
+30
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1800 - 2050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 BOUTRON CAMILE CHARLOTTE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 15420
 CIDE4148
 1
 4
 TALLER TRABAJO GRADO EN PROFUN
 50
-16
-34
+19
+31
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1330 - 1820
 - -
-05-AGO-16
-05-AGO-16
-&nbsp;
+05/08/16
+05/08/16
+ 
 V
 1330 - 1820
 - -
-02-SEP-16
-02-SEP-16
-&nbsp;
+02/09/16
+02/09/16
+ 
 V
 1330 - 1820
 - -
-07-OCT-16
-07-OCT-16
-&nbsp;
+07/10/16
+07/10/16
+ 
 V
 1330 - 1820
 - -
-04-NOV-16
-04-NOV-16
-&nbsp;
+04/11/16
+04/11/16
+ 
 V
 1330 - 1820
 - -
-02-DIC-16
-02-DIC-16
+02/12/16
+02/12/16
 GONZALEZ JUAN MANUEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22443
 CIDE4149
 1
 4
 INSTITUCIONES Y DESARROLLO BLN
 30
-16
-14
+17
+13
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1330 - 1820
 - -
-04-AGO-16
-04-AGO-16
-&nbsp;
+04/08/16
+04/08/16
+ 
 J
 1330 - 1820
 - -
-01-SEP-16
-01-SEP-16
-&nbsp;
+01/09/16
+01/09/16
+ 
 J
 1330 - 1820
 - -
-06-OCT-16
-06-OCT-16
-&nbsp;
+06/10/16
+06/10/16
+ 
 J
 1330 - 1820
 - -
-03-NOV-16
-03-NOV-16
-&nbsp;
+03/11/16
+03/11/16
+ 
 J
 1330 - 1820
 - -
-01-DIC-16
-01-DIC-16
+01/12/16
+01/12/16
 HERNANDEZ QUIÑONES ANDRES
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 14644
 CIDE4150
 1
@@ -536,79 +560,82 @@ CURSO ELECTIVO 5
 0
 40
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SALAMANCA GUZMAN MILLY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 17523
 CIDE4151
 1
 4
 TRABAJO DE GRADO FINAL
 30
-15
-15
+17
+13
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SALAMANCA GUZMAN MILLY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16079
 CIDE4152
 1
 1
 SEMINARIO DE REDACCION
 30
-33
--3
+31
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0630 - 1120
 - -
-05-AGO-16
-05-AGO-16
-&nbsp;
+05/08/16
+05/08/16
+ 
 V
 0630 - 1120
 - -
-02-SEP-16
-02-SEP-16
-&nbsp;
+02/09/16
+02/09/16
+ 
 V
 0630 - 1120
 - -
-07-OCT-16
-07-OCT-16
-&nbsp;
+07/10/16
+07/10/16
+ 
 V
 0630 - 1120
 - -
-04-NOV-16
-04-NOV-16
-&nbsp;
+04/11/16
+04/11/16
+ 
 V
 0630 - 1120
 - -
-02-DIC-16
-02-DIC-16
+02/12/16
+02/12/16
 AGUILAR FORERO NICOLAS JUAN CAMILO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 17199
 CIDE4157
 1
@@ -618,16 +645,17 @@ INTERCAMBIO MAESTRIA 1
 0
 5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SALAMANCA GUZMAN MILLY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 17200
 CIDE4158
 1
@@ -637,55 +665,77 @@ INTERCAMBIO MAESTRIA 2
 0
 5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SALAMANCA GUZMAN MILLY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
+23635
+CIDE4159
+1
+5
+CURSO ELECTIVO 6
+0
+0
+0
+----------------------
+ 
+ 
+-
+- -
+01/08/16
+19/11/16
+ 
+ 
+----------------------
+CRN
 21265
 CIDE4162
 1
 1
 CURSO ELECTIVO 7
 1
-0
 1
+0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SALAMANCA GUZMAN MILLY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23097
 CIDE4166
 1
 4
 SOSTENIBILIDAD Y DESARROLLO
 40
-11
-29
+13
+27
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1800 - 2050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 IDROBO MEDICINA CALOS JULIAN
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23110
 CIDE4167
 1
@@ -695,41 +745,42 @@ PLANIF.URB. Y REG: HIST,TEO,RE
 24
 16
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0630 - 1120
 - -
-04-AGO-16
-04-AGO-16
-&nbsp;
+04/08/16
+04/08/16
+ 
 J
 0630 - 1120
 - -
-01-SEP-16
-01-SEP-16
-&nbsp;
+01/09/16
+01/09/16
+ 
 J
 0630 - 1120
 - -
-06-OCT-16
-06-OCT-16
-&nbsp;
+06/10/16
+06/10/16
+ 
 J
 0630 - 1120
 - -
-03-NOV-16
-03-NOV-16
-&nbsp;
+03/11/16
+03/11/16
+ 
 J
 0630 - 1120
 - -
-01-DIC-16
-01-DIC-16
+01/12/16
+01/12/16
 MONTERO SERGIO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23116
 CIDE4168
 1
@@ -739,61 +790,63 @@ SEM.GENERO E INTERDISCIPLINARI
 0
 50
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 0630 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 PINEDA JAVIER
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23117
 CIDE4169
 4
 4
 TALLER TRABAJO GRADO EN INVEST
 50
-17
-33
+20
+30
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 S
 0700 - 1150
 - -
-06-AGO-16
-06-AGO-16
-&nbsp;
+06/08/16
+06/08/16
+ 
 S
 0700 - 1150
 - -
-03-SEP-16
-03-SEP-16
-&nbsp;
+03/09/16
+03/09/16
+ 
 S
 0700 - 1150
 - -
-08-OCT-16
-08-OCT-16
-&nbsp;
+08/10/16
+08/10/16
+ 
 S
 0700 - 1150
 - -
-05-NOV-16
-05-NOV-16
-&nbsp;
+05/11/16
+05/11/16
+ 
 S
 0700 - 1150
 - -
-03-DIC-16
-03-DIC-16
+03/12/16
+03/12/16
 CARRENO DURAN CLAUDIA INES
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23118
 CIDE4170
 1
@@ -803,80 +856,130 @@ INSTRUM.INTERVENC.EN TERRITORI
 13
 22
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1330 - 1820
 - -
-04-AGO-16
-04-AGO-16
-&nbsp;
+04/08/16
+04/08/16
+ 
 J
 1330 - 1820
 - -
-01-SEP-16
-01-SEP-16
-&nbsp;
+01/09/16
+01/09/16
+ 
 J
 1330 - 1820
 - -
-06-OCT-16
-06-OCT-16
-&nbsp;
+06/10/16
+06/10/16
+ 
 J
 1330 - 1820
 - -
-03-NOV-16
-03-NOV-16
-&nbsp;
+03/11/16
+03/11/16
+ 
 J
 1330 - 1820
 - -
-01-DIC-16
-01-DIC-16
+01/12/16
+01/12/16
 ESCALLON GARTNER CLEMENCIA
-&nbsp;
-&nbsp;
+ROJAS EBERHARD MARIA CRISTINA
+PINILLA JUAN FELIPE
+ 
+ 
 ----------------------
+CRN
+23654
+CIDE4171
+1
+0
+SEMINARIO DE REDACCION
+11
+11
+0
+----------------------
+ 
+ 
+V
+0630 - 1120
+- -
+05/08/16
+05/08/16
+ 
+V
+0630 - 1120
+- -
+02/09/16
+02/09/16
+ 
+V
+0630 - 1120
+- -
+07/10/16
+07/10/16
+ 
+V
+0630 - 1120
+- -
+04/11/16
+04/11/16
+ 
+V
+0630 - 1120
+- -
+02/12/16
+02/12/16
+ 
+ 
+----------------------
+CRN
 22434
 CIDE5106
 1
 2
 ECONOMIA Y FINANZAS PUBLICAS
 40
-40
-0
+41
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 S
 0700 - 0850
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 GARCIA ESTEVEZ JAVIER HERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22513
 CIDE5114
 1
 4
 ANALISIS Y EVALUACION POL PUBL
-40
-39
-1
+42
+43
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1700 - 1950
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+GARCIA ESTEVEZ JAVIER HERNANDO
+ 
+ 
 ----------------------
+CRN
 14637
 CIDE5115
 1
@@ -886,16 +989,17 @@ CURSO ELECTIVO 2
 0
 10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SALAMANCA GUZMAN MILLY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 14641
 CIDE5116
 1
@@ -905,16 +1009,17 @@ CURSO ELECTIVO 3
 0
 10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SALAMANCA GUZMAN MILLY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 14638
 CIDE5117
 1
@@ -924,233 +1029,238 @@ CURSO ELECTIVO 4
 0
 10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SALAMANCA GUZMAN MILLY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22515
 CIDE5317
 1
 2
 ESTADO, SOCIEDAD CIVIL Y DLLO
 30
-31
--1
+33
+-3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 S
 0700 - 0850
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ANDIA REY TATIANA SAMAY
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22516
 CIDE5318
 1
 2
 GESTION Y COGESTION RS
 35
-33
-2
+35
+0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1700 - 2050
 - -
-05-AGO-16
-05-AGO-16
-&nbsp;
+05/08/16
+05/08/16
+ 
 V
 1700 - 2050
 - -
-19-AGO-16
-19-AGO-16
-&nbsp;
+19/08/16
+19/08/16
+ 
 V
 1700 - 2050
 - -
-02-SEP-16
-02-SEP-16
-&nbsp;
+02/09/16
+02/09/16
+ 
 V
 1700 - 2050
 - -
-16-SEP-16
-16-SEP-16
-&nbsp;
+16/09/16
+16/09/16
+ 
 V
 1700 - 2050
 - -
-07-OCT-16
-07-OCT-16
-&nbsp;
+07/10/16
+07/10/16
+ 
 V
 1700 - 2050
 - -
-21-OCT-16
-21-OCT-16
-&nbsp;
+21/10/16
+21/10/16
+ 
 V
 1700 - 2050
 - -
-04-NOV-16
-04-NOV-16
-&nbsp;
+04/11/16
+04/11/16
+ 
 V
 1700 - 2050
 - -
-18-NOV-16
-18-NOV-16
-&nbsp;
+18/11/16
+18/11/16
+ 
 V
 1700 - 2050
 - -
-02-DIC-16
-02-DIC-16
+02/12/16
+02/12/16
 PARDO OSCAR
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22438
 CIDE5400
 1
 4
 TEORIAS DE DESARROLLO
 40
-21
-19
+28
+12
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1300 - 1750
 - -
-04-AGO-16
-04-AGO-16
-&nbsp;
+04/08/16
+04/08/16
+ 
 J
 1300 - 1750
 - -
-01-SEP-16
-01-SEP-16
-&nbsp;
+01/09/16
+01/09/16
+ 
 J
 1300 - 1750
 - -
-06-OCT-16
-06-OCT-16
-&nbsp;
+06/10/16
+06/10/16
+ 
 J
 1300 - 1750
 - -
-03-NOV-16
-03-NOV-16
-&nbsp;
+03/11/16
+03/11/16
+ 
 J
 1300 - 1750
 - -
-01-DIC-16
-01-DIC-16
+01/12/16
+01/12/16
 SANTANDER ABRIL JAIRO ENRIQUE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22436
 CIDE5406
 1
 2
 ADMINISTRACION DEL DESARROLLO
 30
-27
-3
+32
+-2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1330 - 1720
 - -
-05-AGO-16
-05-AGO-16
-&nbsp;
+05/08/16
+05/08/16
+ 
 V
 1330 - 1720
 - -
-02-SEP-16
-02-SEP-16
-&nbsp;
+02/09/16
+02/09/16
+ 
 V
 1330 - 1720
 - -
-07-OCT-16
-07-OCT-16
-&nbsp;
+07/10/16
+07/10/16
+ 
 V
 1330 - 1720
 - -
-04-NOV-16
-04-NOV-16
-&nbsp;
+04/11/16
+04/11/16
+ 
 V
 1330 - 1720
 - -
-02-DIC-16
-02-DIC-16
+02/12/16
+02/12/16
 HERNANDEZ QUIÑONES ANDRES
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22437
 CIDE5411
 1
 4
 PLANIFICACION Y FINAN DLLO
 40
-34
-6
+36
+4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0630 - 1120
 - -
-04-AGO-16
-04-AGO-16
-&nbsp;
+04/08/16
+04/08/16
+ 
 J
 0630 - 1120
 - -
-01-SEP-16
-01-SEP-16
-&nbsp;
+01/09/16
+01/09/16
+ 
 J
 0630 - 1120
 - -
-06-OCT-16
-06-OCT-16
-&nbsp;
+06/10/16
+06/10/16
+ 
 J
 0630 - 1120
 - -
-03-NOV-16
-03-NOV-16
-&nbsp;
+03/11/16
+03/11/16
+ 
 J
 0630 - 1120
 - -
-01-DIC-16
-01-DIC-16
+01/12/16
+01/12/16
 VARGAS GONZALO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------

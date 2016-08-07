@@ -1,0 +1,1156 @@
+13282
+CIDE3140A
+1
+3
+GENERO, IDENTIDAD Y DESARROLLO
+95
+56
+39
+----------------------
+&nbsp;
+&nbsp;
+J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+L
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+PINEDA JAVIER
+&nbsp;
+&nbsp;
+----------------------
+22514
+CIDE3141B
+1
+3
+COMERCIO Y DESARROLLO
+47
+33
+14
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+ANDIA REY TATIANA SAMAY
+&nbsp;
+&nbsp;
+----------------------
+20291
+CIDE3150B
+1
+3
+CONSUMO, BIENESTAR Y POBREZAS
+47
+25
+22
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1100 - 1220
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ JUAN MANUEL
+&nbsp;
+&nbsp;
+----------------------
+22633
+CIDE3151B
+1
+3
+CIUDAD, PODER Y DESARROLLO
+47
+16
+31
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1530 - 1650
+- -
+01-AGO-16
+19-NOV-16
+MONTERO SERGIO
+&nbsp;
+&nbsp;
+----------------------
+22634
+CIDE3152B
+1
+3
+BRUJAS, NEOLIB.Y CAMBIO AMBIEN
+47
+18
+29
+----------------------
+&nbsp;
+&nbsp;
+M    J
+0930 - 1050
+- -
+01-AGO-16
+19-NOV-16
+IDROBO MEDICINA CALOS JULIAN
+&nbsp;
+&nbsp;
+----------------------
+22635
+CIDE3153B
+1
+3
+CUERPOS, VIOLENC(S).Y GLOBALIZ
+47
+9
+38
+----------------------
+&nbsp;
+&nbsp;
+L    I
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+BOUTRON CAMILE CHARLOTTE
+&nbsp;
+&nbsp;
+----------------------
+22636
+CIDE3154A
+1
+3
+COLOMBIA, PAIS DE REGIONES
+95
+54
+41
+----------------------
+&nbsp;
+&nbsp;
+M    J
+1400 - 1520
+- -
+01-AGO-16
+19-NOV-16
+GONZALEZ JUAN MANUEL
+&nbsp;
+&nbsp;
+----------------------
+12348
+CIDE3992
+1
+3
+PRACTICAS EN DESARROLLO
+10
+0
+10
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+SALAMANCA GUZMAN MILLY
+&nbsp;
+&nbsp;
+----------------------
+12346
+CIDE4107
+1
+1
+SEMINARIO DE INVESTIGACIÓN
+10
+0
+10
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+MORAN MATIZ ANA YUDY
+&nbsp;
+&nbsp;
+----------------------
+12350
+CIDE4110
+1
+1
+SUSTENTACIÓN
+30
+3
+27
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+SALAMANCA GUZMAN MILLY
+&nbsp;
+&nbsp;
+----------------------
+12347
+CIDE4114
+1
+1
+SEMINARIO TUTORIAL
+20
+2
+18
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+PINIERO MARICEL CASTILLO
+&nbsp;
+&nbsp;
+----------------------
+16341
+CIDE4119
+1
+0
+TALLER ESCRITURA DE DOCUMENTOS
+10
+0
+10
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+SALAMANCA GUZMAN MILLY
+&nbsp;
+&nbsp;
+----------------------
+14211
+CIDE4132
+1
+4
+ESTUDIOS DIRIGIDOS 1
+25
+0
+25
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+MORAN MATIZ ANA YUDY
+&nbsp;
+&nbsp;
+----------------------
+13827
+CIDE4133
+1
+0
+AVANCE TRABAJO DE GRADO
+30
+7
+23
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+13828
+CIDE4134
+1
+4
+ESTUDIOS DIRIGIDOS 2
+25
+0
+25
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+MORAN MATIZ ANA YUDY
+&nbsp;
+&nbsp;
+----------------------
+13829
+CIDE4135
+1
+4
+TUTORIAL DE INVESTIGACIÓN
+30
+21
+9
+----------------------
+&nbsp;
+&nbsp;
+L
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+ZORRO CARLOS
+&nbsp;
+&nbsp;
+----------------------
+22441
+CIDE4137
+1
+4
+DLLO ECONOMICO LOCAL Y REGIONA
+40
+17
+23
+----------------------
+&nbsp;
+&nbsp;
+V
+0630 - 1120
+- -
+05-AGO-16
+05-AGO-16
+&nbsp;
+V
+0630 - 1120
+- -
+02-SEP-16
+02-SEP-16
+&nbsp;
+V
+0630 - 1120
+- -
+07-OCT-16
+07-OCT-16
+&nbsp;
+V
+0630 - 1120
+- -
+04-NOV-16
+04-NOV-16
+&nbsp;
+V
+0630 - 1120
+- -
+02-DIC-16
+02-DIC-16
+GARCIA ESTEVEZ JAVIER HERNANDO
+&nbsp;
+&nbsp;
+----------------------
+22442
+CIDE4139
+1
+4
+ECON POLI CONFLICTOS ARMADOS
+40
+23
+17
+----------------------
+&nbsp;
+&nbsp;
+I
+0630 - 0920
+- -
+01-AGO-16
+19-NOV-16
+VARGAS GONZALO
+&nbsp;
+&nbsp;
+----------------------
+13830
+CIDE4140
+1
+4
+TEORÍAS DEL DESARROLLO
+40
+42
+-2
+----------------------
+&nbsp;
+&nbsp;
+S
+0900 - 1150
+- -
+01-AGO-16
+19-NOV-16
+ZORRO CARLOS
+&nbsp;
+&nbsp;
+----------------------
+22439
+CIDE4146
+1
+4
+EMPRENDIMIENTO SOCIAL Y DLLO
+30
+20
+10
+----------------------
+&nbsp;
+&nbsp;
+J
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+PINILLA URZOLA LUZ ANGELA
+&nbsp;
+&nbsp;
+----------------------
+22440
+CIDE4147
+1
+4
+TEO FEMIN. INTERS Y CAMBIO SOC
+40
+7
+33
+----------------------
+&nbsp;
+&nbsp;
+M
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+BOUTRON CAMILE CHARLOTTE
+&nbsp;
+&nbsp;
+----------------------
+15420
+CIDE4148
+1
+4
+TALLER TRABAJO GRADO EN PROFUN
+50
+16
+34
+----------------------
+&nbsp;
+&nbsp;
+V
+1330 - 1820
+- -
+05-AGO-16
+05-AGO-16
+&nbsp;
+V
+1330 - 1820
+- -
+02-SEP-16
+02-SEP-16
+&nbsp;
+V
+1330 - 1820
+- -
+07-OCT-16
+07-OCT-16
+&nbsp;
+V
+1330 - 1820
+- -
+04-NOV-16
+04-NOV-16
+&nbsp;
+V
+1330 - 1820
+- -
+02-DIC-16
+02-DIC-16
+GONZALEZ JUAN MANUEL
+&nbsp;
+&nbsp;
+----------------------
+22443
+CIDE4149
+1
+4
+INSTITUCIONES Y DESARROLLO BLN
+30
+16
+14
+----------------------
+&nbsp;
+&nbsp;
+J
+1330 - 1820
+- -
+04-AGO-16
+04-AGO-16
+&nbsp;
+J
+1330 - 1820
+- -
+01-SEP-16
+01-SEP-16
+&nbsp;
+J
+1330 - 1820
+- -
+06-OCT-16
+06-OCT-16
+&nbsp;
+J
+1330 - 1820
+- -
+03-NOV-16
+03-NOV-16
+&nbsp;
+J
+1330 - 1820
+- -
+01-DIC-16
+01-DIC-16
+HERNANDEZ QUIÑONES ANDRES
+&nbsp;
+&nbsp;
+----------------------
+14644
+CIDE4150
+1
+4
+CURSO ELECTIVO 5
+40
+0
+40
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+SALAMANCA GUZMAN MILLY
+&nbsp;
+&nbsp;
+----------------------
+17523
+CIDE4151
+1
+4
+TRABAJO DE GRADO FINAL
+30
+15
+15
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+SALAMANCA GUZMAN MILLY
+&nbsp;
+&nbsp;
+----------------------
+16079
+CIDE4152
+1
+1
+SEMINARIO DE REDACCION
+30
+33
+-3
+----------------------
+&nbsp;
+&nbsp;
+V
+0630 - 1120
+- -
+05-AGO-16
+05-AGO-16
+&nbsp;
+V
+0630 - 1120
+- -
+02-SEP-16
+02-SEP-16
+&nbsp;
+V
+0630 - 1120
+- -
+07-OCT-16
+07-OCT-16
+&nbsp;
+V
+0630 - 1120
+- -
+04-NOV-16
+04-NOV-16
+&nbsp;
+V
+0630 - 1120
+- -
+02-DIC-16
+02-DIC-16
+AGUILAR FORERO NICOLAS JUAN CAMILO
+&nbsp;
+&nbsp;
+----------------------
+17199
+CIDE4157
+1
+2
+INTERCAMBIO MAESTRIA 1
+5
+0
+5
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+SALAMANCA GUZMAN MILLY
+&nbsp;
+&nbsp;
+----------------------
+17200
+CIDE4158
+1
+2
+INTERCAMBIO MAESTRIA 2
+5
+0
+5
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+SALAMANCA GUZMAN MILLY
+&nbsp;
+&nbsp;
+----------------------
+21265
+CIDE4162
+1
+1
+CURSO ELECTIVO 7
+1
+0
+1
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+SALAMANCA GUZMAN MILLY
+&nbsp;
+&nbsp;
+----------------------
+23097
+CIDE4166
+1
+4
+SOSTENIBILIDAD Y DESARROLLO
+40
+11
+29
+----------------------
+&nbsp;
+&nbsp;
+I
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+IDROBO MEDICINA CALOS JULIAN
+&nbsp;
+&nbsp;
+----------------------
+23110
+CIDE4167
+1
+4
+PLANIF.URB. Y REG: HIST,TEO,RE
+40
+24
+16
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 1120
+- -
+04-AGO-16
+04-AGO-16
+&nbsp;
+J
+0630 - 1120
+- -
+01-SEP-16
+01-SEP-16
+&nbsp;
+J
+0630 - 1120
+- -
+06-OCT-16
+06-OCT-16
+&nbsp;
+J
+0630 - 1120
+- -
+03-NOV-16
+03-NOV-16
+&nbsp;
+J
+0630 - 1120
+- -
+01-DIC-16
+01-DIC-16
+MONTERO SERGIO
+&nbsp;
+&nbsp;
+----------------------
+23116
+CIDE4168
+1
+4
+SEM.GENERO E INTERDISCIPLINARI
+50
+0
+50
+----------------------
+&nbsp;
+&nbsp;
+M
+0630 - 0920
+- -
+01-AGO-16
+19-NOV-16
+PINEDA JAVIER
+&nbsp;
+&nbsp;
+----------------------
+23117
+CIDE4169
+4
+4
+TALLER TRABAJO GRADO EN INVEST
+50
+17
+33
+----------------------
+&nbsp;
+&nbsp;
+S
+0700 - 1150
+- -
+06-AGO-16
+06-AGO-16
+&nbsp;
+S
+0700 - 1150
+- -
+03-SEP-16
+03-SEP-16
+&nbsp;
+S
+0700 - 1150
+- -
+08-OCT-16
+08-OCT-16
+&nbsp;
+S
+0700 - 1150
+- -
+05-NOV-16
+05-NOV-16
+&nbsp;
+S
+0700 - 1150
+- -
+03-DIC-16
+03-DIC-16
+CARRENO DURAN CLAUDIA INES
+&nbsp;
+&nbsp;
+----------------------
+23118
+CIDE4170
+1
+4
+INSTRUM.INTERVENC.EN TERRITORI
+35
+13
+22
+----------------------
+&nbsp;
+&nbsp;
+J
+1330 - 1820
+- -
+04-AGO-16
+04-AGO-16
+&nbsp;
+J
+1330 - 1820
+- -
+01-SEP-16
+01-SEP-16
+&nbsp;
+J
+1330 - 1820
+- -
+06-OCT-16
+06-OCT-16
+&nbsp;
+J
+1330 - 1820
+- -
+03-NOV-16
+03-NOV-16
+&nbsp;
+J
+1330 - 1820
+- -
+01-DIC-16
+01-DIC-16
+ESCALLON GARTNER CLEMENCIA
+&nbsp;
+&nbsp;
+----------------------
+22434
+CIDE5106
+1
+2
+ECONOMIA Y FINANZAS PUBLICAS
+40
+40
+0
+----------------------
+&nbsp;
+&nbsp;
+S
+0700 - 0850
+- -
+01-AGO-16
+19-NOV-16
+GARCIA ESTEVEZ JAVIER HERNANDO
+&nbsp;
+&nbsp;
+----------------------
+22513
+CIDE5114
+1
+4
+ANALISIS Y EVALUACION POL PUBL
+40
+39
+1
+----------------------
+&nbsp;
+&nbsp;
+V
+1700 - 1950
+- -
+01-AGO-16
+19-NOV-16
+&nbsp;
+&nbsp;
+----------------------
+14637
+CIDE5115
+1
+2
+CURSO ELECTIVO 2
+10
+0
+10
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+SALAMANCA GUZMAN MILLY
+&nbsp;
+&nbsp;
+----------------------
+14641
+CIDE5116
+1
+3
+CURSO ELECTIVO 3
+10
+0
+10
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+SALAMANCA GUZMAN MILLY
+&nbsp;
+&nbsp;
+----------------------
+14638
+CIDE5117
+1
+2
+CURSO ELECTIVO 4
+10
+0
+10
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+SALAMANCA GUZMAN MILLY
+&nbsp;
+&nbsp;
+----------------------
+22515
+CIDE5317
+1
+2
+ESTADO, SOCIEDAD CIVIL Y DLLO
+30
+31
+-1
+----------------------
+&nbsp;
+&nbsp;
+S
+0700 - 0850
+- -
+01-AGO-16
+19-NOV-16
+ANDIA REY TATIANA SAMAY
+&nbsp;
+&nbsp;
+----------------------
+22516
+CIDE5318
+1
+2
+GESTION Y COGESTION RS
+35
+33
+2
+----------------------
+&nbsp;
+&nbsp;
+V
+1700 - 2050
+- -
+05-AGO-16
+05-AGO-16
+&nbsp;
+V
+1700 - 2050
+- -
+19-AGO-16
+19-AGO-16
+&nbsp;
+V
+1700 - 2050
+- -
+02-SEP-16
+02-SEP-16
+&nbsp;
+V
+1700 - 2050
+- -
+16-SEP-16
+16-SEP-16
+&nbsp;
+V
+1700 - 2050
+- -
+07-OCT-16
+07-OCT-16
+&nbsp;
+V
+1700 - 2050
+- -
+21-OCT-16
+21-OCT-16
+&nbsp;
+V
+1700 - 2050
+- -
+04-NOV-16
+04-NOV-16
+&nbsp;
+V
+1700 - 2050
+- -
+18-NOV-16
+18-NOV-16
+&nbsp;
+V
+1700 - 2050
+- -
+02-DIC-16
+02-DIC-16
+PARDO OSCAR
+&nbsp;
+&nbsp;
+----------------------
+22438
+CIDE5400
+1
+4
+TEORIAS DE DESARROLLO
+40
+21
+19
+----------------------
+&nbsp;
+&nbsp;
+J
+1300 - 1750
+- -
+04-AGO-16
+04-AGO-16
+&nbsp;
+J
+1300 - 1750
+- -
+01-SEP-16
+01-SEP-16
+&nbsp;
+J
+1300 - 1750
+- -
+06-OCT-16
+06-OCT-16
+&nbsp;
+J
+1300 - 1750
+- -
+03-NOV-16
+03-NOV-16
+&nbsp;
+J
+1300 - 1750
+- -
+01-DIC-16
+01-DIC-16
+SANTANDER ABRIL JAIRO ENRIQUE
+&nbsp;
+&nbsp;
+----------------------
+22436
+CIDE5406
+1
+2
+ADMINISTRACION DEL DESARROLLO
+30
+27
+3
+----------------------
+&nbsp;
+&nbsp;
+V
+1330 - 1720
+- -
+05-AGO-16
+05-AGO-16
+&nbsp;
+V
+1330 - 1720
+- -
+02-SEP-16
+02-SEP-16
+&nbsp;
+V
+1330 - 1720
+- -
+07-OCT-16
+07-OCT-16
+&nbsp;
+V
+1330 - 1720
+- -
+04-NOV-16
+04-NOV-16
+&nbsp;
+V
+1330 - 1720
+- -
+02-DIC-16
+02-DIC-16
+HERNANDEZ QUIÑONES ANDRES
+&nbsp;
+&nbsp;
+----------------------
+22437
+CIDE5411
+1
+4
+PLANIFICACION Y FINAN DLLO
+40
+34
+6
+----------------------
+&nbsp;
+&nbsp;
+J
+0630 - 1120
+- -
+04-AGO-16
+04-AGO-16
+&nbsp;
+J
+0630 - 1120
+- -
+01-SEP-16
+01-SEP-16
+&nbsp;
+J
+0630 - 1120
+- -
+06-OCT-16
+06-OCT-16
+&nbsp;
+J
+0630 - 1120
+- -
+03-NOV-16
+03-NOV-16
+&nbsp;
+J
+0630 - 1120
+- -
+01-DIC-16
+01-DIC-16
+VARGAS GONZALO
+&nbsp;
+&nbsp;
+----------------------

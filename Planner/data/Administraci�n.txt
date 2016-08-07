@@ -7,17 +7,17 @@ FUNDAM.ADMON Y GERENCIA (ADMI)
 116
 -16
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I    V
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DIAZ MATAJIRA LUIS
 OROZCO SILVA LUIS ENRIQUE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11411
 ADMI1102
@@ -28,16 +28,16 @@ FUNDAM.ADMON Y GERENCIA
 34
 31
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CASTILLO GUTIERREZ JUAN PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 12116
 ADMI1102
@@ -45,23 +45,23 @@ ADMI1102
 3
 FUNDAM.ADMON Y GERENCIA
 120
-110
-10
+108
+12
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DAVILA LADRON DE GUE CARLOS
 DIAZ RAMIREZ JULIA HELENA
 SCHNARCH GONZALEZ DAVID
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
-La Sección principal (Magistral) con CRN 12116, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
+La Secci��n principal (Magistral) con CRN 12116, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN:
 ----------------------
 23072
 ADMI1102
@@ -72,16 +72,16 @@ FUNDAM.ADMON Y GERENCIA
 57
 8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 PERALTA GUSTAVO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20624
 ADMI1102C
@@ -89,19 +89,19 @@ ADMI1102C
 0
 FUNDAM.ADMON Y GERENCIA COMPL
 40
-33
-7
+32
+8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SCHNARCH GONZALEZ DAVID
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20669
 ADMI1102C
@@ -109,19 +109,19 @@ ADMI1102C
 0
 FUNDAM.ADMON Y GERENCIA COMPL
 40
-40
-0
+39
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SCHNARCH GONZALEZ DAVID
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20673
 ADMI1102C
@@ -132,76 +132,76 @@ FUNDAM.ADMON Y GERENCIA COMPL
 36
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DIAZ RAMIREZ JULIA HELENA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 17184
 ADMI1190
 1
 3
-SERVICIOS ECOSISTÉMIC.(INGLES)
+SERVICIOS ECOSIST��MIC.(INGLES)
 50
-50
-0
+48
+2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 PARK JOO YOUNG
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20646
 ADMI1190
 2
 3
-SERVICIOS ECOSISTÉMICOS
+SERVICIOS ECOSIST��MICOS
 50
-50
-0
+49
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 LINK OSPINA ANDRES
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23025
 ADMI1190
 6
 3
-SERVICIOS ECOSISTÉMICOS
+SERVICIOS ECOSIST��MICOS
 60
 47
 13
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1700 - 1820
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 VALDERRAMA ROJAS DIEGO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10131
 ADMI1203
@@ -212,16 +212,16 @@ FINANZAS 1:PLANEACION
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 TRUJILLO REYES OSCAR FRANCISCO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20816
 ADMI1203
@@ -229,19 +229,19 @@ ADMI1203
 3
 FINANZAS 1: PLANEACION
 40
-37
-3
+35
+5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 FUENTES FRIAS DARIO ALEJANDRO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 12118
 ADMI1203
@@ -252,16 +252,16 @@ FINANZAS 1: PLANEACION
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 LOPEZ FAJARDO MARIANO ALBERTO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11123
 ADMI1203
@@ -272,16 +272,16 @@ FINANZAS 1: PLANEACION
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 LOPEZ FAJARDO MARIANO ALBERTO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 12174
 ADMI1401
@@ -292,16 +292,16 @@ TALLER HABILIDADES INFORMATICA
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RODRIGUEZ CORTES CARLOS ANDRES
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11017
 ADMI1401
@@ -309,19 +309,19 @@ ADMI1401
 1
 TALLER HABILIDADES INFORMATICA
 40
-40
-0
+38
+2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DIAZ VELASCO JOSE DARIO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11019
 ADMI1401
@@ -329,19 +329,19 @@ ADMI1401
 1
 TALLER HABILIDADES INFORMATICA
 40
-40
-0
+39
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DIAZ VELASCO JOSE DARIO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11021
 ADMI1401
@@ -352,16 +352,16 @@ TALLER HABILIDADES INFORMATICA
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CACERES PORRAS MARTHA CONSTANZA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11022
 ADMI1401
@@ -372,16 +372,16 @@ TALLER HABILIDADES INFORMATICA
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CACERES PORRAS MARTHA CONSTANZA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13124
 ADMI1401
@@ -389,19 +389,19 @@ ADMI1401
 1
 TALLER HABILIDADES INFORMATICA
 40
-40
-0
+39
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RODRIGUEZ CORTES CARLOS ANDRES
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13125
 ADMI1401
@@ -412,16 +412,16 @@ TALLER HABILIDADES INFORMATICA
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 URBINA FLOREZ ANDRES GUILLERMO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 17185
 ADMI1590
@@ -432,16 +432,16 @@ TALLER DE CREATIVIDAD
 30
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 LEON DIAZ INGRID MARCELA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20917
 ADMI1590
@@ -452,16 +452,16 @@ TALLER DE CREATIVIDAD
 29
 1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 0630 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 COLMENARES MISAS CARLOS FELIPE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23194
 ADMI1590
@@ -469,19 +469,19 @@ ADMI1590
 1
 TALLER DE CREATIVIDAD (INGLES)
 31
-31
-0
+30
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0800 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 KONOVALOV OLEG
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23195
 ADMI1590
@@ -492,16 +492,16 @@ TALLER DE CREATIVIDAD
 30
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1530 - 1820
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 FLECHAS BUSTOS ANGELICA MARIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11013
 ADMI1602
@@ -512,16 +512,16 @@ TALLER AUTOCONOCIMIENTO
 25
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 0630 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 URIBE ARBELAEZ SOFIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13920
 ADMI1602
@@ -529,19 +529,19 @@ ADMI1602
 2
 TALLER AUTOCONOCIMIENTO
 25
-23
-2
+25
+0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1000 - 1250
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ESCALLON SALAZAR ANDRES
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11014
 ADMI1602
@@ -552,16 +552,16 @@ TALLER AUTOCONOCIMIENTO
 25
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MUNOZ CIFUENTES JESUS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11015
 ADMI1602
@@ -572,16 +572,16 @@ TALLER AUTOCONOCIMIENTO
 24
 1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1400 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 BERNAL VARGAS LUZ STELLA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 17132
 ADMI1602
@@ -592,56 +592,56 @@ TALLER AUTOCONOCIMIENTO
 25
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0930 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 TRIANA QUIJANO ADRIANA FERNAN
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 18587
 ADMI1602
 7
 2
 TALLER AUTOCONOCIMIENTO
-25
-25
+26
+26
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 0930 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 URIBE ARBELAEZ SOFIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20817
 ADMI1602
 8
 2
 TALLER AUTOCONOCIMIENTO
-25
-25
+26
+26
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 0930 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 LEON DIAZ INGRID MARCELA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10133
 ADMI1603
@@ -652,16 +652,16 @@ COMPORT. ORGANIZACION.(INGLES)
 41
 -1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MEISTER ALYSON LEE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11131
 ADMI1603
@@ -672,16 +672,16 @@ COMPORT. ORGANIZACIONAL
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ROZO POSADA PAULA LILIANA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10134
 ADMI1603
@@ -692,16 +692,16 @@ COMPORT. ORGANIZACIO. (INGLES)
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MEISTER ALYSON LEE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23026
 ADMI1603
@@ -712,16 +712,16 @@ COMPORT. ORGANIZACIONAL
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CANAL MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23082
 ADMI1603
@@ -729,19 +729,19 @@ ADMI1603
 3
 COMPORT. ORGANIZACION.(INGLES)
 40
-40
-0
+39
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SCHORCH SEBASTIAN LEON
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 Curso Tipo E
 11547
@@ -753,16 +753,16 @@ HISTORIA DESARROLLO EMPRES.COL
 77
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DURAN AMOROCHO XAVIER HERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 Curso Tipo E
 21174
@@ -774,22 +774,22 @@ HISTORIA DESARROLLO EMPRES.COL
 59
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 L
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DURAN AMOROCHO XAVIER HERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 Curso Tipo E
 13121
@@ -798,19 +798,19 @@ ADMI2104B
 3
 HISTORIA DESARROLLO EMPRES.COL
 77
-53
-24
+64
+13
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 GARAVITO SUAREZ MARTHA ELIZABETH
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10637
 ADMI2106
@@ -818,19 +818,19 @@ ADMI2106
 3
 RESPONSABILIDAD SOCIAL INGLES
 50
-47
-3
+49
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RUEDA FAJARDO XIMENA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11216
 ADMI2106
@@ -841,16 +841,16 @@ RESPONSABILIDAD SOCIAL
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RUEDA FAJARDO XIMENA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10135
 ADMI2106
@@ -861,16 +861,16 @@ RESPONSABILIDAD SOCIAL
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 FRANCO BORRERO NATHALIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10427
 ADMI2107
@@ -881,17 +881,17 @@ GERENCIA DE RECURSOS HUMANOS
 19
 31
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 FERRUFINO ECHEVERRY CLAUDIA ANDREA
-GOMEZ ORDOÑEZ MARGARITA MARIA
-&nbsp;
-&nbsp;
+GOMEZ ORDO��EZ MARGARITA MARIA
+ 
+ 
 ----------------------
 10502
 ADMI2107
@@ -899,20 +899,20 @@ ADMI2107
 3
 GERENCIA DE RECURSOS HUMANOS
 50
-45
-5
+44
+6
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 AMAYA GONZALEZ RENATA
-BAQUERO FANDIÑO DIANA VICTORIA
-&nbsp;
-&nbsp;
+BAQUERO FANDI��O DIANA VICTORIA
+ 
+ 
 ----------------------
 13205
 ADMI2107
@@ -923,17 +923,17 @@ GERENCIA DE RECURSOS HUMANOS
 49
 1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ROZO POSADA PAULA LILIANA
 GATTAS BULTAIF LINA PATRICIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10137
 ADMI2204
@@ -941,25 +941,25 @@ ADMI2204
 3
 FINANZAS 2: INVERSION
 51
-32
-19
+43
+8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 M
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MORA VALENCIA ANDRES
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11425
 ADMI2204
@@ -970,16 +970,16 @@ FINANZAS 2: INVERSION
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CARDONA MAGNE EMILIO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 18596
 ADMI2204
@@ -990,16 +990,16 @@ FINANZAS 2: INVERSION
 60
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MALAGON PENEN JULIANA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10138
 ADMI2205
@@ -1010,22 +1010,22 @@ FINANZAS 3: ESTRATEGIA
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 M
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MALAGON PENEN JULIANA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11426
 ADMI2205
@@ -1033,25 +1033,25 @@ ADMI2205
 3
 FINANZAS 3:ESTRATEGIA
 50
-24
-26
+28
+22
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 L
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 TELLEZ FALLA DIEGO FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13923
 ADMI2205
@@ -1062,16 +1062,16 @@ FINANZAS 3: ESTRATEGIA
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 TELLEZ FALLA DIEGO FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20822
 ADMI2206
@@ -1079,19 +1079,19 @@ ADMI2206
 3
 COMPORTAM.CONSUMIDOR (INGLES)
 40
-11
-29
+12
+28
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ESTRADA MEJIA CATALINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14896
 ADMI2206
@@ -1102,16 +1102,16 @@ COMPORTAMIENTO DEL CONSUMIDOR
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ESTRADA MEJIA CATALINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13554
 ADMI2207
@@ -1122,36 +1122,36 @@ COLOMBIA Y SUS INSTIT.(ADMON)
 45
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 WILLS HERRERA EDUARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 12119
 ADMI2207
 3
 3
 COLOMBIA Y SUS INSTITUCIONES
-45
-45
+50
+50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CASTILLO VALLEJO ALEJANDRO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14899
 ADMI2207
@@ -1162,16 +1162,42 @@ COLOMBIA Y SUS INSTITUCIONES
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CASTILLO VALLEJO ALEJANDRO
-&nbsp;
-&nbsp;
+ 
+ 
+----------------------
+23649
+ADMI2207
+6
+3
+COLOMBIA Y SUS INSTITUCIONES
+45
+27
+18
+----------------------
+ 
+ 
+J
+0800 - 0920
+- -
+01/08/16
+19/11/16
+ 
+M
+0800 - 0920
+- -
+01/08/16
+19/11/16
+CASTANO MESA LINA MARIA
+ 
+ 
 ----------------------
 13604
 ADMI2301
@@ -1182,16 +1208,16 @@ FUNDAMENTOS MERCADEO
 49
 1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 GARCIA JIMENEZ ALFREDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10665
 ADMI2301
@@ -1202,16 +1228,16 @@ FUNDAMENTOS DE MERCADEO
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ESTRADA MEJIA CATALINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10139
 ADMI2301
@@ -1219,19 +1245,19 @@ ADMI2301
 3
 FUNDAMENTOS DE MERCADEO
 50
-50
-0
+49
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 PEREZ CIFUENTES GABRIEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13266
 ADMI2301
@@ -1242,16 +1268,16 @@ FUNDAMENTOS DE MERCADEO
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 LOMBANA ROA JUAN JOSE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13606
 ADMI2301
@@ -1259,19 +1285,19 @@ ADMI2301
 3
 FUNDAM.MERCADEO
 50
-50
-0
+49
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 1700 - 1820
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RUBIANO PABON FRANK GEORGE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 18597
 ADMI2301
@@ -1279,19 +1305,19 @@ ADMI2301
 3
 FUNDAMENTOS DE MERCADEO
 50
-50
-0
+49
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 OREJARENA SERRANO GERMAN ALFREDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10140
 ADMI2302
@@ -1302,16 +1328,16 @@ INVESTIGACION DE MERCADOS
 35
 15
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 BARRIOS FAJARDO ANDRES ALBERTO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10180
 ADMI2302
@@ -1319,19 +1345,19 @@ ADMI2302
 3
 INVESTIGACION DE MERCADOS
 50
-31
-19
+32
+18
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 PAREJA FIGUEREDO DIANA MARCELA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20900
 ADMI2302
@@ -1339,111 +1365,111 @@ ADMI2302
 3
 INVESTIGACION DE MERCADOS
 50
-49
-1
+50
+0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MARTINEZ FALLA FELIPE ANDRES
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11122
 ADMI2403
 1
 3
 OPERACIONES Y LOGISTICA
-54
-54
+55
+55
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SOTO JUAN PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13207
 ADMI2403
 2
 3
 OPERACIONES Y LOGISTICA
+55
 50
-49
-1
+5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 VELASCO NUBIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13556
 ADMI2403
 4
 3
 OPERACIONES Y LOGIST. (INGLES)
-50
-50
-0
+55
+54
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 M
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 THIELL MARCUS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20826
 ADMI2501
 2
 3
 ANALISIS ENTORNO COLOMBIANO
-40
-40
+58
+58
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 L
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RAMIREZ JORGE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20827
 ADMI2501
@@ -1454,16 +1480,16 @@ ANALISIS ENTORNO COLOMBIANO
 51
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ANDONOVA VENETA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23161
 ADMI2501
@@ -1474,37 +1500,16 @@ ANALISIS ENTORNO COLOMBIANO
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ANDONOVA VENETA
-&nbsp;
-&nbsp;
-----------------------
-21317
-ADMI2556
-1
-3
-HERRAMIENTAS TOMA DECI I
-40
-0
-40
-----------------------
-&nbsp;
-&nbsp;
-I
-0930 - 1220
-- -
-01-AGO-16
-19-NOV-16
-OROZCO LUZ ELENA
-TABORDA RIOS RODRIGO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20657
 ADMI2557
@@ -1512,19 +1517,19 @@ ADMI2557
 3
 HERRAMIENTAS TOMA DECI II
 40
-40
-0
+39
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 BRITTO RODRIGO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20856
 ADMI2557
@@ -1535,16 +1540,16 @@ HERRAMIENTAS TOMA DECI II
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 VELASCO NUBIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20858
 ADMI2557
@@ -1552,20 +1557,20 @@ ADMI2557
 3
 HERRAMIENTAS TOMA DECI II
 40
-14
-26
+22
+18
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 VELASCO NUBIA
 MONTOYA TORRES JAIRO RAFAEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20867
 ADMI2557
@@ -1573,59 +1578,59 @@ ADMI2557
 3
 HERRAMIENTAS TOMA DECI II
 40
-5
-35
+7
+33
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 OROZCO LUZ ELENA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14023
 ADMI2605
 1
 3
 ORGANIZACIONES
-45
-45
+50
+50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DAVILA LADRON DE GUEVARA CAMILO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14031
 ADMI2605
 2
 3
 ORGANIZACIONES
-45
-45
-0
+50
+47
+3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DAVILA LADRON DE GUEVARA CAMILO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14032
 ADMI2605
@@ -1636,16 +1641,16 @@ ORGANIZACIONES (INGLES)
 45
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 QUINTANE ERIC
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14085
 ADMI2605
@@ -1653,19 +1658,19 @@ ADMI2605
 3
 ORGANIZACIONES
 45
-45
-0
+44
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MILANES LAURA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 18601
 ADMI2605
@@ -1676,16 +1681,42 @@ ORGANIZACIONES
 45
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 1700 - 1820
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MILANES LAURA
-&nbsp;
-&nbsp;
+ 
+ 
+----------------------
+23646
+ADMI2605
+6
+3
+ORGANIZACIONES
+45
+38
+7
+----------------------
+ 
+ 
+J
+1230 - 1350
+- -
+01/08/16
+19/11/16
+ 
+L
+1230 - 1350
+- -
+01/08/16
+19/11/16
+MILANES LAURA
+ 
+ 
 ----------------------
 10142
 ADMI2801
@@ -1693,19 +1724,19 @@ ADMI2801
 3
 LA GESTION DE LO PUBLICO
 50
-25
-25
+26
+24
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 VELEZ LESMEZ MARIA ALEJANDRA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13011
 ADMI2801
@@ -1716,16 +1747,16 @@ LA GESTION DE LO PUBLICO
 53
 1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 TRUJILLO DIANA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13746
 ADMI2801
@@ -1733,19 +1764,19 @@ ADMI2801
 3
 LA GESTION DE LO PUBLICO
 52
-52
-0
+51
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 FORERO PINEDA CLEMENTE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 Curso Tipo E
 16942
@@ -1757,22 +1788,22 @@ CASOS Y PROYECTOS EN ADMON
 70
 -10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 V
 1400 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 GONZALEZ QUESADA ANABELL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 Curso Tipo E
 13287
@@ -1781,27 +1812,27 @@ ADMI3107
 3
 CASOS Y PROYECTOS EN ADMON
 60
-68
--8
+67
+-7
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 V
 1400 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 GONZALEZ QUESADA ANABELL
 ANGULO MEJIA MARIA YANETH
 PLATIN CANO JUAN CAMILO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13122
 ADMI3109
@@ -1812,16 +1843,16 @@ PLANES DE NEGOCIOS
 30
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 GUERRERO ALVARADO ANDRES JOSE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10837
 ADMI3110
@@ -1832,16 +1863,16 @@ EMPRENDI. INNOVACION.(INGLES)
 28
 2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 KONOVALOV OLEG
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 12462
 ADMI3110
@@ -1852,16 +1883,16 @@ EMPRENDIMIENTO E INNOVACION
 31
 -1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ESTRADA PRADA FELIPE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10859
 ADMI3110
@@ -1872,16 +1903,16 @@ EMPRENDIMIENTO E INNOVACION
 30
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 HERNANDEZ MORA JORGE ALBERTO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13560
 ADMI3110
@@ -1892,16 +1923,16 @@ EMPRENDIMIENTO E INNOVACION
 30
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 VESGA RAFAEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14951
 ADMI3110
@@ -1912,16 +1943,16 @@ EMPRENDIMIENTO E INNOVACION
 30
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 WAGEMBERG FELDMAN ALAN
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23164
 ADMI3110
@@ -1932,16 +1963,16 @@ EMPRENDIMIENTO E INNOVACION
 30
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MALDONADO VALDERRAMA EDUARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10144
 ADMI3122
@@ -1952,22 +1983,22 @@ JUEGO GERENCIAL
 35
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1700 - 1820
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 V
 0630 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 LOPEZ FAJARDO MARIANO ALBERTO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 18608
 ADMI3122
@@ -1978,22 +2009,22 @@ JUEGO GERENCIAL
 36
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1700 - 1820
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 M
 0630 - 0920
 - -
-01-AGO-16
-19-NOV-16
-YAÑEZ ARENAS JAVIER
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+YA��EZ ARENAS JAVIER
+ 
+ 
 ----------------------
 13557
 ADMI3122
@@ -2004,22 +2035,22 @@ JUEGO GERENCIAL
 36
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1700 - 1950
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 L
 1700 - 1820
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 FUENTES FRIAS DARIO ALEJANDRO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13924
 ADMI3122
@@ -2030,22 +2061,22 @@ JUEGO GERENCIAL
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1700 - 1950
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 L
 1700 - 1820
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 BRITTO RODRIGO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13228
 ADMI3133B
@@ -2053,19 +2084,19 @@ ADMI3133B
 3
 GERENCIA AMBIENTAL (INGLES)
 57
-51
-6
+48
+9
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 PARK JOO YOUNG
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 17186
 ADMI3135B
@@ -2076,16 +2107,16 @@ CINE MEDIO AMBIENTE Y SOCIEDAD
 37
 20
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RODRIGUEZ BECERRA MANUEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14504
 ADMI3137
@@ -2093,19 +2124,19 @@ ADMI3137
 3
 MODELOS DE LIDERAZGO
 50
-12
-38
+13
+37
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 0630 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 LEON DIAZ INGRID MARCELA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10808
 ADMI3200
@@ -2116,16 +2147,16 @@ OPCION DE GRADO-TG (ESTRATEGIA
 18
 2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 FERRO CORTES LUZ MARINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13761
 ADMI3200
@@ -2136,16 +2167,16 @@ OPCION DE GRADO-TG (MERCADEO)
 10
 10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 OSPINA SILVA JOSE MIGUEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13762
 ADMI3200
@@ -2156,42 +2187,22 @@ OPCION DE GRADO-TG (FINANZAS)
 6
 24
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 J
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ROSSO MURILLO JOHN WILLIAM
-&nbsp;
-&nbsp;
-----------------------
-13763
-ADMI3200
-4
-3
-OPCION DE GRADO-TG (GEST Y ORG
-30
-2
-28
-----------------------
-&nbsp;
-&nbsp;
-J
-0800 - 1050
-- -
-01-AGO-16
-19-NOV-16
-MILANES LAURA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10861
 ADMI3200
@@ -2202,15 +2213,15 @@ OPCION DE GRADO - ASIS. INVEST
 101
 -1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DIAZ MATAJIRA LUIS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11998
 ADMI3205
@@ -2221,16 +2232,16 @@ FINANZAS PERSONALES
 38
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RODRIGUEZ RAGA SANTIAGO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10145
 ADMI3207
@@ -2241,16 +2252,16 @@ MERCADO DE CAPITALES
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RODRIGUEZ RAGA SANTIAGO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21320
 ADMI3210
@@ -2261,36 +2272,36 @@ MERCADOS DERIVADOS
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ARCILA BARRERA CARLOS ALFREDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 19134
 ADMI3237
 1
 3
-MARKETING COMMUNICA. (ESPAÑOL)
+MARKETING COMMUNICA. (ESPA��OL)
 30
 19
 11
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 PEREZ CIFUENTES GABRIEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20678
 ADMI3238
@@ -2298,39 +2309,19 @@ ADMI3238
 3
 MERCADEO VERDE
 30
-9
-21
+8
+22
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1700 - 1820
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ARIAS PUENTES CLAUDIA PATRICIA
-&nbsp;
-&nbsp;
-----------------------
-21322
-ADMI3311
-1
-3
-MERCADEO INTERNACIONAL
-0
-0
-0
-----------------------
-&nbsp;
-&nbsp;
-L    I
-1700 - 1820
-- -
-01-AGO-16
-19-NOV-16
-FERRO CORTES LUZ MARINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14505
 ADMI3313
@@ -2341,16 +2332,16 @@ SALES AND DISTR MANAGEM (INGL)
 20
 25
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 GARCIA GARCIA ARMANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21323
 ADMI3327
@@ -2361,42 +2352,42 @@ OPCIONES REALES
 19
 21
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 BAUTISTA MENA RAFAEL DE JESUS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21324
 ADMI3336
 1
 3
-MARK. CULTU. AND ARTS(ESPAÑOL)
+MARK. CULTU. AND ARTS(ESPA��OL)
 50
 22
 28
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 M
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
-MUÑOZ VELA MONICA MARIA
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+MU��OZ VELA MONICA MARIA
+ 
+ 
 ----------------------
 10147
 ADMI3405
@@ -2404,19 +2395,19 @@ ADMI3405
 3
 SISTEM. INFORMACGER.(INGLES)
 45
-15
-30
+14
+31
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CAMACHO AHUMADA SONIA MARCELA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10148
 ADMI3405
@@ -2427,16 +2418,16 @@ SISTEMAS INFORMACION GERENCIAL
 33
 12
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CAMACHO AHUMADA SONIA MARCELA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 18615
 ADMI3405
@@ -2447,16 +2438,16 @@ SISTEMAS INFORMACION GERENCIAL
 17
 28
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RUIZ VALDIVIESO MAURICIO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23197
 ADMI3405
@@ -2467,22 +2458,22 @@ SISTEMAS INFORMACION GERENCIAL
 44
 1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 M
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DIAZ VELASCO JOSE DARIO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21325
 ADMI3406
@@ -2493,16 +2484,16 @@ INTEL.NEGOC.MERCAD.RELAC.(CRM)
 8
 32
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RUIZ VALDIVIESO MAURICIO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 17432
 ADMI3431
@@ -2513,16 +2504,16 @@ MARKETING DIGITAL
 30
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 VENEGAS SANCHEZ MARIA CAMILA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10149
 ADMI3502
@@ -2530,19 +2521,19 @@ ADMI3502
 3
 ESTRATEGIA
 60
-51
-9
+50
+10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
-YAÑEZ ARENAS JAVIER
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+YA��EZ ARENAS JAVIER
+ 
+ 
 ----------------------
 10407
 ADMI3502
@@ -2553,16 +2544,16 @@ ESTRATEGIA
 60
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MONTES JUAN CARLOS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 12463
 ADMI3502
@@ -2573,22 +2564,22 @@ ESTRATEGIA
 65
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 M
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 BARRIGA PALACIO JORGE RICARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23196
 ADMI3503
@@ -2599,36 +2590,36 @@ SERVICE MANAGEMENT
 13
 27
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 THIELL MARCUS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23483
 ADMI3504
 1
 3
-LOGÍSTICA DE DISTRIBUCIÓN
+LOG��STICA DE DISTRIBUCI��N
 50
 7
 43
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MONTOYA TORRES JAIRO RAFAEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10132
 ADMI3601
@@ -2636,39 +2627,19 @@ ADMI3601
 3
 TALL. HABILIDADES GERENC.
 40
-14
-26
+16
+24
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1700 - 1950
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 MUNOZ CIFUENTES JESUS
-&nbsp;
-&nbsp;
-----------------------
-18819
-ADMI3601
-2
-3
-TALL. HABILIDADES GERENC.
-40
-9
-31
-----------------------
-&nbsp;
-&nbsp;
-M
-1700 - 1950
-- -
-01-AGO-16
-19-NOV-16
-MUNOZ CIFUENTES JESUS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10898
 ADMI3604
@@ -2679,16 +2650,16 @@ TALLER DE INNOVACION
 11
 14
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0930 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 VESGA RAFAEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23091
 ADMI3604
@@ -2699,16 +2670,16 @@ TALLER  INNOVACION (FINANZAS)
 1
 24
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1400 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RODRIGUEZ RAGA SANTIAGO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 17433
 ADMI3606
@@ -2719,16 +2690,16 @@ ESTRATEGIAS DE NEGOCIACION
 40
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0800 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CANAL MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20681
 ADMI3610
@@ -2739,22 +2710,22 @@ THINK OR SINK
 6
 24
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 L
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 BAUTISTA MENA RAFAEL DE JESUS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23065
 ADMI3611
@@ -2765,16 +2736,16 @@ ALIMENTOS Y OPORTUN.EMPRENDED.
 20
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
-PEÑA FERNANDEZ CLAUDIO HUMBERTO
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+PE��A FERNANDEZ CLAUDIO HUMBERTO
+ 
+ 
 ----------------------
 11291
 ADMI3615
@@ -2785,36 +2756,36 @@ MERCADEO DEPORTIVO
 26
 24
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0630 - 0750
 - -
-01-AGO-16
-19-NOV-16
-LLORENTE CARREÑO ALVARO
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+LLORENTE CARRE��O ALVARO
+ 
+ 
 ----------------------
 11132
 ADMI3701
 1
 3
 NEGOCIOS INTERNACIONALES
-50
-44
-6
+53
+53
+0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
-NICOLAS REQUENA  XIMENA
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+NICOLAS REQUENA�� XIMENA
+ 
+ 
 ----------------------
 10150
 ADMI3701
@@ -2825,16 +2796,16 @@ NEGOCIOS INTERNACIONALES
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CARRILLO JUAN
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 12120
 ADMI3701
@@ -2845,16 +2816,16 @@ NEGOCIOS INTERNACIONALES
 50
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 BARRIGA PALACIO JORGE RICARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13702
 ADMI3990
@@ -2865,15 +2836,15 @@ INSCRIPCION A GRADO
 15
 185
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DIAZ MATAJIRA LUIS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10900
 ADMI3991
@@ -2884,13 +2855,13 @@ PRACTICA EMPRESARIAL
 57
 43
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DIAZ MATAJIRA LUIS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------

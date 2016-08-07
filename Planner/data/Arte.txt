@@ -1,3 +1,4 @@
+CRN
 21366
 ARTE1000
 1
@@ -7,16 +8,17 @@ INDUCCION TALLERES Y LAB.
 1
 59
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 S
 0800 - 1150
 - -
-01/08/16
-19/11/16
-&nbsp;
-&nbsp;
+01-AGO-16
+19-NOV-16
+ 
+ 
 ----------------------
+CRN
 21367
 ARTE1001
 1
@@ -26,75 +28,79 @@ INDUCCION EQUIPOS AUDIOVISUAL
 4
 56
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 S
 0800 - 1150
 - -
-01/08/16
-19/11/16
-&nbsp;
-&nbsp;
+01-AGO-16
+19-NOV-16
+ 
+ 
 ----------------------
+CRN
 21368
 ARTE1002
 1
 0
 INDUCCIÓN AUDIOVISUALES AVANZA
 60
-32
-28
+46
+14
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 S
 0800 - 1150
 - -
-01/08/16
-19/11/16
-&nbsp;
-&nbsp;
+01-AGO-16
+19-NOV-16
+ 
+ 
 ----------------------
+CRN
 13371
 ARTE1103
 1
 3
 CERAMICA TORNO
 15
-15
-0
+16
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 0800 - 1050
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GARCIA OLGA LUCIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13372
 ARTE1104
 1
 3
 CERAMICA 1
 15
-15
-0
+16
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0800 - 1050
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ACOSTA PAULA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13532
 ARTE1104
 2
@@ -104,37 +110,39 @@ CERAMICA 1
 14
 1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 1100 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GARCIA OLGA LUCIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13533
 ARTE1104
 3
 3
 CERAMICA 1
 15
-15
-0
+16
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 RONCANCIO OLMOS NUBIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13373
 ARTE1105
 1
@@ -144,37 +152,39 @@ FOTO BASICA 1
 3
 14
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0630 - 0920
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 POVEDA MOTA CLEMENCIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 18455
 ARTE1105
 2
 3
 FOTO BASICA 1
 17
-14
-3
+15
+2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ALONSO RICO JUAN CARLOS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 18459
 ARTE1105
 3
@@ -184,37 +194,39 @@ FOTO BASICA 1
 13
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 VILLALBA STEWART MARIA VICTORIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 18565
 ARTE1105
 4
 3
 FOTO BASICA 1
 17
-8
-9
+6
+11
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1230 - 1520
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GRAU ROMERA BEATRIZ
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 20379
 ARTE1105
 5
@@ -224,17 +236,18 @@ FOTO BASICA 1
 17
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0630 - 0920
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 SANTOS GUILLERMO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 15078
 ARTE1105
 6
@@ -244,17 +257,18 @@ FOTO BASICA 1
 11
 6
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1700 - 1950
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 VILLALBA STEWART MARIA VICTORIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13538
 ARTE1105
 7
@@ -264,17 +278,18 @@ FOTO BASICA 1
 2
 15
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1530 - 1820
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 VANEGAS TORRES JAVIER MAURICIO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22981
 ARTE1105
 8
@@ -284,83 +299,87 @@ FOTO BASICA 1
 9
 8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GRAU ROMERA BEATRIZ
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22982
 ARTE1105
 9
 3
 FOTO BASICA 1
 17
-5
-12
+4
+13
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L        V
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GEORGE JIMENO CAMILO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13374
 ARTE1115
 1
 3
 TALLER DE ILUMINACION
 14
-14
-0
+16
+-2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0930 - 1220
 - -
-01/08/16
-19/11/16
-&nbsp;
+01-AGO-16
+19-NOV-16
+ 
 L
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 SANTOS GUILLERMO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13375
 ARTE1116
 1
 3
 TALLER BASICO 1
 15
-15
-0
+16
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0630 - 0920
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 FRANCO GARCIA CAROLINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13540
 ARTE1116
 2
@@ -370,157 +389,190 @@ TALLER BASICO 1
 15
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 MEJIA PEREZ CATALINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13541
 ARTE1116
 3
 3
 TALLER BASICO 1
 15
-15
-0
+17
+-2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0630 - 0920
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GOMEZ SOTO CONSUELO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13542
 ARTE1116
 4
 3
 TALLER BASICO 1
 15
-15
-0
+18
+-3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GOMEZ SOTO CONSUELO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23588
 ARTE1116
 6
 3
 TALLER BASICO 1
 18
-13
-5
+14
+4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L        V
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 CABALLERO BUENO LUZ HELENA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13543
 ARTE1117
 1
 3
 TALLER BASICO 2
 15
-15
-0
+17
+-2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0630 - 0920
 - -
-01/08/16
-19/11/16
-&nbsp;
+01-AGO-16
+19-NOV-16
+ 
 I
 0630 - 0920
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ESPINOSA SALAZAR LINA MARIA
 HERRAN CARREÑO JUAN FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13544
 ARTE1117
 2
 3
 TALLER BASICO 2
 15
-15
-0
+19
+-4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0930 - 1220
 - -
-01/08/16
-19/11/16
-&nbsp;
+01-AGO-16
+19-NOV-16
+ 
 I
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ESPINOSA SALAZAR LINA MARIA
 HERRAN CARREÑO JUAN FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
+23621
+ARTE1117
+3
+3
+TALLER BASICO 2
+18
+18
+0
+----------------------
+ 
+ 
+V
+0630 - 0920
+- -
+01-AGO-16
+19-NOV-16
+ 
+I
+0630 - 0920
+- -
+01-AGO-16
+19-NOV-16
+ 
+ 
+----------------------
+CRN
 14826
 ARTE1118
 1
 3
 FOTO BÁSICA 2 :DIGITAL
 15
-15
-0
+18
+-3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0630 - 0920
 - -
-01/08/16
-19/11/16
-&nbsp;
+01-AGO-16
+19-NOV-16
+ 
 L
 0630 - 0920
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GEORGE JIMENO CAMILO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13377
 ARTE1119
 1
@@ -530,17 +582,18 @@ DIBUJO CIENTIFICO BASICO
 11
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 FRANCO GARCIA CAROLINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 17190
 ARTE1120B
 1
@@ -550,17 +603,18 @@ PINTURA DESDE 1950
 32
 21
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1400 - 1520
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 UHIA FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 19159
 ARTE1123
 1
@@ -570,37 +624,39 @@ HISTORIA DE LA ANIMACIÓN
 6
 19
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 KRAUS ELSIN LORENA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21369
 ARTE1124B
 1
 3
 FOTOGRAFÍA UNA IMAGEN PENSANTE
 39
-31
-8
+28
+11
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1700 - 1820
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 PETIT JULIEN FRANCOIS VINCENT
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21370
 ARTE1126
 1
@@ -610,17 +666,18 @@ ACABADOS CERÁMICOS
 12
 3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1100 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 RONCANCIO OLMOS NUBIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 18548
 ARTE1127
 1
@@ -630,258 +687,270 @@ TALLER DE MATERIALES Y PROCEDI
 4
 11
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GARCIA CERON MARIA CONSUELO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 10122
 ARTE1209B
 1
 3
 NUEVOS MEDIOS
 84
-84
-0
+85
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0800 - 0920
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GIL VROLIJK CARMEN
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13378
 ARTE1213
 1
 3
 TALLER DEL TIEMPO
 15
-15
-0
+18
+-3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1400 - 1650
 - -
-01/08/16
-19/11/16
-&nbsp;
+01-AGO-16
+19-NOV-16
+ 
 M
 1400 - 1650
 - -
-01/08/16
-19/11/16
-ARIAS VEGA LUIS RICARDO
+01-AGO-16
+19-NOV-16
 PRADILLA HERNANDEZ EDUARDO
-&nbsp;
-&nbsp;
+VASQUEZ ZARATE LEONEL RAMIRO
+ 
+ 
 ----------------------
+CRN
 13546
 ARTE1213
 2
 3
 TALLER DEL TIEMPO
 15
-15
-0
+18
+-3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1400 - 1650
 - -
-01/08/16
-19/11/16
-&nbsp;
+01-AGO-16
+19-NOV-16
+ 
 I
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ARIAS VEGA LUIS RICARDO
 PRADILLA HERNANDEZ EDUARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13547
 ARTE1213
 3
 3
 TALLER DEL TIEMPO
 15
-15
-0
+17
+-2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0630 - 0920
 - -
-01/08/16
-19/11/16
-&nbsp;
+01-AGO-16
+19-NOV-16
+ 
 L
 0630 - 0920
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 JAIMES NIÑO SYLVIA BEATRIZ
 VASQUEZ ZARATE LEONEL RAMIRO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13379
 ARTE1215
 1
 3
 TALLER EXPRESION EXPERIMENTAL
 15
-15
-0
+18
+-3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0630 - 0920
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 CALDERON GUEVARA ELKIN ALEXANDER
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13620
 ARTE1215
 2
 3
 TALLER EXPRESION EXPERIMENTAL
 15
-15
-0
+17
+-2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 DIAZ MOYANO MYRIAM LUISA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13960
 ARTE1215
 3
 3
 TALLER EXPRESION EXPERIMENTAL
 15
-15
-0
+18
+-3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 DIAZ MOYANO MYRIAM LUISA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 17459
 ARTE1218B
 1
 3
 MIRADA AL CINE COLOMBIANO
 45
-46
--1
+49
+-4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1700 - 1950
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ZULUAGA DUQUE PEDRO ADRIAN
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21371
 ARTE1221
 1
 3
 NARRATIVA AUDIOVISUAL
 15
-10
-5
+11
+4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 0800 - 1150
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 BERNAL MARTINEZ ADRIANA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 15369
 ARTE1222
 1
 3
 ARTE DIGITAL
 15
-11
-4
+12
+3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0800 - 1150
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 CALDERON GUEVARA ELKIN ALEXANDER
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21372
 ARTE1228
 1
 3
 PROD.SONIDO PARA AUDIOVISUALES
 15
-11
-4
+10
+5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1400 - 1750
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ROMAN ECHEVERRI CARLOS GUSTAVO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22524
 ARTE1229B
 1
@@ -891,101 +960,106 @@ ARTE,SONIDO Y MUSICA S.XX -XXI
 12
 27
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0800 - 0920
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ARIAS VEGA LUIS RICARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23280
 ARTE1405B
 1
 3
 EL ARTISTA Y LA CIUDAD
 59
-59
-0
+61
+-2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1230 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 IREGUI JAIME
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 Curso Tipo E
+CRN
 22526
 ARTE1406A
 1
 3
 ARTE Y EXPOSICIONES
 59
-59
-0
+61
+-2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 1230 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 CERON CASTILLA CAROLINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 15107
 ARTE1407
 1
 3
 ARTISTA OBRA ESPACIO
 55
-55
-0
+57
+-2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1050
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 OSPINA LUCAS
-IREGUI JAIME
 JIMENEZ VILLALTA MARIA MARGARITA
-&nbsp;
-&nbsp;
+IREGUI JAIME
+ 
+ 
 ----------------------
 Curso Tipo E
+CRN
 12324
 ARTE1408A
 1
 3
 ARTE Y CINE
 185
-185
-0
+193
+-8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 OSPINA LUCAS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21373
 ARTE1410A
 1
@@ -995,17 +1069,18 @@ PATRIMONIO CULTURAL
 30
 29
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 1400 - 1520
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 FERNANDEZ REGUERA MARIO OMAR
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23558
 ARTE1500
 1
@@ -1015,77 +1090,81 @@ TALLER DE  ARTES ESCENICAS
 20
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1000 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 SALAZAR APARICIO PEDRO ALEJANDRO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13380
 ARTE2100
 1
 3
 DIBUJO DEL CUERPO
 15
-15
-0
+17
+-2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 MEJIA DIAZ JUAN FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13551
 ARTE2101
 1
 3
 FUNDAMENTOS DE PINTURA
 15
-15
-0
+18
+-3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0800 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 UHIA FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13381
 ARTE2106
 1
 3
 DIBUJO DEL CUERPO-ARQUITECTURA
 15
-13
-2
+14
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
-0930 - 1250
+0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 CARDENAS NICOLAS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 14192
 ARTE2107
 1
@@ -1095,37 +1174,39 @@ DIBUJO CONSTRUC. ESPACIAL-ARQU
 9
 6
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 CARDENAS MEIRA MIGUEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13382
 ARTE2108
 1
 3
 FUNDAMENTOS DE DIBUJO
 15
-15
-0
+16
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 RICKENMANN IVAN
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13919
 ARTE2108
 2
@@ -1135,17 +1216,18 @@ FUNDAMENTOS DE DIBUJO
 11
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 VARGAS GIOVANNI
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13383
 ARTE2109
 1
@@ -1155,17 +1237,18 @@ FUNDAMENTOS DE ESCULTURA
 11
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 0800 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 CUELLAR MAYORAL ADRIANA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13384
 ARTE2110
 1
@@ -1175,17 +1258,18 @@ DIBUJO Y OBJETO
 12
 3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 COMBARIZA OSORIO MARTHA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13385
 ARTE2111
 1
@@ -1195,17 +1279,18 @@ PINTURA Y CUERPO
 14
 1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 0800 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ESPINOSA SALAZAR LINA MARIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13386
 ARTE2112
 1
@@ -1215,37 +1300,39 @@ PINTURA Y OBJETO
 15
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0800 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 PEÑA PARGA ESTEBAN
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13387
 ARTE2113
 1
 3
 PINTURA Y ESPACIO
 15
-12
-3
+13
+2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0800 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 RICKENMANN IVAN
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21374
 ARTE2115
 1
@@ -1255,17 +1342,18 @@ ESCULTURA Y ESPACIO PUBLICO
 15
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0800 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 LEHNER SANCLEMENTE VERONICA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13389
 ARTE2116
 1
@@ -1275,17 +1363,18 @@ GRABADO EN METAL
 12
 3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 RODA MARCOS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21376
 ARTE2118
 1
@@ -1295,37 +1384,39 @@ TALLER DE SERIGRAFÍA
 9
 6
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0800 - 1050
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 HERNANDEZ ENRIQUE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13392
 ARTE2119
 1
 3
 DIBUJO Y ESPACIO
 15
-12
-3
+13
+2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 CARDENAS NICOLAS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21377
 ARTE2123
 1
@@ -1335,17 +1426,18 @@ FOTO EXPERIMENTAL
 15
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 S
 0800 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 VANEGAS TORRES JAVIER MAURICIO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21378
 ARTE2124
 1
@@ -1355,37 +1447,39 @@ RETRATO FOTOGRAFIA
 17
 -2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1230 - 1520
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ALONSO RICO JUAN CARLOS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21379
 ARTE2126
 1
 3
 INTROD. PROCESOS IMPRESIÓN
 15
-15
-0
+16
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 RODRIGUEZ ROJAS CARMEN CECILIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 19967
 ARTE2129
 1
@@ -1395,17 +1489,18 @@ GRABADO EN RELIEVE
 10
 5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 RODRIGUEZ ROJAS CARMEN CECILIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13785
 ARTE2203
 1
@@ -1415,37 +1510,39 @@ VIDEO EXPERIMENTAL
 7
 8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 JIMENEZ VILLALTA MARIA MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13393
 ARTE2205
 1
 3
 COMPOSICION EN MOVIMIENTO
 15
-8
-7
+10
+5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0800 - 1050
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GARCIA GALAN ADRIANA DEL PILAR
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13394
 ARTE2206
 1
@@ -1455,17 +1552,18 @@ ARTE SCRIPTUM
 13
 2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1750
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 DIAZ MOYANO MYRIAM LUISA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 19162
 ARTE2207
 1
@@ -1475,17 +1573,18 @@ ARTE SONORO
 12
 3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ARIAS VEGA LUIS RICARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 19163
 ARTE2210
 1
@@ -1495,62 +1594,67 @@ INSTALACION AUDIOVISUAL
 11
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0930 - 1220
 - -
-01/08/16
-19/11/16
-&nbsp;
+01-AGO-16
+19-NOV-16
+ 
 M
 0930 - 1220
 - -
-01/08/16
-19/11/16
-&nbsp;
-&nbsp;
+01-AGO-16
+19-NOV-16
+RANDAZZO MORA GIOVANNI PAOLO
+VACA FORERO JORGE LUIS
+ 
+ 
 ----------------------
+CRN
 21380
 ARTE2417
 1
 3
 MERCADOS DE ARTE
 30
-30
-0
+31
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 1100 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 PIERI CHARLOTTE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21381
 ARTE2423
 1
 3
 EL ARTE Y EL VESTIDO
 18
-15
-3
+14
+4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 PELAEZ GONZALEZ ANA MARIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21382
 ARTE2439
 1
@@ -1560,37 +1664,39 @@ GESTIÓN CULTURAL
 22
 8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 CERON CASTILLA CAROLINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23156
 ARTE2446
 1
 3
 ACUARELA
 15
-15
-0
+18
+-3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 RODA MARCOS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23157
 ARTE2446
 2
@@ -1600,16 +1706,17 @@ ACUARELA
 15
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0930 - 1220
 - -
-01/08/16
-19/11/16
-&nbsp;
-&nbsp;
+01-AGO-16
+19-NOV-16
+ 
+ 
 ----------------------
+CRN
 21384
 ARTE2454
 1
@@ -1619,36 +1726,39 @@ CONSERVACIÓN PREVENTIVA DE ART
 17
 13
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1530 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 FERNANDEZ REGUERA MARIO OMAR
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23416
 ARTE2455
 1
 3
 ARTE Y DOCUMENTAL DE ENSAYO
 30
-13
-17
+12
+18
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1230 - 1350
 - -
-01/08/16
-19/11/16
-&nbsp;
-&nbsp;
+01-AGO-16
+19-NOV-16
+SCHLENKER MONSALVE JUANA
+ 
+ 
 ----------------------
+CRN
 23397
 ARTE2463
 1
@@ -1658,17 +1768,18 @@ INTRODUCCIÓN AL PATRIMONIO
 14
 16
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 1230 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 COHEN DAZA DAVID
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13397
 ARTE3100
 1
@@ -1678,17 +1789,18 @@ DIBUJO EXPERIMENTAL
 8
 7
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 MEJIA DIAZ JUAN FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 19164
 ARTE3108
 1
@@ -1698,17 +1810,18 @@ INSTALACION
 7
 8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0800 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 HERRAN CARREÑO JUAN FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21385
 ARTE3113
 1
@@ -1718,17 +1831,18 @@ LIBRO ARTE
 14
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 FRANCO GARCIA CAROLINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13399
 ARTE3114
 1
@@ -1738,38 +1852,40 @@ PINTURA EXPERIMENTAL
 11
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 MEJIA PEREZ CATALINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13400
 ARTE3115
 1
 3
 TALLER AVANZADO ARTES PLASTIC
 15
-15
-0
+23
+-8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0800 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 OBREGON MARTINEZ DE IRUJO BELTRAN PEDRO
 MARTINEZ RODRIGUEZ LESTER FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21386
 ARTE3203
 18
@@ -1779,37 +1895,39 @@ NARRATIVA NO LINEAL
 13
 2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1750
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GIL VROLIJK CARMEN
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13401
 ARTE3205
 1
 3
 ANIMACION
 15
-15
-0
+18
+-3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1400 - 1750
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 CAICEDO DEROUX SANTIAGO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21387
 ARTE3213
 1
@@ -1819,17 +1937,18 @@ SONIDO Y ACCIONES
 9
 6
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1100 - 1350
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GARCIA GALAN ADRIANA DEL PILAR
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23352
 ARTE3216
 1
@@ -1839,56 +1958,60 @@ REDES Y CONTEXTOS
 15
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 KRAUS ELSIN LORENA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21388
 ARTE3218
 1
 3
 INTERACTIVIDAD Y OBJ. AUTONOMO
 15
-15
-0
+16
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1400 - 1750
 - -
-01/08/16
-19/11/16
-&nbsp;
-&nbsp;
+01-AGO-16
+19-NOV-16
+MARTINEZ PEÑALOZA GERMAN CAMILO
+ 
+ 
 ----------------------
+CRN
 21389
 ARTE3220
 1
 3
 OBRA EN PROCESO
 15
-15
-0
+17
+-2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1400 - 1750
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 PRADILLA HERNANDEZ EDUARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23277
 ARTE3403
 1
@@ -1898,17 +2021,18 @@ TALLER DE PROYECTOS
 12
 3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1230 - 1620
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 JIMENEZ VILLALTA MARIA MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 21390
 ARTE3420
 1
@@ -1918,17 +2042,18 @@ BIENALES Y SALONES
 5
 25
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1700 - 1820
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 IREGUI JAIME
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23425
 ARTE3426
 1
@@ -1938,17 +2063,18 @@ ARTE Y CARCELES 3
 17
 3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 OSPINA LUCAS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16653
 ARTE3602
 1
@@ -1958,18 +2084,19 @@ ANTEPROYECTO NUEVO
 2
 -2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 0630 - 0920
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GOMEZ SOTO CONSUELO
 UHIA FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16646
 ARTE3602
 2
@@ -1979,18 +2106,19 @@ ANTEPROYECTO NUEVO
 3
 -3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 OSPINA LUCAS
 DIAZ BEJARANO BEATRIZ EUGENIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16647
 ARTE3602
 3
@@ -2000,17 +2128,18 @@ ANTEPROYECTO NUEVO
 2
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ESPINOSA SALAZAR LINA MARIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16648
 ARTE3602
 4
@@ -2020,17 +2149,18 @@ ANTEPROYECTO NUEVO
 2
 -1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ARIAS VEGA LUIS RICARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16649
 ARTE3602
 5
@@ -2040,18 +2170,19 @@ ANTEPROYECTO NUEVO
 4
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 DIAZ MOYANO MYRIAM LUISA
 VARGAS GIOVANNI
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16650
 ARTE3602
 6
@@ -2061,17 +2192,18 @@ ANTEPROYECTO NUEVO
 2
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 PRADILLA HERNANDEZ EDUARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16655
 ARTE3602
 7
@@ -2081,37 +2213,39 @@ ANTEPROYECTO NUEVO
 1
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 MEJIA DIAZ JUAN FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16656
 ARTE3602
 8
 3
 ANTEPROYECTO NUEVO
 1
-3
--2
+4
+-3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 0800 - 0950
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 JIMENEZ VILLALTA MARIA MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16658
 ARTE3602
 9
@@ -2121,18 +2255,19 @@ ANTEPROYECTO NUEVO
 1
 -1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GIL VROLIJK CARMEN
 FACUNDO RINCON RODRIGO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16660
 ARTE3602
 10
@@ -2142,17 +2277,18 @@ ANTEPROYECTO NUEVO
 1
 1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 FRANCO GARCIA CAROLINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16661
 ARTE3602
 11
@@ -2162,17 +2298,18 @@ ANTEPROYECTO NUEVO
 2
 -2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 HERRAN CARREÑO JUAN FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13928
 ARTE3603
 1
@@ -2182,18 +2319,19 @@ PROYECTO NUEVO PENSUM
 6
 -2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 0630 - 0920
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GOMEZ SOTO CONSUELO
 UHIA FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12845
 ARTE3603
 2
@@ -2203,18 +2341,19 @@ PROYECTO NUEVO PENSUM
 4
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 OSPINA LUCAS
 DIAZ BEJARANO BEATRIZ EUGENIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12846
 ARTE3603
 3
@@ -2224,17 +2363,18 @@ PROYECTO NUEVO PENSUM
 1
 1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ESPINOSA SALAZAR LINA MARIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12847
 ARTE3603
 4
@@ -2244,17 +2384,18 @@ PROYECTO NUEVO PENSUM
 4
 -1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 ARIAS VEGA LUIS RICARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12848
 ARTE3603
 5
@@ -2264,18 +2405,19 @@ PROYECTO NUEVO PENSUM
 4
 -2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 DIAZ MOYANO MYRIAM LUISA
 VARGAS GIOVANNI
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12849
 ARTE3603
 6
@@ -2285,17 +2427,18 @@ PROYECTO NUEVO PENSUM
 2
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 PRADILLA HERNANDEZ EDUARDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12850
 ARTE3603
 7
@@ -2305,17 +2448,18 @@ PROYECTO NUEVO PENSUM
 3
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 MEJIA DIAZ JUAN FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12851
 ARTE3603
 8
@@ -2325,17 +2469,18 @@ PROYECTO NUEVO PENSUM
 2
 3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 0800 - 0950
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 JIMENEZ VILLALTA MARIA MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12852
 ARTE3603
 9
@@ -2345,18 +2490,19 @@ PROYECTO NUEVO PENSUM
 0
 1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 GIL VROLIJK CARMEN
 FACUNDO RINCON RODRIGO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12853
 ARTE3603
 10
@@ -2366,17 +2512,18 @@ PROYECTO NUEVO PENSUM
 1
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 0930 - 1220
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 FRANCO GARCIA CAROLINA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13019
 ARTE3603
 11
@@ -2386,17 +2533,18 @@ PROYECTO NUEVO PENSUM
 1
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1400 - 1650
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 HERRAN CARREÑO JUAN FERNANDO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 23601
 ARTE3603
 12
@@ -2406,17 +2554,18 @@ PROYECTO NUEVO PENSUM
 1
 1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0800 - 1050
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 FERNANDEZ REGUERA MARIO OMAR
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 12001
 ARTE3990
 1
@@ -2426,10 +2575,11 @@ INSCRIPCION A GRADO
 2
 997
 ----------------------
-&nbsp;
-&nbsp;
-&nbsp;
+ 
+ 
+ 
 ----------------------
+CRN
 12858
 ARTE3992
 1
@@ -2439,16 +2589,17 @@ PRACTICA PROFESIONAL - 3
 4
 -4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01/08/16
-19/11/16
+01-AGO-16
+19-NOV-16
 OSPINA LUCAS
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 13402
 ARTE3994
 1
@@ -2458,16 +2609,17 @@ PRACTICA ACADEMICA OBLIGATORIA
 3
 996
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01/08/16
-19/11/16
-OSPINA LUCAS
-&nbsp;
-&nbsp;
+01-AGO-16
+19-NOV-16
+IREGUI JAIME
+ 
+ 
 ----------------------
+CRN
 12002
 ARTE3995
 1
@@ -2477,16 +2629,17 @@ PRACTICA DE GRADO PROYECTOS
 1
 3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01/08/16
-19/11/16
-OSPINA LUCAS
-&nbsp;
-&nbsp;
+01-AGO-16
+19-NOV-16
+IREGUI JAIME
+ 
+ 
 ----------------------
+CRN
 13448
 ARTE3996
 1
@@ -2496,13 +2649,13 @@ PRÁCTICA EN PROYECTOS
 4
 995
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01/08/16
-19/11/16
-OSPINA LUCAS
-&nbsp;
-&nbsp;
+01-AGO-16
+19-NOV-16
+IREGUI JAIME
+ 
+ 
 ----------------------

@@ -7,16 +7,16 @@ FUNDAMENTOS DE ANTROPOLOGIA
 56
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CASTILLEJO ALEJANDRO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11544
 ANTR1104
@@ -27,16 +27,16 @@ METODOS CUALITATIVOS DE INVEST
 48
 -3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1400 - 1650
 - -
-01-AGO-16
-19-NOV-16
-FERRO UMAÑA MARIA DEL ROSARIO
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+FERRO UMA��A MARIA DEL ROSARIO
+ 
+ 
 ----------------------
 11519
 ANTR1104
@@ -47,16 +47,16 @@ METODOS CUALITATIVOS DE INVEST
 47
 -2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1400 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 OLARTE SIERRA MARIA FERNANDA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20115
 ANTR1105A
@@ -64,19 +64,19 @@ ANTR1105A
 3
 LA CONDICION HUMANA
 77
-79
--2
+82
+-5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ESPINOSA ARANGO MONICA LUCIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 17435
 ANTR1106B
@@ -87,16 +87,16 @@ PENSAMIENTO INDIGENA
 48
 9
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 AGUIRRE LICHT DANIEL GUILLERM
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20295
 ANTR1114A
@@ -104,25 +104,25 @@ ANTR1114A
 3
 VIOLENCIA Y CIVILIZACION
 74
-76
--2
+75
+-1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 L
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CASTILLEJO ALEJANDRO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10901
 ANTR1118A
@@ -130,25 +130,25 @@ ANTR1118A
 3
 NATURALEZA Y CULTURA
 77
-14
-63
+16
+61
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 M
 1400 - 1520
 - -
-01-AGO-16
-19-NOV-16
-ARCHILA MONTAÑEZ SONIA
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+ARCHILA MONTA��EZ SONIA
+ 
+ 
 ----------------------
 21328
 ANTR1128A
@@ -156,19 +156,19 @@ ANTR1128A
 3
 THE CITY:HIST.ECON.POL.SOC.CUL
 57
-29
-28
+30
+27
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L        V
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 FLEISCHER FRIEDERIKE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 Curso Tipo E
 20855
@@ -180,16 +180,16 @@ SISTEMAS DE SALUD Y CULTURA
 23
 24
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SUAREZ MONTANEZ ROBERTO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 Curso Tipo E
 16890
@@ -201,16 +201,16 @@ TRES MOMENTOS HISTORICOS
 28
 19
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 FORERO ANGEL ANA MARIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21329
 ANTR1133A
@@ -218,25 +218,25 @@ ANTR1133A
 3
 CUERPO MODERNO: HRIA Y CULTUR
 77
-73
-4
+74
+3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 L
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 PEDRAZA GOMEZ ZANDRA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21330
 ANTR1134B
@@ -247,16 +247,16 @@ DIVERSIDAD HUMANA
 23
 34
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
-FERRO UMAÑA MARIA DEL ROSARIO
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+FERRO UMA��A MARIA DEL ROSARIO
+ 
+ 
 ----------------------
 21331
 ANTR1135A
@@ -264,19 +264,19 @@ ANTR1135A
 3
 CAPITALISMO: HRIA Y CULTURA
 85
-51
-34
+53
+32
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10266
 ANTR1201
@@ -284,19 +284,19 @@ ANTR1201
 3
 FUNDAMENTOS DE ARQUEOLOGIA
 60
-57
-3
+58
+2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 GAITAN AMMANN FELIPE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20296
 ANTR1202B
@@ -304,19 +304,19 @@ ANTR1202B
 3
 AZTECAS, MAYAS E INCAS
 57
-50
-7
+53
+4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO LUIS GONZALO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13368
 ANTR1203A
@@ -324,45 +324,45 @@ ANTR1203A
 3
 DE EVOLUCION CULTURA HUMANA
 77
-55
-22
+56
+21
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RAMOS ELIZABETH
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20854
 ANTR1401
 1
 3
-ANTROPOLOGÍA BIOLÓGICA
+ANTROPOLOG��A BIOL��GICA
 45
 36
 9
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 M
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RAMOS ELIZABETH
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11520
 ANTR2102
@@ -373,16 +373,16 @@ INSTRUMENTOS DE INVESTIGACION
 38
 7
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 1400 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ANDRADE ANDRADE SERGIO JAVIER
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21332
 ANTR2104
@@ -393,16 +393,16 @@ PROBLEMAS ANTROPOLOGICOS DEL D
 58
 2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L      J
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CAICEDO FERNANDEZ ALHENA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21333
 ANTR2105
@@ -413,16 +413,16 @@ ORGANIZACION SOCIAL
 68
 9
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L    I
 1230 - 1350
 - -
-01-AGO-16
-19-NOV-16
-NIÑO VARGAS JUAN CAMILO
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+NI��O VARGAS JUAN CAMILO
+ 
+ 
 ----------------------
 23120
 ANTR2115
@@ -433,16 +433,16 @@ ANTROPOLOGIA Y ECONOMIA
 8
 52
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L        V
 1100 - 1220
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 FLEISCHER FRIEDERIKE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21334
 ANTR2202
@@ -450,39 +450,39 @@ ANTR2202
 3
 ARQUEOLOGIA DE COLOMBIA
 60
-54
-6
+55
+5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO LUIS GONZALO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 17442
 ANTR2301
 1
 3
-METODO DE ANALISIS LINGÜISTICO
+METODO DE ANALISIS LING��ISTICO
 50
 34
 16
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M      V
 0930 - 1050
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 AGUIRRE LICHT DANIEL GUILLERM
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23503
 ANTR3003
@@ -490,17 +490,17 @@ ANTR3003
 0
 SEMILLERO ANTROP.CONTEMPORANEA
 15
-7
-8
+10
+5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+ 
+ 
 ----------------------
 21135
 ANTR3006
@@ -508,18 +508,18 @@ ANTR3006
 0
 SEMILLERO DE ETNOLINGUISTICA
 15
-10
-5
+12
+3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 AGUIRRE LICHT DANIEL GUILLERM
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21335
 ANTR3007
@@ -530,34 +530,34 @@ SEMILL.PATRIMONIO CULTUR.OPCA
 1
 9
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO LUIS GONZALO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21336
 ANTR3008
 1
 0
-SEMILLERO ANTROPOLOGÍA FORENSE
+SEMILLERO ANTROPOLOG��A FORENSE
 15
 9
 6
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23428
 ANTR3009
@@ -565,17 +565,17 @@ ANTR3009
 0
 SEMILLERO EN INVESTIGAC.SOCIAL
 15
-5
-10
+6
+9
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+ 
+ 
 ----------------------
 23561
 ANTR3010
@@ -586,14 +586,14 @@ SEMILLERO VIDA CAMPESINA
 0
 10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+ 
+ 
 ----------------------
 21337
 ANTR3101
@@ -601,25 +601,25 @@ ANTR3101
 3
 ESCUELAS ANTROPOLOGICAS 2
 80
-63
-17
+65
+15
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
+01/08/16
+19/11/16
+ 
 L
 0800 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21338
 ANTR3169
@@ -627,19 +627,19 @@ ANTR3169
 3
 SEM. RESCATE RESTOS DEL PASADO
 25
-6
-19
+9
+16
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I    V
 1700 - 1820
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 PEREZ SEPULVEDA LUZ ADRIANA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14177
 ANTR3177
@@ -650,15 +650,15 @@ SEM. ELECTIVO HOMOLOGADO 1
 0
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14178
 ANTR3178
@@ -669,15 +669,15 @@ SEM. ELECTIVO HOMOLOGADO 2
 0
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14179
 ANTR3179
@@ -688,15 +688,15 @@ SEM. ELECTIVO HOMOLOGADO 3
 0
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 17445
 ANTR3180
@@ -707,15 +707,15 @@ ELECTIVA  EN ANTROPOLOGIA
 0
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14936
 ANTR3183
@@ -723,18 +723,18 @@ ANTR3183
 3
 TRABAJO DIRIG  ANTR BIOLOGICA
 10
-7
-3
+6
+4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RAMOS ELIZABETH
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21339
 ANTR3184
@@ -745,15 +745,15 @@ TRABAJO DIRIG EN ARQUEOLOGIA
 0
 5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO LUIS GONZALO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10673
 ANTR3185
@@ -764,15 +764,15 @@ TRABAJO DIRIG EN ANTR.SOCIAL
 2
 8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21340
 ANTR3186
@@ -783,34 +783,15 @@ TRABAJO DIRIG EN ENTOLINGUISTI
 1
 9
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 AGUIRRE LICHT DANIEL GUILLERM
-&nbsp;
-&nbsp;
-----------------------
-21341
-ANTR3187
-1
-3
-TRABAJO DIRIG EN ANTR VISUAL
-10
-4
-6
-----------------------
-&nbsp;
-&nbsp;
--
-- -
-01-AGO-16
-19-NOV-16
-ANDRADE ANDRADE SERGIO JAVIER
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11999
 ANTR3188
@@ -818,18 +799,18 @@ ANTR3188
 3
 TRABAJ DIRIG EN ZOOARQUEOLOGIA
 5
-2
 3
+2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 RAMOS ELIZABETH
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 19145
 ANTR3189
@@ -840,15 +821,15 @@ TRABAJO DIRIG. ARQUEOBOTANICA
 0
 5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
-ARCHILA MONTAÑEZ SONIA
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+ARCHILA MONTA��EZ SONIA
+ 
+ 
 ----------------------
 17446
 ANTR3190
@@ -859,15 +840,15 @@ TRABAJO DE OPCION EN ANTROPOLO
 2
 3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11522
 ANTR3191
@@ -875,40 +856,40 @@ ANTR3191
 3
 METODOLOGIA DE PRACTICA
 25
-20
-5
+21
+4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1700 - 1950
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 DURAN BERNAL CARLOS ANDRES
-ESTUPIÑAN BEJARANO JUAN PABLO
-&nbsp;
-&nbsp;
+ESTUPI��AN BEJARANO JUAN PABLO
+ 
+ 
 ----------------------
 11523
 ANTR3193
 1
 3
-DISEÑO DE MONOGRAFIA
+DISE��O DE MONOGRAFIA
 10
-6
-4
+7
+3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1530 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SALGE FERRO MANUEL
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10103
 ANTR3194
@@ -919,15 +900,15 @@ MONOGRAFIA DE GRADO
 6
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10104
 ANTR3195
@@ -938,35 +919,35 @@ INVESTIGACION DIRIGIDA GRADO
 0
 10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21342
 ANTR3302
 1
 3
-SEM. SOCIOLINGÜISTICA
+SEM. SOCIOLING��ISTICA
 30
 6
 24
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M    J
 1700 - 1820
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 AGUIRRE LICHT DANIEL GUILLERM
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21344
 ANTR3468
@@ -977,16 +958,16 @@ SEM. CAMPESINOS Y RURALIDAD
 30
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1400 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 CAICEDO FERNANDEZ ALHENA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20122
 ANTR3600
@@ -997,15 +978,15 @@ OPCION GRADO MATERIAS MAESTRIA
 0
 5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 19146
 ANTR3990
@@ -1013,18 +994,18 @@ ANTR3990
 0
 INSCRIPCION A GRADO
 20
-1
-19
+0
+20
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11467
 ANTR3992
@@ -1035,15 +1016,15 @@ PRACTICA PROFESIONAL
 1
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11524
 ANTR3993
@@ -1051,18 +1032,18 @@ ANTR3993
 6
 PRACTICA DE GRADO
 25
-16
-9
+17
+8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 SERJE MARGARITA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14180
 ANTR4102
@@ -1070,39 +1051,39 @@ ANTR4102
 4
 SEM.REPRESENTACION CONOC.ETNOG
 25
-14
-11
+15
+10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0630 - 0920
 - -
-01-AGO-16
-19-NOV-16
-FERRO UMAÑA MARIA DEL ROSARIO
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+FERRO UMA��A MARIA DEL ROSARIO
+ 
+ 
 ----------------------
 14181
 ANTR4105
 1
 4
-GEOPOLÍTICAS DE LA INVESTIGACI
+GEOPOL��TICAS DE LA INVESTIGACI
 25
 4
 21
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 1700 - 1950
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 FORERO ANGEL ANA MARIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 15354
 ANTR4111
@@ -1110,39 +1091,39 @@ ANTR4111
 4
 TRADICIONES TEORICAS ANTROPOLO
 25
-9
-16
+10
+15
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 0630 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ESPINOSA ARANGO MONICA LUCIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21345
 ANTR4113
 1
 4
-PROBLEM.ANTROPOLÓ. CONTEMPO. 2
+PROBLEM.ANTROPOL��. CONTEMPO. 2
 25
-13
-12
+16
+9
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 V
 0630 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 URIBE TOBON CARLOS ALBERTO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11162
 ANTR4135
@@ -1150,39 +1131,39 @@ ANTR4135
 4
 METODOS INVEST. CIEN SOCIALES
 25
-15
-10
+16
+9
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1700 - 1950
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 OLARTE SIERRA MARIA FERNANDA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11292
 ANTR4136
 1
 4
-SEM.DISEÑO INVEST. MAESTRIA
+SEM.DISE��O INVEST. MAESTRIA
 20
 1
 19
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L
 1700 - 1950
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 FLEISCHER FRIEDERIKE
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 11163
 ANTR4137
@@ -1193,15 +1174,15 @@ LECTURAS DIRIGIDAS 1
 3
 7
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 17449
 ANTR4138
@@ -1209,18 +1190,18 @@ ANTR4138
 4
 LECTURAS DIRIGIDAS 2
 15
-3
-12
+4
+11
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21346
 ANTR4149
@@ -1228,18 +1209,18 @@ ANTR4149
 4
 SEM.ANTROPOL. DE LA NATURALEZA
 25
-4
-21
+6
+19
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 I
 0630 - 0920
 - -
-01-AGO-16
-19-NOV-16
-&nbsp;
-&nbsp;
+01/08/16
+19/11/16
+ 
+ 
 ----------------------
 21350
 ANTR4202
@@ -1250,16 +1231,16 @@ SEM.ARQUEOL.COMPARAD INTERMED
 5
 5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1700 - 1950
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO LUIS GONZALO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 21351
 ANTR4203
@@ -1270,16 +1251,16 @@ SEM. ESCALAS ANALISIS
 3
 7
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 0630 - 0920
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO LUIS GONZALO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10675
 ANTR4224
@@ -1290,15 +1271,15 @@ TRABAJO CAMPO
 3
 7
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 10268
 ANTR4225
@@ -1309,15 +1290,15 @@ TRABAJO DE GRADO
 4
 6
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23260
 ANTR4409
@@ -1328,16 +1309,16 @@ SEM ANTROPOLO Y ARTE CONTEMPOR
 17
 8
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1700 - 1950
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 ANDRADE ANDRADE SERGIO JAVIER
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23267
 ANTR4974
@@ -1348,15 +1329,15 @@ SEM. ELECTIVO H0MOLOGADO POS 1
 0
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23268
 ANTR4975
@@ -1367,15 +1348,15 @@ SEM. ELECTIVO HOMOLOGADO POS 2
 0
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23269
 ANTR4976
@@ -1386,15 +1367,15 @@ SEM. ELECTIVO HOMOLOGADO POS 3
 0
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 23271
 ANTR4977
@@ -1405,15 +1386,15 @@ SEM. ELECTIVO HOMOLOGADO POS 4
 0
 0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14000
 ANTR4990
@@ -1424,110 +1405,110 @@ INSCRIPCION A GRADO
 0
 15
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 17452
 ANTR6062
 1
 4
-SEM. DISEÑO INVESTIGA DOCTORAL
+SEM. DISE��O INVESTIGA DOCTORAL
 5
 1
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14019
 ANTR6063
 1
 7
-INVESTIGACIÓN DIRIGIDA 1
+INVESTIGACI��N DIRIGIDA 1
 5
-0
-5
+1
+4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14005
 ANTR6064
 1
 7
-INVESTIGACIÓN DIRIGIDA 2
+INVESTIGACI��N DIRIGIDA 2
 5
 3
 2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13586
 ANTR6065
 1
 6
-PASANTÍA DOCTORAL
+PASANT��A DOCTORAL
 5
-3
-2
+4
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13587
 ANTR6066
 1
 6
-ASISTENCIA ACADÉMICA DOCTORAL
+ASISTENCIA ACAD��MICA DOCTORAL
 5
 3
 2
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13588
 ANTR6961
@@ -1538,15 +1519,15 @@ PROYECTO DIRIGIDO I
 1
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 20128
 ANTR6962
@@ -1557,15 +1538,15 @@ PROYECTO DIRIGIDO II
 0
 5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 19150
 ANTR6963
@@ -1576,15 +1557,15 @@ PROYECTO DIRIGIDO III
 0
 5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13591
 ANTR6970
@@ -1595,15 +1576,15 @@ EXAMEN CONOCIMIENT.DOCTORALES
 2
 3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 19151
 ANTR6971
@@ -1614,15 +1595,15 @@ PROYECTO DE TESIS DOCTORAL
 2
 3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13592
 ANTR6980
@@ -1633,15 +1614,15 @@ SEMINARIO DOCTORAL 1
 1
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13593
 ANTR6981
@@ -1652,34 +1633,34 @@ SEMINARIO DOCTORAL 2
 2
 3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 13594
 ANTR6982
 1
 8
-SEMINARIO DOCTORAL DISERTACIÓN
+SEMINARIO DOCTORAL DISERTACI��N
 5
 1
 4
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 15180
 ANTR6983
@@ -1687,18 +1668,18 @@ ANTR6983
 3
 DESARROLLO TESIS DOCTORAL
 15
-11
-4
+12
+3
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 14939
 ANTR6990
@@ -1706,18 +1687,18 @@ ANTR6990
 0
 SUSTENTACION DE TESIS DOCTORAL
 5
-4
-1
+5
+0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 18537
 ANTR6991
@@ -1728,16 +1709,16 @@ COLOQUIO DE INVESTIGACIONES
 7
 23
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 M
 1400 - 1650
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
 19152
 ANTR6997
@@ -1748,13 +1729,13 @@ PASANTIA ESTUDIANTES EXTERNOS
 0
 5
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
-01-AGO-16
-19-NOV-16
+01/08/16
+19/11/16
 JARAMILLO SALAZAR PABLO
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------

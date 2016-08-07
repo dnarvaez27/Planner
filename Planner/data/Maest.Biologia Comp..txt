@@ -1,72 +1,76 @@
+CRN
 22808
 BCOM4001
 1
 4
 BIOINFORMATICA
 25
-26
--1
+25
+0
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1700 - 1850
 - -
 01-AGO-16
 19-NOV-16
-&nbsp;
+ 
 V
 1600 - 1750
 - -
 01-AGO-16
 19-NOV-16
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22809
 BCOM4004
 1
 4
 FUNDAMENTOS DE BIOLOGIA MOLEC.
 20
-6
-14
+10
+10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 L  M
 1700 - 1850
 - -
 01-AGO-16
 19-NOV-16
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 22810
 BCOM4006
 1
 4
 ALGORIT.BIOLOGIA COMPUTACIONAL
 25
-17
-8
+24
+1
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 J
 1530 - 1650
 - -
 01-AGO-16
 19-NOV-16
-&nbsp;
+ 
 M
 1530 - 1650
 - -
 01-AGO-16
 19-NOV-16
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 16639
 BCOM4980
 1
@@ -76,16 +80,17 @@ POYECTO FINAL
 0
 10
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
 01-AGO-16
 19-NOV-16
 RESTREPO RESTREPO SILVIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 18445
 BCOM4990
 1
@@ -95,16 +100,17 @@ TESIS 4 CR
 0
 20
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
 01-AGO-16
 19-NOV-16
 RESTREPO RESTREPO SILVIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
+CRN
 18446
 BCOM4991
 1
@@ -114,13 +120,13 @@ TESIS 8 CR
 0
 15
 ----------------------
-&nbsp;
-&nbsp;
+ 
+ 
 -
 - -
 01-AGO-16
 19-NOV-16
 RESTREPO RESTREPO SILVIA
-&nbsp;
-&nbsp;
+ 
+ 
 ----------------------
