@@ -1,4 +1,4 @@
-package registo.threads;
+package registro.threads;
 
 import registro.interfaz.InterfazPlanner;
 

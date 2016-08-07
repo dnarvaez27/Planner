@@ -7,7 +7,7 @@ import javax.swing.JFrame;
 
 import java.awt.BorderLayout;
 
-import registo.threads.ThreadCarreras;
+import registro.threads.ThreadCarreras;
 import registro.mundo.Carrera;
 import registro.mundo.Materia;
 import registro.mundo.Planner;
