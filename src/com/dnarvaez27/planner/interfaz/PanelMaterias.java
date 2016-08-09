@@ -445,10 +445,26 @@ public class PanelMaterias extends JPanel implements KeyListener
 			}
 		}
 	}
-	
+
 	public class PanelMenu extends JPanel
 	{
+		private static final long serialVersionUID = 6645872761285433292L;
+
+		private ButtonTip btnLoad;
+
 		private ButtonTip btnSave;
+
+		public PanelMenu( )
+		{
+			btnSave = new ButtonTip( );
+			btnSave.setBackground( null );
+
+			btnLoad = new ButtonTip( );
+			btnLoad.setBackground( null );
+
+			add( btnSave );
+			add( btnLoad );
+		}
 	}
 
 	private static final long serialVersionUID = -3945647275543629173L;
@@ -466,6 +482,8 @@ public class PanelMaterias extends JPanel implements KeyListener
 	private JPanel panelLista;
 
 	private JPanel panelLoader;
+
+	private PanelMenu panelMenu;
 
 	private ButtonTip refresh;
 
@@ -524,11 +542,15 @@ public class PanelMaterias extends JPanel implements KeyListener
 			}
 		} );
 
+		panelMenu = new PanelMenu( );
+		panelMenu.setBackground( null );
+
 		JPanel panelSuperior = new JPanel( );
 		panelSuperior.setBackground( Color.WHITE );
 		panelSuperior.setLayout( new BorderLayout( ) );
 		panelSuperior.add( refresh, BorderLayout.WEST );
 		panelSuperior.add( busqueda, BorderLayout.CENTER );
+		panelSuperior.add( panelMenu, BorderLayout.NORTH );
 
 		add( panelSuperior, BorderLayout.NORTH );
 		add( scroll, BorderLayout.CENTER );
