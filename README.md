@@ -1,5 +1,4 @@
 # Planner
-
 _Unofficial schedule planner tool for University of the Andes._
 
 
@@ -10,4 +9,5 @@ This program uses HTML to get University of the Andes' Schedule and Subjects inf
 * Its main purpose is to enable Students to make its schedule in a comfortable way
 * Soon will be implemented the auto-register subject tool
 
+____
 **To participate in this project please contact:** [David Narvaez](mailto:dnarvaez27@outlook.com)
