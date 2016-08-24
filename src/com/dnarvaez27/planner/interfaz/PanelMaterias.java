@@ -144,7 +144,7 @@ public class PanelMaterias extends JPanel implements KeyListener
 
 		private JPanel panelInferior;
 
-		private JPanel panelLista;
+		private JPanel panelListaPM;
 
 		private JPanel panelSuperior;
 
@@ -258,8 +258,8 @@ public class PanelMaterias extends JPanel implements KeyListener
 
 			PanelMateria instance = this;
 
-			panelLista = new JPanel( );
-			panelLista.setLayout( new BorderLayout( ) );
+			panelListaPM = new JPanel( );
+			panelListaPM.setLayout( new BorderLayout( ) );
 			listaComplementos = new JList<>( materia.getComplementos( ).toArray( new String[ 0 ] ) );
 			listaComplementos.setCellRenderer( new ListCellRenderer<String>( )
 			{
@@ -316,8 +316,8 @@ public class PanelMaterias extends JPanel implements KeyListener
 					}
 				}
 			} );
-			panelLista.add( listaComplementos, BorderLayout.CENTER );
-			panelLista.setVisible( false );
+			panelListaPM.add( listaComplementos, BorderLayout.CENTER );
+			panelListaPM.setVisible( false );
 
 			panelNombre.addMouseListener( new MouseAdapter( )
 			{
@@ -365,7 +365,7 @@ public class PanelMaterias extends JPanel implements KeyListener
 			add( panelSuperior );
 			add( panelInferior );
 			add( descripcion );
-			add( panelLista );
+			add( panelListaPM );
 		}
 
 		public void open( )
@@ -375,7 +375,7 @@ public class PanelMaterias extends JPanel implements KeyListener
 			add.setVisible( !add.isVisible( ) );
 			descripcion.setVisible( !materia.getDescripcion( ).isEmpty( ) && !descripcion.isVisible( ) );
 			listaComplementos.setListData( materia != null ? materia.getComplementos( ).toArray( new String[ 0 ] ) : null );
-			panelLista.setVisible( !materia.getComplementos( ).isEmpty( ) && !panelLista.isVisible( ) );
+			panelListaPM.setVisible( !materia.getComplementos( ).isEmpty( ) && !panelListaPM.isVisible( ) );
 		}
 
 		public void open( boolean open )
@@ -385,7 +385,7 @@ public class PanelMaterias extends JPanel implements KeyListener
 			add.setVisible( open );
 			descripcion.setVisible( !materia.getDescripcion( ).isEmpty( ) && open );
 			listaComplementos.setListData( materia != null ? materia.getComplementos( ).toArray( new String[ 0 ] ) : null );
-			panelLista.setVisible( !materia.getComplementos( ).isEmpty( ) && open );
+			panelListaPM.setVisible( !materia.getComplementos( ).isEmpty( ) && open );
 		}
 
 		public void setSelected( boolean selected, boolean changeState )
