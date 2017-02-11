@@ -1,0 +1,197 @@
+21194
+MISO4000
+1
+0
+NIVELATORIO MODELAJE SOFTWARE
+30
+21
+9
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+GARCES PERNETT KELLY JOHANY
+&nbsp;
+&nbsp;
+----------------------
+14446
+MISO4101
+1
+4
+PROCESOS DE DESARROLLO AGILES
+30
+29
+1
+----------------------
+&nbsp;
+&nbsp;
+I
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+CORTES BUITRAGO GLORIA CRISTINA
+&nbsp;
+&nbsp;
+----------------------
+13986
+MISO4202
+1
+4
+MEJOR. PRODUCT: AUTOMATIZACION
+30
+15
+15
+----------------------
+&nbsp;
+&nbsp;
+J
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+GARCES PERNETT KELLY JOHANY
+&nbsp;
+&nbsp;
+----------------------
+18034
+MISO4203
+1
+4
+GEST. DE PROY. DESARROLLO SOFT
+30
+25
+5
+----------------------
+&nbsp;
+&nbsp;
+M
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+CASALLAS GUTIERREZ RUBBY
+&nbsp;
+&nbsp;
+----------------------
+14604
+MISO4204
+1
+4
+FABRICAS SW Y LIN PRODUCTOS
+30
+13
+17
+----------------------
+&nbsp;
+&nbsp;
+M
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+PARRA ACEVEDO CARLOS ANDRES
+&nbsp;
+&nbsp;
+----------------------
+16210
+MISO4205
+1
+4
+MEJORAMIENTO EXPERIENCIA USUAR
+30
+16
+14
+----------------------
+&nbsp;
+&nbsp;
+J
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+NAVARRO SANINT MIGUEL
+&nbsp;
+&nbsp;
+----------------------
+18823
+MISO4206
+1
+4
+ARQUITECTURA SW ÁGIL
+30
+30
+0
+----------------------
+&nbsp;
+&nbsp;
+I
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+CORREAL DARIO
+&nbsp;
+&nbsp;
+----------------------
+16211
+MISO4301
+1
+4
+PROYECTO INTEGRADOR
+20
+20
+0
+----------------------
+&nbsp;
+&nbsp;
+L
+1800 - 2050
+- -
+01-AGO-16
+19-NOV-16
+CASALLAS GUTIERREZ RUBBY
+&nbsp;
+&nbsp;
+----------------------
+15251
+MISO4302
+1
+4
+TESIS I
+0
+1
+-1
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------
+16212
+MISO4303
+1
+8
+TESIS II
+0
+2
+-2
+----------------------
+&nbsp;
+&nbsp;
+-
+- -
+01-AGO-16
+19-NOV-16
+FERNANDEZ JUAN PABLO
+&nbsp;
+&nbsp;
+----------------------

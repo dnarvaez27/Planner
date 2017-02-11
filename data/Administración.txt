@@ -1,0 +1,2961 @@
+CRN
+10126
+ADMI1101
+1
+3
+FUNDAM.ADMON Y GERENCIA (ADMI)
+125
+123
+2
+----------------------
+ 
+ 
+L    I    V
+0930 - 1050
+.SD_805
+01/08/16
+19/11/16
+DIAZ MATAJIRA LUIS
+OROZCO SILVA LUIS ENRIQUE
+ 
+ 
+----------------------
+CRN
+11411
+ADMI1102
+4
+3
+FUNDAM.ADMON Y GERENCIA
+65
+35
+30
+----------------------
+ 
+ 
+L      J
+0630 - 0750
+.ML_606
+01/08/16
+19/11/16
+CASTILLO GUTIERREZ JUAN PABLO
+ 
+ 
+----------------------
+CRN
+12116
+ADMI1102
+5
+3
+FUNDAM.ADMON Y GERENCIA
+120
+109
+11
+----------------------
+ 
+ 
+I
+0630 - 0750
+.SD_805
+01/08/16
+19/11/16
+DAVILA LADRON DE GUE CARLOS
+DIAZ RAMIREZ JULIA HELENA
+SCHNARCH GONZALEZ DAVID
+ 
+ 
+----------------------
+La Sección principal (Magistral) con CRN 12116, debe ser inscrita de forma simultanea con alguna de las secciones del curso complementario con CRN: <br>20624 - ADMI-1102C - 1 - FUNDAM.ADMON Y GERENCIA COMPL <br> 20669 - ADMI-1102C - 3 - FUNDAM.ADMON Y GERENCIA COMPL <br> 20673- ADMI-1102C- 4-FUNDAM.ADMON Y GERENCIA COMPL
+----------------------
+CRN
+23072
+ADMI1102
+7
+3
+FUNDAM.ADMON Y GERENCIA
+65
+60
+5
+----------------------
+ 
+ 
+M    J
+0630 - 0750
+.ML_510
+01/08/16
+19/11/16
+PERALTA GUSTAVO
+ 
+ 
+----------------------
+CRN
+20624
+ADMI1102C
+1
+0
+FUNDAM.ADMON Y GERENCIA COMPL
+40
+34
+6
+----------------------
+ 
+ 
+V
+0630 - 0750
+.O_202
+01/08/16
+19/11/16
+SCHNARCH GONZALEZ DAVID
+ 
+ 
+----------------------
+CRN
+20669
+ADMI1102C
+3
+0
+FUNDAM.ADMON Y GERENCIA COMPL
+41
+38
+3
+----------------------
+ 
+ 
+V
+0800 - 0920
+.Q_405
+01/08/16
+19/11/16
+SCHNARCH GONZALEZ DAVID
+ 
+ 
+----------------------
+CRN
+20673
+ADMI1102C
+4
+0
+FUNDAM.ADMON Y GERENCIA COMPL
+40
+38
+2
+----------------------
+ 
+ 
+L
+0630 - 0750
+.W_506
+01/08/16
+19/11/16
+DIAZ RAMIREZ JULIA HELENA
+ 
+ 
+----------------------
+CRN
+17184
+ADMI1190
+1
+3
+SERVICIOS ECOSISTÉMIC.(INGLES)
+50
+50
+0
+----------------------
+ 
+ 
+L    I
+0930 - 1050
+.O_403
+01/08/16
+19/11/16
+PARK JOO YOUNG
+ 
+ 
+----------------------
+CRN
+20646
+ADMI1190
+2
+3
+SERVICIOS ECOSISTÉMICOS
+50
+49
+1
+----------------------
+ 
+ 
+M      V
+0630 - 0750
+.LL_303
+01/08/16
+19/11/16
+LINK OSPINA ANDRES
+ 
+ 
+----------------------
+CRN
+23025
+ADMI1190
+6
+3
+SERVICIOS ECOSISTÉMICOS
+60
+56
+4
+----------------------
+ 
+ 
+L    I
+1700 - 1820
+.O_105
+01/08/16
+19/11/16
+VALDERRAMA ROJAS DIEGO
+ 
+ 
+----------------------
+CRN
+10131
+ADMI1203
+1
+3
+FINANZAS 1:PLANEACION
+40
+39
+1
+----------------------
+ 
+ 
+L    I
+0800 - 0920
+.AU_205
+01/08/16
+19/11/16
+TRUJILLO REYES OSCAR FRANCISCO
+ 
+ 
+----------------------
+CRN
+20816
+ADMI1203
+2
+3
+FINANZAS 1: PLANEACION
+40
+38
+2
+----------------------
+ 
+ 
+L      J
+1530 - 1650
+.AU_205
+01/08/16
+19/11/16
+FUENTES FRIAS DARIO ALEJANDRO
+ 
+ 
+----------------------
+CRN
+12118
+ADMI1203
+3
+3
+FINANZAS 1: PLANEACION
+40
+40
+0
+----------------------
+ 
+ 
+M      V
+1100 - 1220
+.W_402
+01/08/16
+19/11/16
+LOPEZ FAJARDO MARIANO ALBERTO
+ 
+ 
+----------------------
+CRN
+11123
+ADMI1203
+4
+3
+FINANZAS 1: PLANEACION
+40
+39
+1
+----------------------
+ 
+ 
+V
+1230 - 1350
+.AU_401
+01/08/16
+19/11/16
+ 
+M
+1230 - 1350
+.SD_801
+01/08/16
+19/11/16
+LOPEZ FAJARDO MARIANO ALBERTO
+ 
+ 
+----------------------
+CRN
+12174
+ADMI1401
+1
+1
+TALLER HABILIDADES INFORMATICA
+40
+29
+11
+----------------------
+ 
+ 
+V
+0630 - 0750
+.ML_108B
+01/08/16
+19/11/16
+RODRIGUEZ CORTES CARLOS ANDRES
+ 
+ 
+----------------------
+CRN
+11017
+ADMI1401
+2
+1
+TALLER HABILIDADES INFORMATICA
+40
+36
+4
+----------------------
+ 
+ 
+J
+0630 - 0750
+.SD_804
+01/08/16
+19/11/16
+DIAZ VELASCO JOSE DARIO
+ 
+ 
+----------------------
+CRN
+11019
+ADMI1401
+3
+1
+TALLER HABILIDADES INFORMATICA
+40
+32
+8
+----------------------
+ 
+ 
+M
+1400 - 1520
+.ML_208
+01/08/16
+19/11/16
+DIAZ VELASCO JOSE DARIO
+ 
+ 
+----------------------
+CRN
+11021
+ADMI1401
+4
+1
+TALLER HABILIDADES INFORMATICA
+40
+37
+3
+----------------------
+ 
+ 
+M
+1400 - 1520
+.ML_108B
+01/08/16
+19/11/16
+CACERES PORRAS MARTHA CONSTANZA
+ 
+ 
+----------------------
+CRN
+11022
+ADMI1401
+5
+1
+TALLER HABILIDADES INFORMATICA
+40
+37
+3
+----------------------
+ 
+ 
+M
+1100 - 1220
+.ML_207
+01/08/16
+19/11/16
+CACERES PORRAS MARTHA CONSTANZA
+ 
+ 
+----------------------
+CRN
+13124
+ADMI1401
+6
+1
+TALLER HABILIDADES INFORMATICA
+40
+35
+5
+----------------------
+ 
+ 
+V
+0930 - 1050
+.Q_307
+01/08/16
+19/11/16
+RODRIGUEZ CORTES CARLOS ANDRES
+ 
+ 
+----------------------
+CRN
+13125
+ADMI1401
+7
+1
+TALLER HABILIDADES INFORMATICA
+40
+39
+1
+----------------------
+ 
+ 
+V
+1100 - 1220
+.ML_208
+01/08/16
+19/11/16
+URBINA FLOREZ ANDRES GUILLERMO
+ 
+ 
+----------------------
+CRN
+17185
+ADMI1590
+1
+1
+TALLER DE CREATIVIDAD
+35
+32
+3
+----------------------
+ 
+ 
+L
+1400 - 1650
+.SD_715
+01/08/16
+19/11/16
+LEON DIAZ INGRID MARCELA
+ 
+ 
+----------------------
+CRN
+20917
+ADMI1590
+2
+1
+TALLER DE CREATIVIDAD
+37
+35
+2
+----------------------
+ 
+ 
+L
+0630 - 0920
+.SD_704
+01/08/16
+19/11/16
+COLMENARES MISAS CARLOS FELIPE
+ 
+ 
+----------------------
+CRN
+23194
+ADMI1590
+3
+1
+TALLER DE CREATIVIDAD (INGLES)
+31
+27
+4
+----------------------
+ 
+ 
+I
+0800 - 1050
+.AU_107
+01/08/16
+19/11/16
+KONOVALOV OLEG
+ 
+ 
+----------------------
+CRN
+23195
+ADMI1590
+4
+1
+TALLER DE CREATIVIDAD
+34
+31
+3
+----------------------
+ 
+ 
+L
+1530 - 1820
+.ML_514
+01/08/16
+19/11/16
+FLECHAS BUSTOS ANGELICA MARIA
+ 
+ 
+----------------------
+CRN
+11013
+ADMI1602
+1
+2
+TALLER AUTOCONOCIMIENTO
+25
+25
+0
+----------------------
+ 
+ 
+L
+0630 - 0920
+.AU_309
+01/08/16
+19/11/16
+URIBE ARBELAEZ SOFIA
+ 
+ 
+----------------------
+CRN
+13920
+ADMI1602
+2
+2
+TALLER AUTOCONOCIMIENTO
+25
+23
+2
+----------------------
+ 
+ 
+J
+1000 - 1250
+.R_109
+01/08/16
+19/11/16
+ESCALLON SALAZAR ANDRES
+ 
+ 
+----------------------
+CRN
+11014
+ADMI1602
+3
+2
+TALLER AUTOCONOCIMIENTO
+25
+25
+0
+----------------------
+ 
+ 
+L
+1400 - 1650
+.AU_309
+01/08/16
+19/11/16
+MUNOZ CIFUENTES JESUS
+ 
+ 
+----------------------
+CRN
+11015
+ADMI1602
+4
+2
+TALLER AUTOCONOCIMIENTO
+25
+23
+2
+----------------------
+ 
+ 
+V
+1400 - 1650
+.AU_308
+01/08/16
+19/11/16
+BERNAL VARGAS LUZ STELLA
+ 
+ 
+----------------------
+CRN
+17132
+ADMI1602
+6
+2
+TALLER AUTOCONOCIMIENTO
+25
+24
+1
+----------------------
+ 
+ 
+J
+0930 - 1220
+.AU_309
+01/08/16
+19/11/16
+TRIANA QUIJANO ADRIANA FERNAN
+ 
+ 
+----------------------
+CRN
+18587
+ADMI1602
+7
+2
+TALLER AUTOCONOCIMIENTO
+26
+25
+1
+----------------------
+ 
+ 
+L
+0930 - 1220
+.AU_309
+01/08/16
+19/11/16
+URIBE ARBELAEZ SOFIA
+ 
+ 
+----------------------
+CRN
+20817
+ADMI1602
+8
+2
+TALLER AUTOCONOCIMIENTO
+26
+25
+1
+----------------------
+ 
+ 
+L
+0930 - 1220
+.AU_308
+01/08/16
+19/11/16
+LEON DIAZ INGRID MARCELA
+ 
+ 
+----------------------
+CRN
+10133
+ADMI1603
+1
+3
+COMPORT. ORGANIZACION.(INGLES)
+40
+39
+1
+----------------------
+ 
+ 
+J
+1230 - 1350
+.SD_801
+01/08/16
+19/11/16
+ 
+L
+1230 - 1350
+.AU_401
+01/08/16
+19/11/16
+MEISTER ALYSON LEE
+ 
+ 
+----------------------
+CRN
+11131
+ADMI1603
+2
+3
+COMPORT. ORGANIZACIONAL
+40
+40
+0
+----------------------
+ 
+ 
+V
+1230 - 1350
+.AU_204
+01/08/16
+19/11/16
+ 
+M
+1230 - 1350
+.SD_804
+01/08/16
+19/11/16
+ROZO POSADA PAULA LILIANA
+ 
+ 
+----------------------
+CRN
+10134
+ADMI1603
+3
+3
+COMPORT. ORGANIZACIO. (INGLES)
+40
+40
+0
+----------------------
+ 
+ 
+L      J
+0800 - 0920
+.AU_402
+01/08/16
+19/11/16
+MEISTER ALYSON LEE
+ 
+ 
+----------------------
+CRN
+23026
+ADMI1603
+5
+3
+COMPORT. ORGANIZACIONAL
+40
+40
+0
+----------------------
+ 
+ 
+L    I
+1530 - 1650
+.W_506
+01/08/16
+19/11/16
+CANAL MARGARITA
+ 
+ 
+----------------------
+CRN
+23082
+ADMI1603
+7
+3
+COMPORT. ORGANIZACION.(INGLES)
+40
+36
+4
+----------------------
+ 
+ 
+L    I
+1230 - 1350
+.AU_202
+01/08/16
+19/11/16
+SCHORCH SEBASTIAN LEON
+ 
+ 
+----------------------
+Curso Tipo E
+CRN
+11547
+ADMI2104B
+1
+3
+HISTORIA DESARROLLO EMPRES.COL
+77
+77
+0
+----------------------
+ 
+ 
+L    I
+1100 - 1220
+.ML_607
+01/08/16
+19/11/16
+DURAN AMOROCHO XAVIER HERNANDO
+HERNANDEZ CASTILLO CARLOS EDUARDO
+ 
+ 
+----------------------
+Curso Tipo E
+CRN
+21174
+ADMI2104B
+2
+3
+HISTORIA DESARROLLO EMPRES.COL
+59
+58
+1
+----------------------
+ 
+ 
+I
+0930 - 1050
+.O_204
+01/08/16
+19/11/16
+ 
+L
+0930 - 1050
+.ML_608
+01/08/16
+19/11/16
+DURAN AMOROCHO XAVIER HERNANDO
+HERNANDEZ CASTILLO CARLOS EDUARDO
+ 
+ 
+----------------------
+Curso Tipo E
+CRN
+13121
+ADMI2104B
+3
+3
+HISTORIA DESARROLLO EMPRES.COL
+77
+67
+10
+----------------------
+ 
+ 
+M      V
+1530 - 1650
+.ML_607
+01/08/16
+19/11/16
+GARAVITO SUAREZ MARTHA ELIZABETH
+ 
+ 
+----------------------
+CRN
+10637
+ADMI2106
+1
+3
+RESPONSABILIDAD SOCIAL INGLES
+50
+49
+1
+----------------------
+ 
+ 
+V
+0930 - 1050
+.ML_607
+01/08/16
+19/11/16
+ 
+M
+0930 - 1050
+.SD_716
+01/08/16
+19/11/16
+RUEDA FAJARDO XIMENA
+ 
+ 
+----------------------
+CRN
+11216
+ADMI2106
+2
+3
+RESPONSABILIDAD SOCIAL
+50
+49
+1
+----------------------
+ 
+ 
+V
+1100 - 1220
+.SD_702
+01/08/16
+19/11/16
+ 
+M
+1100 - 1220
+.LL_304
+01/08/16
+19/11/16
+RUEDA FAJARDO XIMENA
+ 
+ 
+----------------------
+CRN
+10135
+ADMI2106
+3
+3
+RESPONSABILIDAD SOCIAL
+50
+48
+2
+----------------------
+ 
+ 
+L    I
+1100 - 1220
+.O_401
+01/08/16
+19/11/16
+FRANCO BORRERO NATHALIA
+ 
+ 
+----------------------
+CRN
+10427
+ADMI2107
+1
+3
+GERENCIA DE RECURSOS HUMANOS
+50
+23
+27
+----------------------
+ 
+ 
+I    V
+0800 - 0920
+.O_101
+01/08/16
+19/11/16
+FERRUFINO ECHEVERRY CLAUDIA ANDREA
+GOMEZ ORDOÑEZ MARGARITA MARIA
+ 
+ 
+----------------------
+CRN
+10502
+ADMI2107
+2
+3
+GERENCIA DE RECURSOS HUMANOS
+50
+44
+6
+----------------------
+ 
+ 
+M    J
+0800 - 0920
+.O_403
+01/08/16
+19/11/16
+AMAYA GONZALEZ RENATA
+BAQUERO FANDIÑO DIANA VICTORIA
+ 
+ 
+----------------------
+CRN
+13205
+ADMI2107
+3
+3
+GERENCIA DE RECURSOS HUMANOS
+50
+50
+0
+----------------------
+ 
+ 
+I    V
+0930 - 1050
+.O_404
+01/08/16
+19/11/16
+ROZO POSADA PAULA LILIANA
+GATTAS BULTAIF LINA PATRICIA
+ 
+ 
+----------------------
+CRN
+10137
+ADMI2204
+3
+3
+FINANZAS 2: INVERSION
+51
+40
+11
+----------------------
+ 
+ 
+J
+1530 - 1650
+.SD_704
+01/08/16
+19/11/16
+ 
+M
+1530 - 1650
+.SD_702
+01/08/16
+19/11/16
+MORA VALENCIA ANDRES
+ 
+ 
+----------------------
+CRN
+11425
+ADMI2204
+4
+3
+FINANZAS 2: INVERSION
+55
+51
+4
+----------------------
+ 
+ 
+L    I
+0800 - 0920
+.SD_715
+01/08/16
+19/11/16
+CARDONA MAGNE EMILIO
+ 
+ 
+----------------------
+CRN
+18596
+ADMI2204
+5
+3
+FINANZAS 2: INVERSION
+60
+59
+1
+----------------------
+ 
+ 
+L      J
+1230 - 1350
+.ML_509
+01/08/16
+19/11/16
+MALAGON PENEN JULIANA
+ 
+ 
+----------------------
+CRN
+10138
+ADMI2205
+1
+3
+FINANZAS 3: ESTRATEGIA
+50
+49
+1
+----------------------
+ 
+ 
+V
+1230 - 1350
+.ML_509
+01/08/16
+19/11/16
+ 
+M
+1230 - 1350
+.ML_509
+01/08/16
+19/11/16
+MALAGON PENEN JULIANA
+ 
+ 
+----------------------
+CRN
+11426
+ADMI2205
+3
+3
+FINANZAS 3:ESTRATEGIA
+50
+28
+22
+----------------------
+ 
+ 
+J
+0630 - 0750
+.ML_514
+01/08/16
+19/11/16
+ 
+L
+0630 - 0750
+.ML_509
+01/08/16
+19/11/16
+TELLEZ FALLA DIEGO FERNANDO
+ 
+ 
+----------------------
+CRN
+13923
+ADMI2205
+4
+3
+FINANZAS 3: ESTRATEGIA
+54
+53
+1
+----------------------
+ 
+ 
+L      J
+0800 - 0920
+.ML_514
+01/08/16
+19/11/16
+TELLEZ FALLA DIEGO FERNANDO
+ 
+ 
+----------------------
+CRN
+20822
+ADMI2206
+2
+3
+COMPORTAM.CONSUMIDOR (INGLES)
+40
+21
+19
+----------------------
+ 
+ 
+M      V
+1530 - 1650
+.AU_202
+01/08/16
+19/11/16
+ESTRADA MEJIA CATALINA
+ 
+ 
+----------------------
+CRN
+14896
+ADMI2206
+6
+3
+COMPORTAMIENTO DEL CONSUMIDOR
+50
+47
+3
+----------------------
+ 
+ 
+M      V
+1400 - 1520
+.O_402
+01/08/16
+19/11/16
+ESTRADA MEJIA CATALINA
+ 
+ 
+----------------------
+CRN
+13554
+ADMI2207
+1
+3
+COLOMBIA Y SUS INSTIT.(ADMON)
+48
+48
+0
+----------------------
+ 
+ 
+I
+1100 - 1220
+.M_100
+01/08/16
+19/11/16
+ 
+L
+1100 - 1220
+.B_201
+01/08/16
+19/11/16
+WILLS HERRERA EDUARDO
+ 
+ 
+----------------------
+CRN
+12119
+ADMI2207
+3
+3
+COLOMBIA Y SUS INSTITUCIONES
+50
+50
+0
+----------------------
+ 
+ 
+M    J
+0630 - 0750
+.W_102
+01/08/16
+19/11/16
+CASTILLO VALLEJO ALEJANDRO
+ 
+ 
+----------------------
+CRN
+14899
+ADMI2207
+5
+3
+COLOMBIA Y SUS INSTITUCIONES
+40
+39
+1
+----------------------
+ 
+ 
+M    J
+0800 - 0920
+.O_402
+01/08/16
+19/11/16
+CASTILLO VALLEJO ALEJANDRO
+ 
+ 
+----------------------
+CRN
+23649
+ADMI2207
+6
+3
+COLOMBIA Y SUS INSTITUCIONES
+45
+38
+7
+----------------------
+ 
+ 
+J
+0800 - 0920
+.LL_302
+01/08/16
+19/11/16
+ 
+M
+0800 - 0920
+.LL_304
+01/08/16
+19/11/16
+CASTANO MESA LINA MARIA
+ 
+ 
+----------------------
+CRN
+13604
+ADMI2301
+2
+3
+FUNDAMENTOS MERCADEO
+50
+44
+6
+----------------------
+ 
+ 
+L    I
+0630 - 0750
+.LL_302
+01/08/16
+19/11/16
+GARCIA JIMENEZ ALFREDO
+ 
+ 
+----------------------
+CRN
+10665
+ADMI2301
+3
+3
+FUNDAMENTOS DE MERCADEO
+50
+49
+1
+----------------------
+ 
+ 
+M      V
+0930 - 1050
+.O_402
+01/08/16
+19/11/16
+ESTRADA MEJIA CATALINA
+ 
+ 
+----------------------
+CRN
+10139
+ADMI2301
+5
+3
+FUNDAMENTOS DE MERCADEO
+50
+46
+4
+----------------------
+ 
+ 
+L      J
+0630 - 0750
+.LL_304
+01/08/16
+19/11/16
+PEREZ CIFUENTES GABRIEL
+ 
+ 
+----------------------
+CRN
+13266
+ADMI2301
+6
+3
+FUNDAMENTOS DE MERCADEO
+50
+48
+2
+----------------------
+ 
+ 
+L    I
+0630 - 0750
+.Z_213
+01/08/16
+19/11/16
+LOMBANA ROA JUAN JOSE
+ 
+ 
+----------------------
+CRN
+13606
+ADMI2301
+7
+3
+FUNDAM.MERCADEO
+50
+47
+3
+----------------------
+ 
+ 
+L      J
+1700 - 1820
+.LL_304
+01/08/16
+19/11/16
+RUBIANO PABON FRANK GEORGE
+ 
+ 
+----------------------
+CRN
+18597
+ADMI2301
+8
+3
+FUNDAMENTOS DE MERCADEO
+50
+46
+4
+----------------------
+ 
+ 
+M      V
+0630 - 0750
+.LL_304
+01/08/16
+19/11/16
+OREJARENA SERRANO GERMAN ALFREDO
+ 
+ 
+----------------------
+CRN
+10140
+ADMI2302
+1
+3
+INVESTIGACION DE MERCADOS
+50
+36
+14
+----------------------
+ 
+ 
+L    I
+1530 - 1650
+.SD_703
+01/08/16
+19/11/16
+BARRIOS FAJARDO ANDRES ALBERTO
+ 
+ 
+----------------------
+CRN
+10180
+ADMI2302
+2
+3
+INVESTIGACION DE MERCADOS
+50
+31
+19
+----------------------
+ 
+ 
+M      V
+0630 - 0750
+.ML_514
+01/08/16
+19/11/16
+PAREJA FIGUEREDO DIANA MARCELA
+ 
+ 
+----------------------
+CRN
+20900
+ADMI2302
+3
+3
+INVESTIGACION DE MERCADOS
+50
+50
+0
+----------------------
+ 
+ 
+M    J
+0630 - 0750
+.ML_509
+01/08/16
+19/11/16
+MARTINEZ FALLA FELIPE ANDRES
+ 
+ 
+----------------------
+CRN
+11122
+ADMI2403
+1
+3
+OPERACIONES Y LOGISTICA
+55
+55
+0
+----------------------
+ 
+ 
+L    I
+1400 - 1520
+.SD_703
+01/08/16
+19/11/16
+SOTO JUAN PABLO
+ 
+ 
+----------------------
+CRN
+13207
+ADMI2403
+2
+3
+OPERACIONES Y LOGISTICA
+55
+55
+0
+----------------------
+ 
+ 
+L    I
+1100 - 1220
+.ML_511
+01/08/16
+19/11/16
+VELASCO NUBIA
+ 
+ 
+----------------------
+CRN
+13556
+ADMI2403
+4
+3
+OPERACIONES Y LOGIST. (INGLES)
+57
+55
+2
+----------------------
+ 
+ 
+M    J
+1400 - 1520
+.B_401
+01/08/16
+19/11/16
+THIELL MARCUS
+ 
+ 
+----------------------
+CRN
+20826
+ADMI2501
+2
+3
+ANALISIS ENTORNO COLOMBIANO
+58
+57
+1
+----------------------
+ 
+ 
+M
+0630 - 0750
+.M_100
+01/08/16
+19/11/16
+ 
+L
+0630 - 0750
+.W_404
+01/08/16
+19/11/16
+RAMIREZ JORGE
+ 
+ 
+----------------------
+CRN
+20827
+ADMI2501
+3
+3
+ANALISIS ENTORNO COLOMBIANO
+52
+51
+1
+----------------------
+ 
+ 
+J
+1100 - 1220
+.LL_301
+01/08/16
+19/11/16
+ 
+L
+1100 - 1220
+.G_101
+01/08/16
+19/11/16
+ANDONOVA VENETA
+ 
+ 
+----------------------
+CRN
+23161
+ADMI2501
+5
+3
+ANALISIS ENTORNO COLOMBIANO
+50
+50
+0
+----------------------
+ 
+ 
+J
+1230 - 1350
+.LL_303
+01/08/16
+19/11/16
+ 
+L
+1230 - 1350
+.G_101
+01/08/16
+19/11/16
+ANDONOVA VENETA
+ 
+ 
+----------------------
+CRN
+20657
+ADMI2557
+1
+3
+HERRAMIENTAS TOMA DECI II
+40
+35
+5
+----------------------
+ 
+ 
+L    I
+1400 - 1520
+.ML_207
+01/08/16
+19/11/16
+BRITTO RODRIGO
+ 
+ 
+----------------------
+CRN
+20856
+ADMI2557
+2
+3
+HERRAMIENTAS TOMA DECI II
+40
+39
+1
+----------------------
+ 
+ 
+M    J
+1100 - 1220
+.ML_208
+01/08/16
+19/11/16
+VELASCO NUBIA
+ 
+ 
+----------------------
+CRN
+20858
+ADMI2557
+3
+3
+HERRAMIENTAS TOMA DECI II
+40
+23
+17
+----------------------
+ 
+ 
+M    J
+1530 - 1650
+.ML_207
+01/08/16
+19/11/16
+VELASCO NUBIA
+MONTOYA TORRES JAIRO RAFAEL
+ 
+ 
+----------------------
+CRN
+20867
+ADMI2557
+5
+3
+HERRAMIENTAS TOMA DECI II
+40
+7
+33
+----------------------
+ 
+ 
+M      V
+1400 - 1520
+.ML_207
+01/08/16
+19/11/16
+OROZCO LUZ ELENA
+ 
+ 
+----------------------
+CRN
+14023
+ADMI2605
+1
+3
+ORGANIZACIONES
+50
+49
+1
+----------------------
+ 
+ 
+L      J
+0630 - 0750
+.LL_303
+01/08/16
+19/11/16
+DAVILA LADRON DE GUEVARA CAMILO
+ 
+ 
+----------------------
+CRN
+14031
+ADMI2605
+2
+3
+ORGANIZACIONES
+50
+47
+3
+----------------------
+ 
+ 
+V
+0630 - 0750
+.SD_801
+01/08/16
+19/11/16
+ 
+M
+0630 - 0750
+.O_105
+01/08/16
+19/11/16
+DAVILA LADRON DE GUEVARA CAMILO
+ 
+ 
+----------------------
+CRN
+14032
+ADMI2605
+3
+3
+ORGANIZACIONES (INGLES)
+45
+43
+2
+----------------------
+ 
+ 
+V
+1100 - 1220
+.LL_303
+01/08/16
+19/11/16
+ 
+I
+1100 - 1220
+.Z_110
+01/08/16
+19/11/16
+QUINTANE ERIC
+ 
+ 
+----------------------
+CRN
+14085
+ADMI2605
+4
+3
+ORGANIZACIONES
+45
+43
+2
+----------------------
+ 
+ 
+V
+1230 - 1350
+.LL_303
+01/08/16
+19/11/16
+ 
+M
+1230 - 1350
+.AU_102
+01/08/16
+19/11/16
+MILANES LAURA
+ 
+ 
+----------------------
+CRN
+18601
+ADMI2605
+5
+3
+ORGANIZACIONES
+45
+39
+6
+----------------------
+ 
+ 
+M      V
+1700 - 1820
+.LL_303
+01/08/16
+19/11/16
+MILANES LAURA
+ 
+ 
+----------------------
+CRN
+23646
+ADMI2605
+6
+3
+ORGANIZACIONES
+45
+45
+0
+----------------------
+ 
+ 
+J
+1230 - 1350
+.O_204
+01/08/16
+19/11/16
+ 
+L
+1230 - 1350
+.LL_303
+01/08/16
+19/11/16
+MILANES LAURA
+ 
+ 
+----------------------
+CRN
+10142
+ADMI2801
+1
+3
+LA GESTION DE LO PUBLICO
+50
+18
+32
+----------------------
+ 
+ 
+L    I
+1530 - 1650
+.SD_704
+01/08/16
+19/11/16
+VELEZ LESMEZ MARIA ALEJANDRA
+ 
+ 
+----------------------
+CRN
+13011
+ADMI2801
+2
+3
+LA GESTION DE LO PUBLICO
+56
+54
+2
+----------------------
+ 
+ 
+M      V
+1100 - 1220
+.O_105
+01/08/16
+19/11/16
+TRUJILLO DIANA
+ 
+ 
+----------------------
+CRN
+13746
+ADMI2801
+3
+3
+LA GESTION DE LO PUBLICO
+55
+55
+0
+----------------------
+ 
+ 
+M    J
+0930 - 1050
+.O_205
+01/08/16
+19/11/16
+FORERO PINEDA CLEMENTE
+ 
+ 
+----------------------
+Curso Tipo E
+CRN
+16942
+ADMI3107
+1
+3
+CASOS Y PROYECTOS EN ADMON
+60
+69
+-9
+----------------------
+ 
+ 
+M
+1530 - 1650
+.SD_805
+01/08/16
+19/11/16
+ 
+V
+1400 - 1650
+.SD_805
+01/08/16
+19/11/16
+GONZALEZ QUESADA ANABELL
+ 
+ 
+----------------------
+Curso Tipo E
+CRN
+13287
+ADMI3107
+2
+3
+CASOS Y PROYECTOS EN ADMON
+60
+67
+-7
+----------------------
+ 
+ 
+M
+1530 - 1650
+.SD_805
+01/08/16
+19/11/16
+ 
+V
+1400 - 1650
+.SD_805
+01/08/16
+19/11/16
+GONZALEZ QUESADA ANABELL
+ANGULO MEJIA MARIA YANETH
+PLATIN CANO JUAN CAMILO
+ 
+ 
+----------------------
+CRN
+13122
+ADMI3109
+3
+3
+PLANES DE NEGOCIOS
+36
+32
+4
+----------------------
+ 
+ 
+M    J
+1100 - 1220
+.LL_106
+01/08/16
+19/11/16
+GUERRERO ALVARADO ANDRES JOSE
+ 
+ 
+----------------------
+CRN
+10837
+ADMI3110
+1
+3
+EMPRENDI. INNOVACION.(INGLES)
+32
+27
+5
+----------------------
+ 
+ 
+L    I
+1530 - 1650
+.LL_206
+01/08/16
+19/11/16
+KONOVALOV OLEG
+ 
+ 
+----------------------
+CRN
+12462
+ADMI3110
+2
+3
+EMPRENDIMIENTO E INNOVACION
+31
+28
+3
+----------------------
+ 
+ 
+L    I
+1530 - 1650
+.LL_201
+01/08/16
+19/11/16
+ESTRADA PRADA FELIPE
+ 
+ 
+----------------------
+CRN
+10859
+ADMI3110
+4
+3
+EMPRENDIMIENTO E INNOVACION
+30
+29
+1
+----------------------
+ 
+ 
+L    I
+1530 - 1650
+.LL_203
+01/08/16
+19/11/16
+HERNANDEZ MORA JORGE ALBERTO
+ 
+ 
+----------------------
+CRN
+13560
+ADMI3110
+5
+3
+EMPRENDIMIENTO E INNOVACION
+31
+29
+2
+----------------------
+ 
+ 
+L    I
+1530 - 1650
+.Z_203
+01/08/16
+19/11/16
+VESGA RAFAEL
+ 
+ 
+----------------------
+CRN
+14951
+ADMI3110
+6
+3
+EMPRENDIMIENTO E INNOVACION
+30
+27
+3
+----------------------
+ 
+ 
+L    I
+1530 - 1650
+.TM_202
+01/08/16
+19/11/16
+WAGEMBERG FELDMAN ALAN
+ 
+ 
+----------------------
+CRN
+23164
+ADMI3110
+7
+3
+EMPRENDIMIENTO E INNOVACION
+31
+31
+0
+----------------------
+ 
+ 
+L    I
+1530 - 1650
+.W_402
+01/08/16
+19/11/16
+MALDONADO VALDERRAMA EDUARDO
+ 
+ 
+----------------------
+CRN
+10144
+ADMI3122
+1
+3
+JUEGO GERENCIAL
+36
+35
+1
+----------------------
+ 
+ 
+L
+1700 - 1820
+.SD_805
+01/08/16
+19/11/16
+ 
+V
+0630 - 0920
+.AU_107
+01/08/16
+19/11/16
+LOPEZ FAJARDO MARIANO ALBERTO
+ 
+ 
+----------------------
+CRN
+18608
+ADMI3122
+2
+3
+JUEGO GERENCIAL
+36
+36
+0
+----------------------
+ 
+ 
+L
+1700 - 1820
+.SD_805
+01/08/16
+19/11/16
+ 
+M
+0630 - 0920
+.AU_404
+01/08/16
+19/11/16
+YAÑEZ ARENAS JAVIER
+ 
+ 
+----------------------
+CRN
+13557
+ADMI3122
+3
+3
+JUEGO GERENCIAL
+36
+36
+0
+----------------------
+ 
+ 
+J
+1700 - 1950
+.AU_107
+01/08/16
+19/11/16
+ 
+L
+1700 - 1820
+.SD_805
+01/08/16
+19/11/16
+FUENTES FRIAS DARIO ALEJANDRO
+ 
+ 
+----------------------
+CRN
+13924
+ADMI3122
+4
+3
+JUEGO GERENCIAL
+40
+40
+0
+----------------------
+ 
+ 
+I
+1700 - 1950
+.AU_201
+01/08/16
+19/11/16
+ 
+L
+1700 - 1820
+.SD_805
+01/08/16
+19/11/16
+BRITTO RODRIGO
+ 
+ 
+----------------------
+CRN
+13228
+ADMI3133B
+1
+3
+GERENCIA AMBIENTAL (INGLES)
+57
+54
+3
+----------------------
+ 
+ 
+I    V
+1230 - 1350
+.Y_101
+01/08/16
+19/11/16
+PARK JOO YOUNG
+ 
+ 
+----------------------
+CRN
+14504
+ADMI3137
+1
+3
+MODELOS DE LIDERAZGO
+50
+26
+24
+----------------------
+ 
+ 
+L
+0630 - 0920
+.O_403
+01/08/16
+19/11/16
+LEON DIAZ INGRID MARCELA
+ 
+ 
+----------------------
+CRN
+10808
+ADMI3200
+1
+3
+OPCION DE GRADO-TG (ESTRATEGIA
+22
+21
+1
+----------------------
+ 
+ 
+L      J
+1400 - 1520
+.W_505
+01/08/16
+19/11/16
+FERRO CORTES LUZ MARINA
+ 
+ 
+----------------------
+CRN
+13761
+ADMI3200
+2
+3
+OPCION DE GRADO-TG (MERCADEO)
+20
+13
+7
+----------------------
+ 
+ 
+L    I
+1400 - 1520
+.G_102
+01/08/16
+19/11/16
+OSPINA SILVA JOSE MIGUEL
+ 
+ 
+----------------------
+CRN
+13762
+ADMI3200
+3
+3
+OPCION DE GRADO-TG (FINANZAS)
+30
+8
+22
+----------------------
+ 
+ 
+V
+1230 - 1350
+.O_202
+01/08/16
+19/11/16
+ 
+J
+1230 - 1350
+.S_102
+01/08/16
+19/11/16
+ROSSO MURILLO JOHN WILLIAM
+ 
+ 
+----------------------
+CRN
+10861
+ADMI3200
+5
+3
+OPCION DE GRADO - ASIS. INVEST
+100
+110
+-10
+----------------------
+ 
+ 
+-
+.NOREQ
+01/08/16
+19/11/16
+DIAZ MATAJIRA LUIS
+ 
+ 
+----------------------
+CRN
+11998
+ADMI3205
+1
+3
+FINANZAS PERSONALES
+39
+36
+3
+----------------------
+ 
+ 
+J
+1100 - 1220
+.LL_304
+01/08/16
+19/11/16
+ 
+M
+1100 - 1220
+.O_302
+01/08/16
+19/11/16
+RODRIGUEZ RAGA SANTIAGO
+ 
+ 
+----------------------
+CRN
+10145
+ADMI3207
+1
+3
+MERCADO DE CAPITALES
+50
+47
+3
+----------------------
+ 
+ 
+M    J
+0930 - 1050
+.O_404
+01/08/16
+19/11/16
+RODRIGUEZ RAGA SANTIAGO
+ 
+ 
+----------------------
+CRN
+21320
+ADMI3210
+1
+3
+MERCADOS DERIVADOS
+50
+47
+3
+----------------------
+ 
+ 
+L      J
+1230 - 1350
+.Z_213
+01/08/16
+19/11/16
+ARCILA BARRERA CARLOS ALFREDO
+ 
+ 
+----------------------
+CRN
+19134
+ADMI3237
+1
+3
+MARKETING COMMUNICA. (ESPAÑOL)
+30
+24
+6
+----------------------
+ 
+ 
+L      J
+0800 - 0920
+.AU_302
+01/08/16
+19/11/16
+PEREZ CIFUENTES GABRIEL
+ 
+ 
+----------------------
+CRN
+14505
+ADMI3313
+1
+3
+SALES AND DISTR MANAGEM (INGL)
+45
+28
+17
+----------------------
+ 
+ 
+M      V
+0930 - 1050
+.R_110
+01/08/16
+19/11/16
+GARCIA GARCIA ARMANDO
+ 
+ 
+----------------------
+CRN
+21323
+ADMI3327
+1
+3
+OPCIONES REALES
+40
+16
+24
+----------------------
+ 
+ 
+M    J
+0930 - 1050
+.W_402
+01/08/16
+19/11/16
+BAUTISTA MENA RAFAEL DE JESUS
+ 
+ 
+----------------------
+CRN
+21324
+ADMI3336
+1
+3
+MARK. CULTU. AND ARTS(ESPAÑOL)
+40
+23
+17
+----------------------
+ 
+ 
+J
+0800 - 0920
+.O_404
+01/08/16
+19/11/16
+ 
+M
+0800 - 0920
+.AU_205
+01/08/16
+19/11/16
+MUÑOZ VELA MONICA MARIA
+ 
+ 
+----------------------
+CRN
+10147
+ADMI3405
+1
+3
+SISTEM. INFORMACGER.(INGLES)
+45
+14
+31
+----------------------
+ 
+ 
+L      J
+1100 - 1220
+.ML_509
+01/08/16
+19/11/16
+CAMACHO AHUMADA SONIA MARCELA
+ 
+ 
+----------------------
+CRN
+10148
+ADMI3405
+2
+3
+SISTEMAS INFORMACION GERENCIAL
+45
+34
+11
+----------------------
+ 
+ 
+L      J
+1400 - 1520
+.SD_702
+01/08/16
+19/11/16
+CAMACHO AHUMADA SONIA MARCELA
+ 
+ 
+----------------------
+CRN
+18615
+ADMI3405
+3
+3
+SISTEMAS INFORMACION GERENCIAL
+45
+16
+29
+----------------------
+ 
+ 
+L    I
+0930 - 1050
+.SD_715
+01/08/16
+19/11/16
+RUIZ VALDIVIESO MAURICIO
+ 
+ 
+----------------------
+CRN
+23197
+ADMI3405
+4
+3
+SISTEMAS INFORMACION GERENCIAL
+45
+42
+3
+----------------------
+ 
+ 
+V
+1230 - 1350
+.SD_702
+01/08/16
+19/11/16
+ 
+M
+1230 - 1350
+.SD_715
+01/08/16
+19/11/16
+DIAZ VELASCO JOSE DARIO
+ 
+ 
+----------------------
+CRN
+21325
+ADMI3406
+1
+3
+INTEL.NEGOC.MERCAD.RELAC.(CRM)
+40
+10
+30
+----------------------
+ 
+ 
+M    J
+1230 - 1350
+.ML_515
+01/08/16
+19/11/16
+RUIZ VALDIVIESO MAURICIO
+ 
+ 
+----------------------
+CRN
+17432
+ADMI3431
+1
+3
+MARKETING DIGITAL
+30
+30
+0
+----------------------
+ 
+ 
+L    I
+0800 - 0920
+.AU_403
+01/08/16
+19/11/16
+VENEGAS SANCHEZ MARIA CAMILA
+ 
+ 
+----------------------
+CRN
+10149
+ADMI3502
+1
+3
+ESTRATEGIA
+60
+50
+10
+----------------------
+ 
+ 
+L      J
+0630 - 0750
+.M_100
+01/08/16
+19/11/16
+YAÑEZ ARENAS JAVIER
+ 
+ 
+----------------------
+CRN
+10407
+ADMI3502
+2
+3
+ESTRATEGIA
+60
+58
+2
+----------------------
+ 
+ 
+L      J
+0800 - 0920
+.O_202
+01/08/16
+19/11/16
+MONTES JUAN CARLOS
+ 
+ 
+----------------------
+CRN
+12463
+ADMI3502
+3
+3
+ESTRATEGIA
+67
+66
+1
+----------------------
+ 
+ 
+J
+1100 - 1220
+.SD_803
+01/08/16
+19/11/16
+ 
+M
+1100 - 1220
+.SD_802
+01/08/16
+19/11/16
+BARRIGA PALACIO JORGE RICARDO
+ 
+ 
+----------------------
+CRN
+23196
+ADMI3503
+1
+3
+SERVICE MANAGEMENT
+40
+22
+18
+----------------------
+ 
+ 
+M    J
+1100 - 1220
+.AU_205
+01/08/16
+19/11/16
+THIELL MARCUS
+ 
+ 
+----------------------
+CRN
+10132
+ADMI3601
+1
+3
+TALL. HABILIDADES GERENC.
+40
+19
+21
+----------------------
+ 
+ 
+L
+1700 - 1950
+.ML_516
+01/08/16
+19/11/16
+MUNOZ CIFUENTES JESUS
+ 
+ 
+----------------------
+CRN
+10898
+ADMI3604
+1
+3
+TALLER DE INNOVACION
+25
+12
+13
+----------------------
+ 
+ 
+I
+0930 - 1220
+.Y_101
+01/08/16
+19/11/16
+VESGA RAFAEL
+ 
+ 
+----------------------
+CRN
+17433
+ADMI3606
+1
+3
+ESTRATEGIAS DE NEGOCIACION
+40
+39
+1
+----------------------
+ 
+ 
+I
+0800 - 1050
+.AU_204
+01/08/16
+19/11/16
+CANAL MARGARITA
+ 
+ 
+----------------------
+CRN
+23065
+ADMI3611
+1
+3
+ALIMENTOS Y OPORTUN.EMPRENDED.
+23
+21
+2
+----------------------
+ 
+ 
+M    J
+0930 - 1050
+.AU_104
+01/08/16
+19/11/16
+PEÑA FERNANDEZ CLAUDIO HUMBERTO
+ 
+ 
+----------------------
+CRN
+11291
+ADMI3615
+1
+3
+MERCADEO DEPORTIVO
+50
+25
+25
+----------------------
+ 
+ 
+M      V
+0630 - 0750
+.O_402
+01/08/16
+19/11/16
+LLORENTE CARREÑO ALVARO
+ 
+ 
+----------------------
+CRN
+11132
+ADMI3701
+1
+3
+NEGOCIOS INTERNACIONALES
+55
+47
+8
+----------------------
+ 
+ 
+L      J
+1100 - 1220
+.O_302
+01/08/16
+19/11/16
+NICOLAS REQUENA  XIMENA
+ 
+ 
+----------------------
+CRN
+10150
+ADMI3701
+2
+3
+NEGOCIOS INTERNACIONALES
+50
+50
+0
+----------------------
+ 
+ 
+L      J
+0930 - 1050
+.O_401
+01/08/16
+19/11/16
+CARRILLO JUAN
+ 
+ 
+----------------------
+CRN
+12120
+ADMI3701
+3
+3
+NEGOCIOS INTERNACIONALES
+55
+54
+1
+----------------------
+ 
+ 
+M    J
+0930 - 1050
+.SD_801
+01/08/16
+19/11/16
+BARRIGA PALACIO JORGE RICARDO
+ 
+ 
+----------------------
+CRN
+13702
+ADMI3990
+1
+0
+INSCRIPCION A GRADO
+200
+15
+185
+----------------------
+ 
+ 
+-
+.NOREQ
+01/08/16
+19/11/16
+DIAZ MATAJIRA LUIS
+ 
+ 
+----------------------
+CRN
+10900
+ADMI3991
+1
+6
+PRACTICA EMPRESARIAL
+100
+56
+44
+----------------------
+ 
+ 
+-
+.NOREQ
+01/08/16
+19/11/16
+DIAZ MATAJIRA LUIS
+ 
+ 
+----------------------

@@ -1,0 +1,261 @@
+CRN
+13183
+ARTI4101
+1
+4
+GERENCIA DE PROYECTOS ARQUITEC
+30
+21
+9
+----------------------
+ 
+ 
+J
+1800 - 2050
+.LL_202
+01/08/16
+19/11/16
+CUETO ALBERTO
+GONGORA MORENO EDUARDO
+ 
+ 
+----------------------
+CRN
+13579
+ARTI4102
+1
+4
+COMUNICACION EFECTIVA
+30
+26
+4
+----------------------
+ 
+ 
+L
+1800 - 2050
+.S1_003
+01/08/16
+19/11/16
+ 
+S
+0800 - 1050
+.S1_202
+20/08/16
+20/08/16
+ 
+S
+0800 - 1050
+.S1_202
+10/09/16
+17/09/16
+ 
+S
+0800 - 1050
+.S1_202
+22/10/16
+29/10/16
+ 
+S
+0800 - 1050
+.S1_202
+12/11/16
+19/11/16
+DUQUE SALAZAR ANA LUCIA
+BOTERO URIBE PATRICIA
+BARBOZA NAVAS AMPARO
+ 
+ 
+----------------------
+CRN
+12663
+ARTI4103
+1
+4
+ARQUITECTURA DE NEGOCIO Y TI
+35
+35
+0
+----------------------
+ 
+ 
+I
+1800 - 2050
+.AU_203
+01/08/16
+19/11/16
+VILLALOBOS SALCEDO JORGE ALBERTO
+ 
+ 
+----------------------
+CRN
+13982
+ARTI4106
+1
+4
+ARQUITECTURA EMPRESARIAL
+31
+31
+0
+----------------------
+ 
+ 
+L
+1800 - 2050
+.M_100
+01/08/16
+19/11/16
+OCAMPO ALEXIS
+ 
+ 
+----------------------
+CRN
+23552
+ARTI4108
+1
+4
+POWER PEOPLE
+30
+18
+12
+----------------------
+ 
+ 
+J
+1800 - 2050
+.O_301
+01/08/16
+19/11/16
+GONZALEZ ANDRADE SONIA MABEL
+ 
+ 
+----------------------
+CRN
+21392
+ARTI4201
+1
+4
+ARQUITECTURA DE SOLUCION
+32
+32
+0
+----------------------
+ 
+ 
+M
+1800 - 2050
+.ML_512
+01/08/16
+19/11/16
+CORREAL DARIO
+ 
+ 
+----------------------
+CRN
+12667
+ARTI4202
+1
+4
+ARQUITECTURA DE INFORMACIÓN
+40
+40
+0
+----------------------
+ 
+ 
+J
+1800 - 2050
+.Z_101
+01/08/16
+19/11/16
+SARMENTO GUEVARA JUAN MANUEL
+ 
+ 
+----------------------
+CRN
+12665
+ARTI4203
+1
+4
+ARQUITECTURA DE INFRAESTRUCTUR
+35
+30
+5
+----------------------
+ 
+ 
+I
+1800 - 2050
+.R_109
+01/08/16
+19/11/16
+CASTRO BARRERA HAROLD ENRIQUE
+GOMEZ DIAZ RAFAEL ENRIQUE
+RUEDA FAJARDO FRANCISCO
+ 
+ 
+----------------------
+CRN
+13185
+ARTI4204
+1
+4
+ARQUITECTURA DE SEGURIDAD
+40
+37
+3
+----------------------
+ 
+ 
+M
+1800 - 2050
+.ML_514
+01/08/16
+19/11/16
+DONOSO YESID
+RUEDA RODRIGUEZ SANDRA JULIETA
+ 
+ 
+----------------------
+CRN
+13285
+ARTI4205
+1
+4
+ARQUITECTURA PROCESOS NEGOCIO
+35
+27
+8
+----------------------
+ 
+ 
+M
+1800 - 2050
+.LL_107
+01/08/16
+19/11/16
+SANCHEZ PUCCINI MARIO EDUARDO
+ 
+ 
+----------------------
+CRN
+13582
+ARTI4301
+1
+4
+PROYECTO FINAL
+52
+52
+0
+----------------------
+ 
+ 
+L
+1800 - 2050
+.LL_301
+01/08/16
+19/11/16
+CORREAL DARIO
+ 
+ 
+----------------------

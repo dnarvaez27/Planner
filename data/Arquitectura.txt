@@ -1,0 +1,2123 @@
+CRN
+10217
+ARQU1010
+1
+0
+PORTAFOLIO REQUISITO DE GRADO
+100
+77
+23
+----------------------
+ 
+ 
+-
+.NOREQ
+01/08/16
+19/11/16
+CORREDOR MOSQUERA SANDRA YOHANNA
+ 
+ 
+----------------------
+CRN
+10904
+ARQU1020
+1
+3
+MONOGRAFIA OPCION HIST ART ARQ
+5
+1
+4
+----------------------
+ 
+ 
+-
+.NOREQ
+01/08/16
+19/11/16
+VILLATE MATIZ CAMILO
+ 
+ 
+----------------------
+CRN
+10193
+ARQU1021
+1
+3
+MONOGRAFIA OPCION ARQUYCIUDAD
+5
+3
+2
+----------------------
+ 
+ 
+-
+.NOREQ
+01/08/16
+19/11/16
+VILLATE MATIZ CAMILO
+ 
+ 
+----------------------
+CRN
+21352
+ARQU1100
+1
+0
+ACOMPAÑAMIENTO ARQU
+100
+86
+14
+----------------------
+ 
+ 
+L
+0800 - 0920
+.T_202
+01/08/16
+19/11/16
+ALBORNOZ RUGELES CRISTINA
+MEJIA ORTIZ CLAUDIA
+ 
+ 
+----------------------
+CRN
+13825
+ARQU1111
+1
+3
+TALLER DE COMPOSICION 1
+20
+20
+0
+----------------------
+ 
+ 
+M
+0800 - 1050
+.T_202A
+01/08/16
+19/11/16
+NAVARRO MORALES MARIA ELISA
+ 
+ 
+----------------------
+CRN
+14020
+ARQU1111
+2
+3
+TALLER DE COMPOSICION 1
+20
+19
+1
+----------------------
+ 
+ 
+M
+0800 - 1050
+.T_202C
+01/08/16
+19/11/16
+RENGIFO BARRETO JOSE IGNACIO
+ 
+ 
+----------------------
+CRN
+14022
+ARQU1111
+3
+3
+TALLER DE COMPOSICION 1
+20
+20
+0
+----------------------
+ 
+ 
+M
+0800 - 1050
+.T_203
+01/08/16
+19/11/16
+MOSQUERA IRAGORRI MANUELA
+ 
+ 
+----------------------
+CRN
+14025
+ARQU1111
+4
+3
+TALLER DE COMPOSICION 1
+20
+18
+2
+----------------------
+ 
+ 
+M
+0800 - 1050
+.T_206
+01/08/16
+19/11/16
+SERNA MEZA GLORIA PATRICIA
+ 
+ 
+----------------------
+CRN
+20809
+ARQU1111
+5
+3
+TALLER DE COMPOSICION 1
+20
+16
+4
+----------------------
+ 
+ 
+M
+0800 - 1050
+.T_207
+01/08/16
+19/11/16
+MEJIA ORTIZ CLAUDIA
+ 
+ 
+----------------------
+CRN
+13826
+ARQU1121
+1
+3
+TALLER DE COMPOSICION 2
+20
+20
+0
+----------------------
+ 
+ 
+V
+1400 - 1650
+.T_202A
+01/08/16
+19/11/16
+NAVARRO MORALES MARIA ELISA
+ 
+ 
+----------------------
+CRN
+14026
+ARQU1121
+2
+3
+TALLER DE COMPOSICION 2
+20
+19
+1
+----------------------
+ 
+ 
+V
+1400 - 1650
+.T_202C
+01/08/16
+19/11/16
+ANZELLINI FAJARDO STEFANO
+ 
+ 
+----------------------
+CRN
+14027
+ARQU1121
+3
+3
+TALLER DE COMPOSICION 2
+20
+19
+1
+----------------------
+ 
+ 
+V
+1400 - 1650
+.T_206
+01/08/16
+19/11/16
+MOJICA RIOS XIOMARA
+ 
+ 
+----------------------
+CRN
+14028
+ARQU1121
+4
+3
+TALLER DE COMPOSICION 2
+20
+18
+2
+----------------------
+ 
+ 
+V
+1400 - 1650
+.T_207
+01/08/16
+19/11/16
+SANCHEZ CAICEDO ANDRES NORBERTO
+ 
+ 
+----------------------
+CRN
+10768
+ARQU1201
+1
+3
+TALLER DE HISTORIA 1
+20
+21
+-1
+----------------------
+ 
+ 
+J
+0800 - 1050
+.T_202A
+01/08/16
+19/11/16
+MAZUERA NIETO EDUARDO
+ 
+ 
+----------------------
+CRN
+10766
+ARQU1201
+2
+3
+TALLER DE HISTORIA 1
+20
+21
+-1
+----------------------
+ 
+ 
+J
+0800 - 1050
+.T_202C
+01/08/16
+19/11/16
+GOOSSENS MAARTEN
+ 
+ 
+----------------------
+CRN
+12445
+ARQU1201
+3
+3
+TALLER DE HISTORIA 1
+20
+18
+2
+----------------------
+ 
+ 
+J
+0800 - 1050
+.T_203
+01/08/16
+19/11/16
+PARRA ESCOBAR CATALINA
+ 
+ 
+----------------------
+CRN
+12446
+ARQU1201
+4
+3
+TALLER DE HISTORIA 1
+20
+20
+0
+----------------------
+ 
+ 
+J
+0800 - 1050
+.T_206
+01/08/16
+19/11/16
+MENDEZ CARDENAS RAFAEL ERNESTO
+ 
+ 
+----------------------
+CRN
+16622
+ARQU1201
+5
+3
+TALLER DE HISTORIA 1
+20
+20
+0
+----------------------
+ 
+ 
+J
+0800 - 1050
+.T_207
+01/08/16
+19/11/16
+VEGA ROSAS RAFAEL ALFONSO
+ 
+ 
+----------------------
+CRN
+10676
+ARQU1202
+1
+3
+TALLER DE HISTORIA 2
+20
+20
+0
+----------------------
+ 
+ 
+I
+1100 - 1350
+.T_202A
+01/08/16
+19/11/16
+MAZUERA NIETO EDUARDO
+ 
+ 
+----------------------
+CRN
+10770
+ARQU1202
+2
+3
+TALLER DE HISTORIA 2
+20
+19
+1
+----------------------
+ 
+ 
+I
+1100 - 1350
+.T_202C
+01/08/16
+19/11/16
+ARIZA PARRADO LUCAS
+ 
+ 
+----------------------
+CRN
+12447
+ARQU1202
+3
+3
+TALLER DE HISTORIA 2
+20
+19
+1
+----------------------
+ 
+ 
+I
+1100 - 1350
+.T_203
+01/08/16
+19/11/16
+MENDEZ CARDENAS RAFAEL ERNESTO
+ 
+ 
+----------------------
+CRN
+12448
+ARQU1202
+4
+3
+TALLER DE HISTORIA 2
+20
+20
+0
+----------------------
+ 
+ 
+I
+1100 - 1350
+.T_206
+01/08/16
+19/11/16
+ALBORNOZ RUGELES CRISTINA
+ 
+ 
+----------------------
+CRN
+12236
+ARQU1225A
+1
+3
+LA HISTORIA DE UNA CASA
+77
+78
+-1
+----------------------
+ 
+ 
+L      J
+1530 - 1650
+.SD_802
+01/08/16
+19/11/16
+JANE I MAS MARC
+ 
+ 
+----------------------
+CRN
+11064
+ARQU1226A
+1
+3
+HIST PROPORCIONES ARTE Y ARQU
+77
+55
+22
+----------------------
+ 
+ 
+L      J
+1230 - 1350
+.SD_802
+01/08/16
+19/11/16
+ANZELLINI FAJARDO STEFANO
+ 
+ 
+----------------------
+Curso Tipo E
+CRN
+12000
+ARQU1229A
+1
+3
+ARQUITEC. CUERPO Y PERCEPCIÓN
+77
+63
+14
+----------------------
+ 
+ 
+L      J
+1230 - 1350
+.SD_806
+01/08/16
+19/11/16
+ISAAK CAMILO
+ 
+ 
+----------------------
+CRN
+10677
+ARQU1301
+1
+3
+TALLER TECNICO 1
+20
+19
+1
+----------------------
+ 
+ 
+I
+0800 - 1050
+.T_202A
+01/08/16
+19/11/16
+VILLAZON GODOY RAFAEL ENRIQUE
+ 
+ 
+----------------------
+CRN
+10772
+ARQU1301
+2
+3
+TALLER TECNICO 1
+20
+20
+0
+----------------------
+ 
+ 
+I
+0800 - 1050
+.T_202C
+01/08/16
+19/11/16
+COTE MENENDEZ EDUARDO
+ 
+ 
+----------------------
+CRN
+12449
+ARQU1301
+3
+3
+TALLER TECNICO 1
+20
+21
+-1
+----------------------
+ 
+ 
+I
+0800 - 1050
+.T_206
+01/08/16
+19/11/16
+GARCIA VARGAS JAIME
+ 
+ 
+----------------------
+CRN
+20811
+ARQU1301
+4
+3
+TALLER TECNICO 1
+20
+21
+-1
+----------------------
+ 
+ 
+I
+0800 - 1050
+.T_207
+01/08/16
+19/11/16
+VELANDIA RAYO DIEGO ALEJANDRO
+ 
+ 
+----------------------
+CRN
+16623
+ARQU1301
+5
+3
+TALLER TECNICO 1
+20
+20
+0
+----------------------
+ 
+ 
+I
+0800 - 1050
+.T_203
+01/08/16
+19/11/16
+DUPLAT LAPIDES DANIEL ISAAC
+ 
+ 
+----------------------
+CRN
+10678
+ARQU1302
+1
+3
+TALLER TECNICO 2
+20
+22
+-2
+----------------------
+ 
+ 
+M
+1400 - 1650
+.T_202A
+01/08/16
+19/11/16
+MEDINA DEL RÍO JUAN MANUEL
+ 
+ 
+----------------------
+CRN
+10773
+ARQU1302
+2
+3
+TALLER TECNICO 2
+20
+22
+-2
+----------------------
+ 
+ 
+M
+1400 - 1650
+.T_202C
+01/08/16
+19/11/16
+HUERTAS NADAL DANIEL
+ 
+ 
+----------------------
+CRN
+12455
+ARQU1302
+3
+3
+TALLER TECNICO 2
+20
+20
+0
+----------------------
+ 
+ 
+M
+1400 - 1650
+.T_206
+01/08/16
+19/11/16
+GARCIA VARGAS JAIME
+ 
+ 
+----------------------
+CRN
+12456
+ARQU1302
+4
+3
+TALLER TECNICO 2
+20
+23
+-3
+----------------------
+ 
+ 
+M
+1400 - 1650
+.T_203
+01/08/16
+19/11/16
+VILLATE MATIZ MARIA CLAUDIA
+ 
+ 
+----------------------
+CRN
+12237
+ARQU1305A
+1
+3
+CIUDAD Y TECNICA
+77
+40
+37
+----------------------
+ 
+ 
+M      V
+1100 - 1220
+.SD_804
+01/08/16
+19/11/16
+VARGAS CAICEDO HERNANDO
+ 
+ 
+----------------------
+CRN
+10679
+ARQU1306B
+1
+3
+RASCACIELOS CIUDAD VERTICAL
+77
+48
+29
+----------------------
+ 
+ 
+M      V
+1530 - 1650
+.SD_802
+01/08/16
+19/11/16
+VILLATE MATIZ CAMILO
+ 
+ 
+----------------------
+CRN
+11164
+ARQU1410
+1
+3
+TALLER CIUDAD 1
+20
+22
+-2
+----------------------
+ 
+ 
+V
+0800 - 1050
+.T_202C
+01/08/16
+19/11/16
+BLANCO CHAPARRO ALBA CAROLINA
+ 
+ 
+----------------------
+CRN
+11230
+ARQU1410
+2
+3
+TALLER CIUDAD 1
+20
+20
+0
+----------------------
+ 
+ 
+V
+0800 - 1050
+.T_202A
+01/08/16
+19/11/16
+QUINTANA GUERRERO INGRID
+ 
+ 
+----------------------
+CRN
+12451
+ARQU1410
+3
+3
+TALLER CIUDAD 1
+20
+21
+-1
+----------------------
+ 
+ 
+V
+0800 - 1050
+.T_203
+01/08/16
+19/11/16
+SALAZAR FERRO CAMILO
+ 
+ 
+----------------------
+CRN
+12452
+ARQU1410
+4
+3
+TALLER CIUDAD 1
+20
+21
+-1
+----------------------
+ 
+ 
+V
+0800 - 1050
+.T_206
+01/08/16
+19/11/16
+RAMIREZ GERMAN
+ 
+ 
+----------------------
+CRN
+13317
+ARQU1410
+5
+3
+TALLER CIUDAD 1
+20
+21
+-1
+----------------------
+ 
+ 
+V
+0800 - 1050
+.T_207
+01/08/16
+19/11/16
+SANCHEZ GARCIA MANUEL
+ 
+ 
+----------------------
+CRN
+11165
+ARQU1420
+1
+3
+TALLER CIUDAD 2
+20
+19
+1
+----------------------
+ 
+ 
+I
+1530 - 1820
+.T_202A
+01/08/16
+19/11/16
+QUINTANA GUERRERO INGRID
+ 
+ 
+----------------------
+CRN
+11231
+ARQU1420
+2
+3
+TALLER CIUDAD 2
+20
+20
+0
+----------------------
+ 
+ 
+I
+1530 - 1820
+.T_206
+01/08/16
+19/11/16
+ARTEAGA ARREDONDO ISABEL CRISTINA
+ 
+ 
+----------------------
+CRN
+12453
+ARQU1420
+3
+3
+TALLER CIUDAD 2
+20
+19
+1
+----------------------
+ 
+ 
+I
+1530 - 1820
+.T_207
+01/08/16
+19/11/16
+CONCHA SERRANO MARIA CAROLINA
+ 
+ 
+----------------------
+CRN
+20812
+ARQU1420
+5
+3
+TALLER CIUDAD 2
+20
+20
+0
+----------------------
+ 
+ 
+I
+1530 - 1820
+.T_202C
+01/08/16
+19/11/16
+MOTTA LE GAL CAROLINE MARIE
+ 
+ 
+----------------------
+CRN
+14034
+ARQU1502
+1
+3
+VISUALIZACION Y SIMULACIÓN ARQ
+20
+21
+-1
+----------------------
+ 
+ 
+J
+1400 - 1650
+.TX_304
+01/08/16
+19/11/16
+VELANDIA RAYO DIEGO ALEJANDRO
+ 
+ 
+----------------------
+CRN
+12264
+ARQU1503
+1
+3
+DIBUJO ARQUITECTONICO ANALOGO
+20
+20
+0
+----------------------
+ 
+ 
+M
+1100 - 1350
+.T_103
+01/08/16
+19/11/16
+ALBORNOZ RUGELES CRISTINA
+ 
+ 
+----------------------
+CRN
+12459
+ARQU1503
+2
+3
+DIBUJO ARQUITECTONICO ANALOGO
+20
+20
+0
+----------------------
+ 
+ 
+M
+1100 - 1350
+.T_104
+01/08/16
+19/11/16
+MOSQUERA IRAGORRI MANUELA
+ 
+ 
+----------------------
+CRN
+13258
+ARQU1503
+3
+3
+DIBUJO ARQUITECTONICO ANALOGO
+20
+20
+0
+----------------------
+ 
+ 
+L
+1230 - 1520
+.T_104
+01/08/16
+19/11/16
+ARIZA PARRADO LUCAS
+ 
+ 
+----------------------
+CRN
+13259
+ARQU1503
+4
+3
+DIBUJO ARQUITECTONICO ANALOGO
+20
+21
+-1
+----------------------
+ 
+ 
+I
+1230 - 1520
+.T_103
+01/08/16
+19/11/16
+SANCHEZ GARCIA MANUEL
+ 
+ 
+----------------------
+CRN
+16982
+ARQU1503
+5
+3
+DIBUJO ARQUITECTONICO ANALOGO
+20
+21
+-1
+----------------------
+ 
+ 
+J
+1230 - 1520
+.T_103
+01/08/16
+19/11/16
+ARIZA PARRADO LUCAS
+ 
+ 
+----------------------
+CRN
+13250
+ARQU1504
+1
+3
+DIBUJO ARQUITECTONICO DIGITAL
+20
+20
+0
+----------------------
+ 
+ 
+M
+0930 - 1220
+.TX_304
+01/08/16
+19/11/16
+HUDSON ROLAND
+ 
+ 
+----------------------
+CRN
+11166
+ARQU1552
+1
+3
+HERRAMIENTAS DIGITALES
+20
+20
+0
+----------------------
+ 
+ 
+V
+0930 - 1220
+.TX_304
+01/08/16
+19/11/16
+GUERRA ARJONA FELIPE ANDRES
+ 
+ 
+----------------------
+CRN
+10857
+ARQU2101
+1
+5
+PROYECTO HABITAR
+17
+18
+-1
+----------------------
+ 
+ 
+M      V
+1100 - 1350
+.T_203
+01/08/16
+19/11/16
+JANE I MAS MARC
+ 
+ 
+----------------------
+CRN
+12121
+ARQU2101
+2
+5
+PROYECTO HABITAR
+17
+16
+1
+----------------------
+ 
+ 
+M      V
+1100 - 1350
+.T_202A
+01/08/16
+19/11/16
+RENGIFO BARRETO JOSE IGNACIO
+ 
+ 
+----------------------
+CRN
+13260
+ARQU2101
+3
+5
+PROYECTO HABITAR
+17
+16
+1
+----------------------
+ 
+ 
+M      V
+1100 - 1350
+.T_206
+01/08/16
+19/11/16
+RIERADEVALL PONS JOSEP MARIA
+ 
+ 
+----------------------
+CRN
+13271
+ARQU2101
+4
+5
+PROYECTO HABITAR
+17
+16
+1
+----------------------
+ 
+ 
+M      V
+1100 - 1350
+.T_202C
+01/08/16
+19/11/16
+VELA GARAVITO MARIA LUISA
+ 
+ 
+----------------------
+CRN
+15075
+ARQU2101
+5
+5
+PROYECTO HABITAR
+16
+17
+-1
+----------------------
+ 
+ 
+M      V
+1100 - 1350
+.T_207
+01/08/16
+19/11/16
+PUENTES AMEZQUITA ALEJANDRO
+ 
+ 
+----------------------
+CRN
+10218
+ARQU2102
+1
+5
+PROYECTO TECTONICA
+17
+17
+0
+----------------------
+ 
+ 
+L      J
+1400 - 1650
+.T_206
+01/08/16
+19/11/16
+VILLATE MATIZ CAMILO
+ 
+ 
+----------------------
+CRN
+12122
+ARQU2102
+2
+5
+PROYECTO TECTONICA
+17
+17
+0
+----------------------
+ 
+ 
+L      J
+1400 - 1650
+.T_203
+01/08/16
+19/11/16
+CAMPUZANO OTERO GABRIEL
+ 
+ 
+----------------------
+CRN
+12460
+ARQU2102
+3
+5
+PROYECTO TECTONICA
+17
+17
+0
+----------------------
+ 
+ 
+L      J
+1400 - 1650
+.T_202A
+01/08/16
+19/11/16
+DE LA CARRERA FERNANDO
+ 
+ 
+----------------------
+CRN
+13272
+ARQU2102
+4
+5
+PROYECTO TECTONICA
+17
+17
+0
+----------------------
+ 
+ 
+L      J
+1400 - 1650
+.T_207
+01/08/16
+19/11/16
+TORRES CAMPOS GERMAN AUGUSTO
+ 
+ 
+----------------------
+CRN
+13273
+ARQU2102
+5
+5
+PROYECTO TECTONICA
+16
+15
+1
+----------------------
+ 
+ 
+L      J
+1400 - 1650
+.T_202C
+01/08/16
+19/11/16
+RONDEROS LOPEZ DANIEL ERNESTO
+ 
+ 
+----------------------
+CRN
+11372
+ARQU2103
+1
+5
+PROYECTO  LUGAR
+17
+17
+0
+----------------------
+ 
+ 
+L      J
+1100 - 1350
+.T_202A
+01/08/16
+19/11/16
+ROSSI CLAUDIO
+ 
+ 
+----------------------
+CRN
+11373
+ARQU2103
+2
+5
+PROYECTO  LUGAR
+17
+17
+0
+----------------------
+ 
+ 
+L      J
+1100 - 1350
+.T_202C
+01/08/16
+19/11/16
+BRUNNER VON LEHENSTEINS KONRAD
+ 
+ 
+----------------------
+CRN
+13652
+ARQU2103
+3
+5
+PROYECTO  LUGAR
+16
+15
+1
+----------------------
+ 
+ 
+L      J
+1100 - 1350
+.T_203
+01/08/16
+19/11/16
+DELGADO RODRIGUEZ DAVID HUMBERTO
+ 
+ 
+----------------------
+CRN
+13653
+ARQU2103
+4
+5
+PROYECTO  LUGAR
+16
+16
+0
+----------------------
+ 
+ 
+L      J
+1100 - 1350
+.T_206
+01/08/16
+19/11/16
+MOTTA LE GAL CAROLINE MARIE
+ 
+ 
+----------------------
+CRN
+13654
+ARQU2103
+5
+5
+PROYECTO  LUGAR
+16
+16
+0
+----------------------
+ 
+ 
+L      J
+1100 - 1350
+.T_207
+01/08/16
+19/11/16
+SAMPER DE NEU XIMENA
+ 
+ 
+----------------------
+CRN
+10680
+ARQU2104
+1
+0
+SESION PRACTICA PROYECTO HAB.
+80
+82
+-2
+----------------------
+ 
+ 
+I
+1530 - 1650
+.T_301
+01/08/16
+19/11/16
+JANE I MAS MARC
+ 
+ 
+----------------------
+CRN
+11374
+ARQU2105
+1
+0
+SESION PRACTICA PROYECTO TEC
+80
+82
+-2
+----------------------
+ 
+ 
+I
+1530 - 1650
+.Z_227
+01/08/16
+19/11/16
+VILLATE MATIZ CAMILO
+ 
+ 
+----------------------
+CRN
+11375
+ARQU2106
+1
+0
+SESION PRACTICA PROYECTO LUG
+80
+76
+4
+----------------------
+ 
+ 
+I
+1530 - 1650
+.T_103
+01/08/16
+19/11/16
+ROSSI CLAUDIO
+ 
+ 
+----------------------
+CRN
+15359
+ARQU2201
+1
+3
+ARQUETIPOS EN ARQUITECTURA
+45
+41
+4
+----------------------
+ 
+ 
+L      J
+1700 - 1820
+.O_302
+01/08/16
+19/11/16
+NAVARRO MORALES MARIA ELISA
+ 
+ 
+----------------------
+CRN
+23037
+ARQU2201
+2
+3
+ARQUETIPOS EN ARQUITECTURA
+45
+46
+-1
+----------------------
+ 
+ 
+I    V
+0800 - 0920
+.R_111
+01/08/16
+19/11/16
+RESTREPO HERNANDEZ FABIO
+ 
+ 
+----------------------
+CRN
+10026
+ARQU2202
+1
+3
+ARQUITECTURA CLASICA
+45
+43
+2
+----------------------
+ 
+ 
+L      J
+1700 - 1820
+.O_303
+01/08/16
+19/11/16
+ISAAK CAMILO
+ 
+ 
+----------------------
+CRN
+23038
+ARQU2202
+2
+3
+ARQUITECTURA CLASICA
+40
+42
+-2
+----------------------
+ 
+ 
+I    V
+0800 - 0920
+.W_505
+01/08/16
+19/11/16
+ASCHNER ROSSELLI JUAN PABLO
+ 
+ 
+----------------------
+Curso Tipo E
+CRN
+10590
+ARQU2203
+1
+3
+ARQUITECTURA MODERNA
+45
+34
+11
+----------------------
+ 
+ 
+L      J
+1700 - 1820
+.O_304
+01/08/16
+19/11/16
+GOOSSENS MAARTEN
+ 
+ 
+----------------------
+CRN
+23043
+ARQU2203
+2
+3
+ARQUITECTURA MODERNA
+45
+44
+1
+----------------------
+ 
+ 
+I    V
+0800 - 0920
+.LL_303
+01/08/16
+19/11/16
+O BYRNE OROZCO MARIA CECILIA
+ 
+ 
+----------------------
+CRN
+11232
+ARQU2310
+1
+3
+SISTEMAS DE SOPORTE
+45
+44
+1
+----------------------
+ 
+ 
+M
+1700 - 1820
+.W_102
+01/08/16
+19/11/16
+ 
+J
+0630 - 0750
+.LL_102
+01/08/16
+19/11/16
+PARRA GARCIA NICOLAS
+ 
+ 
+----------------------
+CRN
+23045
+ARQU2310
+2
+3
+SISTEMAS DE SOPORTE
+40
+30
+10
+----------------------
+ 
+ 
+V
+1700 - 1820
+.AU_205
+01/08/16
+19/11/16
+ 
+M
+0930 - 1050
+.W_505
+01/08/16
+19/11/16
+VELANDIA RAYO DIEGO ALEJANDRO
+ 
+ 
+----------------------
+CRN
+12265
+ARQU2310C
+1
+0
+COMPL SISTEMAS DE SOPORTE
+40
+42
+-2
+----------------------
+ 
+ 
+J
+0930 - 1050
+.ML_208
+01/08/16
+19/11/16
+NEGRET PRADA SEBASTIAN
+ 
+ 
+----------------------
+CRN
+12580
+ARQU2310C
+2
+0
+COMPL SISTEMAS DE SOPORTE
+40
+32
+8
+----------------------
+ 
+ 
+J
+1100 - 1220
+.LL_204
+01/08/16
+19/11/16
+NEGRET PRADA SEBASTIAN
+ 
+ 
+----------------------
+CRN
+11233
+ARQU2320
+1
+3
+SISTEMAS DE HABITABILIDAD
+44
+45
+-1
+----------------------
+ 
+ 
+M      V
+1700 - 1820
+.AU_206
+01/08/16
+19/11/16
+VILLAZON GODOY RAFAEL ENRIQUE
+ 
+ 
+----------------------
+CRN
+23046
+ARQU2320
+2
+3
+SISTEMAS DE HABITABILIDAD
+42
+41
+1
+----------------------
+ 
+ 
+M
+0800 - 0920
+.AU_201
+01/08/16
+19/11/16
+ 
+J
+0630 - 0750
+.W_504
+01/08/16
+19/11/16
+VILLATE MATIZ CAMILO
+ 
+ 
+----------------------
+CRN
+12266
+ARQU2320C
+1
+0
+COMPL SISTEMAS DE HABITABILID
+20
+23
+-3
+----------------------
+ 
+ 
+J
+0930 - 1050
+.Y_110B
+01/08/16
+19/11/16
+COTE MENENDEZ EDUARDO
+ 
+ 
+----------------------
+CRN
+12582
+ARQU2320C
+2
+0
+COMPL SISTEMAS DE HABITABILID
+20
+21
+-1
+----------------------
+ 
+ 
+J
+1100 - 1220
+.Y_110B
+01/08/16
+19/11/16
+COTE MENENDEZ EDUARDO
+ 
+ 
+----------------------
+CRN
+12583
+ARQU2320C
+3
+0
+COMPL SISTEMAS DE HABITABILID
+20
+19
+1
+----------------------
+ 
+ 
+V
+1230 - 1350
+.TX_304
+01/08/16
+19/11/16
+COTE MENENDEZ EDUARDO
+ 
+ 
+----------------------
+CRN
+12584
+ARQU2320C
+4
+0
+COMPL SISTEMAS DE HABITABILID
+20
+23
+-3
+----------------------
+ 
+ 
+V
+1400 - 1520
+.TX_304
+01/08/16
+19/11/16
+COTE MENENDEZ EDUARDO
+ 
+ 
+----------------------
+CRN
+11234
+ARQU2330
+1
+3
+SISTEMAS DE CONSTRUCCION Y EST
+40
+39
+1
+----------------------
+ 
+ 
+M
+0930 - 1050
+.W_504
+01/08/16
+19/11/16
+ 
+J
+0630 - 0750
+.W_506
+01/08/16
+19/11/16
+HUERTAS NADAL DANIEL
+ 
+ 
+----------------------
+CRN
+23047
+ARQU2330
+2
+3
+SISTEMAS DE CONSTRUCCION Y EST
+45
+38
+7
+----------------------
+ 
+ 
+I    V
+1700 - 1820
+.R_110
+01/08/16
+19/11/16
+MEDINA DEL RÍO JUAN MANUEL
+ 
+ 
+----------------------
+CRN
+12267
+ARQU2330C
+1
+0
+COMPL SISTEMAS DE CONSTR Y EST
+40
+46
+-6
+----------------------
+ 
+ 
+J
+0930 - 1050
+.LL_204
+01/08/16
+19/11/16
+SANCHEZ CAICEDO ANDRES NORBERTO
+ 
+ 
+----------------------
+CRN
+12585
+ARQU2330C
+2
+0
+COMPL SISTEMAS DE CONSTR Y EST
+40
+31
+9
+----------------------
+ 
+ 
+J
+1100 - 1220
+.ML_108B
+01/08/16
+19/11/16
+SANCHEZ CAICEDO ANDRES NORBERTO
+ 
+ 
+----------------------
+CRN
+11247
+ARQU2410
+1
+3
+PAISAJE URBANO
+45
+41
+4
+----------------------
+ 
+ 
+V
+0930 - 1050
+.SD_702
+01/08/16
+19/11/16
+ 
+M
+0630 - 0750
+.O_202
+01/08/16
+19/11/16
+MEJIA ORTIZ CLAUDIA
+ 
+ 
+----------------------
+CRN
+23048
+ARQU2410
+2
+3
+PAISAJE URBANO
+44
+42
+2
+----------------------
+ 
+ 
+V
+0930 - 1050
+.ML_515
+01/08/16
+19/11/16
+ 
+L
+0800 - 0920
+.O_405
+01/08/16
+19/11/16
+MOTTA LE GAL CAROLINE MARIE
+ 
+ 
+----------------------
+CRN
+12268
+ARQU2410C
+1
+0
+COMPL PAISAJE URBANO
+40
+42
+-2
+----------------------
+ 
+ 
+I
+0930 - 1050
+.ML_108B
+01/08/16
+19/11/16
+SANCHEZ GARCIA MANUEL
+ 
+ 
+----------------------
+CRN
+20813
+ARQU2410C
+2
+0
+COMPL PAISAJE URBANO
+40
+41
+-1
+----------------------
+ 
+ 
+I
+1100 - 1220
+.ML_108B
+01/08/16
+19/11/16
+PEREZ CORREA MATEO
+ 
+ 
+----------------------
+CRN
+11167
+ARQU2420
+1
+3
+PROYECTO URBANO
+44
+44
+0
+----------------------
+ 
+ 
+L      J
+0800 - 0920
+.AU_201
+01/08/16
+19/11/16
+ARTEAGA ARREDONDO ISABEL CRISTINA
+ 
+ 
+----------------------
+CRN
+23049
+ARQU2420
+2
+3
+PROYECTO URBANO
+42
+43
+-1
+----------------------
+ 
+ 
+J
+0800 - 0920
+.W_504
+01/08/16
+19/11/16
+ 
+M
+0630 - 0750
+.W_504
+01/08/16
+19/11/16
+BLANCO CHAPARRO ALBA CAROLINA
+ 
+ 
+----------------------
+CRN
+12269
+ARQU2420C
+1
+0
+COMPL PROYECTO URBANO
+40
+44
+-4
+----------------------
+ 
+ 
+I
+0930 - 1050
+.T_301
+01/08/16
+19/11/16
+MAYORGA HENAO JOSE MARIO
+TORRES LEON ANDREA CAROLINA
+ 
+ 
+----------------------
+CRN
+20814
+ARQU2420C
+2
+0
+COMPL PROYECTO URBANO
+40
+43
+-3
+----------------------
+ 
+ 
+I
+1100 - 1220
+.T_301
+01/08/16
+19/11/16
+MAYORGA HENAO JOSE MARIO
+TORRES LEON ANDREA CAROLINA
+ 
+ 
+----------------------

@@ -1,0 +1,173 @@
+Curso Tipo E
+CRN
+13431
+IGEN1101A
+1
+3
+TECNOLOGIA Y SOCIEDAD
+57
+53
+4
+----------------------
+ 
+ 
+V
+0800 - 0920
+.ML_514
+01/08/16
+19/11/16
+ 
+L
+0800 - 0920
+.O_205
+01/08/16
+19/11/16
+JIMENEZ BECERRA JAVIER ANDRES
+ 
+ 
+----------------------
+Curso Tipo E
+CRN
+11080
+IGEN1102B
+1
+3
+TECNOLOGIA Y GLOBALIZACION
+57
+60
+-3
+----------------------
+ 
+ 
+M      V
+0930 - 1050
+.O_202
+01/08/16
+19/11/16
+GUTIERREZ ANGEL ALONSO
+ 
+ 
+----------------------
+Curso Tipo E
+CRN
+11079
+IGEN1104A
+1
+3
+HISTORIA DE LA TECNOLOGIA
+47
+43
+4
+----------------------
+ 
+ 
+J
+1100 - 1220
+.Q_405
+01/08/16
+19/11/16
+ 
+M
+1100 - 1220
+.LL_303
+01/08/16
+19/11/16
+CAMARGO JUAN ARTURO
+ 
+ 
+----------------------
+Curso Tipo E
+CRN
+17281
+IGEN1115B
+1
+3
+TECNOCULTURAS EN AMÉRICA LATIN
+57
+13
+44
+----------------------
+ 
+ 
+M    J
+0800 - 0920
+.M_100
+01/08/16
+19/11/16
+JIMENEZ BECERRA JAVIER ANDRES
+ 
+ 
+----------------------
+CRN
+14357
+IGEN2007B
+1
+3
+CIENCIA,TECNOLOGÍA,INNOVACIÓN
+35
+38
+-3
+----------------------
+ 
+ 
+V
+1100 - 1220
+.ML_515
+01/08/16
+19/11/16
+ 
+I
+1100 - 1220
+.ML_515
+01/08/16
+19/11/16
+HERNANDEZ PENALOZA JOSE TIBERIO
+RAMIREZ CAJIAO MARIA CATALINA
+AVILA BERNAL ALBA GRACIELA
+ 
+ 
+----------------------
+CRN
+20696
+IGEN2207
+1
+0
+PROYECTO INTERDISCIPLINARIO
+20
+28
+-8
+----------------------
+ 
+ 
+L
+1400 - 1650
+.Z_226
+01/08/16
+19/11/16
+HILARION JULIA
+SEGURA QUIJANO FREDY ENRIQUE
+VALDERRAMA MARIO
+ 
+ 
+----------------------
+CRN
+18969
+IGEN3129
+1
+3
+TALLER INTEGRADO DE INNOVACIÓN
+20
+4
+16
+----------------------
+ 
+ 
+I
+1530 - 1750
+.NOREQ
+01/08/16
+19/11/16
+COLMENARES MISAS CARLOS FELIPE
+ 
+ 
+----------------------
